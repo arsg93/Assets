@@ -4793,6 +4793,65 @@
         ]
       }
     },
+    "disneyland-paris-restaurantes-hero.jpg": {
+      "sha256": "6c0ef82508fad8203f0c45d6d9d63379579382eeb0ebc1f33db94c34f594cdb3",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-restaurantes-hero/6c0ef82508fa-w480.avif",
+            "width": 480,
+            "bytes": 11064
+          },
+          {
+            "file": "responsive/disneyland-paris-restaurantes-hero/6c0ef82508fa-w768.avif",
+            "width": 768,
+            "bytes": 18679
+          },
+          {
+            "file": "responsive/disneyland-paris-restaurantes-hero/6c0ef82508fa-w1200.avif",
+            "width": 1200,
+            "bytes": 29596
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-restaurantes-hero/6c0ef82508fa-w480.webp",
+            "width": 480,
+            "bytes": 19258
+          },
+          {
+            "file": "responsive/disneyland-paris-restaurantes-hero/6c0ef82508fa-w768.webp",
+            "width": 768,
+            "bytes": 35978
+          },
+          {
+            "file": "responsive/disneyland-paris-restaurantes-hero/6c0ef82508fa-w1200.webp",
+            "width": 1200,
+            "bytes": 61914
+          }
+        ]
+      }
+    },
     "disneyland-paris-tren.jpg": {
       "sha256": "a4514ae6350634592475318307696e02e2d5be78fba0b8c7526df3597977dec1",
       "original_width": 1408,
