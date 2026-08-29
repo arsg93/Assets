@@ -17938,6 +17938,124 @@
           }
         ]
       }
+    },
+    "disneyland-paris-planes-comida-2027-hero.jpg": {
+      "sha256": "7884aa219e3258071181d27ad82aee0989d0298f1e32f88a28f267b8707e64d6",
+      "original_width": 1800,
+      "original_height": 1013,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w480.avif",
+            "width": 480,
+            "bytes": 8518
+          },
+          {
+            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w768.avif",
+            "width": 768,
+            "bytes": 14788
+          },
+          {
+            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w1200.avif",
+            "width": 1200,
+            "bytes": 24744
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w480.webp",
+            "width": 480,
+            "bytes": 15312
+          },
+          {
+            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w768.webp",
+            "width": 768,
+            "bytes": 29188
+          },
+          {
+            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w1200.webp",
+            "width": 1200,
+            "bytes": 53900
+          }
+        ]
+      }
+    },
+    "disneyland-paris-reservas-2027-hero.jpg": {
+      "sha256": "afc3f7468d367b3da67048b0ace1ff4aacb0bc8ee68c386a8d11602a8589fa0b",
+      "original_width": 1800,
+      "original_height": 1013,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w480.avif",
+            "width": 480,
+            "bytes": 3709
+          },
+          {
+            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w768.avif",
+            "width": 768,
+            "bytes": 6785
+          },
+          {
+            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w1200.avif",
+            "width": 1200,
+            "bytes": 11924
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w480.webp",
+            "width": 480,
+            "bytes": 6520
+          },
+          {
+            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w768.webp",
+            "width": 768,
+            "bytes": 13382
+          },
+          {
+            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w1200.webp",
+            "width": 1200,
+            "bytes": 26040
+          }
+        ]
+      }
     }
   }
 }
