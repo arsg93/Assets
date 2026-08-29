@@ -4616,6 +4616,124 @@
         ]
       }
     },
+    "disneyland-paris-accesibilidad-hero.jpg": {
+      "sha256": "7d41150bc09b646f2e3a699a935d0c795308812500fed6b555b8354a6a4d65e0",
+      "original_width": 1800,
+      "original_height": 1013,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-accesibilidad-hero/7d41150bc09b-w480.avif",
+            "width": 480,
+            "bytes": 8654
+          },
+          {
+            "file": "responsive/disneyland-paris-accesibilidad-hero/7d41150bc09b-w768.avif",
+            "width": 768,
+            "bytes": 17690
+          },
+          {
+            "file": "responsive/disneyland-paris-accesibilidad-hero/7d41150bc09b-w1200.avif",
+            "width": 1200,
+            "bytes": 34656
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-accesibilidad-hero/7d41150bc09b-w480.webp",
+            "width": 480,
+            "bytes": 15440
+          },
+          {
+            "file": "responsive/disneyland-paris-accesibilidad-hero/7d41150bc09b-w768.webp",
+            "width": 768,
+            "bytes": 33206
+          },
+          {
+            "file": "responsive/disneyland-paris-accesibilidad-hero/7d41150bc09b-w1200.webp",
+            "width": 1200,
+            "bytes": 68492
+          }
+        ]
+      }
+    },
+    "disneyland-paris-colas-premier-access-hero.jpg": {
+      "sha256": "9634833343d4e77d259e8ee328bd473faeef061b4034f5bdd91b99cb4d201df2",
+      "original_width": 1800,
+      "original_height": 1013,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-colas-premier-access-hero/9634833343d4-w480.avif",
+            "width": 480,
+            "bytes": 11537
+          },
+          {
+            "file": "responsive/disneyland-paris-colas-premier-access-hero/9634833343d4-w768.avif",
+            "width": 768,
+            "bytes": 20797
+          },
+          {
+            "file": "responsive/disneyland-paris-colas-premier-access-hero/9634833343d4-w1200.avif",
+            "width": 1200,
+            "bytes": 36884
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-colas-premier-access-hero/9634833343d4-w480.webp",
+            "width": 480,
+            "bytes": 20786
+          },
+          {
+            "file": "responsive/disneyland-paris-colas-premier-access-hero/9634833343d4-w768.webp",
+            "width": 768,
+            "bytes": 39554
+          },
+          {
+            "file": "responsive/disneyland-paris-colas-premier-access-hero/9634833343d4-w1200.webp",
+            "width": 1200,
+            "bytes": 73576
+          }
+        ]
+      }
+    },
     "disneyland-paris-entradas.jpg": {
       "sha256": "9ea7035c12da7528bae9de2a27404b06e5a125e14fc863f03b3dc6f9822b6bb9",
       "original_width": 1408,
@@ -4789,6 +4907,124 @@
             "file": "responsive/disneyland-paris-invierno/aecadce2ba6b-w1200.webp",
             "width": 1200,
             "bytes": 168912
+          }
+        ]
+      }
+    },
+    "disneyland-paris-planes-comida-2027-hero.jpg": {
+      "sha256": "7884aa219e3258071181d27ad82aee0989d0298f1e32f88a28f267b8707e64d6",
+      "original_width": 1800,
+      "original_height": 1013,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w480.avif",
+            "width": 480,
+            "bytes": 8518
+          },
+          {
+            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w768.avif",
+            "width": 768,
+            "bytes": 14788
+          },
+          {
+            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w1200.avif",
+            "width": 1200,
+            "bytes": 24744
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w480.webp",
+            "width": 480,
+            "bytes": 15312
+          },
+          {
+            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w768.webp",
+            "width": 768,
+            "bytes": 29188
+          },
+          {
+            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w1200.webp",
+            "width": 1200,
+            "bytes": 53900
+          }
+        ]
+      }
+    },
+    "disneyland-paris-reservas-2027-hero.jpg": {
+      "sha256": "afc3f7468d367b3da67048b0ace1ff4aacb0bc8ee68c386a8d11602a8589fa0b",
+      "original_width": 1800,
+      "original_height": 1013,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w480.avif",
+            "width": 480,
+            "bytes": 3709
+          },
+          {
+            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w768.avif",
+            "width": 768,
+            "bytes": 6785
+          },
+          {
+            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w1200.avif",
+            "width": 1200,
+            "bytes": 11924
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w480.webp",
+            "width": 480,
+            "bytes": 6520
+          },
+          {
+            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w768.webp",
+            "width": 768,
+            "bytes": 13382
+          },
+          {
+            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w1200.webp",
+            "width": 1200,
+            "bytes": 26040
           }
         ]
       }
@@ -16641,242 +16877,6 @@
         ]
       }
     },
-    "universal-studios-mexico-2.jpg": {
-      "sha256": "49356bb14829766fca362ef196e65e030f9a2b26b5d8443eda4340c9c52f8b4d",
-      "original_width": 1376,
-      "original_height": 768,
-      "widths": [
-        480,
-        768,
-        1200
-      ],
-      "config": {
-        "widths": [
-          480,
-          768,
-          1200
-        ],
-        "logo_widths": [
-          80,
-          160
-        ],
-        "webp_quality": 78,
-        "avif_quality": 50
-      },
-      "variants": {
-        "avif": [
-          {
-            "file": "responsive/universal-studios-mexico-2/49356bb14829-w480.avif",
-            "width": 480,
-            "bytes": 23432
-          },
-          {
-            "file": "responsive/universal-studios-mexico-2/49356bb14829-w768.avif",
-            "width": 768,
-            "bytes": 51682
-          },
-          {
-            "file": "responsive/universal-studios-mexico-2/49356bb14829-w1200.avif",
-            "width": 1200,
-            "bytes": 102675
-          }
-        ],
-        "webp": [
-          {
-            "file": "responsive/universal-studios-mexico-2/49356bb14829-w480.webp",
-            "width": 480,
-            "bytes": 32508
-          },
-          {
-            "file": "responsive/universal-studios-mexico-2/49356bb14829-w768.webp",
-            "width": 768,
-            "bytes": 74280
-          },
-          {
-            "file": "responsive/universal-studios-mexico-2/49356bb14829-w1200.webp",
-            "width": 1200,
-            "bytes": 156094
-          }
-        ]
-      }
-    },
-    "universal-studios-mexico-3.jpg": {
-      "sha256": "d625e87de8c4c0363e0544b9f76d6947b5b4e192821c43b94a0f561a318d829c",
-      "original_width": 1376,
-      "original_height": 768,
-      "widths": [
-        480,
-        768,
-        1200
-      ],
-      "config": {
-        "widths": [
-          480,
-          768,
-          1200
-        ],
-        "logo_widths": [
-          80,
-          160
-        ],
-        "webp_quality": 78,
-        "avif_quality": 50
-      },
-      "variants": {
-        "avif": [
-          {
-            "file": "responsive/universal-studios-mexico-3/d625e87de8c4-w480.avif",
-            "width": 480,
-            "bytes": 26240
-          },
-          {
-            "file": "responsive/universal-studios-mexico-3/d625e87de8c4-w768.avif",
-            "width": 768,
-            "bytes": 57805
-          },
-          {
-            "file": "responsive/universal-studios-mexico-3/d625e87de8c4-w1200.avif",
-            "width": 1200,
-            "bytes": 112115
-          }
-        ],
-        "webp": [
-          {
-            "file": "responsive/universal-studios-mexico-3/d625e87de8c4-w480.webp",
-            "width": 480,
-            "bytes": 37716
-          },
-          {
-            "file": "responsive/universal-studios-mexico-3/d625e87de8c4-w768.webp",
-            "width": 768,
-            "bytes": 85296
-          },
-          {
-            "file": "responsive/universal-studios-mexico-3/d625e87de8c4-w1200.webp",
-            "width": 1200,
-            "bytes": 174338
-          }
-        ]
-      }
-    },
-    "universal-studios-mexico-4.jpg": {
-      "sha256": "a184411e77d03786d03225623fc72877bcc5537866849264b7dae8dbae98def4",
-      "original_width": 1376,
-      "original_height": 768,
-      "widths": [
-        480,
-        768,
-        1200
-      ],
-      "config": {
-        "widths": [
-          480,
-          768,
-          1200
-        ],
-        "logo_widths": [
-          80,
-          160
-        ],
-        "webp_quality": 78,
-        "avif_quality": 50
-      },
-      "variants": {
-        "avif": [
-          {
-            "file": "responsive/universal-studios-mexico-4/a184411e77d0-w480.avif",
-            "width": 480,
-            "bytes": 15000
-          },
-          {
-            "file": "responsive/universal-studios-mexico-4/a184411e77d0-w768.avif",
-            "width": 768,
-            "bytes": 30019
-          },
-          {
-            "file": "responsive/universal-studios-mexico-4/a184411e77d0-w1200.avif",
-            "width": 1200,
-            "bytes": 55350
-          }
-        ],
-        "webp": [
-          {
-            "file": "responsive/universal-studios-mexico-4/a184411e77d0-w480.webp",
-            "width": 480,
-            "bytes": 23918
-          },
-          {
-            "file": "responsive/universal-studios-mexico-4/a184411e77d0-w768.webp",
-            "width": 768,
-            "bytes": 50714
-          },
-          {
-            "file": "responsive/universal-studios-mexico-4/a184411e77d0-w1200.webp",
-            "width": 1200,
-            "bytes": 98680
-          }
-        ]
-      }
-    },
-    "universal-studios-mexico.jpg": {
-      "sha256": "ae81ff1660842d737c691b0ad80d0da2dfecc54d82d08cae907de6eb21f1f7db",
-      "original_width": 1376,
-      "original_height": 768,
-      "widths": [
-        480,
-        768,
-        1200
-      ],
-      "config": {
-        "widths": [
-          480,
-          768,
-          1200
-        ],
-        "logo_widths": [
-          80,
-          160
-        ],
-        "webp_quality": 78,
-        "avif_quality": 50
-      },
-      "variants": {
-        "avif": [
-          {
-            "file": "responsive/universal-studios-mexico/ae81ff166084-w480.avif",
-            "width": 480,
-            "bytes": 21459
-          },
-          {
-            "file": "responsive/universal-studios-mexico/ae81ff166084-w768.avif",
-            "width": 768,
-            "bytes": 48815
-          },
-          {
-            "file": "responsive/universal-studios-mexico/ae81ff166084-w1200.avif",
-            "width": 1200,
-            "bytes": 99871
-          }
-        ],
-        "webp": [
-          {
-            "file": "responsive/universal-studios-mexico/ae81ff166084-w480.webp",
-            "width": 480,
-            "bytes": 32392
-          },
-          {
-            "file": "responsive/universal-studios-mexico/ae81ff166084-w768.webp",
-            "width": 768,
-            "bytes": 74054
-          },
-          {
-            "file": "responsive/universal-studios-mexico/ae81ff166084-w1200.webp",
-            "width": 1200,
-            "bytes": 156728
-          }
-        ]
-      }
-    },
     "universal-studios-orlando-2.jpg": {
       "sha256": "b6f147603e17474521049c2e38b753e997666807d64fadf40e45ea5a5fa1dada",
       "original_width": 1376,
@@ -17935,124 +17935,6 @@
             "file": "responsive/xplor-riviera-maya/14597dc0b072-w1200.webp",
             "width": 1200,
             "bytes": 249842
-          }
-        ]
-      }
-    },
-    "disneyland-paris-planes-comida-2027-hero.jpg": {
-      "sha256": "7884aa219e3258071181d27ad82aee0989d0298f1e32f88a28f267b8707e64d6",
-      "original_width": 1800,
-      "original_height": 1013,
-      "widths": [
-        480,
-        768,
-        1200
-      ],
-      "config": {
-        "widths": [
-          480,
-          768,
-          1200
-        ],
-        "logo_widths": [
-          80,
-          160
-        ],
-        "webp_quality": 78,
-        "avif_quality": 50
-      },
-      "variants": {
-        "avif": [
-          {
-            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w480.avif",
-            "width": 480,
-            "bytes": 8518
-          },
-          {
-            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w768.avif",
-            "width": 768,
-            "bytes": 14788
-          },
-          {
-            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w1200.avif",
-            "width": 1200,
-            "bytes": 24744
-          }
-        ],
-        "webp": [
-          {
-            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w480.webp",
-            "width": 480,
-            "bytes": 15312
-          },
-          {
-            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w768.webp",
-            "width": 768,
-            "bytes": 29188
-          },
-          {
-            "file": "responsive/disneyland-paris-planes-comida-2027-hero/7884aa219e32-w1200.webp",
-            "width": 1200,
-            "bytes": 53900
-          }
-        ]
-      }
-    },
-    "disneyland-paris-reservas-2027-hero.jpg": {
-      "sha256": "afc3f7468d367b3da67048b0ace1ff4aacb0bc8ee68c386a8d11602a8589fa0b",
-      "original_width": 1800,
-      "original_height": 1013,
-      "widths": [
-        480,
-        768,
-        1200
-      ],
-      "config": {
-        "widths": [
-          480,
-          768,
-          1200
-        ],
-        "logo_widths": [
-          80,
-          160
-        ],
-        "webp_quality": 78,
-        "avif_quality": 50
-      },
-      "variants": {
-        "avif": [
-          {
-            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w480.avif",
-            "width": 480,
-            "bytes": 3709
-          },
-          {
-            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w768.avif",
-            "width": 768,
-            "bytes": 6785
-          },
-          {
-            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w1200.avif",
-            "width": 1200,
-            "bytes": 11924
-          }
-        ],
-        "webp": [
-          {
-            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w480.webp",
-            "width": 480,
-            "bytes": 6520
-          },
-          {
-            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w768.webp",
-            "width": 768,
-            "bytes": 13382
-          },
-          {
-            "file": "responsive/disneyland-paris-reservas-2027-hero/afc3f7468d36-w1200.webp",
-            "width": 1200,
-            "bytes": 26040
           }
         ]
       }
