@@ -309,6 +309,65 @@
         ]
       }
     },
+    "aquascope-futuroscope-banner.jpg": {
+      "sha256": "e7ca76e87ff037cef44a53333f9c2970ee170aa14ed5049e3c8c5ac96d42bf8f",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquascope-futuroscope-banner/e7ca76e87ff0-w480.avif",
+            "width": 480,
+            "bytes": 4011
+          },
+          {
+            "file": "responsive/aquascope-futuroscope-banner/e7ca76e87ff0-w768.avif",
+            "width": 768,
+            "bytes": 6515
+          },
+          {
+            "file": "responsive/aquascope-futuroscope-banner/e7ca76e87ff0-w1200.avif",
+            "width": 1200,
+            "bytes": 13714
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquascope-futuroscope-banner/e7ca76e87ff0-w480.webp",
+            "width": 480,
+            "bytes": 9846
+          },
+          {
+            "file": "responsive/aquascope-futuroscope-banner/e7ca76e87ff0-w768.webp",
+            "width": 768,
+            "bytes": 18484
+          },
+          {
+            "file": "responsive/aquascope-futuroscope-banner/e7ca76e87ff0-w1200.webp",
+            "width": 1200,
+            "bytes": 31588
+          }
+        ]
+      }
+    },
     "atracciones-caras-futuro.jpg": {
       "sha256": "b0ac3043e93d20462fd3c0367fd74a4df5b916a47f11a33aeb0eea9c4ad00543",
       "original_width": 2752,
@@ -5851,6 +5910,65 @@
             "file": "responsive/errores-parques-tematicos/23e3d71a960f-w1200.webp",
             "width": 1200,
             "bytes": 140492
+          }
+        ]
+      }
+    },
+    "espectaculos-puy-du-fou.jpg": {
+      "sha256": "d8bf29c502b42ec66e50ae2befd57177be63c9a14a66ed2579965b39a2ce73bc",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/espectaculos-puy-du-fou/d8bf29c502b4-w480.avif",
+            "width": 480,
+            "bytes": 27623
+          },
+          {
+            "file": "responsive/espectaculos-puy-du-fou/d8bf29c502b4-w768.avif",
+            "width": 768,
+            "bytes": 72250
+          },
+          {
+            "file": "responsive/espectaculos-puy-du-fou/d8bf29c502b4-w1200.avif",
+            "width": 1200,
+            "bytes": 176464
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/espectaculos-puy-du-fou/d8bf29c502b4-w480.webp",
+            "width": 480,
+            "bytes": 39518
+          },
+          {
+            "file": "responsive/espectaculos-puy-du-fou/d8bf29c502b4-w768.webp",
+            "width": 768,
+            "bytes": 104118
+          },
+          {
+            "file": "responsive/espectaculos-puy-du-fou/d8bf29c502b4-w1200.webp",
+            "width": 1200,
+            "bytes": 252476
           }
         ]
       }
@@ -13042,6 +13160,183 @@
         ]
       }
     },
+    "puy-du-fou-cinescenie.jpg": {
+      "sha256": "b1e6968b368ec6579bd0a12e85120735e6c2f8b1c0ea59a33e5df96568e7e327",
+      "original_width": 1554,
+      "original_height": 1600,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/puy-du-fou-cinescenie/b1e6968b368e-w480.avif",
+            "width": 480,
+            "bytes": 16840
+          },
+          {
+            "file": "responsive/puy-du-fou-cinescenie/b1e6968b368e-w768.avif",
+            "width": 768,
+            "bytes": 31887
+          },
+          {
+            "file": "responsive/puy-du-fou-cinescenie/b1e6968b368e-w1200.avif",
+            "width": 1200,
+            "bytes": 55231
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/puy-du-fou-cinescenie/b1e6968b368e-w480.webp",
+            "width": 480,
+            "bytes": 29278
+          },
+          {
+            "file": "responsive/puy-du-fou-cinescenie/b1e6968b368e-w768.webp",
+            "width": 768,
+            "bytes": 60668
+          },
+          {
+            "file": "responsive/puy-du-fou-cinescenie/b1e6968b368e-w1200.webp",
+            "width": 1200,
+            "bytes": 119768
+          }
+        ]
+      }
+    },
+    "puy-du-fou-mime-etoile.jpg": {
+      "sha256": "481b0a2b0a619b05b35a5758bc5401b63a58b098101ac0fe9c17fe558800bd15",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/puy-du-fou-mime-etoile/481b0a2b0a61-w480.avif",
+            "width": 480,
+            "bytes": 6860
+          },
+          {
+            "file": "responsive/puy-du-fou-mime-etoile/481b0a2b0a61-w768.avif",
+            "width": 768,
+            "bytes": 14207
+          },
+          {
+            "file": "responsive/puy-du-fou-mime-etoile/481b0a2b0a61-w1200.avif",
+            "width": 1200,
+            "bytes": 28896
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/puy-du-fou-mime-etoile/481b0a2b0a61-w480.webp",
+            "width": 480,
+            "bytes": 11510
+          },
+          {
+            "file": "responsive/puy-du-fou-mime-etoile/481b0a2b0a61-w768.webp",
+            "width": 768,
+            "bytes": 24540
+          },
+          {
+            "file": "responsive/puy-du-fou-mime-etoile/481b0a2b0a61-w1200.webp",
+            "width": 1200,
+            "bytes": 50734
+          }
+        ]
+      }
+    },
+    "puy-du-fou-vikings.jpg": {
+      "sha256": "88df94e016e269413c54990114c6347397c417486318423bc9425a219c46e231",
+      "original_width": 1600,
+      "original_height": 1063,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/puy-du-fou-vikings/88df94e016e2-w480.avif",
+            "width": 480,
+            "bytes": 17643
+          },
+          {
+            "file": "responsive/puy-du-fou-vikings/88df94e016e2-w768.avif",
+            "width": 768,
+            "bytes": 33274
+          },
+          {
+            "file": "responsive/puy-du-fou-vikings/88df94e016e2-w1200.avif",
+            "width": 1200,
+            "bytes": 57365
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/puy-du-fou-vikings/88df94e016e2-w480.webp",
+            "width": 480,
+            "bytes": 29282
+          },
+          {
+            "file": "responsive/puy-du-fou-vikings/88df94e016e2-w768.webp",
+            "width": 768,
+            "bytes": 59688
+          },
+          {
+            "file": "responsive/puy-du-fou-vikings/88df94e016e2-w1200.webp",
+            "width": 1200,
+            "bytes": 109688
+          }
+        ]
+      }
+    },
     "puy-du-fou.jpg": {
       "sha256": "a9002d6c4b96137e6da2797e867cf78183774972596fa9da7d9a35b948d2877f",
       "original_width": 1376,
@@ -15284,6 +15579,65 @@
         ]
       }
     },
+    "super-nintendo-world-epic-universe.jpg": {
+      "sha256": "710a9328946cf797e7cb8674a4192b1bd3f90e80138ecc954057c0d79d23bee3",
+      "original_width": 1600,
+      "original_height": 1205,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/super-nintendo-world-epic-universe/710a9328946c-w480.avif",
+            "width": 480,
+            "bytes": 20172
+          },
+          {
+            "file": "responsive/super-nintendo-world-epic-universe/710a9328946c-w768.avif",
+            "width": 768,
+            "bytes": 45866
+          },
+          {
+            "file": "responsive/super-nintendo-world-epic-universe/710a9328946c-w1200.avif",
+            "width": 1200,
+            "bytes": 96258
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/super-nintendo-world-epic-universe/710a9328946c-w480.webp",
+            "width": 480,
+            "bytes": 31344
+          },
+          {
+            "file": "responsive/super-nintendo-world-epic-universe/710a9328946c-w768.webp",
+            "width": 768,
+            "bytes": 73170
+          },
+          {
+            "file": "responsive/super-nintendo-world-epic-universe/710a9328946c-w1200.webp",
+            "width": 1200,
+            "bytes": 155886
+          }
+        ]
+      }
+    },
     "super-nintendo-world-epic.jpg": {
       "sha256": "74f06ed7503c8df3eec37dc8399747e22296fa66f1c36f95b55ba3a967c06e07",
       "original_width": 2752,
@@ -15339,6 +15693,183 @@
             "file": "responsive/super-nintendo-world-epic/74f06ed7503c-w1200.webp",
             "width": 1200,
             "bytes": 123438
+          }
+        ]
+      }
+    },
+    "super-nintendo-world-hollywood.jpg": {
+      "sha256": "e33aae2e8d013519416bcd55ebfacd7e315b58e53b87aa9d62153d9c71dcb15e",
+      "original_width": 1600,
+      "original_height": 1205,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/super-nintendo-world-hollywood/e33aae2e8d01-w480.avif",
+            "width": 480,
+            "bytes": 12128
+          },
+          {
+            "file": "responsive/super-nintendo-world-hollywood/e33aae2e8d01-w768.avif",
+            "width": 768,
+            "bytes": 25801
+          },
+          {
+            "file": "responsive/super-nintendo-world-hollywood/e33aae2e8d01-w1200.avif",
+            "width": 1200,
+            "bytes": 63882
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/super-nintendo-world-hollywood/e33aae2e8d01-w480.webp",
+            "width": 480,
+            "bytes": 22614
+          },
+          {
+            "file": "responsive/super-nintendo-world-hollywood/e33aae2e8d01-w768.webp",
+            "width": 768,
+            "bytes": 53352
+          },
+          {
+            "file": "responsive/super-nintendo-world-hollywood/e33aae2e8d01-w1200.webp",
+            "width": 1200,
+            "bytes": 131666
+          }
+        ]
+      }
+    },
+    "super-nintendo-world-power-up-band.jpg": {
+      "sha256": "10bd1960583133755323a4888e91c67f14582533ef4e21bc3a9f707f763846d9",
+      "original_width": 1200,
+      "original_height": 1600,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/super-nintendo-world-power-up-band/10bd19605831-w480.avif",
+            "width": 480,
+            "bytes": 13573
+          },
+          {
+            "file": "responsive/super-nintendo-world-power-up-band/10bd19605831-w768.avif",
+            "width": 768,
+            "bytes": 23257
+          },
+          {
+            "file": "responsive/super-nintendo-world-power-up-band/10bd19605831-w1200.avif",
+            "width": 1200,
+            "bytes": 39725
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/super-nintendo-world-power-up-band/10bd19605831-w480.webp",
+            "width": 480,
+            "bytes": 28310
+          },
+          {
+            "file": "responsive/super-nintendo-world-power-up-band/10bd19605831-w768.webp",
+            "width": 768,
+            "bytes": 53594
+          },
+          {
+            "file": "responsive/super-nintendo-world-power-up-band/10bd19605831-w1200.webp",
+            "width": 1200,
+            "bytes": 97038
+          }
+        ]
+      }
+    },
+    "super-nintendo-world-usj.jpg": {
+      "sha256": "bfcca560be7f0f9220d3e4baf6e66c9b7ab26891b2588d0eef6f5ec9ab22df30",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/super-nintendo-world-usj/bfcca560be7f-w480.avif",
+            "width": 480,
+            "bytes": 25154
+          },
+          {
+            "file": "responsive/super-nintendo-world-usj/bfcca560be7f-w768.avif",
+            "width": 768,
+            "bytes": 57948
+          },
+          {
+            "file": "responsive/super-nintendo-world-usj/bfcca560be7f-w1200.avif",
+            "width": 1200,
+            "bytes": 124619
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/super-nintendo-world-usj/bfcca560be7f-w480.webp",
+            "width": 480,
+            "bytes": 36854
+          },
+          {
+            "file": "responsive/super-nintendo-world-usj/bfcca560be7f-w768.webp",
+            "width": 768,
+            "bytes": 85854
+          },
+          {
+            "file": "responsive/super-nintendo-world-usj/bfcca560be7f-w1200.webp",
+            "width": 1200,
+            "bytes": 191428
           }
         ]
       }
