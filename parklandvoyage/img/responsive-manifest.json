@@ -2020,6 +2020,65 @@
         ]
       }
     },
+    "castillo-cenicienta-magic-kingdom.jpg": {
+      "sha256": "59a2ba2ebb9bbd054a43b54ac32b034e7bdeaf6478c7205f1a3f0dd1556333b7",
+      "original_width": 1600,
+      "original_height": 1064,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/castillo-cenicienta-magic-kingdom/59a2ba2ebb9b-w480.avif",
+            "width": 480,
+            "bytes": 12125
+          },
+          {
+            "file": "responsive/castillo-cenicienta-magic-kingdom/59a2ba2ebb9b-w768.avif",
+            "width": 768,
+            "bytes": 26722
+          },
+          {
+            "file": "responsive/castillo-cenicienta-magic-kingdom/59a2ba2ebb9b-w1200.avif",
+            "width": 1200,
+            "bytes": 56708
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/castillo-cenicienta-magic-kingdom/59a2ba2ebb9b-w480.webp",
+            "width": 480,
+            "bytes": 19800
+          },
+          {
+            "file": "responsive/castillo-cenicienta-magic-kingdom/59a2ba2ebb9b-w768.webp",
+            "width": 768,
+            "bytes": 44570
+          },
+          {
+            "file": "responsive/castillo-cenicienta-magic-kingdom/59a2ba2ebb9b-w1200.webp",
+            "width": 1200,
+            "bytes": 97304
+          }
+        ]
+      }
+    },
     "cedar-point-aerial.jpg": {
       "sha256": "78b92d61052ec630b196aa430bb389aa9cdb81e0b36cc867b8eac4e05b943bc8",
       "original_width": 1584,
@@ -2842,6 +2901,65 @@
             "file": "responsive/cerrada-warning/733db3652943-w1200.webp",
             "width": 1200,
             "bytes": 218314
+          }
+        ]
+      }
+    },
+    "club-33-puerta-disneyland.jpg": {
+      "sha256": "dc864c92ad821f7f2a3cc3bdca1cfd5cafb5aa9ba0b0e7c935b97780e732bb40",
+      "original_width": 1600,
+      "original_height": 1365,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/club-33-puerta-disneyland/dc864c92ad82-w480.avif",
+            "width": 480,
+            "bytes": 10387
+          },
+          {
+            "file": "responsive/club-33-puerta-disneyland/dc864c92ad82-w768.avif",
+            "width": 768,
+            "bytes": 19317
+          },
+          {
+            "file": "responsive/club-33-puerta-disneyland/dc864c92ad82-w1200.avif",
+            "width": 1200,
+            "bytes": 35490
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/club-33-puerta-disneyland/dc864c92ad82-w480.webp",
+            "width": 480,
+            "bytes": 18512
+          },
+          {
+            "file": "responsive/club-33-puerta-disneyland/dc864c92ad82-w768.webp",
+            "width": 768,
+            "bytes": 37236
+          },
+          {
+            "file": "responsive/club-33-puerta-disneyland/dc864c92ad82-w1200.webp",
+            "width": 1200,
+            "bytes": 83492
           }
         ]
       }
@@ -3727,6 +3845,65 @@
             "file": "responsive/consejos-temporada/7ced95d58d71-w1200.webp",
             "width": 1200,
             "bytes": 113696
+          }
+        ]
+      }
+    },
+    "cosmic-rewind-epcot-entrada.jpg": {
+      "sha256": "925df0018462832c5e1d2c60686e275545523bdb6416169203e13629d5015688",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/cosmic-rewind-epcot-entrada/925df0018462-w480.avif",
+            "width": 480,
+            "bytes": 17544
+          },
+          {
+            "file": "responsive/cosmic-rewind-epcot-entrada/925df0018462-w768.avif",
+            "width": 768,
+            "bytes": 39904
+          },
+          {
+            "file": "responsive/cosmic-rewind-epcot-entrada/925df0018462-w1200.avif",
+            "width": 1200,
+            "bytes": 88803
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/cosmic-rewind-epcot-entrada/925df0018462-w480.webp",
+            "width": 480,
+            "bytes": 29608
+          },
+          {
+            "file": "responsive/cosmic-rewind-epcot-entrada/925df0018462-w768.webp",
+            "width": 768,
+            "bytes": 67270
+          },
+          {
+            "file": "responsive/cosmic-rewind-epcot-entrada/925df0018462-w1200.webp",
+            "width": 1200,
+            "bytes": 149850
           }
         ]
       }
@@ -7507,6 +7684,65 @@
         ]
       }
     },
+    "expedition-everest-lago.jpg": {
+      "sha256": "978e10098c34f6f44e43f54ad8f21966d456ecbd061e26fa4e2b18b16c0dff39",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/expedition-everest-lago/978e10098c34-w480.avif",
+            "width": 480,
+            "bytes": 26632
+          },
+          {
+            "file": "responsive/expedition-everest-lago/978e10098c34-w768.avif",
+            "width": 768,
+            "bytes": 71670
+          },
+          {
+            "file": "responsive/expedition-everest-lago/978e10098c34-w1200.avif",
+            "width": 1200,
+            "bytes": 174273
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/expedition-everest-lago/978e10098c34-w480.webp",
+            "width": 480,
+            "bytes": 35434
+          },
+          {
+            "file": "responsive/expedition-everest-lago/978e10098c34-w768.webp",
+            "width": 768,
+            "bytes": 93024
+          },
+          {
+            "file": "responsive/expedition-everest-lago/978e10098c34-w1200.webp",
+            "width": 1200,
+            "bytes": 229396
+          }
+        ]
+      }
+    },
     "expedition-everest-yeti.jpg": {
       "sha256": "de0f2c6d5be96a4ac2a111cd2cf272a7e76198f32218b2b26f780f7cb95c8e0f",
       "original_width": 2528,
@@ -9749,6 +9985,124 @@
         ]
       }
     },
+    "hidden-mickey-epcot-marruecos.jpg": {
+      "sha256": "a7edf34d36df936e4e82abd6f343fa6f7e252b56f97e06145a184eddadffab20",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hidden-mickey-epcot-marruecos/a7edf34d36df-w480.avif",
+            "width": 480,
+            "bytes": 17007
+          },
+          {
+            "file": "responsive/hidden-mickey-epcot-marruecos/a7edf34d36df-w768.avif",
+            "width": 768,
+            "bytes": 35435
+          },
+          {
+            "file": "responsive/hidden-mickey-epcot-marruecos/a7edf34d36df-w1200.avif",
+            "width": 1200,
+            "bytes": 74690
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hidden-mickey-epcot-marruecos/a7edf34d36df-w480.webp",
+            "width": 480,
+            "bytes": 28090
+          },
+          {
+            "file": "responsive/hidden-mickey-epcot-marruecos/a7edf34d36df-w768.webp",
+            "width": 768,
+            "bytes": 61928
+          },
+          {
+            "file": "responsive/hidden-mickey-epcot-marruecos/a7edf34d36df-w1200.webp",
+            "width": 1200,
+            "bytes": 159918
+          }
+        ]
+      }
+    },
+    "hogwarts-islands-of-adventure.jpg": {
+      "sha256": "39997c8ac69cf2cd0aa213f687d0d3796f1adf6b54be2857d60b25803ffbaafc",
+      "original_width": 1600,
+      "original_height": 1083,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hogwarts-islands-of-adventure/39997c8ac69c-w480.avif",
+            "width": 480,
+            "bytes": 17472
+          },
+          {
+            "file": "responsive/hogwarts-islands-of-adventure/39997c8ac69c-w768.avif",
+            "width": 768,
+            "bytes": 39174
+          },
+          {
+            "file": "responsive/hogwarts-islands-of-adventure/39997c8ac69c-w1200.avif",
+            "width": 1200,
+            "bytes": 77286
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hogwarts-islands-of-adventure/39997c8ac69c-w480.webp",
+            "width": 480,
+            "bytes": 25788
+          },
+          {
+            "file": "responsive/hogwarts-islands-of-adventure/39997c8ac69c-w768.webp",
+            "width": 768,
+            "bytes": 58726
+          },
+          {
+            "file": "responsive/hogwarts-islands-of-adventure/39997c8ac69c-w1200.webp",
+            "width": 1200,
+            "bytes": 123066
+          }
+        ]
+      }
+    },
     "hong-kong-disneyland-2.jpg": {
       "sha256": "a272581a9a115de88a13d5fe56eae9d55ca690050123390dda9492e1b0b6c40b",
       "original_width": 1408,
@@ -11803,6 +12157,65 @@
         ]
       }
     },
+    "main-street-magic-kingdom-castillo.jpg": {
+      "sha256": "b89331211db9ce8dca3826f3e67d7b4b4b5dc1d3db013e71836dded6c2cb5212",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/main-street-magic-kingdom-castillo/b89331211db9-w480.avif",
+            "width": 480,
+            "bytes": 15517
+          },
+          {
+            "file": "responsive/main-street-magic-kingdom-castillo/b89331211db9-w768.avif",
+            "width": 768,
+            "bytes": 31408
+          },
+          {
+            "file": "responsive/main-street-magic-kingdom-castillo/b89331211db9-w1200.avif",
+            "width": 1200,
+            "bytes": 58226
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/main-street-magic-kingdom-castillo/b89331211db9-w480.webp",
+            "width": 480,
+            "bytes": 25432
+          },
+          {
+            "file": "responsive/main-street-magic-kingdom-castillo/b89331211db9-w768.webp",
+            "width": 768,
+            "bytes": 53124
+          },
+          {
+            "file": "responsive/main-street-magic-kingdom-castillo/b89331211db9-w1200.webp",
+            "width": 1200,
+            "bytes": 105688
+          }
+        ]
+      }
+    },
     "mejor-epoca-portaventura-1.jpg": {
       "sha256": "820b73825f1ca4133987a327e2da35db2df05e9efb17b9795ccdfc1e1cf28682",
       "original_width": 2528,
@@ -12566,6 +12979,65 @@
             "file": "responsive/montanas-rusas-terrorificas/51d213504f07-w1200.webp",
             "width": 1200,
             "bytes": 115582
+          }
+        ]
+      }
+    },
+    "nara-dreamland-abandonado-2014.jpg": {
+      "sha256": "8eef6f70fb39e7549e2712e86121a78819995254af6775a92b871357e334e60a",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nara-dreamland-abandonado-2014/8eef6f70fb39-w480.avif",
+            "width": 480,
+            "bytes": 11453
+          },
+          {
+            "file": "responsive/nara-dreamland-abandonado-2014/8eef6f70fb39-w768.avif",
+            "width": 768,
+            "bytes": 35293
+          },
+          {
+            "file": "responsive/nara-dreamland-abandonado-2014/8eef6f70fb39-w1200.avif",
+            "width": 1200,
+            "bytes": 104236
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nara-dreamland-abandonado-2014/8eef6f70fb39-w480.webp",
+            "width": 480,
+            "bytes": 22592
+          },
+          {
+            "file": "responsive/nara-dreamland-abandonado-2014/8eef6f70fb39-w768.webp",
+            "width": 768,
+            "bytes": 62258
+          },
+          {
+            "file": "responsive/nara-dreamland-abandonado-2014/8eef6f70fb39-w1200.webp",
+            "width": 1200,
+            "bytes": 168740
           }
         ]
       }
@@ -15520,6 +15992,65 @@
         ]
       }
     },
+    "pripyat-noria-abandonada.jpg": {
+      "sha256": "8ffaf065ccb5c506d92c36be7f5d7513ddfce3ea7bfc42be393e91f23ee2d78d",
+      "original_width": 1600,
+      "original_height": 1068,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/pripyat-noria-abandonada/8ffaf065ccb5-w480.avif",
+            "width": 480,
+            "bytes": 15093
+          },
+          {
+            "file": "responsive/pripyat-noria-abandonada/8ffaf065ccb5-w768.avif",
+            "width": 768,
+            "bytes": 45011
+          },
+          {
+            "file": "responsive/pripyat-noria-abandonada/8ffaf065ccb5-w1200.avif",
+            "width": 1200,
+            "bytes": 125929
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/pripyat-noria-abandonada/8ffaf065ccb5-w480.webp",
+            "width": 480,
+            "bytes": 24288
+          },
+          {
+            "file": "responsive/pripyat-noria-abandonada/8ffaf065ccb5-w768.webp",
+            "width": 768,
+            "bytes": 67642
+          },
+          {
+            "file": "responsive/pripyat-noria-abandonada/8ffaf065ccb5-w1200.webp",
+            "width": 1200,
+            "bytes": 182170
+          }
+        ]
+      }
+    },
     "puy-du-fou-2.jpg": {
       "sha256": "f57af961a1f4eca971629dd75360d696896a0aa2fb2e13b6f44be2ad32a2843f",
       "original_width": 1376,
@@ -16169,6 +16700,65 @@
         ]
       }
     },
+    "radiator-springs-racers-carrera.jpg": {
+      "sha256": "6125f1f438c014d73fc503c4058554cd81581f9fec2edada85c5abf11b259685",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/radiator-springs-racers-carrera/6125f1f438c0-w480.avif",
+            "width": 480,
+            "bytes": 19935
+          },
+          {
+            "file": "responsive/radiator-springs-racers-carrera/6125f1f438c0-w768.avif",
+            "width": 768,
+            "bytes": 45591
+          },
+          {
+            "file": "responsive/radiator-springs-racers-carrera/6125f1f438c0-w1200.avif",
+            "width": 1200,
+            "bytes": 97574
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/radiator-springs-racers-carrera/6125f1f438c0-w480.webp",
+            "width": 480,
+            "bytes": 31344
+          },
+          {
+            "file": "responsive/radiator-springs-racers-carrera/6125f1f438c0-w768.webp",
+            "width": 768,
+            "bytes": 74902
+          },
+          {
+            "file": "responsive/radiator-springs-racers-carrera/6125f1f438c0-w1200.webp",
+            "width": 1200,
+            "bytes": 165640
+          }
+        ]
+      }
+    },
     "red-force-ferrari-land.jpg": {
       "sha256": "98b2ee1a18bd31cbaa6d9177f2131f44e72cacc6f56fadbe7d0d5e946fe4c9eb",
       "original_width": 2752,
@@ -16401,6 +16991,65 @@
             "file": "responsive/rise-of-the-resistance/c6266da750b7-w1200.webp",
             "width": 1200,
             "bytes": 128802
+          }
+        ]
+      }
+    },
+    "rise-resistance-hangar-soldados.jpg": {
+      "sha256": "0a9f10f06d6aaf3a48af8014d1e53741dc79558a927f7dc719bc02c18c7efbd7",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/rise-resistance-hangar-soldados/0a9f10f06d6a-w480.avif",
+            "width": 480,
+            "bytes": 20992
+          },
+          {
+            "file": "responsive/rise-resistance-hangar-soldados/0a9f10f06d6a-w768.avif",
+            "width": 768,
+            "bytes": 47414
+          },
+          {
+            "file": "responsive/rise-resistance-hangar-soldados/0a9f10f06d6a-w1200.avif",
+            "width": 1200,
+            "bytes": 99847
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/rise-resistance-hangar-soldados/0a9f10f06d6a-w480.webp",
+            "width": 480,
+            "bytes": 32740
+          },
+          {
+            "file": "responsive/rise-resistance-hangar-soldados/0a9f10f06d6a-w768.webp",
+            "width": 768,
+            "bytes": 75010
+          },
+          {
+            "file": "responsive/rise-resistance-hangar-soldados/0a9f10f06d6a-w1200.webp",
+            "width": 1200,
+            "bytes": 164028
           }
         ]
       }
@@ -17935,6 +18584,65 @@
             "file": "responsive/six-flags-new-orleans-abandoned/11fd550b7db4-w1200.webp",
             "width": 1200,
             "bytes": 132694
+          }
+        ]
+      }
+    },
+    "six-flags-new-orleans-arcos.jpg": {
+      "sha256": "f26d3222e256750293288d2b7c4ba495f566ccc7095c5e67f61e99f70d0354a6",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/six-flags-new-orleans-arcos/f26d3222e256-w480.avif",
+            "width": 480,
+            "bytes": 25429
+          },
+          {
+            "file": "responsive/six-flags-new-orleans-arcos/f26d3222e256-w768.avif",
+            "width": 768,
+            "bytes": 58564
+          },
+          {
+            "file": "responsive/six-flags-new-orleans-arcos/f26d3222e256-w1200.avif",
+            "width": 1200,
+            "bytes": 117191
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/six-flags-new-orleans-arcos/f26d3222e256-w480.webp",
+            "width": 480,
+            "bytes": 35126
+          },
+          {
+            "file": "responsive/six-flags-new-orleans-arcos/f26d3222e256-w768.webp",
+            "width": 768,
+            "bytes": 81714
+          },
+          {
+            "file": "responsive/six-flags-new-orleans-arcos/f26d3222e256-w1200.webp",
+            "width": 1200,
+            "bytes": 175906
           }
         ]
       }
