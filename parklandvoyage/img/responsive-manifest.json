@@ -2905,6 +2905,65 @@
         ]
       }
     },
+    "club-33-disneyland-bar.jpg": {
+      "sha256": "a7e8287918158ae667060ed4cca02df1dfc48acb398348153e5e43ae436cccd5",
+      "original_width": 1600,
+      "original_height": 1053,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/club-33-disneyland-bar/a7e828791815-w480.avif",
+            "width": 480,
+            "bytes": 13512
+          },
+          {
+            "file": "responsive/club-33-disneyland-bar/a7e828791815-w768.avif",
+            "width": 768,
+            "bytes": 26026
+          },
+          {
+            "file": "responsive/club-33-disneyland-bar/a7e828791815-w1200.avif",
+            "width": 1200,
+            "bytes": 49729
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/club-33-disneyland-bar/a7e828791815-w480.webp",
+            "width": 480,
+            "bytes": 23166
+          },
+          {
+            "file": "responsive/club-33-disneyland-bar/a7e828791815-w768.webp",
+            "width": 768,
+            "bytes": 49170
+          },
+          {
+            "file": "responsive/club-33-disneyland-bar/a7e828791815-w1200.webp",
+            "width": 1200,
+            "bytes": 115188
+          }
+        ]
+      }
+    },
     "club-33-puerta-disneyland.jpg": {
       "sha256": "dc864c92ad821f7f2a3cc3bdca1cfd5cafb5aa9ba0b0e7c935b97780e732bb40",
       "original_width": 1600,
@@ -4199,6 +4258,65 @@
             "file": "responsive/dca-world-of-color/fa4ab3705ad8-w1200.webp",
             "width": 1200,
             "bytes": 121210
+          }
+        ]
+      }
+    },
+    "diagon-alley-dragon-gringotts.jpg": {
+      "sha256": "8dae16ef206986f518c5c1c052b0ef56de3a9ae867138535c44c25aa44f6d652",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/diagon-alley-dragon-gringotts/8dae16ef2069-w480.avif",
+            "width": 480,
+            "bytes": 8274
+          },
+          {
+            "file": "responsive/diagon-alley-dragon-gringotts/8dae16ef2069-w768.avif",
+            "width": 768,
+            "bytes": 16761
+          },
+          {
+            "file": "responsive/diagon-alley-dragon-gringotts/8dae16ef2069-w1200.avif",
+            "width": 1200,
+            "bytes": 33384
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/diagon-alley-dragon-gringotts/8dae16ef2069-w480.webp",
+            "width": 480,
+            "bytes": 15228
+          },
+          {
+            "file": "responsive/diagon-alley-dragon-gringotts/8dae16ef2069-w768.webp",
+            "width": 768,
+            "bytes": 31920
+          },
+          {
+            "file": "responsive/diagon-alley-dragon-gringotts/8dae16ef2069-w1200.webp",
+            "width": 1200,
+            "bytes": 66208
           }
         ]
       }
@@ -7208,6 +7326,65 @@
             "file": "responsive/epic-universe-hiccup-wing-gliders/077f9a37f721-w1200.webp",
             "width": 1200,
             "bytes": 281348
+          }
+        ]
+      }
+    },
+    "epic-universe-ministry-of-magic-noche.jpg": {
+      "sha256": "a5344e78f6a39268c262de92fda467ec308f578fd18a5848e1556af74aa48715",
+      "original_width": 1600,
+      "original_height": 898,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/epic-universe-ministry-of-magic-noche/a5344e78f6a3-w480.avif",
+            "width": 480,
+            "bytes": 21734
+          },
+          {
+            "file": "responsive/epic-universe-ministry-of-magic-noche/a5344e78f6a3-w768.avif",
+            "width": 768,
+            "bytes": 46712
+          },
+          {
+            "file": "responsive/epic-universe-ministry-of-magic-noche/a5344e78f6a3-w1200.avif",
+            "width": 1200,
+            "bytes": 94419
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/epic-universe-ministry-of-magic-noche/a5344e78f6a3-w480.webp",
+            "width": 480,
+            "bytes": 32188
+          },
+          {
+            "file": "responsive/epic-universe-ministry-of-magic-noche/a5344e78f6a3-w768.webp",
+            "width": 768,
+            "bytes": 73012
+          },
+          {
+            "file": "responsive/epic-universe-ministry-of-magic-noche/a5344e78f6a3-w1200.webp",
+            "width": 1200,
+            "bytes": 158580
           }
         ]
       }
@@ -10811,6 +10988,65 @@
         ]
       }
     },
+    "islands-of-adventure-port-of-entry.jpg": {
+      "sha256": "cb086425413187f6d7d8222f819c135f8dfc20fd7548d2ce71a6b1f0409732e7",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/islands-of-adventure-port-of-entry/cb0864254131-w480.avif",
+            "width": 480,
+            "bytes": 11536
+          },
+          {
+            "file": "responsive/islands-of-adventure-port-of-entry/cb0864254131-w768.avif",
+            "width": 768,
+            "bytes": 25004
+          },
+          {
+            "file": "responsive/islands-of-adventure-port-of-entry/cb0864254131-w1200.avif",
+            "width": 1200,
+            "bytes": 53617
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/islands-of-adventure-port-of-entry/cb0864254131-w480.webp",
+            "width": 480,
+            "bytes": 19720
+          },
+          {
+            "file": "responsive/islands-of-adventure-port-of-entry/cb0864254131-w768.webp",
+            "width": 768,
+            "bytes": 44272
+          },
+          {
+            "file": "responsive/islands-of-adventure-port-of-entry/cb0864254131-w1200.webp",
+            "width": 1200,
+            "bytes": 99880
+          }
+        ]
+      }
+    },
     "isle-of-berk-epic.jpg": {
       "sha256": "bb5aa1a919f77e630b81bebbac8b1f160fe982ec33097ded8406f4cd53078903",
       "original_width": 2752,
@@ -11622,6 +11858,65 @@
             "file": "responsive/logo/2fe26e779440-w160.webp",
             "width": 160,
             "bytes": 1294
+          }
+        ]
+      }
+    },
+    "magic-kingdom-fuegos-happily-ever-after.jpg": {
+      "sha256": "ff1cf305eba39986e0cbdc02666882d72843040e31ed3105006784a249d6407c",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/magic-kingdom-fuegos-happily-ever-after/ff1cf305eba3-w480.avif",
+            "width": 480,
+            "bytes": 17210
+          },
+          {
+            "file": "responsive/magic-kingdom-fuegos-happily-ever-after/ff1cf305eba3-w768.avif",
+            "width": 768,
+            "bytes": 35792
+          },
+          {
+            "file": "responsive/magic-kingdom-fuegos-happily-ever-after/ff1cf305eba3-w1200.avif",
+            "width": 1200,
+            "bytes": 69312
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/magic-kingdom-fuegos-happily-ever-after/ff1cf305eba3-w480.webp",
+            "width": 480,
+            "bytes": 26312
+          },
+          {
+            "file": "responsive/magic-kingdom-fuegos-happily-ever-after/ff1cf305eba3-w768.webp",
+            "width": 768,
+            "bytes": 56856
+          },
+          {
+            "file": "responsive/magic-kingdom-fuegos-happily-ever-after/ff1cf305eba3-w1200.webp",
+            "width": 1200,
+            "bytes": 121292
           }
         ]
       }
@@ -20594,6 +20889,65 @@
         ]
       }
     },
+    "universal-citywalk-panoramica-noche.jpg": {
+      "sha256": "e1487b857aa787f01818234508a0a678ac79d1c8855302908df2a4a3c0738162",
+      "original_width": 1600,
+      "original_height": 727,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/universal-citywalk-panoramica-noche/e1487b857aa7-w480.avif",
+            "width": 480,
+            "bytes": 18595
+          },
+          {
+            "file": "responsive/universal-citywalk-panoramica-noche/e1487b857aa7-w768.avif",
+            "width": 768,
+            "bytes": 45861
+          },
+          {
+            "file": "responsive/universal-citywalk-panoramica-noche/e1487b857aa7-w1200.avif",
+            "width": 1200,
+            "bytes": 111208
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/universal-citywalk-panoramica-noche/e1487b857aa7-w480.webp",
+            "width": 480,
+            "bytes": 26736
+          },
+          {
+            "file": "responsive/universal-citywalk-panoramica-noche/e1487b857aa7-w768.webp",
+            "width": 768,
+            "bytes": 66288
+          },
+          {
+            "file": "responsive/universal-citywalk-panoramica-noche/e1487b857aa7-w1200.webp",
+            "width": 1200,
+            "bytes": 160754
+          }
+        ]
+      }
+    },
     "universal-citywalk.jpg": {
       "sha256": "239f4223daf340c07bc8a51ee45397bf2681398e674bc5c026e76011918c8a83",
       "original_width": 1376,
@@ -21243,6 +21597,65 @@
         ]
       }
     },
+    "universal-orlando-globo-noche.jpg": {
+      "sha256": "812d10478b7cf0156178ffa9ac96c200a20612e20c130c2afc7ccad69322f24d",
+      "original_width": 1600,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/universal-orlando-globo-noche/812d10478b7c-w480.avif",
+            "width": 480,
+            "bytes": 13753
+          },
+          {
+            "file": "responsive/universal-orlando-globo-noche/812d10478b7c-w768.avif",
+            "width": 768,
+            "bytes": 28536
+          },
+          {
+            "file": "responsive/universal-orlando-globo-noche/812d10478b7c-w1200.avif",
+            "width": 1200,
+            "bytes": 55374
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/universal-orlando-globo-noche/812d10478b7c-w480.webp",
+            "width": 480,
+            "bytes": 20444
+          },
+          {
+            "file": "responsive/universal-orlando-globo-noche/812d10478b7c-w768.webp",
+            "width": 768,
+            "bytes": 44432
+          },
+          {
+            "file": "responsive/universal-orlando-globo-noche/812d10478b7c-w1200.webp",
+            "width": 1200,
+            "bytes": 97108
+          }
+        ]
+      }
+    },
     "universal-orlando-resort.jpg": {
       "sha256": "6713296dde9a798a2512c8acf9a4ea9e7b66a7f5d95943c002f7ec6a169a5b14",
       "original_width": 1376,
@@ -21298,6 +21711,65 @@
             "file": "responsive/universal-orlando-resort/6713296dde9a-w1200.webp",
             "width": 1200,
             "bytes": 158672
+          }
+        ]
+      }
+    },
+    "universal-studios-florida-arco-entrada.jpg": {
+      "sha256": "f617d212b58d44907f85b4cc6685c3fe079e50182b80ab522f42ab7c91b7f108",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/universal-studios-florida-arco-entrada/f617d212b58d-w480.avif",
+            "width": 480,
+            "bytes": 10997
+          },
+          {
+            "file": "responsive/universal-studios-florida-arco-entrada/f617d212b58d-w768.avif",
+            "width": 768,
+            "bytes": 22014
+          },
+          {
+            "file": "responsive/universal-studios-florida-arco-entrada/f617d212b58d-w1200.avif",
+            "width": 1200,
+            "bytes": 44396
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/universal-studios-florida-arco-entrada/f617d212b58d-w480.webp",
+            "width": 480,
+            "bytes": 19816
+          },
+          {
+            "file": "responsive/universal-studios-florida-arco-entrada/f617d212b58d-w768.webp",
+            "width": 768,
+            "bytes": 41306
+          },
+          {
+            "file": "responsive/universal-studios-florida-arco-entrada/f617d212b58d-w1200.webp",
+            "width": 1200,
+            "bytes": 85372
           }
         ]
       }
@@ -21951,6 +22423,65 @@
         ]
       }
     },
+    "velocicoaster-top-hat-noche.jpg": {
+      "sha256": "76f703160b27f2e67ebe4449e2b62f393baa2b6799f2476a09785e2aa45ebade",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/velocicoaster-top-hat-noche/76f703160b27-w480.avif",
+            "width": 480,
+            "bytes": 3368
+          },
+          {
+            "file": "responsive/velocicoaster-top-hat-noche/76f703160b27-w768.avif",
+            "width": 768,
+            "bytes": 6407
+          },
+          {
+            "file": "responsive/velocicoaster-top-hat-noche/76f703160b27-w1200.avif",
+            "width": 1200,
+            "bytes": 11866
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/velocicoaster-top-hat-noche/76f703160b27-w480.webp",
+            "width": 480,
+            "bytes": 6076
+          },
+          {
+            "file": "responsive/velocicoaster-top-hat-noche/76f703160b27-w768.webp",
+            "width": 768,
+            "bytes": 13104
+          },
+          {
+            "file": "responsive/velocicoaster-top-hat-noche/76f703160b27-w1200.webp",
+            "width": 1200,
+            "bytes": 34406
+          }
+        ]
+      }
+    },
     "velocicoaster.jpg": {
       "sha256": "560f09f084ca043ed2601145286585b445cd87f434182c473de622dc55a34c0d",
       "original_width": 2528,
@@ -22242,6 +22773,124 @@
             "file": "responsive/vip-tour/61a866b33d72-w1200.webp",
             "width": 1200,
             "bytes": 150802
+          }
+        ]
+      }
+    },
+    "volcano-bay-krakatau-aqua-coaster.jpg": {
+      "sha256": "5d2c9dbc3c7351d0e7ae755baf5f55468edcb811106b51866018f1f2bca53012",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/volcano-bay-krakatau-aqua-coaster/5d2c9dbc3c73-w480.avif",
+            "width": 480,
+            "bytes": 15568
+          },
+          {
+            "file": "responsive/volcano-bay-krakatau-aqua-coaster/5d2c9dbc3c73-w768.avif",
+            "width": 768,
+            "bytes": 32028
+          },
+          {
+            "file": "responsive/volcano-bay-krakatau-aqua-coaster/5d2c9dbc3c73-w1200.avif",
+            "width": 1200,
+            "bytes": 64138
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/volcano-bay-krakatau-aqua-coaster/5d2c9dbc3c73-w480.webp",
+            "width": 480,
+            "bytes": 25364
+          },
+          {
+            "file": "responsive/volcano-bay-krakatau-aqua-coaster/5d2c9dbc3c73-w768.webp",
+            "width": 768,
+            "bytes": 54696
+          },
+          {
+            "file": "responsive/volcano-bay-krakatau-aqua-coaster/5d2c9dbc3c73-w1200.webp",
+            "width": 1200,
+            "bytes": 115098
+          }
+        ]
+      }
+    },
+    "volcano-bay-krakatau-playa.jpg": {
+      "sha256": "a343761e280614c770bfaba50ed88136ba2feb74a8536bb0daabc8fbf203710f",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/volcano-bay-krakatau-playa/a343761e2806-w480.avif",
+            "width": 480,
+            "bytes": 19042
+          },
+          {
+            "file": "responsive/volcano-bay-krakatau-playa/a343761e2806-w768.avif",
+            "width": 768,
+            "bytes": 41529
+          },
+          {
+            "file": "responsive/volcano-bay-krakatau-playa/a343761e2806-w1200.avif",
+            "width": 1200,
+            "bytes": 94502
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/volcano-bay-krakatau-playa/a343761e2806-w480.webp",
+            "width": 480,
+            "bytes": 29010
+          },
+          {
+            "file": "responsive/volcano-bay-krakatau-playa/a343761e2806-w768.webp",
+            "width": 768,
+            "bytes": 65114
+          },
+          {
+            "file": "responsive/volcano-bay-krakatau-playa/a343761e2806-w1200.webp",
+            "width": 1200,
+            "bytes": 143666
           }
         ]
       }
