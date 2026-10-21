@@ -4026,6 +4026,65 @@
         ]
       }
     },
+    "disney-adventure-world-adventure-way.jpg": {
+      "sha256": "72ebbe60e374cb2deb2d7caf0a159bfb9cc087db9ab17b1b9c709bf63acaa5e0",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disney-adventure-world-adventure-way/72ebbe60e374-w480.avif",
+            "width": 480,
+            "bytes": 34460
+          },
+          {
+            "file": "responsive/disney-adventure-world-adventure-way/72ebbe60e374-w768.avif",
+            "width": 768,
+            "bytes": 82499
+          },
+          {
+            "file": "responsive/disney-adventure-world-adventure-way/72ebbe60e374-w1200.avif",
+            "width": 1200,
+            "bytes": 172779
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disney-adventure-world-adventure-way/72ebbe60e374-w480.webp",
+            "width": 480,
+            "bytes": 46044
+          },
+          {
+            "file": "responsive/disney-adventure-world-adventure-way/72ebbe60e374-w768.webp",
+            "width": 768,
+            "bytes": 111738
+          },
+          {
+            "file": "responsive/disney-adventure-world-adventure-way/72ebbe60e374-w1200.webp",
+            "width": 1200,
+            "bytes": 244974
+          }
+        ]
+      }
+    },
     "disney-adventure-world-frozen-v2.jpg": {
       "sha256": "0bd753d0a9045ee3ea46f05a56b361dba6ca264f6adf573740394bde71fc4187",
       "original_width": 1376,
@@ -4376,6 +4435,65 @@
             "file": "responsive/disney-hotels/ed89c3c032a8-w1200.webp",
             "width": 1200,
             "bytes": 142324
+          }
+        ]
+      }
+    },
+    "disney-village-lago-atardecer.jpg": {
+      "sha256": "46212332aac664bc47453c69dd21e6dd47b9473b85556d999c6e1cdb72f800f4",
+      "original_width": 1600,
+      "original_height": 1064,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disney-village-lago-atardecer/46212332aac6-w480.avif",
+            "width": 480,
+            "bytes": 6719
+          },
+          {
+            "file": "responsive/disney-village-lago-atardecer/46212332aac6-w768.avif",
+            "width": 768,
+            "bytes": 13924
+          },
+          {
+            "file": "responsive/disney-village-lago-atardecer/46212332aac6-w1200.avif",
+            "width": 1200,
+            "bytes": 27958
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disney-village-lago-atardecer/46212332aac6-w480.webp",
+            "width": 480,
+            "bytes": 12826
+          },
+          {
+            "file": "responsive/disney-village-lago-atardecer/46212332aac6-w768.webp",
+            "width": 768,
+            "bytes": 28532
+          },
+          {
+            "file": "responsive/disney-village-lago-atardecer/46212332aac6-w1200.webp",
+            "width": 1200,
+            "bytes": 59316
           }
         ]
       }
@@ -5088,6 +5206,65 @@
         ]
       }
     },
+    "disneyland-paris-castillo-visitantes.jpg": {
+      "sha256": "d89a065c5dc2ec18b1cfc1a1be3a9afb984cd6f5929227b9f37dafc6c0bed028",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-castillo-visitantes/d89a065c5dc2-w480.avif",
+            "width": 480,
+            "bytes": 16857
+          },
+          {
+            "file": "responsive/disneyland-paris-castillo-visitantes/d89a065c5dc2-w768.avif",
+            "width": 768,
+            "bytes": 41975
+          },
+          {
+            "file": "responsive/disneyland-paris-castillo-visitantes/d89a065c5dc2-w1200.avif",
+            "width": 1200,
+            "bytes": 111379
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-castillo-visitantes/d89a065c5dc2-w480.webp",
+            "width": 480,
+            "bytes": 26474
+          },
+          {
+            "file": "responsive/disneyland-paris-castillo-visitantes/d89a065c5dc2-w768.webp",
+            "width": 768,
+            "bytes": 67134
+          },
+          {
+            "file": "responsive/disneyland-paris-castillo-visitantes/d89a065c5dc2-w1200.webp",
+            "width": 1200,
+            "bytes": 171500
+          }
+        ]
+      }
+    },
     "disneyland-paris-colas-premier-access-hero.jpg": {
       "sha256": "9634833343d4e77d259e8ee328bd473faeef061b4034f5bdd91b99cb4d201df2",
       "original_width": 1800,
@@ -5324,6 +5501,65 @@
         ]
       }
     },
+    "disneyland-paris-hotel-new-york-noche.jpg": {
+      "sha256": "8ed1c57e8e76300bd97e797eb842a37e62f30765c64fd3871caa4d398c3d859d",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-hotel-new-york-noche/8ed1c57e8e76-w480.avif",
+            "width": 480,
+            "bytes": 5928
+          },
+          {
+            "file": "responsive/disneyland-paris-hotel-new-york-noche/8ed1c57e8e76-w768.avif",
+            "width": 768,
+            "bytes": 11165
+          },
+          {
+            "file": "responsive/disneyland-paris-hotel-new-york-noche/8ed1c57e8e76-w1200.avif",
+            "width": 1200,
+            "bytes": 21559
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-hotel-new-york-noche/8ed1c57e8e76-w480.webp",
+            "width": 480,
+            "bytes": 11274
+          },
+          {
+            "file": "responsive/disneyland-paris-hotel-new-york-noche/8ed1c57e8e76-w768.webp",
+            "width": 768,
+            "bytes": 22370
+          },
+          {
+            "file": "responsive/disneyland-paris-hotel-new-york-noche/8ed1c57e8e76-w1200.webp",
+            "width": 1200,
+            "bytes": 45876
+          }
+        ]
+      }
+    },
     "disneyland-paris-invierno.jpg": {
       "sha256": "aecadce2ba6b052530d0d35b131defce6f600230b571f8b612b11044156445ee",
       "original_width": 1408,
@@ -5379,6 +5615,124 @@
             "file": "responsive/disneyland-paris-invierno/aecadce2ba6b-w1200.webp",
             "width": 1200,
             "bytes": 168912
+          }
+        ]
+      }
+    },
+    "disneyland-paris-main-street-arcade.jpg": {
+      "sha256": "0800b99730f0e3464d8eab514fb9213579691b28eef26b0ebdc8e27ff9797c98",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-main-street-arcade/0800b99730f0-w480.avif",
+            "width": 480,
+            "bytes": 30894
+          },
+          {
+            "file": "responsive/disneyland-paris-main-street-arcade/0800b99730f0-w768.avif",
+            "width": 768,
+            "bytes": 66551
+          },
+          {
+            "file": "responsive/disneyland-paris-main-street-arcade/0800b99730f0-w1200.avif",
+            "width": 1200,
+            "bytes": 131349
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-main-street-arcade/0800b99730f0-w480.webp",
+            "width": 480,
+            "bytes": 47492
+          },
+          {
+            "file": "responsive/disneyland-paris-main-street-arcade/0800b99730f0-w768.webp",
+            "width": 768,
+            "bytes": 106228
+          },
+          {
+            "file": "responsive/disneyland-paris-main-street-arcade/0800b99730f0-w1200.webp",
+            "width": 1200,
+            "bytes": 222988
+          }
+        ]
+      }
+    },
+    "disneyland-paris-pista-hielo-hotel-ny.jpg": {
+      "sha256": "7fe93a15a6cea83c91f1d2250852cd66d472000585f1c02093a912d0f32bdf1a",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-pista-hielo-hotel-ny/7fe93a15a6ce-w480.avif",
+            "width": 480,
+            "bytes": 18436
+          },
+          {
+            "file": "responsive/disneyland-paris-pista-hielo-hotel-ny/7fe93a15a6ce-w768.avif",
+            "width": 768,
+            "bytes": 39799
+          },
+          {
+            "file": "responsive/disneyland-paris-pista-hielo-hotel-ny/7fe93a15a6ce-w1200.avif",
+            "width": 1200,
+            "bytes": 83113
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-pista-hielo-hotel-ny/7fe93a15a6ce-w480.webp",
+            "width": 480,
+            "bytes": 31368
+          },
+          {
+            "file": "responsive/disneyland-paris-pista-hielo-hotel-ny/7fe93a15a6ce-w768.webp",
+            "width": 768,
+            "bytes": 68646
+          },
+          {
+            "file": "responsive/disneyland-paris-pista-hielo-hotel-ny/7fe93a15a6ce-w1200.webp",
+            "width": 1200,
+            "bytes": 147078
           }
         ]
       }
@@ -6327,6 +6681,65 @@
         ]
       }
     },
+    "epic-universe-celestial-park-aerea.jpg": {
+      "sha256": "df52305abeba27efd487ce8d9d7e9afd1f9f0e0914a5419753ee2c484c859754",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/epic-universe-celestial-park-aerea/df52305abeba-w480.avif",
+            "width": 480,
+            "bytes": 41953
+          },
+          {
+            "file": "responsive/epic-universe-celestial-park-aerea/df52305abeba-w768.avif",
+            "width": 768,
+            "bytes": 99309
+          },
+          {
+            "file": "responsive/epic-universe-celestial-park-aerea/df52305abeba-w1200.avif",
+            "width": 1200,
+            "bytes": 226716
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/epic-universe-celestial-park-aerea/df52305abeba-w480.webp",
+            "width": 480,
+            "bytes": 56010
+          },
+          {
+            "file": "responsive/epic-universe-celestial-park-aerea/df52305abeba-w768.webp",
+            "width": 768,
+            "bytes": 133908
+          },
+          {
+            "file": "responsive/epic-universe-celestial-park-aerea/df52305abeba-w1200.webp",
+            "width": 1200,
+            "bytes": 312694
+          }
+        ]
+      }
+    },
     "epic-universe-celestial.jpg": {
       "sha256": "075a837bdfca647ca11fdf62744ce9910c8ffb64c9e1a1ab988c30f68b785a6e",
       "original_width": 2528,
@@ -6445,6 +6858,65 @@
         ]
       }
     },
+    "epic-universe-frankenstein-manor.jpg": {
+      "sha256": "b78a90a42afb79490b5fe72dc9df324b75fd05c87c9951cfe180fc4f3dec49cf",
+      "original_width": 1600,
+      "original_height": 898,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/epic-universe-frankenstein-manor/b78a90a42afb-w480.avif",
+            "width": 480,
+            "bytes": 12528
+          },
+          {
+            "file": "responsive/epic-universe-frankenstein-manor/b78a90a42afb-w768.avif",
+            "width": 768,
+            "bytes": 24911
+          },
+          {
+            "file": "responsive/epic-universe-frankenstein-manor/b78a90a42afb-w1200.avif",
+            "width": 1200,
+            "bytes": 46401
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/epic-universe-frankenstein-manor/b78a90a42afb-w480.webp",
+            "width": 480,
+            "bytes": 19676
+          },
+          {
+            "file": "responsive/epic-universe-frankenstein-manor/b78a90a42afb-w768.webp",
+            "width": 768,
+            "bytes": 41864
+          },
+          {
+            "file": "responsive/epic-universe-frankenstein-manor/b78a90a42afb-w1200.webp",
+            "width": 1200,
+            "bytes": 85248
+          }
+        ]
+      }
+    },
     "epic-universe-guia.jpg": {
       "sha256": "75958cad22688770c95f06bf61978864b77cd962dd186165d7bc5d33b21f08b7",
       "original_width": 2752,
@@ -6500,6 +6972,242 @@
             "file": "responsive/epic-universe-guia/75958cad2268-w1200.webp",
             "width": 1200,
             "bytes": 173280
+          }
+        ]
+      }
+    },
+    "epic-universe-hiccup-wing-gliders.jpg": {
+      "sha256": "077f9a37f721302664630df58ee04ae178016d50236347b92feed96278e2f93a",
+      "original_width": 1600,
+      "original_height": 1205,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/epic-universe-hiccup-wing-gliders/077f9a37f721-w480.avif",
+            "width": 480,
+            "bytes": 31410
+          },
+          {
+            "file": "responsive/epic-universe-hiccup-wing-gliders/077f9a37f721-w768.avif",
+            "width": 768,
+            "bytes": 82550
+          },
+          {
+            "file": "responsive/epic-universe-hiccup-wing-gliders/077f9a37f721-w1200.avif",
+            "width": 1200,
+            "bytes": 204964
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/epic-universe-hiccup-wing-gliders/077f9a37f721-w480.webp",
+            "width": 480,
+            "bytes": 44578
+          },
+          {
+            "file": "responsive/epic-universe-hiccup-wing-gliders/077f9a37f721-w768.webp",
+            "width": 768,
+            "bytes": 114384
+          },
+          {
+            "file": "responsive/epic-universe-hiccup-wing-gliders/077f9a37f721-w1200.webp",
+            "width": 1200,
+            "bytes": 281348
+          }
+        ]
+      }
+    },
+    "epic-universe-portal-dark-universe.jpg": {
+      "sha256": "078f9912246ff4ea4fe89710f00fe0fcdc0536ef70322b428f2633e5238c5145",
+      "original_width": 1600,
+      "original_height": 898,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/epic-universe-portal-dark-universe/078f9912246f-w480.avif",
+            "width": 480,
+            "bytes": 18009
+          },
+          {
+            "file": "responsive/epic-universe-portal-dark-universe/078f9912246f-w768.avif",
+            "width": 768,
+            "bytes": 46406
+          },
+          {
+            "file": "responsive/epic-universe-portal-dark-universe/078f9912246f-w1200.avif",
+            "width": 1200,
+            "bytes": 116528
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/epic-universe-portal-dark-universe/078f9912246f-w480.webp",
+            "width": 480,
+            "bytes": 24908
+          },
+          {
+            "file": "responsive/epic-universe-portal-dark-universe/078f9912246f-w768.webp",
+            "width": 768,
+            "bytes": 62596
+          },
+          {
+            "file": "responsive/epic-universe-portal-dark-universe/078f9912246f-w1200.webp",
+            "width": 1200,
+            "bytes": 154634
+          }
+        ]
+      }
+    },
+    "epic-universe-puerta-chronos.jpg": {
+      "sha256": "614977725d776b494046da3e2a6fa7e5372585aa1b516b205254af5c17af0960",
+      "original_width": 1600,
+      "original_height": 898,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/epic-universe-puerta-chronos/614977725d77-w480.avif",
+            "width": 480,
+            "bytes": 14934
+          },
+          {
+            "file": "responsive/epic-universe-puerta-chronos/614977725d77-w768.avif",
+            "width": 768,
+            "bytes": 36598
+          },
+          {
+            "file": "responsive/epic-universe-puerta-chronos/614977725d77-w1200.avif",
+            "width": 1200,
+            "bytes": 83815
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/epic-universe-puerta-chronos/614977725d77-w480.webp",
+            "width": 480,
+            "bytes": 22220
+          },
+          {
+            "file": "responsive/epic-universe-puerta-chronos/614977725d77-w768.webp",
+            "width": 768,
+            "bytes": 54822
+          },
+          {
+            "file": "responsive/epic-universe-puerta-chronos/614977725d77-w1200.webp",
+            "width": 1200,
+            "bytes": 127490
+          }
+        ]
+      }
+    },
+    "epic-universe-snw-tunel.jpg": {
+      "sha256": "7d8fdafdb98e390b2cc53f5c7bf2c07b48f083545ee4c572dde3386a35549c75",
+      "original_width": 1600,
+      "original_height": 1205,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/epic-universe-snw-tunel/7d8fdafdb98e-w480.avif",
+            "width": 480,
+            "bytes": 10738
+          },
+          {
+            "file": "responsive/epic-universe-snw-tunel/7d8fdafdb98e-w768.avif",
+            "width": 768,
+            "bytes": 22664
+          },
+          {
+            "file": "responsive/epic-universe-snw-tunel/7d8fdafdb98e-w1200.avif",
+            "width": 1200,
+            "bytes": 42766
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/epic-universe-snw-tunel/7d8fdafdb98e-w480.webp",
+            "width": 480,
+            "bytes": 20278
+          },
+          {
+            "file": "responsive/epic-universe-snw-tunel/7d8fdafdb98e-w768.webp",
+            "width": 768,
+            "bytes": 43654
+          },
+          {
+            "file": "responsive/epic-universe-snw-tunel/7d8fdafdb98e-w1200.webp",
+            "width": 1200,
+            "bytes": 88804
           }
         ]
       }
