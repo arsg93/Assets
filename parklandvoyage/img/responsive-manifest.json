@@ -4557,6 +4557,65 @@
         ]
       }
     },
+    "disney-california-adventure-pixar-pier-noche.jpg": {
+      "sha256": "075f3aedd0842952ee4cf9ec686d5b3e0c1d85baf8148e5e68f58d446e71467d",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disney-california-adventure-pixar-pier-noche/075f3aedd084-w480.avif",
+            "width": 480,
+            "bytes": 14650
+          },
+          {
+            "file": "responsive/disney-california-adventure-pixar-pier-noche/075f3aedd084-w768.avif",
+            "width": 768,
+            "bytes": 34230
+          },
+          {
+            "file": "responsive/disney-california-adventure-pixar-pier-noche/075f3aedd084-w1200.avif",
+            "width": 1200,
+            "bytes": 75519
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disney-california-adventure-pixar-pier-noche/075f3aedd084-w480.webp",
+            "width": 480,
+            "bytes": 23036
+          },
+          {
+            "file": "responsive/disney-california-adventure-pixar-pier-noche/075f3aedd084-w768.webp",
+            "width": 768,
+            "bytes": 54492
+          },
+          {
+            "file": "responsive/disney-california-adventure-pixar-pier-noche/075f3aedd084-w1200.webp",
+            "width": 1200,
+            "bytes": 124794
+          }
+        ]
+      }
+    },
     "disney-california-adventure.jpg": {
       "sha256": "bfb6fe0757f4c225d029a7b79517f6d2862808b47853c28cb517784c9a0daf8d",
       "original_width": 1408,
@@ -6622,6 +6681,65 @@
         ]
       }
     },
+    "efteling-sprookjesbos-arbol.jpg": {
+      "sha256": "9f54888615f0a28c9baf67711553340b5aeb9cb7e572c935f5b7b5831923f8b1",
+      "original_width": 1600,
+      "original_height": 2000,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/efteling-sprookjesbos-arbol/9f54888615f0-w480.avif",
+            "width": 480,
+            "bytes": 47315
+          },
+          {
+            "file": "responsive/efteling-sprookjesbos-arbol/9f54888615f0-w768.avif",
+            "width": 768,
+            "bytes": 96513
+          },
+          {
+            "file": "responsive/efteling-sprookjesbos-arbol/9f54888615f0-w1200.avif",
+            "width": 1200,
+            "bytes": 181882
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/efteling-sprookjesbos-arbol/9f54888615f0-w480.webp",
+            "width": 480,
+            "bytes": 70796
+          },
+          {
+            "file": "responsive/efteling-sprookjesbos-arbol/9f54888615f0-w768.webp",
+            "width": 768,
+            "bytes": 149012
+          },
+          {
+            "file": "responsive/efteling-sprookjesbos-arbol/9f54888615f0-w1200.webp",
+            "width": 1200,
+            "bytes": 296320
+          }
+        ]
+      }
+    },
     "efteling.jpg": {
       "sha256": "5ad6a5f5842fc84c920c2500bb871518b639f30a868b851e03a1c7b06c068e47",
       "original_width": 1376,
@@ -8628,6 +8746,65 @@
         ]
       }
     },
+    "ferrari-land-red-force-vista.jpg": {
+      "sha256": "05f9e73e858570e6e6018bc71743bf2a95eb3814ce4cd35dd3cd1fb288d72712",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ferrari-land-red-force-vista/05f9e73e8585-w480.avif",
+            "width": 480,
+            "bytes": 11003
+          },
+          {
+            "file": "responsive/ferrari-land-red-force-vista/05f9e73e8585-w768.avif",
+            "width": 768,
+            "bytes": 24946
+          },
+          {
+            "file": "responsive/ferrari-land-red-force-vista/05f9e73e8585-w1200.avif",
+            "width": 1200,
+            "bytes": 55529
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ferrari-land-red-force-vista/05f9e73e8585-w480.webp",
+            "width": 480,
+            "bytes": 16902
+          },
+          {
+            "file": "responsive/ferrari-land-red-force-vista/05f9e73e8585-w768.webp",
+            "width": 768,
+            "bytes": 39456
+          },
+          {
+            "file": "responsive/ferrari-land-red-force-vista/05f9e73e8585-w1200.webp",
+            "width": 1200,
+            "bytes": 91524
+          }
+        ]
+      }
+    },
     "forbidden-journey-hogwarts.jpg": {
       "sha256": "540fc17b9f189e876e43a77d6d5d4cd24a4a01817ee435cfad5667d7fab30d9e",
       "original_width": 2528,
@@ -10280,6 +10457,65 @@
         ]
       }
     },
+    "hollywood-studios-tower-of-terror.jpg": {
+      "sha256": "e5c5fa8df1d8e88a06a9927e46a229a017a095a34d747fd5ec63d90a23d7d334",
+      "original_width": 1600,
+      "original_height": 2000,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hollywood-studios-tower-of-terror/e5c5fa8df1d8-w480.avif",
+            "width": 480,
+            "bytes": 38284
+          },
+          {
+            "file": "responsive/hollywood-studios-tower-of-terror/e5c5fa8df1d8-w768.avif",
+            "width": 768,
+            "bytes": 85900
+          },
+          {
+            "file": "responsive/hollywood-studios-tower-of-terror/e5c5fa8df1d8-w1200.avif",
+            "width": 1200,
+            "bytes": 168321
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hollywood-studios-tower-of-terror/e5c5fa8df1d8-w480.webp",
+            "width": 480,
+            "bytes": 57802
+          },
+          {
+            "file": "responsive/hollywood-studios-tower-of-terror/e5c5fa8df1d8-w768.webp",
+            "width": 768,
+            "bytes": 132418
+          },
+          {
+            "file": "responsive/hollywood-studios-tower-of-terror/e5c5fa8df1d8-w1200.webp",
+            "width": 1200,
+            "bytes": 275806
+          }
+        ]
+      }
+    },
     "hong-kong-disneyland-2.jpg": {
       "sha256": "a272581a9a115de88a13d5fe56eae9d55ca690050123390dda9492e1b0b6c40b",
       "original_width": 1408,
@@ -10394,6 +10630,65 @@
             "file": "responsive/hong-kong-disneyland-3/69140df11655-w1200.webp",
             "width": 1200,
             "bytes": 143206
+          }
+        ]
+      }
+    },
+    "hong-kong-disneyland-castillo.jpg": {
+      "sha256": "47ab6959d073daa544dfb13393a80791ba46f1c30d92fb165c0a1901216b1d9d",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hong-kong-disneyland-castillo/47ab6959d073-w480.avif",
+            "width": 480,
+            "bytes": 18826
+          },
+          {
+            "file": "responsive/hong-kong-disneyland-castillo/47ab6959d073-w768.avif",
+            "width": 768,
+            "bytes": 43612
+          },
+          {
+            "file": "responsive/hong-kong-disneyland-castillo/47ab6959d073-w1200.avif",
+            "width": 1200,
+            "bytes": 98925
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hong-kong-disneyland-castillo/47ab6959d073-w480.webp",
+            "width": 480,
+            "bytes": 27934
+          },
+          {
+            "file": "responsive/hong-kong-disneyland-castillo/47ab6959d073-w768.webp",
+            "width": 768,
+            "bytes": 65622
+          },
+          {
+            "file": "responsive/hong-kong-disneyland-castillo/47ab6959d073-w1200.webp",
+            "width": 1200,
+            "bytes": 149640
           }
         ]
       }
@@ -11810,6 +12105,65 @@
             "file": "responsive/knotts-sol-spin/0b1fd46e018d-w1200.webp",
             "width": 1200,
             "bytes": 173170
+          }
+        ]
+      }
+    },
+    "legoland-billund-miniland.jpg": {
+      "sha256": "dd0edf92534cdb7d4efb216bcd293b69aa0b12ad8cc419edce11f4d51f12f29b",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-billund-miniland/dd0edf92534c-w480.avif",
+            "width": 480,
+            "bytes": 40277
+          },
+          {
+            "file": "responsive/legoland-billund-miniland/dd0edf92534c-w768.avif",
+            "width": 768,
+            "bytes": 102539
+          },
+          {
+            "file": "responsive/legoland-billund-miniland/dd0edf92534c-w1200.avif",
+            "width": 1200,
+            "bytes": 252276
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-billund-miniland/dd0edf92534c-w480.webp",
+            "width": 480,
+            "bytes": 54556
+          },
+          {
+            "file": "responsive/legoland-billund-miniland/dd0edf92534c-w768.webp",
+            "width": 768,
+            "bytes": 140750
+          },
+          {
+            "file": "responsive/legoland-billund-miniland/dd0edf92534c-w1200.webp",
+            "width": 1200,
+            "bytes": 346532
           }
         ]
       }
@@ -15520,6 +15874,183 @@
         ]
       }
     },
+    "portaventura-dragon-khan-shambhala.jpg": {
+      "sha256": "22798dc715152f7e24b123d445b58bb91aa020ecccc9892cbdd136c0a8d50b6d",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/portaventura-dragon-khan-shambhala/22798dc71515-w480.avif",
+            "width": 480,
+            "bytes": 15062
+          },
+          {
+            "file": "responsive/portaventura-dragon-khan-shambhala/22798dc71515-w768.avif",
+            "width": 768,
+            "bytes": 32644
+          },
+          {
+            "file": "responsive/portaventura-dragon-khan-shambhala/22798dc71515-w1200.avif",
+            "width": 1200,
+            "bytes": 72430
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/portaventura-dragon-khan-shambhala/22798dc71515-w480.webp",
+            "width": 480,
+            "bytes": 25724
+          },
+          {
+            "file": "responsive/portaventura-dragon-khan-shambhala/22798dc71515-w768.webp",
+            "width": 768,
+            "bytes": 57636
+          },
+          {
+            "file": "responsive/portaventura-dragon-khan-shambhala/22798dc71515-w1200.webp",
+            "width": 1200,
+            "bytes": 128234
+          }
+        ]
+      }
+    },
+    "portaventura-halloween-desfile.jpg": {
+      "sha256": "b8f7dd6f7cb53956798222156862ec4dde0dd7ef39bb5f1c2890cfe238d01a8e",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/portaventura-halloween-desfile/b8f7dd6f7cb5-w480.avif",
+            "width": 480,
+            "bytes": 15901
+          },
+          {
+            "file": "responsive/portaventura-halloween-desfile/b8f7dd6f7cb5-w768.avif",
+            "width": 768,
+            "bytes": 33219
+          },
+          {
+            "file": "responsive/portaventura-halloween-desfile/b8f7dd6f7cb5-w1200.avif",
+            "width": 1200,
+            "bytes": 72960
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/portaventura-halloween-desfile/b8f7dd6f7cb5-w480.webp",
+            "width": 480,
+            "bytes": 25690
+          },
+          {
+            "file": "responsive/portaventura-halloween-desfile/b8f7dd6f7cb5-w768.webp",
+            "width": 768,
+            "bytes": 57684
+          },
+          {
+            "file": "responsive/portaventura-halloween-desfile/b8f7dd6f7cb5-w1200.webp",
+            "width": 1200,
+            "bytes": 136404
+          }
+        ]
+      }
+    },
+    "portaventura-halloween-entrada.jpg": {
+      "sha256": "b236b2e60ef5d2cf5c5ad6d6411c7add0f5466ccadcda4c291fe58deea8eafae",
+      "original_width": 1600,
+      "original_height": 1060,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/portaventura-halloween-entrada/b236b2e60ef5-w480.avif",
+            "width": 480,
+            "bytes": 12378
+          },
+          {
+            "file": "responsive/portaventura-halloween-entrada/b236b2e60ef5-w768.avif",
+            "width": 768,
+            "bytes": 30222
+          },
+          {
+            "file": "responsive/portaventura-halloween-entrada/b236b2e60ef5-w1200.avif",
+            "width": 1200,
+            "bytes": 70026
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/portaventura-halloween-entrada/b236b2e60ef5-w480.webp",
+            "width": 480,
+            "bytes": 23000
+          },
+          {
+            "file": "responsive/portaventura-halloween-entrada/b236b2e60ef5-w768.webp",
+            "width": 768,
+            "bytes": 55516
+          },
+          {
+            "file": "responsive/portaventura-halloween-entrada/b236b2e60ef5-w1200.webp",
+            "width": 1200,
+            "bytes": 128554
+          }
+        ]
+      }
+    },
     "portaventura-hotel-entradas-1.jpg": {
       "sha256": "4cf9f6b17ef2d87e861b3473945e59feac02733afa5dbe44f827933abdd8d8a0",
       "original_width": 2528,
@@ -15811,6 +16342,124 @@
             "file": "responsive/portaventura-hotel-entradas-hero/99a9a15902f4-w1200.webp",
             "width": 1200,
             "bytes": 172824
+          }
+        ]
+      }
+    },
+    "portaventura-hotel-gold-river-entrada.jpg": {
+      "sha256": "688272e8cc4722ac94d90b01c2a14555259a529874d402a9b7be1d53b2f3f770",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/portaventura-hotel-gold-river-entrada/688272e8cc47-w480.avif",
+            "width": 480,
+            "bytes": 12022
+          },
+          {
+            "file": "responsive/portaventura-hotel-gold-river-entrada/688272e8cc47-w768.avif",
+            "width": 768,
+            "bytes": 26818
+          },
+          {
+            "file": "responsive/portaventura-hotel-gold-river-entrada/688272e8cc47-w1200.avif",
+            "width": 1200,
+            "bytes": 58031
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/portaventura-hotel-gold-river-entrada/688272e8cc47-w480.webp",
+            "width": 480,
+            "bytes": 22784
+          },
+          {
+            "file": "responsive/portaventura-hotel-gold-river-entrada/688272e8cc47-w768.webp",
+            "width": 768,
+            "bytes": 53602
+          },
+          {
+            "file": "responsive/portaventura-hotel-gold-river-entrada/688272e8cc47-w1200.webp",
+            "width": 1200,
+            "bytes": 121200
+          }
+        ]
+      }
+    },
+    "portaventura-lago-mediterrania.jpg": {
+      "sha256": "3a22f1c92e9c936c47b08ca37914c7be7df4334378d59ec7ab506b8605249a82",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/portaventura-lago-mediterrania/3a22f1c92e9c-w480.avif",
+            "width": 480,
+            "bytes": 14346
+          },
+          {
+            "file": "responsive/portaventura-lago-mediterrania/3a22f1c92e9c-w768.avif",
+            "width": 768,
+            "bytes": 32315
+          },
+          {
+            "file": "responsive/portaventura-lago-mediterrania/3a22f1c92e9c-w1200.avif",
+            "width": 1200,
+            "bytes": 68750
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/portaventura-lago-mediterrania/3a22f1c92e9c-w480.webp",
+            "width": 480,
+            "bytes": 24170
+          },
+          {
+            "file": "responsive/portaventura-lago-mediterrania/3a22f1c92e9c-w768.webp",
+            "width": 768,
+            "bytes": 54934
+          },
+          {
+            "file": "responsive/portaventura-lago-mediterrania/3a22f1c92e9c-w1200.webp",
+            "width": 1200,
+            "bytes": 122286
           }
         ]
       }
@@ -17522,6 +18171,65 @@
             "file": "responsive/road-trip-parques-europa/f72c845eb1c7-w1200.webp",
             "width": 1200,
             "bytes": 97574
+          }
+        ]
+      }
+    },
+    "seaworld-orlando-pacific-point.jpg": {
+      "sha256": "2c27e21bc81ebfae486785e2ffb90555dfa614c19dd015bfac44fce25bdfb616",
+      "original_width": 1600,
+      "original_height": 1202,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/seaworld-orlando-pacific-point/2c27e21bc81e-w480.avif",
+            "width": 480,
+            "bytes": 17120
+          },
+          {
+            "file": "responsive/seaworld-orlando-pacific-point/2c27e21bc81e-w768.avif",
+            "width": 768,
+            "bytes": 36959
+          },
+          {
+            "file": "responsive/seaworld-orlando-pacific-point/2c27e21bc81e-w1200.avif",
+            "width": 1200,
+            "bytes": 74667
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/seaworld-orlando-pacific-point/2c27e21bc81e-w480.webp",
+            "width": 480,
+            "bytes": 28604
+          },
+          {
+            "file": "responsive/seaworld-orlando-pacific-point/2c27e21bc81e-w768.webp",
+            "width": 768,
+            "bytes": 66580
+          },
+          {
+            "file": "responsive/seaworld-orlando-pacific-point/2c27e21bc81e-w1200.webp",
+            "width": 1200,
+            "bytes": 147416
           }
         ]
       }
@@ -20889,6 +21597,65 @@
         ]
       }
     },
+    "universal-beijing-globo.jpg": {
+      "sha256": "585fa3bb1076ca251e26c735f2feae0d1c9f8b7aa2a9be8a224d0a4097fac206",
+      "original_width": 1143,
+      "original_height": 689,
+      "widths": [
+        480,
+        768,
+        1143
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/universal-beijing-globo/585fa3bb1076-w480.avif",
+            "width": 480,
+            "bytes": 15144
+          },
+          {
+            "file": "responsive/universal-beijing-globo/585fa3bb1076-w768.avif",
+            "width": 768,
+            "bytes": 40903
+          },
+          {
+            "file": "responsive/universal-beijing-globo/585fa3bb1076-w1143.avif",
+            "width": 1143,
+            "bytes": 108222
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/universal-beijing-globo/585fa3bb1076-w480.webp",
+            "width": 480,
+            "bytes": 23614
+          },
+          {
+            "file": "responsive/universal-beijing-globo/585fa3bb1076-w768.webp",
+            "width": 768,
+            "bytes": 61878
+          },
+          {
+            "file": "responsive/universal-beijing-globo/585fa3bb1076-w1143.webp",
+            "width": 1143,
+            "bytes": 152748
+          }
+        ]
+      }
+    },
     "universal-citywalk-panoramica-noche.jpg": {
       "sha256": "e1487b857aa787f01818234508a0a678ac79d1c8855302908df2a4a3c0738162",
       "original_width": 1600,
@@ -21770,6 +22537,65 @@
             "file": "responsive/universal-studios-florida-arco-entrada/f617d212b58d-w1200.webp",
             "width": 1200,
             "bytes": 85372
+          }
+        ]
+      }
+    },
+    "universal-studios-hollywood-entrada.jpg": {
+      "sha256": "a6b789c04d4bb17898fe27731a1a20da3e75b2e85e81f46dab6043864a5f5b0a",
+      "original_width": 1600,
+      "original_height": 1198,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/universal-studios-hollywood-entrada/a6b789c04d4b-w480.avif",
+            "width": 480,
+            "bytes": 15639
+          },
+          {
+            "file": "responsive/universal-studios-hollywood-entrada/a6b789c04d4b-w768.avif",
+            "width": 768,
+            "bytes": 34773
+          },
+          {
+            "file": "responsive/universal-studios-hollywood-entrada/a6b789c04d4b-w1200.avif",
+            "width": 1200,
+            "bytes": 73772
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/universal-studios-hollywood-entrada/a6b789c04d4b-w480.webp",
+            "width": 480,
+            "bytes": 26390
+          },
+          {
+            "file": "responsive/universal-studios-hollywood-entrada/a6b789c04d4b-w768.webp",
+            "width": 768,
+            "bytes": 59672
+          },
+          {
+            "file": "responsive/universal-studios-hollywood-entrada/a6b789c04d4b-w1200.webp",
+            "width": 1200,
+            "bytes": 140842
           }
         ]
       }
