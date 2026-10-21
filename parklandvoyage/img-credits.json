@@ -66,5 +66,42 @@
  "aquascope-futuroscope-banner.jpg": {
   "source": "generada por Parkland Voyage (banner tipográfico, sin fotografía)",
   "license": "propia"
+ },
+ "puy-du-fou-signe-triomphe.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File:Le_Signe_du_Triomphe_(puy_du_Fou).jpg",
+  "author": "GolDavis",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "changes": "redimensionada a 1600 px, JPG"
+ },
+ "puy-du-fou-vikings-aldea.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File:Puy_du_Fou.-_Les_Vikings_(bis)_(5).JPG",
+  "author": "Pierre André",
+  "license": "CC BY-SA 4.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+  "changes": "redimensionada a 1600 px, JPG"
+ },
+ "puy-du-fou-vikings-jinete.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File:Puy_du_fou_28_(33237448174).jpg",
+  "author": "Sébastien FAILLON",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "changes": "redimensionada a 1600 px, JPG"
+ },
+ "disneyland-paris-familias-entrada.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File:Disneyland_Park_05,_Paris_22_August_2013.jpg",
+  "author": "flightlog",
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "original_date": "2013-08-22",
+  "changes": "redimensionada a 1600 px, JPG"
+ },
+ "disneyland-paris-casey-jr.jpg": {
+  "source": "https://commons.wikimedia.org/wiki/File:Train_ride_in_Disneyland_Paris_-_panoramio.jpg",
+  "author": "Andrei Dan Suciu",
+  "license": "CC BY 3.0",
+  "license_url": "https://creativecommons.org/licenses/by/3.0",
+  "original_date": "27 Decembe",
+  "changes": "redimensionada a 1600 px, JPG"
  }
 }

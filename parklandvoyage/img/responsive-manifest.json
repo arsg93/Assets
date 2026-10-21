@@ -5029,6 +5029,65 @@
         ]
       }
     },
+    "disneyland-paris-casey-jr.jpg": {
+      "sha256": "27aa53c47c0c6584521b0b23705eece88b66cdce5625879c44522eb614498e47",
+      "original_width": 1600,
+      "original_height": 1275,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-casey-jr/27aa53c47c0c-w480.avif",
+            "width": 480,
+            "bytes": 38636
+          },
+          {
+            "file": "responsive/disneyland-paris-casey-jr/27aa53c47c0c-w768.avif",
+            "width": 768,
+            "bytes": 83853
+          },
+          {
+            "file": "responsive/disneyland-paris-casey-jr/27aa53c47c0c-w1200.avif",
+            "width": 1200,
+            "bytes": 155025
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-casey-jr/27aa53c47c0c-w480.webp",
+            "width": 480,
+            "bytes": 53254
+          },
+          {
+            "file": "responsive/disneyland-paris-casey-jr/27aa53c47c0c-w768.webp",
+            "width": 768,
+            "bytes": 121806
+          },
+          {
+            "file": "responsive/disneyland-paris-casey-jr/27aa53c47c0c-w1200.webp",
+            "width": 1200,
+            "bytes": 243312
+          }
+        ]
+      }
+    },
     "disneyland-paris-colas-premier-access-hero.jpg": {
       "sha256": "9634833343d4e77d259e8ee328bd473faeef061b4034f5bdd91b99cb4d201df2",
       "original_width": 1800,
@@ -5202,6 +5261,65 @@
             "file": "responsive/disneyland-paris-familia/ba33570cf2ef-w1200.webp",
             "width": 1200,
             "bytes": 115622
+          }
+        ]
+      }
+    },
+    "disneyland-paris-familias-entrada.jpg": {
+      "sha256": "40720433a4b9405b899b35b48a04f099ddeed5908a497cdee3e1c64fb6d364ce",
+      "original_width": 1600,
+      "original_height": 1071,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-familias-entrada/40720433a4b9-w480.avif",
+            "width": 480,
+            "bytes": 19234
+          },
+          {
+            "file": "responsive/disneyland-paris-familias-entrada/40720433a4b9-w768.avif",
+            "width": 768,
+            "bytes": 47323
+          },
+          {
+            "file": "responsive/disneyland-paris-familias-entrada/40720433a4b9-w1200.avif",
+            "width": 1200,
+            "bytes": 109024
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-familias-entrada/40720433a4b9-w480.webp",
+            "width": 480,
+            "bytes": 28404
+          },
+          {
+            "file": "responsive/disneyland-paris-familias-entrada/40720433a4b9-w768.webp",
+            "width": 768,
+            "bytes": 70920
+          },
+          {
+            "file": "responsive/disneyland-paris-familias-entrada/40720433a4b9-w1200.webp",
+            "width": 1200,
+            "bytes": 166948
           }
         ]
       }
@@ -14926,6 +15044,183 @@
             "file": "responsive/puy-du-fou-mime-etoile/481b0a2b0a61-w1200.webp",
             "width": 1200,
             "bytes": 50734
+          }
+        ]
+      }
+    },
+    "puy-du-fou-signe-triomphe.jpg": {
+      "sha256": "d990e5985e12264307fb76aad07e10adb253c70aabe51441c1deaec76a635533",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/puy-du-fou-signe-triomphe/d990e5985e12-w480.avif",
+            "width": 480,
+            "bytes": 21541
+          },
+          {
+            "file": "responsive/puy-du-fou-signe-triomphe/d990e5985e12-w768.avif",
+            "width": 768,
+            "bytes": 54823
+          },
+          {
+            "file": "responsive/puy-du-fou-signe-triomphe/d990e5985e12-w1200.avif",
+            "width": 1200,
+            "bytes": 136465
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/puy-du-fou-signe-triomphe/d990e5985e12-w480.webp",
+            "width": 480,
+            "bytes": 32286
+          },
+          {
+            "file": "responsive/puy-du-fou-signe-triomphe/d990e5985e12-w768.webp",
+            "width": 768,
+            "bytes": 80946
+          },
+          {
+            "file": "responsive/puy-du-fou-signe-triomphe/d990e5985e12-w1200.webp",
+            "width": 1200,
+            "bytes": 197480
+          }
+        ]
+      }
+    },
+    "puy-du-fou-vikings-aldea.jpg": {
+      "sha256": "4ec6d9b93b1683afd687c8c5e3696a69d4abe3034fd9b24569120c13171c906a",
+      "original_width": 1600,
+      "original_height": 960,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/puy-du-fou-vikings-aldea/4ec6d9b93b16-w480.avif",
+            "width": 480,
+            "bytes": 25572
+          },
+          {
+            "file": "responsive/puy-du-fou-vikings-aldea/4ec6d9b93b16-w768.avif",
+            "width": 768,
+            "bytes": 66949
+          },
+          {
+            "file": "responsive/puy-du-fou-vikings-aldea/4ec6d9b93b16-w1200.avif",
+            "width": 1200,
+            "bytes": 163321
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/puy-du-fou-vikings-aldea/4ec6d9b93b16-w480.webp",
+            "width": 480,
+            "bytes": 37074
+          },
+          {
+            "file": "responsive/puy-du-fou-vikings-aldea/4ec6d9b93b16-w768.webp",
+            "width": 768,
+            "bytes": 97450
+          },
+          {
+            "file": "responsive/puy-du-fou-vikings-aldea/4ec6d9b93b16-w1200.webp",
+            "width": 1200,
+            "bytes": 234894
+          }
+        ]
+      }
+    },
+    "puy-du-fou-vikings-jinete.jpg": {
+      "sha256": "e1052cbd12347105daacbdf323d384e54dd8dd65d47262f9538477f4c085e168",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/puy-du-fou-vikings-jinete/e1052cbd1234-w480.avif",
+            "width": 480,
+            "bytes": 35159
+          },
+          {
+            "file": "responsive/puy-du-fou-vikings-jinete/e1052cbd1234-w768.avif",
+            "width": 768,
+            "bytes": 84320
+          },
+          {
+            "file": "responsive/puy-du-fou-vikings-jinete/e1052cbd1234-w1200.avif",
+            "width": 1200,
+            "bytes": 197402
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/puy-du-fou-vikings-jinete/e1052cbd1234-w480.webp",
+            "width": 480,
+            "bytes": 49274
+          },
+          {
+            "file": "responsive/puy-du-fou-vikings-jinete/e1052cbd1234-w768.webp",
+            "width": 768,
+            "bytes": 124152
+          },
+          {
+            "file": "responsive/puy-du-fou-vikings-jinete/e1052cbd1234-w1200.webp",
+            "width": 1200,
+            "bytes": 296118
           }
         ]
       }
