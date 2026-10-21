@@ -250,6 +250,124 @@
         ]
       }
     },
+    "alton-towers-2.jpg": {
+      "sha256": "9f7723a33d694ef9d0ca81e2822f605d021ae2f7351492402a2ea5cb56f916fd",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/alton-towers-2/9f7723a33d69-w480.avif",
+            "width": 480,
+            "bytes": 22381
+          },
+          {
+            "file": "responsive/alton-towers-2/9f7723a33d69-w768.avif",
+            "width": 768,
+            "bytes": 53459
+          },
+          {
+            "file": "responsive/alton-towers-2/9f7723a33d69-w1200.avif",
+            "width": 1200,
+            "bytes": 110391
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/alton-towers-2/9f7723a33d69-w480.webp",
+            "width": 480,
+            "bytes": 32858
+          },
+          {
+            "file": "responsive/alton-towers-2/9f7723a33d69-w768.webp",
+            "width": 768,
+            "bytes": 77936
+          },
+          {
+            "file": "responsive/alton-towers-2/9f7723a33d69-w1200.webp",
+            "width": 1200,
+            "bytes": 168060
+          }
+        ]
+      }
+    },
+    "alton-towers-3.jpg": {
+      "sha256": "b828d77941723f8b33aa0331201475bb7821ac0614b4959cfb68821488527b69",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/alton-towers-3/b828d7794172-w480.avif",
+            "width": 480,
+            "bytes": 23239
+          },
+          {
+            "file": "responsive/alton-towers-3/b828d7794172-w768.avif",
+            "width": 768,
+            "bytes": 52166
+          },
+          {
+            "file": "responsive/alton-towers-3/b828d7794172-w1200.avif",
+            "width": 1200,
+            "bytes": 103755
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/alton-towers-3/b828d7794172-w480.webp",
+            "width": 480,
+            "bytes": 32472
+          },
+          {
+            "file": "responsive/alton-towers-3/b828d7794172-w768.webp",
+            "width": 768,
+            "bytes": 74520
+          },
+          {
+            "file": "responsive/alton-towers-3/b828d7794172-w1200.webp",
+            "width": 1200,
+            "bytes": 155942
+          }
+        ]
+      }
+    },
     "alton-towers.jpg": {
       "sha256": "7bbd9a44d329b5337c528b037c28ecf8ff837e431e4ac1bcf76d977a2faf2e4b",
       "original_width": 1376,
@@ -3377,6 +3495,65 @@
         ]
       }
     },
+    "consejos-parques.jpg": {
+      "sha256": "281463a27ab98a079622c12ae8c08c9fee9083207ee29199e4d7be28340b3033",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/consejos-parques/281463a27ab9-w480.avif",
+            "width": 480,
+            "bytes": 18257
+          },
+          {
+            "file": "responsive/consejos-parques/281463a27ab9-w768.avif",
+            "width": 768,
+            "bytes": 32153
+          },
+          {
+            "file": "responsive/consejos-parques/281463a27ab9-w1200.avif",
+            "width": 1200,
+            "bytes": 52143
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/consejos-parques/281463a27ab9-w480.webp",
+            "width": 480,
+            "bytes": 27576
+          },
+          {
+            "file": "responsive/consejos-parques/281463a27ab9-w768.webp",
+            "width": 768,
+            "bytes": 54518
+          },
+          {
+            "file": "responsive/consejos-parques/281463a27ab9-w1200.webp",
+            "width": 1200,
+            "bytes": 97564
+          }
+        ]
+      }
+    },
     "consejos-planificacion.jpg": {
       "sha256": "c2b642ba589678d3aaff0e814469114aa5eaf46999fbf41e72c847437edd83b7",
       "original_width": 1408,
@@ -4203,6 +4380,65 @@
         ]
       }
     },
+    "disney-vs-epic-comparison.jpg": {
+      "sha256": "4144b8edf4ad2b4b443b03011634f91ff219545df98282b71df846446880ff39",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disney-vs-epic-comparison/4144b8edf4ad-w480.avif",
+            "width": 480,
+            "bytes": 17661
+          },
+          {
+            "file": "responsive/disney-vs-epic-comparison/4144b8edf4ad-w768.avif",
+            "width": 768,
+            "bytes": 36173
+          },
+          {
+            "file": "responsive/disney-vs-epic-comparison/4144b8edf4ad-w1200.avif",
+            "width": 1200,
+            "bytes": 67838
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disney-vs-epic-comparison/4144b8edf4ad-w480.webp",
+            "width": 480,
+            "bytes": 28076
+          },
+          {
+            "file": "responsive/disney-vs-epic-comparison/4144b8edf4ad-w768.webp",
+            "width": 768,
+            "bytes": 59612
+          },
+          {
+            "file": "responsive/disney-vs-epic-comparison/4144b8edf4ad-w1200.webp",
+            "width": 1200,
+            "bytes": 116176
+          }
+        ]
+      }
+    },
     "disney-vs-universal-2026.jpg": {
       "sha256": "ffb6ec8b883a901c2fbc22372a00bc4c1895c6833fb89b4056a01e5094ddbb04",
       "original_width": 2752,
@@ -4671,6 +4907,65 @@
             "file": "responsive/disneyland-paris-2/f7267d220b74-w1200.webp",
             "width": 1200,
             "bytes": 87744
+          }
+        ]
+      }
+    },
+    "disneyland-paris-3.jpg": {
+      "sha256": "c4bd6ec477885ec536ca6c411ff2484f0b0b48e565a51410a582a12f419512a4",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-3/c4bd6ec47788-w480.avif",
+            "width": 480,
+            "bytes": 21279
+          },
+          {
+            "file": "responsive/disneyland-paris-3/c4bd6ec47788-w768.avif",
+            "width": 768,
+            "bytes": 46157
+          },
+          {
+            "file": "responsive/disneyland-paris-3/c4bd6ec47788-w1200.avif",
+            "width": 1200,
+            "bytes": 88142
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-3/c4bd6ec47788-w480.webp",
+            "width": 480,
+            "bytes": 31242
+          },
+          {
+            "file": "responsive/disneyland-paris-3/c4bd6ec47788-w768.webp",
+            "width": 768,
+            "bytes": 69922
+          },
+          {
+            "file": "responsive/disneyland-paris-3/c4bd6ec47788-w1200.webp",
+            "width": 1200,
+            "bytes": 141874
           }
         ]
       }
@@ -5147,6 +5442,65 @@
         ]
       }
     },
+    "disneyland-paris-tren-2.jpg": {
+      "sha256": "be7355b9c12b9025ac343c5eeed73f9efe62ca9c85546a24f077023a945f8e47",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-tren-2/be7355b9c12b-w480.avif",
+            "width": 480,
+            "bytes": 20711
+          },
+          {
+            "file": "responsive/disneyland-paris-tren-2/be7355b9c12b-w768.avif",
+            "width": 768,
+            "bytes": 41961
+          },
+          {
+            "file": "responsive/disneyland-paris-tren-2/be7355b9c12b-w1200.avif",
+            "width": 1200,
+            "bytes": 77076
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-tren-2/be7355b9c12b-w480.webp",
+            "width": 480,
+            "bytes": 31156
+          },
+          {
+            "file": "responsive/disneyland-paris-tren-2/be7355b9c12b-w768.webp",
+            "width": 768,
+            "bytes": 66954
+          },
+          {
+            "file": "responsive/disneyland-paris-tren-2/be7355b9c12b-w1200.webp",
+            "width": 1200,
+            "bytes": 130530
+          }
+        ]
+      }
+    },
     "disneyland-paris-tren.jpg": {
       "sha256": "a4514ae6350634592475318307696e02e2d5be78fba0b8c7526df3597977dec1",
       "original_width": 1408,
@@ -5202,6 +5556,65 @@
             "file": "responsive/disneyland-paris-tren/a4514ae63506-w1200.webp",
             "width": 1200,
             "bytes": 113844
+          }
+        ]
+      }
+    },
+    "disneyland-paris-verano.jpg": {
+      "sha256": "118ed97f4861498c9a989f3a20bbf7591455cd877ea027bebd1e4a1319a246dd",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/disneyland-paris-verano/118ed97f4861-w480.avif",
+            "width": 480,
+            "bytes": 21165
+          },
+          {
+            "file": "responsive/disneyland-paris-verano/118ed97f4861-w768.avif",
+            "width": 768,
+            "bytes": 43781
+          },
+          {
+            "file": "responsive/disneyland-paris-verano/118ed97f4861-w1200.avif",
+            "width": 1200,
+            "bytes": 82770
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/disneyland-paris-verano/118ed97f4861-w480.webp",
+            "width": 480,
+            "bytes": 29146
+          },
+          {
+            "file": "responsive/disneyland-paris-verano/118ed97f4861-w768.webp",
+            "width": 768,
+            "bytes": 63752
+          },
+          {
+            "file": "responsive/disneyland-paris-verano/118ed97f4861-w1200.webp",
+            "width": 1200,
+            "bytes": 128550
           }
         ]
       }
@@ -5320,6 +5733,124 @@
             "file": "responsive/disneyland-resort-california/54551473f45b-w1200.webp",
             "width": 1200,
             "bytes": 158068
+          }
+        ]
+      }
+    },
+    "efteling-2.jpg": {
+      "sha256": "135b193752fc1b3aac13a4b377ceb08589d997ebee1084e28f9712100de8f3e6",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/efteling-2/135b193752fc-w480.avif",
+            "width": 480,
+            "bytes": 33901
+          },
+          {
+            "file": "responsive/efteling-2/135b193752fc-w768.avif",
+            "width": 768,
+            "bytes": 85601
+          },
+          {
+            "file": "responsive/efteling-2/135b193752fc-w1200.avif",
+            "width": 1200,
+            "bytes": 182724
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/efteling-2/135b193752fc-w480.webp",
+            "width": 480,
+            "bytes": 45098
+          },
+          {
+            "file": "responsive/efteling-2/135b193752fc-w768.webp",
+            "width": 768,
+            "bytes": 113914
+          },
+          {
+            "file": "responsive/efteling-2/135b193752fc-w1200.webp",
+            "width": 1200,
+            "bytes": 257456
+          }
+        ]
+      }
+    },
+    "efteling-3.jpg": {
+      "sha256": "7e760ae2e9d62db5c6793937cfdb41a17e12c0a0f7cb86ee34d0fe1e86cb7a3d",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/efteling-3/7e760ae2e9d6-w480.avif",
+            "width": 480,
+            "bytes": 13508
+          },
+          {
+            "file": "responsive/efteling-3/7e760ae2e9d6-w768.avif",
+            "width": 768,
+            "bytes": 27715
+          },
+          {
+            "file": "responsive/efteling-3/7e760ae2e9d6-w1200.avif",
+            "width": 1200,
+            "bytes": 52274
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/efteling-3/7e760ae2e9d6-w480.webp",
+            "width": 480,
+            "bytes": 21610
+          },
+          {
+            "file": "responsive/efteling-3/7e760ae2e9d6-w768.webp",
+            "width": 768,
+            "bytes": 47326
+          },
+          {
+            "file": "responsive/efteling-3/7e760ae2e9d6-w1200.webp",
+            "width": 1200,
+            "bytes": 94376
           }
         ]
       }
@@ -5969,6 +6500,65 @@
             "file": "responsive/espectaculos-puy-du-fou/d8bf29c502b4-w1200.webp",
             "width": 1200,
             "bytes": 252476
+          }
+        ]
+      }
+    },
+    "europa-park-2.jpg": {
+      "sha256": "fcf55cb11d710a7b0d4ecd2a1cdb9d3fd0ac97d8807fb8719a3a1a56b159c590",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/europa-park-2/fcf55cb11d71-w480.avif",
+            "width": 480,
+            "bytes": 21734
+          },
+          {
+            "file": "responsive/europa-park-2/fcf55cb11d71-w768.avif",
+            "width": 768,
+            "bytes": 49968
+          },
+          {
+            "file": "responsive/europa-park-2/fcf55cb11d71-w1200.avif",
+            "width": 1200,
+            "bytes": 101267
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/europa-park-2/fcf55cb11d71-w480.webp",
+            "width": 480,
+            "bytes": 31068
+          },
+          {
+            "file": "responsive/europa-park-2/fcf55cb11d71-w768.webp",
+            "width": 768,
+            "bytes": 72176
+          },
+          {
+            "file": "responsive/europa-park-2/fcf55cb11d71-w1200.webp",
+            "width": 1200,
+            "bytes": 155006
           }
         ]
       }
@@ -6976,6 +7566,124 @@
         ]
       }
     },
+    "fuji-q-highland-2.jpg": {
+      "sha256": "b3b06ad0a8ccff7be5654d18fa272d90d15c03094ba080b09de39af79f4e7364",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/fuji-q-highland-2/b3b06ad0a8cc-w480.avif",
+            "width": 480,
+            "bytes": 10116
+          },
+          {
+            "file": "responsive/fuji-q-highland-2/b3b06ad0a8cc-w768.avif",
+            "width": 768,
+            "bytes": 21592
+          },
+          {
+            "file": "responsive/fuji-q-highland-2/b3b06ad0a8cc-w1200.avif",
+            "width": 1200,
+            "bytes": 42246
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/fuji-q-highland-2/b3b06ad0a8cc-w480.webp",
+            "width": 480,
+            "bytes": 16886
+          },
+          {
+            "file": "responsive/fuji-q-highland-2/b3b06ad0a8cc-w768.webp",
+            "width": 768,
+            "bytes": 37516
+          },
+          {
+            "file": "responsive/fuji-q-highland-2/b3b06ad0a8cc-w1200.webp",
+            "width": 1200,
+            "bytes": 76824
+          }
+        ]
+      }
+    },
+    "fuji-q-highland-3.jpg": {
+      "sha256": "6b17c9e690298f4669f04465ec98f6ef0a5bd409d8a5c15215d21a230d77c693",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/fuji-q-highland-3/6b17c9e69029-w480.avif",
+            "width": 480,
+            "bytes": 17995
+          },
+          {
+            "file": "responsive/fuji-q-highland-3/6b17c9e69029-w768.avif",
+            "width": 768,
+            "bytes": 34157
+          },
+          {
+            "file": "responsive/fuji-q-highland-3/6b17c9e69029-w1200.avif",
+            "width": 1200,
+            "bytes": 60280
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/fuji-q-highland-3/6b17c9e69029-w480.webp",
+            "width": 480,
+            "bytes": 27826
+          },
+          {
+            "file": "responsive/fuji-q-highland-3/6b17c9e69029-w768.webp",
+            "width": 768,
+            "bytes": 55986
+          },
+          {
+            "file": "responsive/fuji-q-highland-3/6b17c9e69029-w1200.webp",
+            "width": 1200,
+            "bytes": 105130
+          }
+        ]
+      }
+    },
     "fuji-q-highland.jpg": {
       "sha256": "5cb1827d5aacc6121f9d7cf1d0ce47b52fc4cf7360604bb1d26d0ab65f5a2e27",
       "original_width": 1408,
@@ -7094,6 +7802,124 @@
         ]
       }
     },
+    "futuroscope-2.jpg": {
+      "sha256": "0224f27ae07afaf318cf626afe078ef393ccd385b32b462f4b6d8f61e4b2366f",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/futuroscope-2/0224f27ae07a-w480.avif",
+            "width": 480,
+            "bytes": 17469
+          },
+          {
+            "file": "responsive/futuroscope-2/0224f27ae07a-w768.avif",
+            "width": 768,
+            "bytes": 37299
+          },
+          {
+            "file": "responsive/futuroscope-2/0224f27ae07a-w1200.avif",
+            "width": 1200,
+            "bytes": 72667
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/futuroscope-2/0224f27ae07a-w480.webp",
+            "width": 480,
+            "bytes": 26658
+          },
+          {
+            "file": "responsive/futuroscope-2/0224f27ae07a-w768.webp",
+            "width": 768,
+            "bytes": 60928
+          },
+          {
+            "file": "responsive/futuroscope-2/0224f27ae07a-w1200.webp",
+            "width": 1200,
+            "bytes": 124314
+          }
+        ]
+      }
+    },
+    "futuroscope-3.jpg": {
+      "sha256": "7bceb9483c68068b332eadf5bf1bb10d126e092c083909b7f2eb8a3e930f3673",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/futuroscope-3/7bceb9483c68-w480.avif",
+            "width": 480,
+            "bytes": 12287
+          },
+          {
+            "file": "responsive/futuroscope-3/7bceb9483c68-w768.avif",
+            "width": 768,
+            "bytes": 21615
+          },
+          {
+            "file": "responsive/futuroscope-3/7bceb9483c68-w1200.avif",
+            "width": 1200,
+            "bytes": 35111
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/futuroscope-3/7bceb9483c68-w480.webp",
+            "width": 480,
+            "bytes": 21028
+          },
+          {
+            "file": "responsive/futuroscope-3/7bceb9483c68-w768.webp",
+            "width": 768,
+            "bytes": 40376
+          },
+          {
+            "file": "responsive/futuroscope-3/7bceb9483c68-w1200.webp",
+            "width": 1200,
+            "bytes": 71596
+          }
+        ]
+      }
+    },
     "futuroscope.jpg": {
       "sha256": "8470d7340b517c70a54b14f40799406960d3101f842fb695fc78e8af0fc6b262",
       "original_width": 1376,
@@ -7208,6 +8034,124 @@
             "file": "responsive/galaxys-edge/40c7c3ac5cd9-w1200.webp",
             "width": 1200,
             "bytes": 153422
+          }
+        ]
+      }
+    },
+    "gardaland-2.jpg": {
+      "sha256": "7e6fea5c3f83f7d1af65a1d388ae60f32fc3304a9c0b54a26653fe93c3b9f02a",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/gardaland-2/7e6fea5c3f83-w480.avif",
+            "width": 480,
+            "bytes": 23857
+          },
+          {
+            "file": "responsive/gardaland-2/7e6fea5c3f83-w768.avif",
+            "width": 768,
+            "bytes": 53326
+          },
+          {
+            "file": "responsive/gardaland-2/7e6fea5c3f83-w1200.avif",
+            "width": 1200,
+            "bytes": 105860
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/gardaland-2/7e6fea5c3f83-w480.webp",
+            "width": 480,
+            "bytes": 35944
+          },
+          {
+            "file": "responsive/gardaland-2/7e6fea5c3f83-w768.webp",
+            "width": 768,
+            "bytes": 81566
+          },
+          {
+            "file": "responsive/gardaland-2/7e6fea5c3f83-w1200.webp",
+            "width": 1200,
+            "bytes": 170720
+          }
+        ]
+      }
+    },
+    "gardaland-3.jpg": {
+      "sha256": "8b7ccb5a1a24da8f6ecb69dce72d6f840392d9db5dbb40f2dc997360b6a56e6f",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/gardaland-3/8b7ccb5a1a24-w480.avif",
+            "width": 480,
+            "bytes": 23640
+          },
+          {
+            "file": "responsive/gardaland-3/8b7ccb5a1a24-w768.avif",
+            "width": 768,
+            "bytes": 52586
+          },
+          {
+            "file": "responsive/gardaland-3/8b7ccb5a1a24-w1200.avif",
+            "width": 1200,
+            "bytes": 104273
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/gardaland-3/8b7ccb5a1a24-w480.webp",
+            "width": 480,
+            "bytes": 34010
+          },
+          {
+            "file": "responsive/gardaland-3/8b7ccb5a1a24-w768.webp",
+            "width": 768,
+            "bytes": 78762
+          },
+          {
+            "file": "responsive/gardaland-3/8b7ccb5a1a24-w1200.webp",
+            "width": 1200,
+            "bytes": 168032
           }
         ]
       }
@@ -7975,6 +8919,124 @@
             "file": "responsive/hersheypark/8cf5e161e868-w1200.webp",
             "width": 1200,
             "bytes": 184272
+          }
+        ]
+      }
+    },
+    "hong-kong-disneyland-2.jpg": {
+      "sha256": "a272581a9a115de88a13d5fe56eae9d55ca690050123390dda9492e1b0b6c40b",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hong-kong-disneyland-2/a272581a9a11-w480.avif",
+            "width": 480,
+            "bytes": 19899
+          },
+          {
+            "file": "responsive/hong-kong-disneyland-2/a272581a9a11-w768.avif",
+            "width": 768,
+            "bytes": 46824
+          },
+          {
+            "file": "responsive/hong-kong-disneyland-2/a272581a9a11-w1200.avif",
+            "width": 1200,
+            "bytes": 97221
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hong-kong-disneyland-2/a272581a9a11-w480.webp",
+            "width": 480,
+            "bytes": 27544
+          },
+          {
+            "file": "responsive/hong-kong-disneyland-2/a272581a9a11-w768.webp",
+            "width": 768,
+            "bytes": 65800
+          },
+          {
+            "file": "responsive/hong-kong-disneyland-2/a272581a9a11-w1200.webp",
+            "width": 1200,
+            "bytes": 143066
+          }
+        ]
+      }
+    },
+    "hong-kong-disneyland-3.jpg": {
+      "sha256": "69140df11655bde322e26fb1f87573c997a9f53b172b2002e48c3cc4d12e2db8",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hong-kong-disneyland-3/69140df11655-w480.avif",
+            "width": 480,
+            "bytes": 25917
+          },
+          {
+            "file": "responsive/hong-kong-disneyland-3/69140df11655-w768.avif",
+            "width": 768,
+            "bytes": 48955
+          },
+          {
+            "file": "responsive/hong-kong-disneyland-3/69140df11655-w1200.avif",
+            "width": 1200,
+            "bytes": 85135
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hong-kong-disneyland-3/69140df11655-w480.webp",
+            "width": 480,
+            "bytes": 36206
+          },
+          {
+            "file": "responsive/hong-kong-disneyland-3/69140df11655-w768.webp",
+            "width": 768,
+            "bytes": 74908
+          },
+          {
+            "file": "responsive/hong-kong-disneyland-3/69140df11655-w1200.webp",
+            "width": 1200,
+            "bytes": 143206
           }
         ]
       }
@@ -10210,6 +11272,124 @@
         ]
       }
     },
+    "mejores-parques-europa-2.jpg": {
+      "sha256": "d4b003b5b2209d630dbf73d346e770eb73f3f7b7eaae5d35830c479e131d1086",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/mejores-parques-europa-2/d4b003b5b220-w480.avif",
+            "width": 480,
+            "bytes": 28398
+          },
+          {
+            "file": "responsive/mejores-parques-europa-2/d4b003b5b220-w768.avif",
+            "width": 768,
+            "bytes": 65208
+          },
+          {
+            "file": "responsive/mejores-parques-europa-2/d4b003b5b220-w1200.avif",
+            "width": 1200,
+            "bytes": 130539
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/mejores-parques-europa-2/d4b003b5b220-w480.webp",
+            "width": 480,
+            "bytes": 41382
+          },
+          {
+            "file": "responsive/mejores-parques-europa-2/d4b003b5b220-w768.webp",
+            "width": 768,
+            "bytes": 94482
+          },
+          {
+            "file": "responsive/mejores-parques-europa-2/d4b003b5b220-w1200.webp",
+            "width": 1200,
+            "bytes": 194356
+          }
+        ]
+      }
+    },
+    "mejores-parques-europa-3.jpg": {
+      "sha256": "ebab6e9c65f0451429f9246a1ff6c8fa8b18cf28a5c660c7142523b696d897f7",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/mejores-parques-europa-3/ebab6e9c65f0-w480.avif",
+            "width": 480,
+            "bytes": 24159
+          },
+          {
+            "file": "responsive/mejores-parques-europa-3/ebab6e9c65f0-w768.avif",
+            "width": 768,
+            "bytes": 44593
+          },
+          {
+            "file": "responsive/mejores-parques-europa-3/ebab6e9c65f0-w1200.avif",
+            "width": 1200,
+            "bytes": 70121
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/mejores-parques-europa-3/ebab6e9c65f0-w480.webp",
+            "width": 480,
+            "bytes": 33286
+          },
+          {
+            "file": "responsive/mejores-parques-europa-3/ebab6e9c65f0-w768.webp",
+            "width": 768,
+            "bytes": 66318
+          },
+          {
+            "file": "responsive/mejores-parques-europa-3/ebab6e9c65f0-w1200.webp",
+            "width": 1200,
+            "bytes": 115320
+          }
+        ]
+      }
+    },
     "mejores-parques-europa.jpg": {
       "sha256": "e3dd39b27a7f5675f42fdb2587206349dd0e78f0f70ec8cbea73570d1a399272",
       "original_width": 1376,
@@ -10682,6 +11862,124 @@
         ]
       }
     },
+    "ocean-park-hong-kong-2.jpg": {
+      "sha256": "999e377817f7418869cc31eda90d4509e290190326382a28879e6826ffb3ef56",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ocean-park-hong-kong-2/999e377817f7-w480.avif",
+            "width": 480,
+            "bytes": 15762
+          },
+          {
+            "file": "responsive/ocean-park-hong-kong-2/999e377817f7-w768.avif",
+            "width": 768,
+            "bytes": 29156
+          },
+          {
+            "file": "responsive/ocean-park-hong-kong-2/999e377817f7-w1200.avif",
+            "width": 1200,
+            "bytes": 49788
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ocean-park-hong-kong-2/999e377817f7-w480.webp",
+            "width": 480,
+            "bytes": 25654
+          },
+          {
+            "file": "responsive/ocean-park-hong-kong-2/999e377817f7-w768.webp",
+            "width": 768,
+            "bytes": 49800
+          },
+          {
+            "file": "responsive/ocean-park-hong-kong-2/999e377817f7-w1200.webp",
+            "width": 1200,
+            "bytes": 90888
+          }
+        ]
+      }
+    },
+    "ocean-park-hong-kong-3.jpg": {
+      "sha256": "7e488c89d7178304d3357e6a19cd30e7e45e48c7598c79c75fcf4b3d7652a990",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ocean-park-hong-kong-3/7e488c89d717-w480.avif",
+            "width": 480,
+            "bytes": 23586
+          },
+          {
+            "file": "responsive/ocean-park-hong-kong-3/7e488c89d717-w768.avif",
+            "width": 768,
+            "bytes": 50974
+          },
+          {
+            "file": "responsive/ocean-park-hong-kong-3/7e488c89d717-w1200.avif",
+            "width": 1200,
+            "bytes": 98566
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ocean-park-hong-kong-3/7e488c89d717-w480.webp",
+            "width": 480,
+            "bytes": 35388
+          },
+          {
+            "file": "responsive/ocean-park-hong-kong-3/7e488c89d717-w768.webp",
+            "width": 768,
+            "bytes": 79140
+          },
+          {
+            "file": "responsive/ocean-park-hong-kong-3/7e488c89d717-w1200.webp",
+            "width": 1200,
+            "bytes": 163414
+          }
+        ]
+      }
+    },
     "ocean-park-hong-kong.jpg": {
       "sha256": "0809ed17f42b67a344620677ac0df13c3a30d6dadd6f3b5fd3ca8abe956eb852",
       "original_width": 1584,
@@ -10855,6 +12153,124 @@
             "file": "responsive/orlando-skyline/ec40aa5e6292-w1200.webp",
             "width": 1200,
             "bytes": 157154
+          }
+        ]
+      }
+    },
+    "parc-asterix-2.jpg": {
+      "sha256": "018b073e04cd447a442fee9036ed9e70ff8355332f1af64d1fbfde17f85bc3b1",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/parc-asterix-2/018b073e04cd-w480.avif",
+            "width": 480,
+            "bytes": 27273
+          },
+          {
+            "file": "responsive/parc-asterix-2/018b073e04cd-w768.avif",
+            "width": 768,
+            "bytes": 60263
+          },
+          {
+            "file": "responsive/parc-asterix-2/018b073e04cd-w1200.avif",
+            "width": 1200,
+            "bytes": 118667
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/parc-asterix-2/018b073e04cd-w480.webp",
+            "width": 480,
+            "bytes": 38924
+          },
+          {
+            "file": "responsive/parc-asterix-2/018b073e04cd-w768.webp",
+            "width": 768,
+            "bytes": 87920
+          },
+          {
+            "file": "responsive/parc-asterix-2/018b073e04cd-w1200.webp",
+            "width": 1200,
+            "bytes": 181520
+          }
+        ]
+      }
+    },
+    "parc-asterix-3.jpg": {
+      "sha256": "725dbc8850675c543bdf94d595401c4dc89115069c02d9aa934c710aab5f245a",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/parc-asterix-3/725dbc885067-w480.avif",
+            "width": 480,
+            "bytes": 19943
+          },
+          {
+            "file": "responsive/parc-asterix-3/725dbc885067-w768.avif",
+            "width": 768,
+            "bytes": 42364
+          },
+          {
+            "file": "responsive/parc-asterix-3/725dbc885067-w1200.avif",
+            "width": 1200,
+            "bytes": 79898
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/parc-asterix-3/725dbc885067-w480.webp",
+            "width": 480,
+            "bytes": 28350
+          },
+          {
+            "file": "responsive/parc-asterix-3/725dbc885067-w768.webp",
+            "width": 768,
+            "bytes": 62940
+          },
+          {
+            "file": "responsive/parc-asterix-3/725dbc885067-w1200.webp",
+            "width": 1200,
+            "bytes": 127070
           }
         ]
       }
@@ -13101,6 +14517,124 @@
         ]
       }
     },
+    "portaventura-vs-warner-2.jpg": {
+      "sha256": "a7bce50e7b29911a4f7d0ea7105681adcf385ec0a7ffe00cd93fc651c5dc217d",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/portaventura-vs-warner-2/a7bce50e7b29-w480.avif",
+            "width": 480,
+            "bytes": 27541
+          },
+          {
+            "file": "responsive/portaventura-vs-warner-2/a7bce50e7b29-w768.avif",
+            "width": 768,
+            "bytes": 52662
+          },
+          {
+            "file": "responsive/portaventura-vs-warner-2/a7bce50e7b29-w1200.avif",
+            "width": 1200,
+            "bytes": 92512
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/portaventura-vs-warner-2/a7bce50e7b29-w480.webp",
+            "width": 480,
+            "bytes": 40356
+          },
+          {
+            "file": "responsive/portaventura-vs-warner-2/a7bce50e7b29-w768.webp",
+            "width": 768,
+            "bytes": 82712
+          },
+          {
+            "file": "responsive/portaventura-vs-warner-2/a7bce50e7b29-w1200.webp",
+            "width": 1200,
+            "bytes": 153012
+          }
+        ]
+      }
+    },
+    "portaventura-vs-warner-3.jpg": {
+      "sha256": "0e80d35f451653c79bdc341387be53f7eda6ed1f6aa604e29392b1b9cf3c6b61",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/portaventura-vs-warner-3/0e80d35f4516-w480.avif",
+            "width": 480,
+            "bytes": 21849
+          },
+          {
+            "file": "responsive/portaventura-vs-warner-3/0e80d35f4516-w768.avif",
+            "width": 768,
+            "bytes": 45480
+          },
+          {
+            "file": "responsive/portaventura-vs-warner-3/0e80d35f4516-w1200.avif",
+            "width": 1200,
+            "bytes": 85347
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/portaventura-vs-warner-3/0e80d35f4516-w480.webp",
+            "width": 480,
+            "bytes": 32534
+          },
+          {
+            "file": "responsive/portaventura-vs-warner-3/0e80d35f4516-w768.webp",
+            "width": 768,
+            "bytes": 72106
+          },
+          {
+            "file": "responsive/portaventura-vs-warner-3/0e80d35f4516-w1200.webp",
+            "width": 1200,
+            "bytes": 142288
+          }
+        ]
+      }
+    },
     "portaventura-vs-warner.jpg": {
       "sha256": "43b1893d71a25eb165ad90a4e861ec45c3e01abdaa1ac0e3d8dec2352d009e57",
       "original_width": 1376,
@@ -13156,6 +14690,124 @@
             "file": "responsive/portaventura-vs-warner/43b1893d71a2-w1200.webp",
             "width": 1200,
             "bytes": 92198
+          }
+        ]
+      }
+    },
+    "puy-du-fou-2.jpg": {
+      "sha256": "f57af961a1f4eca971629dd75360d696896a0aa2fb2e13b6f44be2ad32a2843f",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/puy-du-fou-2/f57af961a1f4-w480.avif",
+            "width": 480,
+            "bytes": 30552
+          },
+          {
+            "file": "responsive/puy-du-fou-2/f57af961a1f4-w768.avif",
+            "width": 768,
+            "bytes": 70712
+          },
+          {
+            "file": "responsive/puy-du-fou-2/f57af961a1f4-w1200.avif",
+            "width": 1200,
+            "bytes": 145821
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/puy-du-fou-2/f57af961a1f4-w480.webp",
+            "width": 480,
+            "bytes": 41824
+          },
+          {
+            "file": "responsive/puy-du-fou-2/f57af961a1f4-w768.webp",
+            "width": 768,
+            "bytes": 100240
+          },
+          {
+            "file": "responsive/puy-du-fou-2/f57af961a1f4-w1200.webp",
+            "width": 1200,
+            "bytes": 220184
+          }
+        ]
+      }
+    },
+    "puy-du-fou-3.jpg": {
+      "sha256": "e764858934ac3e0cf51e71d1c413eb5e1e25e621c94576b05d7e91e6980280dc",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/puy-du-fou-3/e764858934ac-w480.avif",
+            "width": 480,
+            "bytes": 24477
+          },
+          {
+            "file": "responsive/puy-du-fou-3/e764858934ac-w768.avif",
+            "width": 768,
+            "bytes": 55776
+          },
+          {
+            "file": "responsive/puy-du-fou-3/e764858934ac-w1200.avif",
+            "width": 1200,
+            "bytes": 109892
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/puy-du-fou-3/e764858934ac-w480.webp",
+            "width": 480,
+            "bytes": 35010
+          },
+          {
+            "file": "responsive/puy-du-fou-3/e764858934ac-w768.webp",
+            "width": 768,
+            "bytes": 81314
+          },
+          {
+            "file": "responsive/puy-du-fou-3/e764858934ac-w1200.webp",
+            "width": 1200,
+            "bytes": 171372
           }
         ]
       }
@@ -13455,6 +15107,65 @@
         ]
       }
     },
+    "que-llevar-preparacion.jpg": {
+      "sha256": "30405bd262948363cae633165bd0eee0a14c8ef711a31ce2015944062cabca4f",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/que-llevar-preparacion/30405bd26294-w480.avif",
+            "width": 480,
+            "bytes": 12225
+          },
+          {
+            "file": "responsive/que-llevar-preparacion/30405bd26294-w768.avif",
+            "width": 768,
+            "bytes": 23113
+          },
+          {
+            "file": "responsive/que-llevar-preparacion/30405bd26294-w1200.avif",
+            "width": 1200,
+            "bytes": 41222
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/que-llevar-preparacion/30405bd26294-w480.webp",
+            "width": 480,
+            "bytes": 20588
+          },
+          {
+            "file": "responsive/que-llevar-preparacion/30405bd26294-w768.webp",
+            "width": 768,
+            "bytes": 41734
+          },
+          {
+            "file": "responsive/que-llevar-preparacion/30405bd26294-w1200.webp",
+            "width": 1200,
+            "bytes": 79636
+          }
+        ]
+      }
+    },
     "red-force-ferrari-land.jpg": {
       "sha256": "98b2ee1a18bd31cbaa6d9177f2131f44e72cacc6f56fadbe7d0d5e946fe4c9eb",
       "original_width": 2752,
@@ -13687,6 +15398,124 @@
             "file": "responsive/rise-of-the-resistance/c6266da750b7-w1200.webp",
             "width": 1200,
             "bytes": 128802
+          }
+        ]
+      }
+    },
+    "road-trip-parques-europa-2.jpg": {
+      "sha256": "c4a65a54709126443843ae5b503461f164b9d0f28b7d94231cbd663dca72d19d",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/road-trip-parques-europa-2/c4a65a547091-w480.avif",
+            "width": 480,
+            "bytes": 15456
+          },
+          {
+            "file": "responsive/road-trip-parques-europa-2/c4a65a547091-w768.avif",
+            "width": 768,
+            "bytes": 33491
+          },
+          {
+            "file": "responsive/road-trip-parques-europa-2/c4a65a547091-w1200.avif",
+            "width": 1200,
+            "bytes": 64797
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/road-trip-parques-europa-2/c4a65a547091-w480.webp",
+            "width": 480,
+            "bytes": 24610
+          },
+          {
+            "file": "responsive/road-trip-parques-europa-2/c4a65a547091-w768.webp",
+            "width": 768,
+            "bytes": 55138
+          },
+          {
+            "file": "responsive/road-trip-parques-europa-2/c4a65a547091-w1200.webp",
+            "width": 1200,
+            "bytes": 112946
+          }
+        ]
+      }
+    },
+    "road-trip-parques-europa-3.jpg": {
+      "sha256": "2a568970cf8af388c20ce2833115769cb1f522267f2cb25b3764343f179f16b7",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/road-trip-parques-europa-3/2a568970cf8a-w480.avif",
+            "width": 480,
+            "bytes": 15313
+          },
+          {
+            "file": "responsive/road-trip-parques-europa-3/2a568970cf8a-w768.avif",
+            "width": 768,
+            "bytes": 35306
+          },
+          {
+            "file": "responsive/road-trip-parques-europa-3/2a568970cf8a-w1200.avif",
+            "width": 1200,
+            "bytes": 72472
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/road-trip-parques-europa-3/2a568970cf8a-w480.webp",
+            "width": 480,
+            "bytes": 25288
+          },
+          {
+            "file": "responsive/road-trip-parques-europa-3/2a568970cf8a-w768.webp",
+            "width": 768,
+            "bytes": 58298
+          },
+          {
+            "file": "responsive/road-trip-parques-europa-3/2a568970cf8a-w1200.webp",
+            "width": 1200,
+            "bytes": 122084
           }
         ]
       }
@@ -14100,6 +15929,124 @@
             "file": "responsive/shambhala-portaventura/98cc60be84e5-w1200.webp",
             "width": 1200,
             "bytes": 127904
+          }
+        ]
+      }
+    },
+    "shanghai-disneyland-2.jpg": {
+      "sha256": "d1e98c3da9b5c2d46c63a6c31bdb1371bbb6aaccc5206988119fb59b4ddedb53",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/shanghai-disneyland-2/d1e98c3da9b5-w480.avif",
+            "width": 480,
+            "bytes": 12888
+          },
+          {
+            "file": "responsive/shanghai-disneyland-2/d1e98c3da9b5-w768.avif",
+            "width": 768,
+            "bytes": 24038
+          },
+          {
+            "file": "responsive/shanghai-disneyland-2/d1e98c3da9b5-w1200.avif",
+            "width": 1200,
+            "bytes": 40655
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/shanghai-disneyland-2/d1e98c3da9b5-w480.webp",
+            "width": 480,
+            "bytes": 22228
+          },
+          {
+            "file": "responsive/shanghai-disneyland-2/d1e98c3da9b5-w768.webp",
+            "width": 768,
+            "bytes": 44836
+          },
+          {
+            "file": "responsive/shanghai-disneyland-2/d1e98c3da9b5-w1200.webp",
+            "width": 1200,
+            "bytes": 82580
+          }
+        ]
+      }
+    },
+    "shanghai-disneyland-3.jpg": {
+      "sha256": "c85a813d2d2089c00838b4fae9fc13745a09f538962fcc0f14631832f8f2dea6",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/shanghai-disneyland-3/c85a813d2d20-w480.avif",
+            "width": 480,
+            "bytes": 11717
+          },
+          {
+            "file": "responsive/shanghai-disneyland-3/c85a813d2d20-w768.avif",
+            "width": 768,
+            "bytes": 21147
+          },
+          {
+            "file": "responsive/shanghai-disneyland-3/c85a813d2d20-w1200.avif",
+            "width": 1200,
+            "bytes": 35712
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/shanghai-disneyland-3/c85a813d2d20-w480.webp",
+            "width": 480,
+            "bytes": 19618
+          },
+          {
+            "file": "responsive/shanghai-disneyland-3/c85a813d2d20-w768.webp",
+            "width": 768,
+            "bytes": 38558
+          },
+          {
+            "file": "responsive/shanghai-disneyland-3/c85a813d2d20-w1200.webp",
+            "width": 1200,
+            "bytes": 70126
           }
         ]
       }
@@ -15933,6 +17880,124 @@
         ]
       }
     },
+    "terra-mitica-benidorm-2.jpg": {
+      "sha256": "8f3f6faa6e30a4e17cdb012041d4401995145945db745ba7c0b52c8457e08a43",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/terra-mitica-benidorm-2/8f3f6faa6e30-w480.avif",
+            "width": 480,
+            "bytes": 24826
+          },
+          {
+            "file": "responsive/terra-mitica-benidorm-2/8f3f6faa6e30-w768.avif",
+            "width": 768,
+            "bytes": 53428
+          },
+          {
+            "file": "responsive/terra-mitica-benidorm-2/8f3f6faa6e30-w1200.avif",
+            "width": 1200,
+            "bytes": 103696
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/terra-mitica-benidorm-2/8f3f6faa6e30-w480.webp",
+            "width": 480,
+            "bytes": 34298
+          },
+          {
+            "file": "responsive/terra-mitica-benidorm-2/8f3f6faa6e30-w768.webp",
+            "width": 768,
+            "bytes": 77978
+          },
+          {
+            "file": "responsive/terra-mitica-benidorm-2/8f3f6faa6e30-w1200.webp",
+            "width": 1200,
+            "bytes": 160812
+          }
+        ]
+      }
+    },
+    "terra-mitica-benidorm-3.jpg": {
+      "sha256": "a29be4b5a797dc1a99a1e2f217ab85d4fa3e0b2d08fb5cb2165c025bd89ac77a",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/terra-mitica-benidorm-3/a29be4b5a797-w480.avif",
+            "width": 480,
+            "bytes": 10472
+          },
+          {
+            "file": "responsive/terra-mitica-benidorm-3/a29be4b5a797-w768.avif",
+            "width": 768,
+            "bytes": 19892
+          },
+          {
+            "file": "responsive/terra-mitica-benidorm-3/a29be4b5a797-w1200.avif",
+            "width": 1200,
+            "bytes": 34757
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/terra-mitica-benidorm-3/a29be4b5a797-w480.webp",
+            "width": 480,
+            "bytes": 17924
+          },
+          {
+            "file": "responsive/terra-mitica-benidorm-3/a29be4b5a797-w768.webp",
+            "width": 768,
+            "bytes": 36770
+          },
+          {
+            "file": "responsive/terra-mitica-benidorm-3/a29be4b5a797-w1200.webp",
+            "width": 1200,
+            "bytes": 67498
+          }
+        ]
+      }
+    },
     "terra-mitica-benidorm.jpg": {
       "sha256": "745da3a8d53f3bfbf917eb801100de8a68a4bab4107a5f6749ecf13a2fdf410e",
       "original_width": 1376,
@@ -16169,6 +18234,124 @@
         ]
       }
     },
+    "tokyo-disneyland-2.jpg": {
+      "sha256": "e2d80e4728c9fbf02df66a87e5203ecbc1ca1b668b462809a6c34cc20c5986a4",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tokyo-disneyland-2/e2d80e4728c9-w480.avif",
+            "width": 480,
+            "bytes": 19363
+          },
+          {
+            "file": "responsive/tokyo-disneyland-2/e2d80e4728c9-w768.avif",
+            "width": 768,
+            "bytes": 43095
+          },
+          {
+            "file": "responsive/tokyo-disneyland-2/e2d80e4728c9-w1200.avif",
+            "width": 1200,
+            "bytes": 83886
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tokyo-disneyland-2/e2d80e4728c9-w480.webp",
+            "width": 480,
+            "bytes": 30390
+          },
+          {
+            "file": "responsive/tokyo-disneyland-2/e2d80e4728c9-w768.webp",
+            "width": 768,
+            "bytes": 69718
+          },
+          {
+            "file": "responsive/tokyo-disneyland-2/e2d80e4728c9-w1200.webp",
+            "width": 1200,
+            "bytes": 142640
+          }
+        ]
+      }
+    },
+    "tokyo-disneyland-3.jpg": {
+      "sha256": "02586c79c5d8eacafeb3e31a1c7e1725d495a7dde3c5ea9a00e09a334bda5d55",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tokyo-disneyland-3/02586c79c5d8-w480.avif",
+            "width": 480,
+            "bytes": 21979
+          },
+          {
+            "file": "responsive/tokyo-disneyland-3/02586c79c5d8-w768.avif",
+            "width": 768,
+            "bytes": 49070
+          },
+          {
+            "file": "responsive/tokyo-disneyland-3/02586c79c5d8-w1200.avif",
+            "width": 1200,
+            "bytes": 99586
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tokyo-disneyland-3/02586c79c5d8-w480.webp",
+            "width": 480,
+            "bytes": 33070
+          },
+          {
+            "file": "responsive/tokyo-disneyland-3/02586c79c5d8-w768.webp",
+            "width": 768,
+            "bytes": 75016
+          },
+          {
+            "file": "responsive/tokyo-disneyland-3/02586c79c5d8-w1200.webp",
+            "width": 1200,
+            "bytes": 159000
+          }
+        ]
+      }
+    },
     "tokyo-disneyland.jpg": {
       "sha256": "fd2b30bb57dbca1c9a4185a1da0097c238f257ac1dafcd5d70b5f33578489520",
       "original_width": 1408,
@@ -16224,6 +18407,124 @@
             "file": "responsive/tokyo-disneyland/fd2b30bb57db-w1200.webp",
             "width": 1200,
             "bytes": 74426
+          }
+        ]
+      }
+    },
+    "tokyo-disneysea-2.jpg": {
+      "sha256": "239795273fe115247b91d4aef53991d7527795ea975fbc3a8ed5848d06c82fc5",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tokyo-disneysea-2/239795273fe1-w480.avif",
+            "width": 480,
+            "bytes": 14350
+          },
+          {
+            "file": "responsive/tokyo-disneysea-2/239795273fe1-w768.avif",
+            "width": 768,
+            "bytes": 28665
+          },
+          {
+            "file": "responsive/tokyo-disneysea-2/239795273fe1-w1200.avif",
+            "width": 1200,
+            "bytes": 52075
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tokyo-disneysea-2/239795273fe1-w480.webp",
+            "width": 480,
+            "bytes": 24192
+          },
+          {
+            "file": "responsive/tokyo-disneysea-2/239795273fe1-w768.webp",
+            "width": 768,
+            "bytes": 50484
+          },
+          {
+            "file": "responsive/tokyo-disneysea-2/239795273fe1-w1200.webp",
+            "width": 1200,
+            "bytes": 98038
+          }
+        ]
+      }
+    },
+    "tokyo-disneysea-3.jpg": {
+      "sha256": "9ae7e2d538b3f117db2c6079e317f9e08abccd67bbe2e0c22590d20b25a54b38",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tokyo-disneysea-3/9ae7e2d538b3-w480.avif",
+            "width": 480,
+            "bytes": 9365
+          },
+          {
+            "file": "responsive/tokyo-disneysea-3/9ae7e2d538b3-w768.avif",
+            "width": 768,
+            "bytes": 21175
+          },
+          {
+            "file": "responsive/tokyo-disneysea-3/9ae7e2d538b3-w1200.avif",
+            "width": 1200,
+            "bytes": 42808
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tokyo-disneysea-3/9ae7e2d538b3-w480.webp",
+            "width": 480,
+            "bytes": 16164
+          },
+          {
+            "file": "responsive/tokyo-disneysea-3/9ae7e2d538b3-w768.webp",
+            "width": 768,
+            "bytes": 38232
+          },
+          {
+            "file": "responsive/tokyo-disneysea-3/9ae7e2d538b3-w1200.webp",
+            "width": 1200,
+            "bytes": 78338
           }
         ]
       }
@@ -17349,6 +19650,124 @@
         ]
       }
     },
+    "universal-studios-japan-2.jpg": {
+      "sha256": "49efefdc13ec05b5aa70500bcdbe0fbacd7fb42759f9ed304cb57d5142fb6ee0",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/universal-studios-japan-2/49efefdc13ec-w480.avif",
+            "width": 480,
+            "bytes": 22839
+          },
+          {
+            "file": "responsive/universal-studios-japan-2/49efefdc13ec-w768.avif",
+            "width": 768,
+            "bytes": 42980
+          },
+          {
+            "file": "responsive/universal-studios-japan-2/49efefdc13ec-w1200.avif",
+            "width": 1200,
+            "bytes": 74031
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/universal-studios-japan-2/49efefdc13ec-w480.webp",
+            "width": 480,
+            "bytes": 32624
+          },
+          {
+            "file": "responsive/universal-studios-japan-2/49efefdc13ec-w768.webp",
+            "width": 768,
+            "bytes": 67296
+          },
+          {
+            "file": "responsive/universal-studios-japan-2/49efefdc13ec-w1200.webp",
+            "width": 1200,
+            "bytes": 123234
+          }
+        ]
+      }
+    },
+    "universal-studios-japan-3.jpg": {
+      "sha256": "9435511f41366e3eaccd5dcb6e818d777f5d36d2e898b6783ec2da2d6f800218",
+      "original_width": 1408,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/universal-studios-japan-3/9435511f4136-w480.avif",
+            "width": 480,
+            "bytes": 20913
+          },
+          {
+            "file": "responsive/universal-studios-japan-3/9435511f4136-w768.avif",
+            "width": 768,
+            "bytes": 45545
+          },
+          {
+            "file": "responsive/universal-studios-japan-3/9435511f4136-w1200.avif",
+            "width": 1200,
+            "bytes": 88264
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/universal-studios-japan-3/9435511f4136-w480.webp",
+            "width": 480,
+            "bytes": 30506
+          },
+          {
+            "file": "responsive/universal-studios-japan-3/9435511f4136-w768.webp",
+            "width": 768,
+            "bytes": 69488
+          },
+          {
+            "file": "responsive/universal-studios-japan-3/9435511f4136-w1200.webp",
+            "width": 1200,
+            "bytes": 140618
+          }
+        ]
+      }
+    },
     "universal-studios-japan.jpg": {
       "sha256": "97f502df454834239a3c03d11dce8c6d288e617774be83be4c7452c76576881a",
       "original_width": 1408,
@@ -18112,6 +20531,124 @@
             "file": "responsive/vip-tour/61a866b33d72-w1200.webp",
             "width": 1200,
             "bytes": 150802
+          }
+        ]
+      }
+    },
+    "walt-disney-world-orlando-2.jpg": {
+      "sha256": "c26b5e32bb181be8f63f00557afe9b1d367134a91f59e981d6e5b47ad66f5715",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walt-disney-world-orlando-2/c26b5e32bb18-w480.avif",
+            "width": 480,
+            "bytes": 18736
+          },
+          {
+            "file": "responsive/walt-disney-world-orlando-2/c26b5e32bb18-w768.avif",
+            "width": 768,
+            "bytes": 40191
+          },
+          {
+            "file": "responsive/walt-disney-world-orlando-2/c26b5e32bb18-w1200.avif",
+            "width": 1200,
+            "bytes": 77920
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walt-disney-world-orlando-2/c26b5e32bb18-w480.webp",
+            "width": 480,
+            "bytes": 27528
+          },
+          {
+            "file": "responsive/walt-disney-world-orlando-2/c26b5e32bb18-w768.webp",
+            "width": 768,
+            "bytes": 62884
+          },
+          {
+            "file": "responsive/walt-disney-world-orlando-2/c26b5e32bb18-w1200.webp",
+            "width": 1200,
+            "bytes": 126306
+          }
+        ]
+      }
+    },
+    "walt-disney-world-orlando-3.jpg": {
+      "sha256": "f94fa51a7485c75cc6c5d07e34842c3d638018fc0516d32a3e3940aa16931b72",
+      "original_width": 1376,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walt-disney-world-orlando-3/f94fa51a7485-w480.avif",
+            "width": 480,
+            "bytes": 24039
+          },
+          {
+            "file": "responsive/walt-disney-world-orlando-3/f94fa51a7485-w768.avif",
+            "width": 768,
+            "bytes": 52179
+          },
+          {
+            "file": "responsive/walt-disney-world-orlando-3/f94fa51a7485-w1200.avif",
+            "width": 1200,
+            "bytes": 100311
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walt-disney-world-orlando-3/f94fa51a7485-w480.webp",
+            "width": 480,
+            "bytes": 34832
+          },
+          {
+            "file": "responsive/walt-disney-world-orlando-3/f94fa51a7485-w768.webp",
+            "width": 768,
+            "bytes": 78084
+          },
+          {
+            "file": "responsive/walt-disney-world-orlando-3/f94fa51a7485-w1200.webp",
+            "width": 1200,
+            "bytes": 160138
           }
         ]
       }
