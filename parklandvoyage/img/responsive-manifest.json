@@ -27201,6 +27201,1245 @@
           }
         ]
       }
+    },
+    "tarjeta-parque-de-atracciones-madrid.jpg": {
+      "sha256": "3de22f3a0757e5e50525fcdb31076e5bfce0191081ab60d2f801b24d21bdaba0",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-parque-de-atracciones-madrid/3de22f3a0757-w480.avif",
+            "width": 480,
+            "bytes": 27027
+          },
+          {
+            "file": "responsive/tarjeta-parque-de-atracciones-madrid/3de22f3a0757-w768.avif",
+            "width": 768,
+            "bytes": 66237
+          },
+          {
+            "file": "responsive/tarjeta-parque-de-atracciones-madrid/3de22f3a0757-w1200.avif",
+            "width": 1200,
+            "bytes": 149763
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-parque-de-atracciones-madrid/3de22f3a0757-w480.webp",
+            "width": 480,
+            "bytes": 37994
+          },
+          {
+            "file": "responsive/tarjeta-parque-de-atracciones-madrid/3de22f3a0757-w768.webp",
+            "width": 768,
+            "bytes": 92014
+          },
+          {
+            "file": "responsive/tarjeta-parque-de-atracciones-madrid/3de22f3a0757-w1200.webp",
+            "width": 1200,
+            "bytes": 213006
+          }
+        ]
+      }
+    },
+    "tarjeta-terra-mitica-benidorm.jpg": {
+      "sha256": "e68663dadc2695692ba8aac6b96a93e0cf8598a1e97ee89e0aadf83a55e188a7",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-terra-mitica-benidorm/e68663dadc26-w480.avif",
+            "width": 480,
+            "bytes": 22740
+          },
+          {
+            "file": "responsive/tarjeta-terra-mitica-benidorm/e68663dadc26-w768.avif",
+            "width": 768,
+            "bytes": 48533
+          },
+          {
+            "file": "responsive/tarjeta-terra-mitica-benidorm/e68663dadc26-w1200.avif",
+            "width": 1200,
+            "bytes": 93235
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-terra-mitica-benidorm/e68663dadc26-w480.webp",
+            "width": 480,
+            "bytes": 34934
+          },
+          {
+            "file": "responsive/tarjeta-terra-mitica-benidorm/e68663dadc26-w768.webp",
+            "width": 768,
+            "bytes": 77552
+          },
+          {
+            "file": "responsive/tarjeta-terra-mitica-benidorm/e68663dadc26-w1200.webp",
+            "width": 1200,
+            "bytes": 159476
+          }
+        ]
+      }
+    },
+    "tarjeta-isla-magica-sevilla.jpg": {
+      "sha256": "186510e05f28a672856f42fb31ea02ed56424b7ee872d7c54c8f410dfcb4202a",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-isla-magica-sevilla/186510e05f28-w480.avif",
+            "width": 480,
+            "bytes": 17437
+          },
+          {
+            "file": "responsive/tarjeta-isla-magica-sevilla/186510e05f28-w768.avif",
+            "width": 768,
+            "bytes": 41084
+          },
+          {
+            "file": "responsive/tarjeta-isla-magica-sevilla/186510e05f28-w1200.avif",
+            "width": 1200,
+            "bytes": 92160
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-isla-magica-sevilla/186510e05f28-w480.webp",
+            "width": 480,
+            "bytes": 27076
+          },
+          {
+            "file": "responsive/tarjeta-isla-magica-sevilla/186510e05f28-w768.webp",
+            "width": 768,
+            "bytes": 64832
+          },
+          {
+            "file": "responsive/tarjeta-isla-magica-sevilla/186510e05f28-w1200.webp",
+            "width": 1200,
+            "bytes": 148268
+          }
+        ]
+      }
+    },
+    "tarjeta-tibidabo-barcelona.jpg": {
+      "sha256": "dd726e5fcfd70e1564620d4c83f7f118c7f265eff6e744f5b98572d3b07929e9",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-tibidabo-barcelona/dd726e5fcfd7-w480.avif",
+            "width": 480,
+            "bytes": 35203
+          },
+          {
+            "file": "responsive/tarjeta-tibidabo-barcelona/dd726e5fcfd7-w768.avif",
+            "width": 768,
+            "bytes": 78522
+          },
+          {
+            "file": "responsive/tarjeta-tibidabo-barcelona/dd726e5fcfd7-w1200.avif",
+            "width": 1200,
+            "bytes": 164452
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-tibidabo-barcelona/dd726e5fcfd7-w480.webp",
+            "width": 480,
+            "bytes": 47264
+          },
+          {
+            "file": "responsive/tarjeta-tibidabo-barcelona/dd726e5fcfd7-w768.webp",
+            "width": 768,
+            "bytes": 108534
+          },
+          {
+            "file": "responsive/tarjeta-tibidabo-barcelona/dd726e5fcfd7-w1200.webp",
+            "width": 1200,
+            "bytes": 233140
+          }
+        ]
+      }
+    },
+    "tarjeta-parc-asterix.jpg": {
+      "sha256": "05ecd8cb4ae927d59be19b53db7c3abef3c36b0126fefef9c6c33ff5dac4f934",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-parc-asterix/05ecd8cb4ae9-w480.avif",
+            "width": 480,
+            "bytes": 20514
+          },
+          {
+            "file": "responsive/tarjeta-parc-asterix/05ecd8cb4ae9-w768.avif",
+            "width": 768,
+            "bytes": 41394
+          },
+          {
+            "file": "responsive/tarjeta-parc-asterix/05ecd8cb4ae9-w1200.avif",
+            "width": 1200,
+            "bytes": 81146
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-parc-asterix/05ecd8cb4ae9-w480.webp",
+            "width": 480,
+            "bytes": 30708
+          },
+          {
+            "file": "responsive/tarjeta-parc-asterix/05ecd8cb4ae9-w768.webp",
+            "width": 768,
+            "bytes": 65434
+          },
+          {
+            "file": "responsive/tarjeta-parc-asterix/05ecd8cb4ae9-w1200.webp",
+            "width": 1200,
+            "bytes": 132394
+          }
+        ]
+      }
+    },
+    "tarjeta-futuroscope.jpg": {
+      "sha256": "3c75567a93d98a8bf677591dff8deb194f0cd9936344b3651d31f5ba8b5b67d1",
+      "original_width": 1600,
+      "original_height": 1063,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-futuroscope/3c75567a93d9-w480.avif",
+            "width": 480,
+            "bytes": 15535
+          },
+          {
+            "file": "responsive/tarjeta-futuroscope/3c75567a93d9-w768.avif",
+            "width": 768,
+            "bytes": 35159
+          },
+          {
+            "file": "responsive/tarjeta-futuroscope/3c75567a93d9-w1200.avif",
+            "width": 1200,
+            "bytes": 72094
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-futuroscope/3c75567a93d9-w480.webp",
+            "width": 480,
+            "bytes": 27508
+          },
+          {
+            "file": "responsive/tarjeta-futuroscope/3c75567a93d9-w768.webp",
+            "width": 768,
+            "bytes": 63896
+          },
+          {
+            "file": "responsive/tarjeta-futuroscope/3c75567a93d9-w1200.webp",
+            "width": 1200,
+            "bytes": 135654
+          }
+        ]
+      }
+    },
+    "tarjeta-gardaland.jpg": {
+      "sha256": "6f240c63bb34dddb2737a10e7a66af47de76afd8127cf07f72963d5f94e27d71",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-gardaland/6f240c63bb34-w480.avif",
+            "width": 480,
+            "bytes": 22555
+          },
+          {
+            "file": "responsive/tarjeta-gardaland/6f240c63bb34-w768.avif",
+            "width": 768,
+            "bytes": 55348
+          },
+          {
+            "file": "responsive/tarjeta-gardaland/6f240c63bb34-w1200.avif",
+            "width": 1200,
+            "bytes": 130585
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-gardaland/6f240c63bb34-w480.webp",
+            "width": 480,
+            "bytes": 34060
+          },
+          {
+            "file": "responsive/tarjeta-gardaland/6f240c63bb34-w768.webp",
+            "width": 768,
+            "bytes": 83990
+          },
+          {
+            "file": "responsive/tarjeta-gardaland/6f240c63bb34-w1200.webp",
+            "width": 1200,
+            "bytes": 200356
+          }
+        ]
+      }
+    },
+    "tarjeta-alton-towers.jpg": {
+      "sha256": "cde4d6abf75bcd159bb2dce29d3d91df618fc72d0acce7f802e416c6f03edefc",
+      "original_width": 1600,
+      "original_height": 1149,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-alton-towers/cde4d6abf75b-w480.avif",
+            "width": 480,
+            "bytes": 21493
+          },
+          {
+            "file": "responsive/tarjeta-alton-towers/cde4d6abf75b-w768.avif",
+            "width": 768,
+            "bytes": 49547
+          },
+          {
+            "file": "responsive/tarjeta-alton-towers/cde4d6abf75b-w1200.avif",
+            "width": 1200,
+            "bytes": 109664
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-alton-towers/cde4d6abf75b-w480.webp",
+            "width": 480,
+            "bytes": 33978
+          },
+          {
+            "file": "responsive/tarjeta-alton-towers/cde4d6abf75b-w768.webp",
+            "width": 768,
+            "bytes": 77558
+          },
+          {
+            "file": "responsive/tarjeta-alton-towers/cde4d6abf75b-w1200.webp",
+            "width": 1200,
+            "bytes": 174928
+          }
+        ]
+      }
+    },
+    "tarjeta-epic-universe-guia-completa.jpg": {
+      "sha256": "259377a46033e034d7396f651a72cda669de1cc4acf7d7bce736ff221107c646",
+      "original_width": 1600,
+      "original_height": 897,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-epic-universe-guia-completa/259377a46033-w480.avif",
+            "width": 480,
+            "bytes": 15596
+          },
+          {
+            "file": "responsive/tarjeta-epic-universe-guia-completa/259377a46033-w768.avif",
+            "width": 768,
+            "bytes": 26796
+          },
+          {
+            "file": "responsive/tarjeta-epic-universe-guia-completa/259377a46033-w1200.avif",
+            "width": 1200,
+            "bytes": 43951
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-epic-universe-guia-completa/259377a46033-w480.webp",
+            "width": 480,
+            "bytes": 24512
+          },
+          {
+            "file": "responsive/tarjeta-epic-universe-guia-completa/259377a46033-w768.webp",
+            "width": 768,
+            "bytes": 46180
+          },
+          {
+            "file": "responsive/tarjeta-epic-universe-guia-completa/259377a46033-w1200.webp",
+            "width": 1200,
+            "bytes": 87200
+          }
+        ]
+      }
+    },
+    "tarjeta-busch-gardens-tampa-bay.jpg": {
+      "sha256": "057041a0d9a75c006094ea2924cf47865983afdfb53fa8e5db2b604dede30b9d",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-busch-gardens-tampa-bay/057041a0d9a7-w480.avif",
+            "width": 480,
+            "bytes": 30527
+          },
+          {
+            "file": "responsive/tarjeta-busch-gardens-tampa-bay/057041a0d9a7-w768.avif",
+            "width": 768,
+            "bytes": 63382
+          },
+          {
+            "file": "responsive/tarjeta-busch-gardens-tampa-bay/057041a0d9a7-w1200.avif",
+            "width": 1200,
+            "bytes": 127974
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-busch-gardens-tampa-bay/057041a0d9a7-w480.webp",
+            "width": 480,
+            "bytes": 45554
+          },
+          {
+            "file": "responsive/tarjeta-busch-gardens-tampa-bay/057041a0d9a7-w768.webp",
+            "width": 768,
+            "bytes": 98126
+          },
+          {
+            "file": "responsive/tarjeta-busch-gardens-tampa-bay/057041a0d9a7-w1200.webp",
+            "width": 1200,
+            "bytes": 208574
+          }
+        ]
+      }
+    },
+    "tarjeta-disneyland-resort-california.jpg": {
+      "sha256": "2d95742736c9ecd17bee15a69a83a68e9a9b4ab4de3229cd7cd61a191614d145",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-disneyland-resort-california/2d95742736c9-w480.avif",
+            "width": 480,
+            "bytes": 12563
+          },
+          {
+            "file": "responsive/tarjeta-disneyland-resort-california/2d95742736c9-w768.avif",
+            "width": 768,
+            "bytes": 26638
+          },
+          {
+            "file": "responsive/tarjeta-disneyland-resort-california/2d95742736c9-w1200.avif",
+            "width": 1200,
+            "bytes": 53070
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-disneyland-resort-california/2d95742736c9-w480.webp",
+            "width": 480,
+            "bytes": 20874
+          },
+          {
+            "file": "responsive/tarjeta-disneyland-resort-california/2d95742736c9-w768.webp",
+            "width": 768,
+            "bytes": 46026
+          },
+          {
+            "file": "responsive/tarjeta-disneyland-resort-california/2d95742736c9-w1200.webp",
+            "width": 1200,
+            "bytes": 96112
+          }
+        ]
+      }
+    },
+    "tarjeta-universal-studios-hollywood.jpg": {
+      "sha256": "ebf59f33e3700a69f5b380227d436ed4a5379a5b871fc70239a2ea448f9bd3c7",
+      "original_width": 1600,
+      "original_height": 1071,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-universal-studios-hollywood/ebf59f33e370-w480.avif",
+            "width": 480,
+            "bytes": 14687
+          },
+          {
+            "file": "responsive/tarjeta-universal-studios-hollywood/ebf59f33e370-w768.avif",
+            "width": 768,
+            "bytes": 32459
+          },
+          {
+            "file": "responsive/tarjeta-universal-studios-hollywood/ebf59f33e370-w1200.avif",
+            "width": 1200,
+            "bytes": 67711
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-universal-studios-hollywood/ebf59f33e370-w480.webp",
+            "width": 480,
+            "bytes": 25516
+          },
+          {
+            "file": "responsive/tarjeta-universal-studios-hollywood/ebf59f33e370-w768.webp",
+            "width": 768,
+            "bytes": 57166
+          },
+          {
+            "file": "responsive/tarjeta-universal-studios-hollywood/ebf59f33e370-w1200.webp",
+            "width": 1200,
+            "bytes": 121894
+          }
+        ]
+      }
+    },
+    "tarjeta-six-flags-magic-mountain.jpg": {
+      "sha256": "4ee3e03dc41cf87948c90367b45d8d4f26d1814b9cf848511495bf6cb1563a62",
+      "original_width": 1600,
+      "original_height": 899,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-six-flags-magic-mountain/4ee3e03dc41c-w480.avif",
+            "width": 480,
+            "bytes": 26641
+          },
+          {
+            "file": "responsive/tarjeta-six-flags-magic-mountain/4ee3e03dc41c-w768.avif",
+            "width": 768,
+            "bytes": 67407
+          },
+          {
+            "file": "responsive/tarjeta-six-flags-magic-mountain/4ee3e03dc41c-w1200.avif",
+            "width": 1200,
+            "bytes": 170618
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-six-flags-magic-mountain/4ee3e03dc41c-w480.webp",
+            "width": 480,
+            "bytes": 37214
+          },
+          {
+            "file": "responsive/tarjeta-six-flags-magic-mountain/4ee3e03dc41c-w768.webp",
+            "width": 768,
+            "bytes": 93770
+          },
+          {
+            "file": "responsive/tarjeta-six-flags-magic-mountain/4ee3e03dc41c-w1200.webp",
+            "width": 1200,
+            "bytes": 232344
+          }
+        ]
+      }
+    },
+    "tarjeta-knotts-berry-farm.jpg": {
+      "sha256": "2fe594b1cbf7001cc7765824baa5076abd2514657f273c2334cb4f36e04ad023",
+      "original_width": 1600,
+      "original_height": 899,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-knotts-berry-farm/2fe594b1cbf7-w480.avif",
+            "width": 480,
+            "bytes": 11863
+          },
+          {
+            "file": "responsive/tarjeta-knotts-berry-farm/2fe594b1cbf7-w768.avif",
+            "width": 768,
+            "bytes": 25266
+          },
+          {
+            "file": "responsive/tarjeta-knotts-berry-farm/2fe594b1cbf7-w1200.avif",
+            "width": 1200,
+            "bytes": 54885
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-knotts-berry-farm/2fe594b1cbf7-w480.webp",
+            "width": 480,
+            "bytes": 19514
+          },
+          {
+            "file": "responsive/tarjeta-knotts-berry-farm/2fe594b1cbf7-w768.webp",
+            "width": 768,
+            "bytes": 42570
+          },
+          {
+            "file": "responsive/tarjeta-knotts-berry-farm/2fe594b1cbf7-w1200.webp",
+            "width": 1200,
+            "bytes": 94814
+          }
+        ]
+      }
+    },
+    "tarjeta-hersheypark.jpg": {
+      "sha256": "aaa6e9df4f1e21df49445dd5f3f0c062a96551f615eaa11856ed9caaba4ec199",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-hersheypark/aaa6e9df4f1e-w480.avif",
+            "width": 480,
+            "bytes": 27008
+          },
+          {
+            "file": "responsive/tarjeta-hersheypark/aaa6e9df4f1e-w768.avif",
+            "width": 768,
+            "bytes": 69825
+          },
+          {
+            "file": "responsive/tarjeta-hersheypark/aaa6e9df4f1e-w1200.avif",
+            "width": 1200,
+            "bytes": 176038
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-hersheypark/aaa6e9df4f1e-w480.webp",
+            "width": 480,
+            "bytes": 40024
+          },
+          {
+            "file": "responsive/tarjeta-hersheypark/aaa6e9df4f1e-w768.webp",
+            "width": 768,
+            "bytes": 103244
+          },
+          {
+            "file": "responsive/tarjeta-hersheypark/aaa6e9df4f1e-w1200.webp",
+            "width": 1200,
+            "bytes": 255938
+          }
+        ]
+      }
+    },
+    "tarjeta-six-flags-mexico.jpg": {
+      "sha256": "3ece26f52a43982c029d8c583a734fb796073727a2daa48709885ee3bf53f925",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-six-flags-mexico/3ece26f52a43-w480.avif",
+            "width": 480,
+            "bytes": 27289
+          },
+          {
+            "file": "responsive/tarjeta-six-flags-mexico/3ece26f52a43-w768.avif",
+            "width": 768,
+            "bytes": 51536
+          },
+          {
+            "file": "responsive/tarjeta-six-flags-mexico/3ece26f52a43-w1200.avif",
+            "width": 1200,
+            "bytes": 86669
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-six-flags-mexico/3ece26f52a43-w480.webp",
+            "width": 480,
+            "bytes": 39186
+          },
+          {
+            "file": "responsive/tarjeta-six-flags-mexico/3ece26f52a43-w768.webp",
+            "width": 768,
+            "bytes": 80032
+          },
+          {
+            "file": "responsive/tarjeta-six-flags-mexico/3ece26f52a43-w1200.webp",
+            "width": 1200,
+            "bytes": 150062
+          }
+        ]
+      }
+    },
+    "tarjeta-fantasilandia-san-bernardo-2027.jpg": {
+      "sha256": "4b96639882ba7f5054aa172dfe7ff6bc28327a3cde657f08bbf67685d029ddcb",
+      "original_width": 1600,
+      "original_height": 1199,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-fantasilandia-san-bernardo-2027/4b96639882ba-w480.avif",
+            "width": 480,
+            "bytes": 18741
+          },
+          {
+            "file": "responsive/tarjeta-fantasilandia-san-bernardo-2027/4b96639882ba-w768.avif",
+            "width": 768,
+            "bytes": 36929
+          },
+          {
+            "file": "responsive/tarjeta-fantasilandia-san-bernardo-2027/4b96639882ba-w1200.avif",
+            "width": 1200,
+            "bytes": 66545
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-fantasilandia-san-bernardo-2027/4b96639882ba-w480.webp",
+            "width": 480,
+            "bytes": 29326
+          },
+          {
+            "file": "responsive/tarjeta-fantasilandia-san-bernardo-2027/4b96639882ba-w768.webp",
+            "width": 768,
+            "bytes": 60922
+          },
+          {
+            "file": "responsive/tarjeta-fantasilandia-san-bernardo-2027/4b96639882ba-w1200.webp",
+            "width": 1200,
+            "bytes": 119670
+          }
+        ]
+      }
+    },
+    "tarjeta-fuji-q-highland.jpg": {
+      "sha256": "56244be82db6e11a77851868c046e521fa06b41a2162cda5d61870e8dd33788c",
+      "original_width": 1600,
+      "original_height": 1017,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-fuji-q-highland/56244be82db6-w480.avif",
+            "width": 480,
+            "bytes": 13746
+          },
+          {
+            "file": "responsive/tarjeta-fuji-q-highland/56244be82db6-w768.avif",
+            "width": 768,
+            "bytes": 28758
+          },
+          {
+            "file": "responsive/tarjeta-fuji-q-highland/56244be82db6-w1200.avif",
+            "width": 1200,
+            "bytes": 56570
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-fuji-q-highland/56244be82db6-w480.webp",
+            "width": 480,
+            "bytes": 21908
+          },
+          {
+            "file": "responsive/tarjeta-fuji-q-highland/56244be82db6-w768.webp",
+            "width": 768,
+            "bytes": 48164
+          },
+          {
+            "file": "responsive/tarjeta-fuji-q-highland/56244be82db6-w1200.webp",
+            "width": 1200,
+            "bytes": 101076
+          }
+        ]
+      }
+    },
+    "tarjeta-hong-kong-disneyland.jpg": {
+      "sha256": "3aa2df3500c75ec14f4e4f2703b32140ea3fa2dc4055abd744886cf3b9c4a1e9",
+      "original_width": 1600,
+      "original_height": 1061,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-hong-kong-disneyland/3aa2df3500c7-w480.avif",
+            "width": 480,
+            "bytes": 16753
+          },
+          {
+            "file": "responsive/tarjeta-hong-kong-disneyland/3aa2df3500c7-w768.avif",
+            "width": 768,
+            "bytes": 41256
+          },
+          {
+            "file": "responsive/tarjeta-hong-kong-disneyland/3aa2df3500c7-w1200.avif",
+            "width": 1200,
+            "bytes": 98944
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-hong-kong-disneyland/3aa2df3500c7-w480.webp",
+            "width": 480,
+            "bytes": 26902
+          },
+          {
+            "file": "responsive/tarjeta-hong-kong-disneyland/3aa2df3500c7-w768.webp",
+            "width": 768,
+            "bytes": 64528
+          },
+          {
+            "file": "responsive/tarjeta-hong-kong-disneyland/3aa2df3500c7-w1200.webp",
+            "width": 1200,
+            "bytes": 150826
+          }
+        ]
+      }
+    },
+    "tarjeta-ocean-park-hong-kong.jpg": {
+      "sha256": "6842dd108f562f4737d2a3a4c80244151e3a091f2f09e12f3cc4b25a141db856",
+      "original_width": 1600,
+      "original_height": 1064,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-ocean-park-hong-kong/6842dd108f56-w480.avif",
+            "width": 480,
+            "bytes": 11466
+          },
+          {
+            "file": "responsive/tarjeta-ocean-park-hong-kong/6842dd108f56-w768.avif",
+            "width": 768,
+            "bytes": 25481
+          },
+          {
+            "file": "responsive/tarjeta-ocean-park-hong-kong/6842dd108f56-w1200.avif",
+            "width": 1200,
+            "bytes": 55213
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-ocean-park-hong-kong/6842dd108f56-w480.webp",
+            "width": 480,
+            "bytes": 20058
+          },
+          {
+            "file": "responsive/tarjeta-ocean-park-hong-kong/6842dd108f56-w768.webp",
+            "width": 768,
+            "bytes": 47038
+          },
+          {
+            "file": "responsive/tarjeta-ocean-park-hong-kong/6842dd108f56-w1200.webp",
+            "width": 1200,
+            "bytes": 108872
+          }
+        ]
+      }
+    },
+    "tarjeta-shanghai-disneyland.jpg": {
+      "sha256": "bed96d98d8358571f81a374b9e8c664dee7a0c7234a2f68c359690d3e735efcb",
+      "original_width": 1600,
+      "original_height": 1125,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-shanghai-disneyland/bed96d98d835-w480.avif",
+            "width": 480,
+            "bytes": 13216
+          },
+          {
+            "file": "responsive/tarjeta-shanghai-disneyland/bed96d98d835-w768.avif",
+            "width": 768,
+            "bytes": 27338
+          },
+          {
+            "file": "responsive/tarjeta-shanghai-disneyland/bed96d98d835-w1200.avif",
+            "width": 1200,
+            "bytes": 52708
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-shanghai-disneyland/bed96d98d835-w480.webp",
+            "width": 480,
+            "bytes": 20786
+          },
+          {
+            "file": "responsive/tarjeta-shanghai-disneyland/bed96d98d835-w768.webp",
+            "width": 768,
+            "bytes": 45022
+          },
+          {
+            "file": "responsive/tarjeta-shanghai-disneyland/bed96d98d835-w1200.webp",
+            "width": 1200,
+            "bytes": 91984
+          }
+        ]
+      }
     }
   }
 }
