@@ -1,499 +1,883 @@
 {
- "super-nintendo-world-power-up-band.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Power_up_bands_at_Super_Nintendo_World_(Universal_Studios_Japan).png",
-  "author": "Jonathan Deamer",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2024-08-11",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "super-nintendo-world-hollywood.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Super_Nintendo_World_(Universal_Studios_Hollywood)_1.jpg",
-  "author": "Jeremy Thompson",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "2023-01-29",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "super-nintendo-world-epic-universe.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Super_Nintendo_World_(Universal_Epic_Universe)_1.jpg",
-  "author": "Jeremy Thompson",
-  "license": "CC BY 4.0",
-  "license_url": "https://creativecommons.org/licenses/by/4.0",
-  "original_date": "2026-03-04",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "espectaculos-puy-du-fou.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Le_Signe_du_Triomphe_(Puy_du_fou).jpg",
-  "author": "GolDavis",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2023-07-22",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "puy-du-fou-mime-etoile.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Spectacle_Le_mime_et_l%27Etoile_(Puy_du_Fou).jpg",
-  "author": "GolDavis",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2023-07-22",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "puy-du-fou-vikings.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Puy_du_Fou.-_Les_Vikings,_(6).JPG",
-  "author": "PIERRE ANDRE LECLERCQ",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2013-09-13",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "puy-du-fou-cinescenie.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Le_Puy_du_Fou_spectacle_de_la_Cinescenie_(3).jpg",
-  "author": "Pierre André Leclercq",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2013-09-13",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "super-nintendo-world-usj.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:USJ_Super_Nintendo_World_overview.jpg",
-  "author": "Jpatokal",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2022-09-26",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "aquascope-futuroscope-banner.jpg": {
-  "source": "generada por Parkland Voyage (banner tipográfico, sin fotografía)",
-  "license": "propia"
- },
- "puy-du-fou-signe-triomphe.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Le_Signe_du_Triomphe_(puy_du_Fou).jpg",
-  "author": "GolDavis",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "puy-du-fou-vikings-aldea.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Puy_du_Fou.-_Les_Vikings_(bis)_(5).JPG",
-  "author": "Pierre André",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "puy-du-fou-vikings-jinete.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Puy_du_fou_28_(33237448174).jpg",
-  "author": "Sébastien FAILLON",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "disneyland-paris-familias-entrada.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Disneyland_Park_05,_Paris_22_August_2013.jpg",
-  "author": "flightlog",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "2013-08-22",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "disneyland-paris-casey-jr.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Train_ride_in_Disneyland_Paris_-_panoramio.jpg",
-  "author": "Andrei Dan Suciu",
-  "license": "CC BY 3.0",
-  "license_url": "https://creativecommons.org/licenses/by/3.0",
-  "original_date": "27 Decembe",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "epic-universe-celestial-park-aerea.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Celestial_Park.jpg",
-  "author": "Gfgbeach",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "original_date": "2025-04-04",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "epic-universe-puerta-chronos.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Chronos_Tower_Front_Epic_Universe.jpg",
-  "author": "Gfgbeach",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "original_date": "2025-04-17",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "epic-universe-portal-dark-universe.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Portal_of_Dark_Universe.jpg",
-  "author": "Gfgbeach",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "original_date": "2025-04-16",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "epic-universe-snw-tunel.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Super_Nintendo_World_(Universal_Epic_Universe)_2.jpg",
-  "author": "Jeremy Thompson",
-  "license": "CC BY 4.0",
-  "license_url": "https://creativecommons.org/licenses/by/4.0",
-  "original_date": "2026-03-04",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "epic-universe-hiccup-wing-gliders.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Hiccup%27s_Wing_Gliders_1.jpg",
-  "author": "Jeremy Thompson",
-  "license": "CC BY 4.0",
-  "license_url": "https://creativecommons.org/licenses/by/4.0",
-  "original_date": "2026-03-04",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "epic-universe-frankenstein-manor.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Frankenstein_Manor_Night_Epic_Universe.jpg",
-  "author": "Gfgbeach",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "original_date": "2025-04-17",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "disneyland-paris-hotel-new-york-noche.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Hotel_%22New_York%22_(7007364128).jpg",
-  "author": "Alias 0591 from the Netherlands",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "2012-05-04",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "disney-village-lago-atardecer.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Lac_Disney_at_sunset,_Disneyland_Paris,_2015.jpg",
-  "author": "DimiTalen",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "original_date": "2015-09-19",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "disneyland-paris-main-street-arcade.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Parc_Disneyland_-_Chessy_(FR77)_-_2025-10-13_-_40.jpg",
-  "author": "Chabe01",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2025-10-13",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "disneyland-paris-pista-hielo-hotel-ny.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Xtraice_Synthetic_Rink_in_Disneyland_(24566791149).jpg",
-  "author": "XTRAICE Synthetic Ice Rinks from Worldwide",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "2015-12-27",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "disneyland-paris-castillo-visitantes.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Parc_Disneyland_-_Chessy_(FR77)_-_2025-10-13_-_4.jpg",
-  "author": "Chabe01",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2025-10-13",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "disney-adventure-world-adventure-way.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:La_Fanfare_Disney,_Adventure_Way,_Disney_Adventure_World,_Disneyland_Paris.jpg",
-  "author": "Florent Abel",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2026",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "radiator-springs-racers-carrera.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Radiator_Springs_Racers_(18406621499).jpg",
-  "author": "HarshLight",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "2015",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "rise-resistance-hangar-soldados.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Rise_of_the_Resistance_Stormtrooper_Hangar.jpg",
-  "author": "Troutfarm27",
-  "license": "CC BY 4.0",
-  "license_url": "https://creativecommons.org/licenses/by/4.0",
-  "original_date": "2023",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "cosmic-rewind-epcot-entrada.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Guardians_of_the_Galaxy_Cosmic_Rewind_at_EPCOT.jpg",
-  "author": "Jedi94",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2022",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "hogwarts-islands-of-adventure.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Wizarding_World_of_Harry_Potter_Castle.jpg",
-  "author": "Carlos Cruz",
-  "license": "CC BY-SA 3.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "original_date": "2010",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "expedition-everest-lago.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Expedition_Everest_(42563557224).jpg",
-  "author": "HarshLight",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "club-33-puerta-disneyland.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Club_33,_New_Orleans_Square,_Disneyland,_Anaheim,_California_-_17380496445.jpg",
-  "author": "Ken Lund",
-  "license": "CC BY-SA 2.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-  "original_date": "2015",
-  "changes": "recortada y redimensionada a 1600 px, JPG"
- },
- "main-street-magic-kingdom-castillo.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Main_Street_Magic_Kingdom_Walt_Disney_World_(2452690822).jpg",
-  "author": "Michael Gray",
-  "license": "CC BY-SA 2.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-  "original_date": "2007",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "hidden-mickey-epcot-marruecos.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:HiddenMickeyEpcot.JPG",
-  "author": "UpstateNYer",
-  "license": "CC BY-SA 3.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "original_date": "2006",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "castillo-cenicienta-magic-kingdom.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Cinderella_Castle_January_2021.jpg",
-  "author": "Backattaxk251",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2021",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "six-flags-new-orleans-arcos.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:SIX_FLAGS_NEW_ORLEANS_Metal_Arches.jpg",
-  "author": "Erik Jorgensen",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "2012",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "nara-dreamland-abandonado-2014.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Nara_Dreamland_2014_(14573947601).jpg",
-  "author": "JP Haikyo",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "2014",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "pripyat-noria-abandonada.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Pripyat_ferris_wheel_hnapel_01.jpg",
-  "author": "Hnapel",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2018",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "universal-orlando-globo-noche.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Universal_Globe.jpg",
-  "author": "Eden, Janine and Jim",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "2024",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "universal-studios-florida-arco-entrada.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Universal_Studios_Florida_entrance_arch,_wide_view,_Universal_Studios_Florida,_June_2006_-_ThrillZing.jpg",
-  "author": "ThrillZing",
-  "license": "CC BY 4.0",
-  "license_url": "https://creativecommons.org/licenses/by/4.0",
-  "original_date": "2006",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "diagon-alley-dragon-gringotts.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Gringotts_Dragon_(42428011465).jpg",
-  "author": "HarshLight",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "islands-of-adventure-port-of-entry.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Port_of_Entry_1.jpg",
-  "author": "Jeremy Thompson",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "2012",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "velocicoaster-top-hat-noche.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:VelociCoaster_6.jpg",
-  "author": "Jeremy Thompson",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "2023",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "volcano-bay-krakatau-playa.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Volcano_Bay_(36829605694).jpg",
-  "author": "Paulo Guereta",
-  "license": "CC BY 2.0",
-  "license_url": "https://creativecommons.org/licenses/by/2.0",
-  "original_date": "",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "volcano-bay-krakatau-aqua-coaster.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Krakatau_Aqua_Coaster_(37170103801).jpg",
-  "author": "elisfkc",
-  "license": "CC BY-SA 2.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-  "original_date": "",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "epic-universe-ministry-of-magic-noche.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Skylineof_Wizarding_World_Ministry_of_Magic_at_night.jpg",
-  "author": "Gfgbeach",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "original_date": "2025",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "universal-citywalk-panoramica-noche.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Universal_CityWalk_Panorama.jpg",
-  "author": "Crapuipui",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2014",
-  "changes": "recortada y redimensionada a 1600 px, JPG"
- },
- "club-33-disneyland-bar.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Club_33_bar.jpg",
-  "author": "Space_Mountain_Mike",
-  "license": "CC BY-SA 3.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "original_date": "",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "magic-kingdom-fuegos-happily-ever-after.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Happily_Ever_After_Fireworks.jpg",
-  "author": "E2022",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2019",
-  "changes": "recortada y redimensionada a 1600 px, JPG"
- },
- "legoland-billund-miniland.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Billund_Legoland_12.jpg",
-  "author": "Andrzej Otrębski",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2022",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "universal-studios-hollywood-entrada.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Universal_Studios_Hollywood_main_entrance_courtyard.JPG",
-  "author": "BrokenSphere",
-  "license": "CC BY-SA 3.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "original_date": "2009",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "seaworld-orlando-pacific-point.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:SeaWorld_Orlando090.jpg",
-  "author": "matanya",
-  "license": "CC BY-SA 3.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "original_date": "2006",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "hollywood-studios-tower-of-terror.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Hollywood_Tower_Hotel.jpg",
-  "author": "Benjamin D. Esham",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2008",
-  "changes": "recortada y redimensionada a 1600 px, JPG"
- },
- "disney-california-adventure-pixar-pier-noche.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Pixar_Pier_lagoon,_California_Adventure,_Disneyland,_Anaheim,_California,_USA.jpg",
-  "author": "Cory Doctorow",
-  "license": "CC BY-SA 2.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
-  "original_date": "2019",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "hong-kong-disneyland-castillo.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Disneyland_Hong_Kong_-_Sleeping_Beauty_Castle_IMG_5416.JPG",
-  "author": "Deror_avi",
-  "license": "CC BY-SA 3.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "original_date": "2013",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "efteling-sprookjesbos-arbol.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Sprookjesbos_Efteling_-_6.jpeg",
-  "author": "Mbch331",
-  "license": "CC BY-SA 3.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "original_date": "",
-  "changes": "recortada y redimensionada a 1600 px, JPG"
- },
- "universal-beijing-globo.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Universal_Studios_Beijing_globe_square_(20210907121340).jpg",
-  "author": "N509FZ",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2021",
-  "changes": "redimensionada, JPG"
- },
- "portaventura-lago-mediterrania.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:PortAventura_Lake.JPG",
-  "author": "Andy C",
-  "license": "CC BY 3.0",
-  "license_url": "https://creativecommons.org/licenses/by/3.0",
-  "original_date": "2009",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "portaventura-dragon-khan-shambhala.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Dragon_Khan_and_Shambhala_from_far,_Port_Aventura,_2012.JPG",
-  "author": "Sotti",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "original_date": "2012",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "ferrari-land-red-force-vista.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Ferrari_land_vue_d%27ensemble.jpg",
-  "author": "ThomasPA34",
-  "license": "CC BY-SA 4.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-  "original_date": "2017",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "portaventura-halloween-entrada.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Entrada_a_PortAventura_Halloween.jpg",
-  "author": "Carlitos0802",
-  "license": "CC BY-SA 3.0",
-  "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
-  "original_date": "2012",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "portaventura-halloween-desfile.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Port_Aventura-Halloween_Parade_(7).jpg",
-  "author": "Alberto-g-rovi",
-  "license": "CC BY 3.0",
-  "license_url": "https://creativecommons.org/licenses/by/3.0",
-  "original_date": "2018",
-  "changes": "redimensionada a 1600 px, JPG"
- },
- "portaventura-hotel-gold-river-entrada.jpg": {
-  "source": "https://commons.wikimedia.org/wiki/File:Hotel_Gold_River_-_Far_West_Entrance.jpg",
-  "author": "Sotti",
-  "license": "CC0",
-  "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
-  "original_date": "2009",
-  "changes": "redimensionada a 1600 px, JPG"
- }
+  "super-nintendo-world-power-up-band.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Power_up_bands_at_Super_Nintendo_World_(Universal_Studios_Japan).png",
+    "author": "Jonathan Deamer",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2024-08-11",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "super-nintendo-world-hollywood.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Super_Nintendo_World_(Universal_Studios_Hollywood)_1.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2023-01-29",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "super-nintendo-world-epic-universe.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Super_Nintendo_World_(Universal_Epic_Universe)_1.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2026-03-04",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "espectaculos-puy-du-fou.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Le_Signe_du_Triomphe_(Puy_du_fou).jpg",
+    "author": "GolDavis",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2023-07-22",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "puy-du-fou-mime-etoile.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Spectacle_Le_mime_et_l%27Etoile_(Puy_du_Fou).jpg",
+    "author": "GolDavis",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2023-07-22",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "puy-du-fou-vikings.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Puy_du_Fou.-_Les_Vikings,_(6).JPG",
+    "author": "PIERRE ANDRE LECLERCQ",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2013-09-13",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "puy-du-fou-cinescenie.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Le_Puy_du_Fou_spectacle_de_la_Cinescenie_(3).jpg",
+    "author": "Pierre André Leclercq",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2013-09-13",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "super-nintendo-world-usj.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:USJ_Super_Nintendo_World_overview.jpg",
+    "author": "Jpatokal",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-09-26",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "aquascope-futuroscope-banner.jpg": {
+    "source": "generada por Parkland Voyage (banner tipográfico, sin fotografía)",
+    "license": "propia"
+  },
+  "puy-du-fou-signe-triomphe.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Le_Signe_du_Triomphe_(puy_du_Fou).jpg",
+    "author": "GolDavis",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "puy-du-fou-vikings-aldea.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Puy_du_Fou.-_Les_Vikings_(bis)_(5).JPG",
+    "author": "Pierre André",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "puy-du-fou-vikings-jinete.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Puy_du_fou_28_(33237448174).jpg",
+    "author": "Sébastien FAILLON",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "disneyland-paris-familias-entrada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Disneyland_Park_05,_Paris_22_August_2013.jpg",
+    "author": "flightlog",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2013-08-22",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "disneyland-paris-casey-jr.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Train_ride_in_Disneyland_Paris_-_panoramio.jpg",
+    "author": "Andrei Dan Suciu",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "27 Decembe",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "epic-universe-celestial-park-aerea.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Celestial_Park.jpg",
+    "author": "Gfgbeach",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2025-04-04",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "epic-universe-puerta-chronos.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Chronos_Tower_Front_Epic_Universe.jpg",
+    "author": "Gfgbeach",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2025-04-17",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "epic-universe-portal-dark-universe.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Portal_of_Dark_Universe.jpg",
+    "author": "Gfgbeach",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2025-04-16",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "epic-universe-snw-tunel.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Super_Nintendo_World_(Universal_Epic_Universe)_2.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2026-03-04",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "epic-universe-hiccup-wing-gliders.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hiccup%27s_Wing_Gliders_1.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2026-03-04",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "epic-universe-frankenstein-manor.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Frankenstein_Manor_Night_Epic_Universe.jpg",
+    "author": "Gfgbeach",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2025-04-17",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "disneyland-paris-hotel-new-york-noche.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_%22New_York%22_(7007364128).jpg",
+    "author": "Alias 0591 from the Netherlands",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2012-05-04",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "disney-village-lago-atardecer.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Lac_Disney_at_sunset,_Disneyland_Paris,_2015.jpg",
+    "author": "DimiTalen",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2015-09-19",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "disneyland-paris-main-street-arcade.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Parc_Disneyland_-_Chessy_(FR77)_-_2025-10-13_-_40.jpg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2025-10-13",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "disneyland-paris-pista-hielo-hotel-ny.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Xtraice_Synthetic_Rink_in_Disneyland_(24566791149).jpg",
+    "author": "XTRAICE Synthetic Ice Rinks from Worldwide",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2015-12-27",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "disneyland-paris-castillo-visitantes.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Parc_Disneyland_-_Chessy_(FR77)_-_2025-10-13_-_4.jpg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2025-10-13",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "disney-adventure-world-adventure-way.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:La_Fanfare_Disney,_Adventure_Way,_Disney_Adventure_World,_Disneyland_Paris.jpg",
+    "author": "Florent Abel",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2026",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "radiator-springs-racers-carrera.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Radiator_Springs_Racers_(18406621499).jpg",
+    "author": "HarshLight",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2015",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "rise-resistance-hangar-soldados.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Rise_of_the_Resistance_Stormtrooper_Hangar.jpg",
+    "author": "Troutfarm27",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2023",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "cosmic-rewind-epcot-entrada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Guardians_of_the_Galaxy_Cosmic_Rewind_at_EPCOT.jpg",
+    "author": "Jedi94",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "hogwarts-islands-of-adventure.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Wizarding_World_of_Harry_Potter_Castle.jpg",
+    "author": "Carlos Cruz",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2010",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "expedition-everest-lago.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Expedition_Everest_(42563557224).jpg",
+    "author": "HarshLight",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "club-33-puerta-disneyland.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Club_33,_New_Orleans_Square,_Disneyland,_Anaheim,_California_-_17380496445.jpg",
+    "author": "Ken Lund",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2015",
+    "changes": "recortada y redimensionada a 1600 px, JPG"
+  },
+  "main-street-magic-kingdom-castillo.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Main_Street_Magic_Kingdom_Walt_Disney_World_(2452690822).jpg",
+    "author": "Michael Gray",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2007",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "hidden-mickey-epcot-marruecos.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:HiddenMickeyEpcot.JPG",
+    "author": "UpstateNYer",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2006",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "castillo-cenicienta-magic-kingdom.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Cinderella_Castle_January_2021.jpg",
+    "author": "Backattaxk251",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2021",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "six-flags-new-orleans-arcos.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:SIX_FLAGS_NEW_ORLEANS_Metal_Arches.jpg",
+    "author": "Erik Jorgensen",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2012",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "nara-dreamland-abandonado-2014.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Nara_Dreamland_2014_(14573947601).jpg",
+    "author": "JP Haikyo",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2014",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "pripyat-noria-abandonada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Pripyat_ferris_wheel_hnapel_01.jpg",
+    "author": "Hnapel",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "universal-orlando-globo-noche.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Universal_Globe.jpg",
+    "author": "Eden, Janine and Jim",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2024",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "universal-studios-florida-arco-entrada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Universal_Studios_Florida_entrance_arch,_wide_view,_Universal_Studios_Florida,_June_2006_-_ThrillZing.jpg",
+    "author": "ThrillZing",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2006",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "diagon-alley-dragon-gringotts.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Gringotts_Dragon_(42428011465).jpg",
+    "author": "HarshLight",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "islands-of-adventure-port-of-entry.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Port_of_Entry_1.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2012",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "velocicoaster-top-hat-noche.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:VelociCoaster_6.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2023",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "volcano-bay-krakatau-playa.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Volcano_Bay_(36829605694).jpg",
+    "author": "Paulo Guereta",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "volcano-bay-krakatau-aqua-coaster.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Krakatau_Aqua_Coaster_(37170103801).jpg",
+    "author": "elisfkc",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "epic-universe-ministry-of-magic-noche.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Skylineof_Wizarding_World_Ministry_of_Magic_at_night.jpg",
+    "author": "Gfgbeach",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2025",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "universal-citywalk-panoramica-noche.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Universal_CityWalk_Panorama.jpg",
+    "author": "Crapuipui",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2014",
+    "changes": "recortada y redimensionada a 1600 px, JPG"
+  },
+  "club-33-disneyland-bar.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Club_33_bar.jpg",
+    "author": "Space_Mountain_Mike",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "magic-kingdom-fuegos-happily-ever-after.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Happily_Ever_After_Fireworks.jpg",
+    "author": "E2022",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2019",
+    "changes": "recortada y redimensionada a 1600 px, JPG"
+  },
+  "legoland-billund-miniland.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Billund_Legoland_12.jpg",
+    "author": "Andrzej Otrębski",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "universal-studios-hollywood-entrada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Universal_Studios_Hollywood_main_entrance_courtyard.JPG",
+    "author": "BrokenSphere",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2009",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "seaworld-orlando-pacific-point.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:SeaWorld_Orlando090.jpg",
+    "author": "matanya",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2006",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "hollywood-studios-tower-of-terror.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hollywood_Tower_Hotel.jpg",
+    "author": "Benjamin D. Esham",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2008",
+    "changes": "recortada y redimensionada a 1600 px, JPG"
+  },
+  "disney-california-adventure-pixar-pier-noche.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Pixar_Pier_lagoon,_California_Adventure,_Disneyland,_Anaheim,_California,_USA.jpg",
+    "author": "Cory Doctorow",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2019",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "hong-kong-disneyland-castillo.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Disneyland_Hong_Kong_-_Sleeping_Beauty_Castle_IMG_5416.JPG",
+    "author": "Deror_avi",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2013",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "efteling-sprookjesbos-arbol.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Sprookjesbos_Efteling_-_6.jpeg",
+    "author": "Mbch331",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "",
+    "changes": "recortada y redimensionada a 1600 px, JPG"
+  },
+  "universal-beijing-globo.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Universal_Studios_Beijing_globe_square_(20210907121340).jpg",
+    "author": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2021",
+    "changes": "redimensionada, JPG"
+  },
+  "portaventura-lago-mediterrania.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:PortAventura_Lake.JPG",
+    "author": "Andy C",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "2009",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "portaventura-dragon-khan-shambhala.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dragon_Khan_and_Shambhala_from_far,_Port_Aventura,_2012.JPG",
+    "author": "Sotti",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2012",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "ferrari-land-red-force-vista.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_land_vue_d%27ensemble.jpg",
+    "author": "ThomasPA34",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2017",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "portaventura-halloween-entrada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Entrada_a_PortAventura_Halloween.jpg",
+    "author": "Carlitos0802",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2012",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "portaventura-halloween-desfile.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Port_Aventura-Halloween_Parade_(7).jpg",
+    "author": "Alberto-g-rovi",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "2018",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "portaventura-hotel-gold-river-entrada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_Gold_River_-_Far_West_Entrance.jpg",
+    "author": "Sotti",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2009",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-tarjeta-prioridad-acceso-facilitado-disneyland-paris.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Complexe_Disneyland_Paris_-_Chessy_(FR77)_-_2025-10-13_-_6.jpg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2025-10-13 09:22:20",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-como-evitar-colas-disneyland-paris.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Temps_d%27attente_sur_une_attraction_de_Disneyland_Paris.JPG",
+    "author": "Benoît Prieur",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2017-10-24 15:05:52",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-disneyland-paris.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:77700_Chessy,_France_-_panoramio_(10).jpg",
+    "author": "Almondox",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "Taken on 26 June 2014",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-port-aventura-world.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Vila_en_Port_Aventura._Catalu%C3%B1a_317.jpg",
+    "author": "Luis Miguel Bugallo Sánchez (Lmbuga)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2014-04-11 16:42:52",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-reservas-disneyland-paris-2027-2028.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Lac_Buena_Vista.jpg",
+    "author": "Fred Cherrygarden",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2019-12-04 08:50:47",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-planes-comida-disneyland-paris-2027.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Customers_checking_the_menu,_The_Royal_Pub,_Disney_Village,_Chessy,_2026.jpg",
+    "author": "DimiTalen",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2026-02-17 13:56:40",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-disneyland-paris-restaurantes.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Parc_Disneyland_-_Chessy_(FR77)_-_2025-10-13_-_40.jpg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2025-10-13 21:52:55",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-portaventura-hotel-entradas.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hotel_mansion_de_lucy_2016_pa.jpg",
+    "author": "ThomasPA34",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2016-04-09",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-mejor-epoca-portaventura.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Port_Aventura_Mediterr%C3%A0nia_(2).jpg",
+    "author": "Alberto-g-rovi",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "2018-11-10 11:43:40",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-entradas-parque-warner-baratas.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Entrada-parque-warner.jpg",
+    "author": "FDV",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2010-05-21",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-como-ir-portaventura-tren.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Estaci%C3%B3_de_Port_Aventura_01_2018.jpg",
+    "author": "9pm",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-11-04 12:46",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-ferrari-land.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_land_vue_d%27ensemble.jpg",
+    "author": "ThomasPA34",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2017-05-06",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-siam-park-tenerife.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Siam_Park_(31).jpg",
+    "author": "stephen jones",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2010-06-20 13:04:09",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-hoteles-disneyland-paris.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Vue_du_lac_de_Disney_Land_Paris.jpg",
+    "author": "Benoît Prieur",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2019-02-22 11:15:31",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-montanas-rusas-mas-rapidas-mundo.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_World_Rollercoaster_2_(13725746464).jpg",
+    "author": "MrT HK",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2013-09-01 00:00",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-disney-vs-universal-2026.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:The_Universal_globe_and_fountain_with_palms_behind,_Universal_Studios_Florida,_June_2006_-_ThrillZing.jpg",
+    "author": "ThrillZing",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2006-06-30",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-parque-warner-madrid.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Batman_Gotham_City_Escape_corkscrew.jpg",
+    "author": "Philippe-Minh Nguyen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "22 August 2023 (according to Exif data)",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-portaventura-vs-warner.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dragon_Khan_y_Shambhala_(2019)_12.jpg",
+    "author": "Artistosteles",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2019-09-23 14:26:39",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-top-montanas-rusas-espana.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Port_aventura_(7992073128).jpg",
+    "author": "amaianos from Galicia",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2012-01-11 16:12",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-atracciones-cerradas-peligrosas.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:TheSmiler2015(2).JPG",
+    "author": "BenBowser",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2015-05-28 12:29:43",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-montanas-rusas-mas-altas-mundo.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Top_Thrill_Dragster_-_panoramio_-_Eric_Marshall_(1).jpg",
+    "author": "Eric Marshall",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "12 September 2010 (original upload date)",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-experiencias-vip-parques-tematicos.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Club_33_Le_Salon_Nouveau.jpg",
+    "author": "Louiemantia",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2017-07-13 23:06:35",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-mejores-parques-tematicos-mundo.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Laika_ac_Tokyo_DisneySea_(7861651212).jpg",
+    "author": "Laika ac from USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2012-07-29 22:04",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-parques-tematicos-sobrevalorados.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Disneyland_Hong_Kong_-_Sleeping_Beauty_Castle_IMG_5416.JPG",
+    "author": "Deror_avi",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2013-08-11 09:24:54",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-boda-disney.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Grand_Floridian_Wedding_Pavilion_(43797262195).jpg",
+    "author": "Frank Phillips",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2018-02-16 21:53",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-que-llevar-parque-tematico.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Complexe_Disneyland_Paris_-_Chessy_(FR77)_-_2025-10-13_-_5.jpg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2025-10-13 09:17:18",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-apps-parques-tematicos-imprescindibles.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:FastPass%2B_entrance_Under_the_Sea_Magic_Kingdom.jpg",
+    "author": "Theme Park Tourist",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2015-10-26 00:48",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-entradas-parques-tematicos-baratas.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Disneyland_Main_Entrance_(June_2025).jpg",
+    "author": "Fred Cherrygarden",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2025-06-19 18:24:57",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-montanas-rusas-terrorificas-mundo.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Fuji-q_Highlander_%2B_Fujisan_(15425702569).jpg",
+    "author": "Cesar I. Martins from Jundiai, Brazil",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2014-07-14 15:43",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-errores-parques-tematicos.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Disneyland_Main_Entrance_(53440858382).jpg",
+    "author": "Dick Thomas Johnson from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2023-11-29 08:18",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-cuanto-cuesta-visitar-todos-disney.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Enchanted_Storybook_Castle_(125424).jpg",
+    "author": "Riku Lu",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2016-08-18",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-europa-park.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Europa_Park_2018_(6).jpg",
+    "author": "Joseolgon",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-08-21 13:25:57",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-efteling.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Efteling_The_House_of_the_Five_Senses.jpg",
+    "author": "Rémih",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-07-08 19:56:17",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-canadas-wonderland.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Wonder_Mountain_at_Canadas_Wonderland.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2012-09-15 10:32",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-cedar-point-guia-completa.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:A_Millennium_Force_train_cresting_an_airtime_hill_with_the_Top_Thrill_2_tower_behind_at_Cedar_Point_-_ThrillZing.jpg",
+    "author": "ThrillZing",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2026-09-13",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-universal-orlando-resort-guia-completa.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Wizarding_World_of_Harry_Potter_Castle.jpg",
+    "author": "Carlos Cruz",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2010-06-25",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-walt-disney-world-orlando.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:1_epcot_spaceship_earth_2010a.JPG",
+    "author": "chensiyuan",
+    "license": "Public domain",
+    "license_url": "",
+    "original_date": "2010-05-19 13:33:53",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-universal-orlando-en-familia.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Seuss_Landing.jpg",
+    "author": "David Bjorgen",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "original_date": "2004-08-30",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-six-flags-fiesta-texas.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Iron_Rattler_24.jpg",
+    "author": "Martin Lewison from Forest Hills, NY, U.S.A.",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2013-08-17 15:00",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-beto-carrero-world.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Beto_Carrero_-_panoramio_(2).jpg",
+    "author": "caetano051068",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "Taken on 18 April 2013",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-xcaret-mexico.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Xcaret-vista_a_la_playa.jpg",
+    "author": "Gomezjanette",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2008-01-01 12:08:08",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-xplor-riviera-maya.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Xplor,_Mexico_-_panoramio.jpg",
+    "author": "Николай Максимович",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "Taken on 15 March 2012",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-xelha-mexico.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Xel-Ha_caleta_-_panoramio.jpg",
+    "author": "holachetumal",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "Taken on 26 July 2014",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-beach-park-brasil.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Beach_Park_(1).png",
+    "author": "Ana Paula Hirama",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2014-09-20 20:15:20",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-hopi-hari.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Parque_Hopi_Hari._Foto_de_2023..jpg",
+    "author": "Cleber Giovane dos Santos",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2023-01-27",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-universal-studios-japan.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:USJ_Super_Nintendo_World_overview.jpg",
+    "author": "Jpatokal",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-09-26 16:53:17",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-tokyo-disneysea.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo_DisneySea_Mediterranean_Harbour_Venice_20130607.jpg",
+    "author": "Wing1990hk",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "2013-06-07",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "tarjeta-tokyo-disneyland.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Disneyland_Cinderella_Castle_(53441923868).jpg",
+    "author": "Dick Thomas Johnson from Tokyo, Japan",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2023-11-29 08:42",
+    "changes": "redimensionada a 1600 px, JPG"
+  }
 }

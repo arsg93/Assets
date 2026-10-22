@@ -24192,6 +24192,3015 @@
           }
         ]
       }
+    },
+    "tarjeta-tarjeta-prioridad-acceso-facilitado-disneyland-paris.jpg": {
+      "sha256": "d91c0eea3f13acdacef0b807a52075ec4faeb625586612570b22f816e895a452",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-tarjeta-prioridad-acceso-facilitado-disneyland-paris/d91c0eea3f13-w480.avif",
+            "width": 480,
+            "bytes": 17132
+          },
+          {
+            "file": "responsive/tarjeta-tarjeta-prioridad-acceso-facilitado-disneyland-paris/d91c0eea3f13-w768.avif",
+            "width": 768,
+            "bytes": 44359
+          },
+          {
+            "file": "responsive/tarjeta-tarjeta-prioridad-acceso-facilitado-disneyland-paris/d91c0eea3f13-w1200.avif",
+            "width": 1200,
+            "bytes": 121225
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-tarjeta-prioridad-acceso-facilitado-disneyland-paris/d91c0eea3f13-w480.webp",
+            "width": 480,
+            "bytes": 28454
+          },
+          {
+            "file": "responsive/tarjeta-tarjeta-prioridad-acceso-facilitado-disneyland-paris/d91c0eea3f13-w768.webp",
+            "width": 768,
+            "bytes": 73244
+          },
+          {
+            "file": "responsive/tarjeta-tarjeta-prioridad-acceso-facilitado-disneyland-paris/d91c0eea3f13-w1200.webp",
+            "width": 1200,
+            "bytes": 195528
+          }
+        ]
+      }
+    },
+    "tarjeta-como-evitar-colas-disneyland-paris.jpg": {
+      "sha256": "c4fc7a8dea22d04cf75647a0a171e6af22630072bba164f32bdaabc256988b5a",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-como-evitar-colas-disneyland-paris/c4fc7a8dea22-w480.avif",
+            "width": 480,
+            "bytes": 18494
+          },
+          {
+            "file": "responsive/tarjeta-como-evitar-colas-disneyland-paris/c4fc7a8dea22-w768.avif",
+            "width": 768,
+            "bytes": 36267
+          },
+          {
+            "file": "responsive/tarjeta-como-evitar-colas-disneyland-paris/c4fc7a8dea22-w1200.avif",
+            "width": 1200,
+            "bytes": 69153
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-como-evitar-colas-disneyland-paris/c4fc7a8dea22-w480.webp",
+            "width": 480,
+            "bytes": 31182
+          },
+          {
+            "file": "responsive/tarjeta-como-evitar-colas-disneyland-paris/c4fc7a8dea22-w768.webp",
+            "width": 768,
+            "bytes": 65516
+          },
+          {
+            "file": "responsive/tarjeta-como-evitar-colas-disneyland-paris/c4fc7a8dea22-w1200.webp",
+            "width": 1200,
+            "bytes": 129912
+          }
+        ]
+      }
+    },
+    "tarjeta-disneyland-paris.jpg": {
+      "sha256": "a5e7831b96c07a9d35f19c7c0a86f6b03fc55ae0d06dd1aff8c6446f71b4d647",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-disneyland-paris/a5e7831b96c0-w480.avif",
+            "width": 480,
+            "bytes": 19930
+          },
+          {
+            "file": "responsive/tarjeta-disneyland-paris/a5e7831b96c0-w768.avif",
+            "width": 768,
+            "bytes": 44213
+          },
+          {
+            "file": "responsive/tarjeta-disneyland-paris/a5e7831b96c0-w1200.avif",
+            "width": 1200,
+            "bytes": 90803
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-disneyland-paris/a5e7831b96c0-w480.webp",
+            "width": 480,
+            "bytes": 30218
+          },
+          {
+            "file": "responsive/tarjeta-disneyland-paris/a5e7831b96c0-w768.webp",
+            "width": 768,
+            "bytes": 68136
+          },
+          {
+            "file": "responsive/tarjeta-disneyland-paris/a5e7831b96c0-w1200.webp",
+            "width": 1200,
+            "bytes": 144444
+          }
+        ]
+      }
+    },
+    "tarjeta-port-aventura-world.jpg": {
+      "sha256": "ca0c6c57a54601df01a81a1ed446254c246c67c77a8d12ed80d44face183d84d",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-port-aventura-world/ca0c6c57a546-w480.avif",
+            "width": 480,
+            "bytes": 18582
+          },
+          {
+            "file": "responsive/tarjeta-port-aventura-world/ca0c6c57a546-w768.avif",
+            "width": 768,
+            "bytes": 43155
+          },
+          {
+            "file": "responsive/tarjeta-port-aventura-world/ca0c6c57a546-w1200.avif",
+            "width": 1200,
+            "bytes": 96003
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-port-aventura-world/ca0c6c57a546-w480.webp",
+            "width": 480,
+            "bytes": 29018
+          },
+          {
+            "file": "responsive/tarjeta-port-aventura-world/ca0c6c57a546-w768.webp",
+            "width": 768,
+            "bytes": 70204
+          },
+          {
+            "file": "responsive/tarjeta-port-aventura-world/ca0c6c57a546-w1200.webp",
+            "width": 1200,
+            "bytes": 160498
+          }
+        ]
+      }
+    },
+    "tarjeta-reservas-disneyland-paris-2027-2028.jpg": {
+      "sha256": "8c4f672134b70566d1917b1eda3e7883ceb13d44893beceb923c5dd32034add9",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-reservas-disneyland-paris-2027-2028/8c4f672134b7-w480.avif",
+            "width": 480,
+            "bytes": 5540
+          },
+          {
+            "file": "responsive/tarjeta-reservas-disneyland-paris-2027-2028/8c4f672134b7-w768.avif",
+            "width": 768,
+            "bytes": 12207
+          },
+          {
+            "file": "responsive/tarjeta-reservas-disneyland-paris-2027-2028/8c4f672134b7-w1200.avif",
+            "width": 1200,
+            "bytes": 28274
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-reservas-disneyland-paris-2027-2028/8c4f672134b7-w480.webp",
+            "width": 480,
+            "bytes": 10580
+          },
+          {
+            "file": "responsive/tarjeta-reservas-disneyland-paris-2027-2028/8c4f672134b7-w768.webp",
+            "width": 768,
+            "bytes": 24440
+          },
+          {
+            "file": "responsive/tarjeta-reservas-disneyland-paris-2027-2028/8c4f672134b7-w1200.webp",
+            "width": 1200,
+            "bytes": 56916
+          }
+        ]
+      }
+    },
+    "tarjeta-planes-comida-disneyland-paris-2027.jpg": {
+      "sha256": "f87bc6221d7ee208a7978685e35d577064e45ef43cbb4f83de31081e6cf2624f",
+      "original_width": 1600,
+      "original_height": 1066,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-planes-comida-disneyland-paris-2027/f87bc6221d7e-w480.avif",
+            "width": 480,
+            "bytes": 11215
+          },
+          {
+            "file": "responsive/tarjeta-planes-comida-disneyland-paris-2027/f87bc6221d7e-w768.avif",
+            "width": 768,
+            "bytes": 20528
+          },
+          {
+            "file": "responsive/tarjeta-planes-comida-disneyland-paris-2027/f87bc6221d7e-w1200.avif",
+            "width": 1200,
+            "bytes": 35974
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-planes-comida-disneyland-paris-2027/f87bc6221d7e-w480.webp",
+            "width": 480,
+            "bytes": 19388
+          },
+          {
+            "file": "responsive/tarjeta-planes-comida-disneyland-paris-2027/f87bc6221d7e-w768.webp",
+            "width": 768,
+            "bytes": 37418
+          },
+          {
+            "file": "responsive/tarjeta-planes-comida-disneyland-paris-2027/f87bc6221d7e-w1200.webp",
+            "width": 1200,
+            "bytes": 70462
+          }
+        ]
+      }
+    },
+    "tarjeta-disneyland-paris-restaurantes.jpg": {
+      "sha256": "bd5583a2cedb06a34c2463dae33d51c3dad607c07476b88b96eb9b90e106585f",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-disneyland-paris-restaurantes/bd5583a2cedb-w480.avif",
+            "width": 480,
+            "bytes": 29520
+          },
+          {
+            "file": "responsive/tarjeta-disneyland-paris-restaurantes/bd5583a2cedb-w768.avif",
+            "width": 768,
+            "bytes": 61832
+          },
+          {
+            "file": "responsive/tarjeta-disneyland-paris-restaurantes/bd5583a2cedb-w1200.avif",
+            "width": 1200,
+            "bytes": 120070
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-disneyland-paris-restaurantes/bd5583a2cedb-w480.webp",
+            "width": 480,
+            "bytes": 46130
+          },
+          {
+            "file": "responsive/tarjeta-disneyland-paris-restaurantes/bd5583a2cedb-w768.webp",
+            "width": 768,
+            "bytes": 100368
+          },
+          {
+            "file": "responsive/tarjeta-disneyland-paris-restaurantes/bd5583a2cedb-w1200.webp",
+            "width": 1200,
+            "bytes": 205954
+          }
+        ]
+      }
+    },
+    "tarjeta-portaventura-hotel-entradas.jpg": {
+      "sha256": "a7efa03ae833a9e221ebd76ba0430b1276167675b80baa2e4f6693a5730506ea",
+      "original_width": 1600,
+      "original_height": 892,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-portaventura-hotel-entradas/a7efa03ae833-w480.avif",
+            "width": 480,
+            "bytes": 12609
+          },
+          {
+            "file": "responsive/tarjeta-portaventura-hotel-entradas/a7efa03ae833-w768.avif",
+            "width": 768,
+            "bytes": 28264
+          },
+          {
+            "file": "responsive/tarjeta-portaventura-hotel-entradas/a7efa03ae833-w1200.avif",
+            "width": 1200,
+            "bytes": 61942
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-portaventura-hotel-entradas/a7efa03ae833-w480.webp",
+            "width": 480,
+            "bytes": 21116
+          },
+          {
+            "file": "responsive/tarjeta-portaventura-hotel-entradas/a7efa03ae833-w768.webp",
+            "width": 768,
+            "bytes": 48636
+          },
+          {
+            "file": "responsive/tarjeta-portaventura-hotel-entradas/a7efa03ae833-w1200.webp",
+            "width": 1200,
+            "bytes": 105998
+          }
+        ]
+      }
+    },
+    "tarjeta-mejor-epoca-portaventura.jpg": {
+      "sha256": "8ecef5540af683e960a14774d53ae35e61d8e5f20136f189c42d3a96a1888e21",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-mejor-epoca-portaventura/8ecef5540af6-w480.avif",
+            "width": 480,
+            "bytes": 23710
+          },
+          {
+            "file": "responsive/tarjeta-mejor-epoca-portaventura/8ecef5540af6-w768.avif",
+            "width": 768,
+            "bytes": 57315
+          },
+          {
+            "file": "responsive/tarjeta-mejor-epoca-portaventura/8ecef5540af6-w1200.avif",
+            "width": 1200,
+            "bytes": 134094
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-mejor-epoca-portaventura/8ecef5540af6-w480.webp",
+            "width": 480,
+            "bytes": 33956
+          },
+          {
+            "file": "responsive/tarjeta-mejor-epoca-portaventura/8ecef5540af6-w768.webp",
+            "width": 768,
+            "bytes": 82244
+          },
+          {
+            "file": "responsive/tarjeta-mejor-epoca-portaventura/8ecef5540af6-w1200.webp",
+            "width": 1200,
+            "bytes": 194212
+          }
+        ]
+      }
+    },
+    "tarjeta-entradas-parque-warner-baratas.jpg": {
+      "sha256": "f144ace534b9c6fdee0b47b9088a1d2b7ca64f5fca5bd8f538d57e6f6d696744",
+      "original_width": 1600,
+      "original_height": 1042,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-entradas-parque-warner-baratas/f144ace534b9-w480.avif",
+            "width": 480,
+            "bytes": 9170
+          },
+          {
+            "file": "responsive/tarjeta-entradas-parque-warner-baratas/f144ace534b9-w768.avif",
+            "width": 768,
+            "bytes": 20186
+          },
+          {
+            "file": "responsive/tarjeta-entradas-parque-warner-baratas/f144ace534b9-w1200.avif",
+            "width": 1200,
+            "bytes": 43249
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-entradas-parque-warner-baratas/f144ace534b9-w480.webp",
+            "width": 480,
+            "bytes": 17356
+          },
+          {
+            "file": "responsive/tarjeta-entradas-parque-warner-baratas/f144ace534b9-w768.webp",
+            "width": 768,
+            "bytes": 39318
+          },
+          {
+            "file": "responsive/tarjeta-entradas-parque-warner-baratas/f144ace534b9-w1200.webp",
+            "width": 1200,
+            "bytes": 86724
+          }
+        ]
+      }
+    },
+    "tarjeta-parque-warner-beach.jpg": {
+      "sha256": "23e317a814369fb6f51483910e10ec96b9210595f909ea03bd9fccea1811dc25",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-parque-warner-beach/23e317a81436-w480.avif",
+            "width": 480,
+            "bytes": 4500
+          },
+          {
+            "file": "responsive/tarjeta-parque-warner-beach/23e317a81436-w768.avif",
+            "width": 768,
+            "bytes": 5940
+          },
+          {
+            "file": "responsive/tarjeta-parque-warner-beach/23e317a81436-w1200.avif",
+            "width": 1200,
+            "bytes": 8130
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-parque-warner-beach/23e317a81436-w480.webp",
+            "width": 480,
+            "bytes": 8012
+          },
+          {
+            "file": "responsive/tarjeta-parque-warner-beach/23e317a81436-w768.webp",
+            "width": 768,
+            "bytes": 14002
+          },
+          {
+            "file": "responsive/tarjeta-parque-warner-beach/23e317a81436-w1200.webp",
+            "width": 1200,
+            "bytes": 22342
+          }
+        ]
+      }
+    },
+    "tarjeta-como-ir-portaventura-tren.jpg": {
+      "sha256": "cd660cf096dbf7e69f5c1fb0d2a3fa50b1a244cc3a7ba869ad366e6629f9013b",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-como-ir-portaventura-tren/cd660cf096db-w480.avif",
+            "width": 480,
+            "bytes": 14791
+          },
+          {
+            "file": "responsive/tarjeta-como-ir-portaventura-tren/cd660cf096db-w768.avif",
+            "width": 768,
+            "bytes": 41166
+          },
+          {
+            "file": "responsive/tarjeta-como-ir-portaventura-tren/cd660cf096db-w1200.avif",
+            "width": 1200,
+            "bytes": 110272
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-como-ir-portaventura-tren/cd660cf096db-w480.webp",
+            "width": 480,
+            "bytes": 25244
+          },
+          {
+            "file": "responsive/tarjeta-como-ir-portaventura-tren/cd660cf096db-w768.webp",
+            "width": 768,
+            "bytes": 67146
+          },
+          {
+            "file": "responsive/tarjeta-como-ir-portaventura-tren/cd660cf096db-w1200.webp",
+            "width": 1200,
+            "bytes": 174074
+          }
+        ]
+      }
+    },
+    "tarjeta-ferrari-land.jpg": {
+      "sha256": "7cbcd03702f50dc94f764963056d7b6d6ff46d6649c46834473ecbef8a69841d",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-ferrari-land/7cbcd03702f5-w480.avif",
+            "width": 480,
+            "bytes": 10480
+          },
+          {
+            "file": "responsive/tarjeta-ferrari-land/7cbcd03702f5-w768.avif",
+            "width": 768,
+            "bytes": 22399
+          },
+          {
+            "file": "responsive/tarjeta-ferrari-land/7cbcd03702f5-w1200.avif",
+            "width": 1200,
+            "bytes": 45193
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-ferrari-land/7cbcd03702f5-w480.webp",
+            "width": 480,
+            "bytes": 16242
+          },
+          {
+            "file": "responsive/tarjeta-ferrari-land/7cbcd03702f5-w768.webp",
+            "width": 768,
+            "bytes": 36454
+          },
+          {
+            "file": "responsive/tarjeta-ferrari-land/7cbcd03702f5-w1200.webp",
+            "width": 1200,
+            "bytes": 77540
+          }
+        ]
+      }
+    },
+    "tarjeta-portaventura-navidad.jpg": {
+      "sha256": "4aa3de2e18ac87370d89c33dfe54bf3aeb8f23e6e32db66f0057d5f6ba06b675",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-portaventura-navidad/4aa3de2e18ac-w480.avif",
+            "width": 480,
+            "bytes": 3824
+          },
+          {
+            "file": "responsive/tarjeta-portaventura-navidad/4aa3de2e18ac-w768.avif",
+            "width": 768,
+            "bytes": 5645
+          },
+          {
+            "file": "responsive/tarjeta-portaventura-navidad/4aa3de2e18ac-w1200.avif",
+            "width": 1200,
+            "bytes": 8605
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-portaventura-navidad/4aa3de2e18ac-w480.webp",
+            "width": 480,
+            "bytes": 6270
+          },
+          {
+            "file": "responsive/tarjeta-portaventura-navidad/4aa3de2e18ac-w768.webp",
+            "width": 768,
+            "bytes": 11394
+          },
+          {
+            "file": "responsive/tarjeta-portaventura-navidad/4aa3de2e18ac-w1200.webp",
+            "width": 1200,
+            "bytes": 18004
+          }
+        ]
+      }
+    },
+    "tarjeta-siam-park-tenerife.jpg": {
+      "sha256": "291d1bd0f6a353286bf1c27e54a5730582c18fc25fbea2344f12211b93ea400d",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-siam-park-tenerife/291d1bd0f6a3-w480.avif",
+            "width": 480,
+            "bytes": 18699
+          },
+          {
+            "file": "responsive/tarjeta-siam-park-tenerife/291d1bd0f6a3-w768.avif",
+            "width": 768,
+            "bytes": 38516
+          },
+          {
+            "file": "responsive/tarjeta-siam-park-tenerife/291d1bd0f6a3-w1200.avif",
+            "width": 1200,
+            "bytes": 76258
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-siam-park-tenerife/291d1bd0f6a3-w480.webp",
+            "width": 480,
+            "bytes": 29868
+          },
+          {
+            "file": "responsive/tarjeta-siam-park-tenerife/291d1bd0f6a3-w768.webp",
+            "width": 768,
+            "bytes": 64794
+          },
+          {
+            "file": "responsive/tarjeta-siam-park-tenerife/291d1bd0f6a3-w1200.webp",
+            "width": 1200,
+            "bytes": 134104
+          }
+        ]
+      }
+    },
+    "tarjeta-parque-warner-halloween.jpg": {
+      "sha256": "aefc28d1256d86013d06a4f9d186898e4deba99cc4f113f5fa7005c85b38948b",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-parque-warner-halloween/aefc28d1256d-w480.avif",
+            "width": 480,
+            "bytes": 3732
+          },
+          {
+            "file": "responsive/tarjeta-parque-warner-halloween/aefc28d1256d-w768.avif",
+            "width": 768,
+            "bytes": 5053
+          },
+          {
+            "file": "responsive/tarjeta-parque-warner-halloween/aefc28d1256d-w1200.avif",
+            "width": 1200,
+            "bytes": 8386
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-parque-warner-halloween/aefc28d1256d-w480.webp",
+            "width": 480,
+            "bytes": 6310
+          },
+          {
+            "file": "responsive/tarjeta-parque-warner-halloween/aefc28d1256d-w768.webp",
+            "width": 768,
+            "bytes": 11738
+          },
+          {
+            "file": "responsive/tarjeta-parque-warner-halloween/aefc28d1256d-w1200.webp",
+            "width": 1200,
+            "bytes": 18986
+          }
+        ]
+      }
+    },
+    "tarjeta-hoteles-disneyland-paris.jpg": {
+      "sha256": "d3f2fcc2863e86fb26caa1f6dc47130dff469571a5f22f86b33f16071c33b90f",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-hoteles-disneyland-paris/d3f2fcc2863e-w480.avif",
+            "width": 480,
+            "bytes": 7260
+          },
+          {
+            "file": "responsive/tarjeta-hoteles-disneyland-paris/d3f2fcc2863e-w768.avif",
+            "width": 768,
+            "bytes": 16023
+          },
+          {
+            "file": "responsive/tarjeta-hoteles-disneyland-paris/d3f2fcc2863e-w1200.avif",
+            "width": 1200,
+            "bytes": 33505
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-hoteles-disneyland-paris/d3f2fcc2863e-w480.webp",
+            "width": 480,
+            "bytes": 13996
+          },
+          {
+            "file": "responsive/tarjeta-hoteles-disneyland-paris/d3f2fcc2863e-w768.webp",
+            "width": 768,
+            "bytes": 31748
+          },
+          {
+            "file": "responsive/tarjeta-hoteles-disneyland-paris/d3f2fcc2863e-w1200.webp",
+            "width": 1200,
+            "bytes": 70114
+          }
+        ]
+      }
+    },
+    "tarjeta-montanas-rusas-mas-rapidas-mundo.jpg": {
+      "sha256": "6200528edbcaced9d6e5dd4dfbd1383daf008e64cd872517a0e637aa56a129e5",
+      "original_width": 1600,
+      "original_height": 1064,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-montanas-rusas-mas-rapidas-mundo/6200528edbca-w480.avif",
+            "width": 480,
+            "bytes": 28625
+          },
+          {
+            "file": "responsive/tarjeta-montanas-rusas-mas-rapidas-mundo/6200528edbca-w768.avif",
+            "width": 768,
+            "bytes": 63835
+          },
+          {
+            "file": "responsive/tarjeta-montanas-rusas-mas-rapidas-mundo/6200528edbca-w1200.avif",
+            "width": 1200,
+            "bytes": 117445
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-montanas-rusas-mas-rapidas-mundo/6200528edbca-w480.webp",
+            "width": 480,
+            "bytes": 41880
+          },
+          {
+            "file": "responsive/tarjeta-montanas-rusas-mas-rapidas-mundo/6200528edbca-w768.webp",
+            "width": 768,
+            "bytes": 97930
+          },
+          {
+            "file": "responsive/tarjeta-montanas-rusas-mas-rapidas-mundo/6200528edbca-w1200.webp",
+            "width": 1200,
+            "bytes": 198206
+          }
+        ]
+      }
+    },
+    "tarjeta-disney-vs-universal-2026.jpg": {
+      "sha256": "4f247328e2af59440bb285f81c403acffba98d14410b2100547f157fe91a5f32",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-disney-vs-universal-2026/4f247328e2af-w480.avif",
+            "width": 480,
+            "bytes": 24871
+          },
+          {
+            "file": "responsive/tarjeta-disney-vs-universal-2026/4f247328e2af-w768.avif",
+            "width": 768,
+            "bytes": 61500
+          },
+          {
+            "file": "responsive/tarjeta-disney-vs-universal-2026/4f247328e2af-w1200.avif",
+            "width": 1200,
+            "bytes": 137093
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-disney-vs-universal-2026/4f247328e2af-w480.webp",
+            "width": 480,
+            "bytes": 37298
+          },
+          {
+            "file": "responsive/tarjeta-disney-vs-universal-2026/4f247328e2af-w768.webp",
+            "width": 768,
+            "bytes": 89860
+          },
+          {
+            "file": "responsive/tarjeta-disney-vs-universal-2026/4f247328e2af-w1200.webp",
+            "width": 1200,
+            "bytes": 204692
+          }
+        ]
+      }
+    },
+    "tarjeta-parque-warner-madrid.jpg": {
+      "sha256": "5ea59063366cdc8c7bebe4ca129229283c1e45632c9bf3d115bb4d84f745e1d9",
+      "original_width": 1600,
+      "original_height": 901,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-parque-warner-madrid/5ea59063366c-w480.avif",
+            "width": 480,
+            "bytes": 18827
+          },
+          {
+            "file": "responsive/tarjeta-parque-warner-madrid/5ea59063366c-w768.avif",
+            "width": 768,
+            "bytes": 41037
+          },
+          {
+            "file": "responsive/tarjeta-parque-warner-madrid/5ea59063366c-w1200.avif",
+            "width": 1200,
+            "bytes": 85256
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-parque-warner-madrid/5ea59063366c-w480.webp",
+            "width": 480,
+            "bytes": 27564
+          },
+          {
+            "file": "responsive/tarjeta-parque-warner-madrid/5ea59063366c-w768.webp",
+            "width": 768,
+            "bytes": 62306
+          },
+          {
+            "file": "responsive/tarjeta-parque-warner-madrid/5ea59063366c-w1200.webp",
+            "width": 1200,
+            "bytes": 133632
+          }
+        ]
+      }
+    },
+    "tarjeta-portaventura-vs-warner.jpg": {
+      "sha256": "bef7cc09869908bf60e398a6428c48bc434364752d1e644239d63b5c3382399f",
+      "original_width": 1600,
+      "original_height": 899,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-portaventura-vs-warner/bef7cc098699-w480.avif",
+            "width": 480,
+            "bytes": 12582
+          },
+          {
+            "file": "responsive/tarjeta-portaventura-vs-warner/bef7cc098699-w768.avif",
+            "width": 768,
+            "bytes": 26892
+          },
+          {
+            "file": "responsive/tarjeta-portaventura-vs-warner/bef7cc098699-w1200.avif",
+            "width": 1200,
+            "bytes": 57269
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-portaventura-vs-warner/bef7cc098699-w480.webp",
+            "width": 480,
+            "bytes": 21010
+          },
+          {
+            "file": "responsive/tarjeta-portaventura-vs-warner/bef7cc098699-w768.webp",
+            "width": 768,
+            "bytes": 46458
+          },
+          {
+            "file": "responsive/tarjeta-portaventura-vs-warner/bef7cc098699-w1200.webp",
+            "width": 1200,
+            "bytes": 99734
+          }
+        ]
+      }
+    },
+    "tarjeta-top-montanas-rusas-espana.jpg": {
+      "sha256": "a86607947dd2903998a63a36043dbb73930ec73da8d770d976e298e247b91a11",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-top-montanas-rusas-espana/a86607947dd2-w480.avif",
+            "width": 480,
+            "bytes": 16437
+          },
+          {
+            "file": "responsive/tarjeta-top-montanas-rusas-espana/a86607947dd2-w768.avif",
+            "width": 768,
+            "bytes": 32996
+          },
+          {
+            "file": "responsive/tarjeta-top-montanas-rusas-espana/a86607947dd2-w1200.avif",
+            "width": 1200,
+            "bytes": 62778
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-top-montanas-rusas-espana/a86607947dd2-w480.webp",
+            "width": 480,
+            "bytes": 27476
+          },
+          {
+            "file": "responsive/tarjeta-top-montanas-rusas-espana/a86607947dd2-w768.webp",
+            "width": 768,
+            "bytes": 56954
+          },
+          {
+            "file": "responsive/tarjeta-top-montanas-rusas-espana/a86607947dd2-w1200.webp",
+            "width": 1200,
+            "bytes": 134902
+          }
+        ]
+      }
+    },
+    "tarjeta-atracciones-cerradas-peligrosas.jpg": {
+      "sha256": "c3ff7805704596da9a9bf58e557ba9c94ebb53e5775a9f6888b4537f26bd23d5",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-atracciones-cerradas-peligrosas/c3ff78057045-w480.avif",
+            "width": 480,
+            "bytes": 21657
+          },
+          {
+            "file": "responsive/tarjeta-atracciones-cerradas-peligrosas/c3ff78057045-w768.avif",
+            "width": 768,
+            "bytes": 42868
+          },
+          {
+            "file": "responsive/tarjeta-atracciones-cerradas-peligrosas/c3ff78057045-w1200.avif",
+            "width": 1200,
+            "bytes": 79641
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-atracciones-cerradas-peligrosas/c3ff78057045-w480.webp",
+            "width": 480,
+            "bytes": 32320
+          },
+          {
+            "file": "responsive/tarjeta-atracciones-cerradas-peligrosas/c3ff78057045-w768.webp",
+            "width": 768,
+            "bytes": 67302
+          },
+          {
+            "file": "responsive/tarjeta-atracciones-cerradas-peligrosas/c3ff78057045-w1200.webp",
+            "width": 1200,
+            "bytes": 132330
+          }
+        ]
+      }
+    },
+    "tarjeta-montanas-rusas-mas-altas-mundo.jpg": {
+      "sha256": "207db078d79aab78ac204d75f6eec6d3b38ca1aedb9d8f8d969792a65924ab87",
+      "original_width": 1600,
+      "original_height": 1064,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-montanas-rusas-mas-altas-mundo/207db078d79a-w480.avif",
+            "width": 480,
+            "bytes": 15172
+          },
+          {
+            "file": "responsive/tarjeta-montanas-rusas-mas-altas-mundo/207db078d79a-w768.avif",
+            "width": 768,
+            "bytes": 35611
+          },
+          {
+            "file": "responsive/tarjeta-montanas-rusas-mas-altas-mundo/207db078d79a-w1200.avif",
+            "width": 1200,
+            "bytes": 77449
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-montanas-rusas-mas-altas-mundo/207db078d79a-w480.webp",
+            "width": 480,
+            "bytes": 24752
+          },
+          {
+            "file": "responsive/tarjeta-montanas-rusas-mas-altas-mundo/207db078d79a-w768.webp",
+            "width": 768,
+            "bytes": 58958
+          },
+          {
+            "file": "responsive/tarjeta-montanas-rusas-mas-altas-mundo/207db078d79a-w1200.webp",
+            "width": 1200,
+            "bytes": 134430
+          }
+        ]
+      }
+    },
+    "tarjeta-experiencias-vip-parques-tematicos.jpg": {
+      "sha256": "553e425ffb4a6d61a6b665c0853e4a9829275f09d35b0baecd35238765075edc",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-experiencias-vip-parques-tematicos/553e425ffb4a-w480.avif",
+            "width": 480,
+            "bytes": 14884
+          },
+          {
+            "file": "responsive/tarjeta-experiencias-vip-parques-tematicos/553e425ffb4a-w768.avif",
+            "width": 768,
+            "bytes": 30154
+          },
+          {
+            "file": "responsive/tarjeta-experiencias-vip-parques-tematicos/553e425ffb4a-w1200.avif",
+            "width": 1200,
+            "bytes": 59105
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-experiencias-vip-parques-tematicos/553e425ffb4a-w480.webp",
+            "width": 480,
+            "bytes": 26478
+          },
+          {
+            "file": "responsive/tarjeta-experiencias-vip-parques-tematicos/553e425ffb4a-w768.webp",
+            "width": 768,
+            "bytes": 55488
+          },
+          {
+            "file": "responsive/tarjeta-experiencias-vip-parques-tematicos/553e425ffb4a-w1200.webp",
+            "width": 1200,
+            "bytes": 118302
+          }
+        ]
+      }
+    },
+    "tarjeta-mejores-parques-tematicos-mundo.jpg": {
+      "sha256": "793a6c126f17b35eeb70dae4ca3b62b19bb629dad4295104627c039313231ace",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-mejores-parques-tematicos-mundo/793a6c126f17-w480.avif",
+            "width": 480,
+            "bytes": 11012
+          },
+          {
+            "file": "responsive/tarjeta-mejores-parques-tematicos-mundo/793a6c126f17-w768.avif",
+            "width": 768,
+            "bytes": 28437
+          },
+          {
+            "file": "responsive/tarjeta-mejores-parques-tematicos-mundo/793a6c126f17-w1200.avif",
+            "width": 1200,
+            "bytes": 71226
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-mejores-parques-tematicos-mundo/793a6c126f17-w480.webp",
+            "width": 480,
+            "bytes": 18324
+          },
+          {
+            "file": "responsive/tarjeta-mejores-parques-tematicos-mundo/793a6c126f17-w768.webp",
+            "width": 768,
+            "bytes": 46896
+          },
+          {
+            "file": "responsive/tarjeta-mejores-parques-tematicos-mundo/793a6c126f17-w1200.webp",
+            "width": 1200,
+            "bytes": 116526
+          }
+        ]
+      }
+    },
+    "tarjeta-parques-tematicos-sobrevalorados.jpg": {
+      "sha256": "c4e0db31ee31a0efd8731bef8808420b5a477446a35b034e9926bd7cfaa9c9f0",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-parques-tematicos-sobrevalorados/c4e0db31ee31-w480.avif",
+            "width": 480,
+            "bytes": 18034
+          },
+          {
+            "file": "responsive/tarjeta-parques-tematicos-sobrevalorados/c4e0db31ee31-w768.avif",
+            "width": 768,
+            "bytes": 39731
+          },
+          {
+            "file": "responsive/tarjeta-parques-tematicos-sobrevalorados/c4e0db31ee31-w1200.avif",
+            "width": 1200,
+            "bytes": 85767
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-parques-tematicos-sobrevalorados/c4e0db31ee31-w480.webp",
+            "width": 480,
+            "bytes": 27150
+          },
+          {
+            "file": "responsive/tarjeta-parques-tematicos-sobrevalorados/c4e0db31ee31-w768.webp",
+            "width": 768,
+            "bytes": 61892
+          },
+          {
+            "file": "responsive/tarjeta-parques-tematicos-sobrevalorados/c4e0db31ee31-w1200.webp",
+            "width": 1200,
+            "bytes": 134892
+          }
+        ]
+      }
+    },
+    "tarjeta-boda-disney.jpg": {
+      "sha256": "b778f66942af0eeaab807e12a5b7bd04359ed47e0fa0ddfd36631531d1248223",
+      "original_width": 1600,
+      "original_height": 1097,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-boda-disney/b778f66942af-w480.avif",
+            "width": 480,
+            "bytes": 10263
+          },
+          {
+            "file": "responsive/tarjeta-boda-disney/b778f66942af-w768.avif",
+            "width": 768,
+            "bytes": 21600
+          },
+          {
+            "file": "responsive/tarjeta-boda-disney/b778f66942af-w1200.avif",
+            "width": 1200,
+            "bytes": 42117
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-boda-disney/b778f66942af-w480.webp",
+            "width": 480,
+            "bytes": 17688
+          },
+          {
+            "file": "responsive/tarjeta-boda-disney/b778f66942af-w768.webp",
+            "width": 768,
+            "bytes": 37652
+          },
+          {
+            "file": "responsive/tarjeta-boda-disney/b778f66942af-w1200.webp",
+            "width": 1200,
+            "bytes": 78320
+          }
+        ]
+      }
+    },
+    "tarjeta-que-llevar-parque-tematico.jpg": {
+      "sha256": "df57d8c6c680ed5a31683baa60be4fb58388dcb260b6877504bca3af02d4d81c",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-que-llevar-parque-tematico/df57d8c6c680-w480.avif",
+            "width": 480,
+            "bytes": 19349
+          },
+          {
+            "file": "responsive/tarjeta-que-llevar-parque-tematico/df57d8c6c680-w768.avif",
+            "width": 768,
+            "bytes": 40546
+          },
+          {
+            "file": "responsive/tarjeta-que-llevar-parque-tematico/df57d8c6c680-w1200.avif",
+            "width": 1200,
+            "bytes": 76922
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-que-llevar-parque-tematico/df57d8c6c680-w480.webp",
+            "width": 480,
+            "bytes": 30012
+          },
+          {
+            "file": "responsive/tarjeta-que-llevar-parque-tematico/df57d8c6c680-w768.webp",
+            "width": 768,
+            "bytes": 65250
+          },
+          {
+            "file": "responsive/tarjeta-que-llevar-parque-tematico/df57d8c6c680-w1200.webp",
+            "width": 1200,
+            "bytes": 133080
+          }
+        ]
+      }
+    },
+    "tarjeta-apps-parques-tematicos-imprescindibles.jpg": {
+      "sha256": "108514a89de9daa305703904a8a2aaaab690a391d48f0ad563be72f915c8ce32",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-apps-parques-tematicos-imprescindibles/108514a89de9-w480.avif",
+            "width": 480,
+            "bytes": 29925
+          },
+          {
+            "file": "responsive/tarjeta-apps-parques-tematicos-imprescindibles/108514a89de9-w768.avif",
+            "width": 768,
+            "bytes": 57624
+          },
+          {
+            "file": "responsive/tarjeta-apps-parques-tematicos-imprescindibles/108514a89de9-w1200.avif",
+            "width": 1200,
+            "bytes": 98132
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-apps-parques-tematicos-imprescindibles/108514a89de9-w480.webp",
+            "width": 480,
+            "bytes": 42756
+          },
+          {
+            "file": "responsive/tarjeta-apps-parques-tematicos-imprescindibles/108514a89de9-w768.webp",
+            "width": 768,
+            "bytes": 88924
+          },
+          {
+            "file": "responsive/tarjeta-apps-parques-tematicos-imprescindibles/108514a89de9-w1200.webp",
+            "width": 1200,
+            "bytes": 169360
+          }
+        ]
+      }
+    },
+    "tarjeta-entradas-parques-tematicos-baratas.jpg": {
+      "sha256": "73a54cc5448d5a05778043f667b409b863ff1b93a991df241109fd04676795c3",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-entradas-parques-tematicos-baratas/73a54cc5448d-w480.avif",
+            "width": 480,
+            "bytes": 11213
+          },
+          {
+            "file": "responsive/tarjeta-entradas-parques-tematicos-baratas/73a54cc5448d-w768.avif",
+            "width": 768,
+            "bytes": 23489
+          },
+          {
+            "file": "responsive/tarjeta-entradas-parques-tematicos-baratas/73a54cc5448d-w1200.avif",
+            "width": 1200,
+            "bytes": 47930
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-entradas-parques-tematicos-baratas/73a54cc5448d-w480.webp",
+            "width": 480,
+            "bytes": 19362
+          },
+          {
+            "file": "responsive/tarjeta-entradas-parques-tematicos-baratas/73a54cc5448d-w768.webp",
+            "width": 768,
+            "bytes": 43016
+          },
+          {
+            "file": "responsive/tarjeta-entradas-parques-tematicos-baratas/73a54cc5448d-w1200.webp",
+            "width": 1200,
+            "bytes": 91766
+          }
+        ]
+      }
+    },
+    "tarjeta-montanas-rusas-terrorificas-mundo.jpg": {
+      "sha256": "a83515b4fd0f06c5dc60bcb4427e60093ae07e5dc7722cebe60851925d76be3e",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-montanas-rusas-terrorificas-mundo/a83515b4fd0f-w480.avif",
+            "width": 480,
+            "bytes": 8691
+          },
+          {
+            "file": "responsive/tarjeta-montanas-rusas-terrorificas-mundo/a83515b4fd0f-w768.avif",
+            "width": 768,
+            "bytes": 16876
+          },
+          {
+            "file": "responsive/tarjeta-montanas-rusas-terrorificas-mundo/a83515b4fd0f-w1200.avif",
+            "width": 1200,
+            "bytes": 29959
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-montanas-rusas-terrorificas-mundo/a83515b4fd0f-w480.webp",
+            "width": 480,
+            "bytes": 15116
+          },
+          {
+            "file": "responsive/tarjeta-montanas-rusas-terrorificas-mundo/a83515b4fd0f-w768.webp",
+            "width": 768,
+            "bytes": 31464
+          },
+          {
+            "file": "responsive/tarjeta-montanas-rusas-terrorificas-mundo/a83515b4fd0f-w1200.webp",
+            "width": 1200,
+            "bytes": 61024
+          }
+        ]
+      }
+    },
+    "tarjeta-errores-parques-tematicos.jpg": {
+      "sha256": "07f97888f8ddef8905fbf8039c359f7c3626c5fa7e664584f2391bf68421a684",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-errores-parques-tematicos/07f97888f8dd-w480.avif",
+            "width": 480,
+            "bytes": 21933
+          },
+          {
+            "file": "responsive/tarjeta-errores-parques-tematicos/07f97888f8dd-w768.avif",
+            "width": 768,
+            "bytes": 46228
+          },
+          {
+            "file": "responsive/tarjeta-errores-parques-tematicos/07f97888f8dd-w1200.avif",
+            "width": 1200,
+            "bytes": 93710
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-errores-parques-tematicos/07f97888f8dd-w480.webp",
+            "width": 480,
+            "bytes": 31924
+          },
+          {
+            "file": "responsive/tarjeta-errores-parques-tematicos/07f97888f8dd-w768.webp",
+            "width": 768,
+            "bytes": 69410
+          },
+          {
+            "file": "responsive/tarjeta-errores-parques-tematicos/07f97888f8dd-w1200.webp",
+            "width": 1200,
+            "bytes": 149310
+          }
+        ]
+      }
+    },
+    "tarjeta-cuanto-cuesta-visitar-todos-disney.jpg": {
+      "sha256": "b466884922e7d147cc568993f25700b6d7e3f95c0c70c1d093bc759b5f39b99b",
+      "original_width": 1600,
+      "original_height": 899,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-cuanto-cuesta-visitar-todos-disney/b466884922e7-w480.avif",
+            "width": 480,
+            "bytes": 18217
+          },
+          {
+            "file": "responsive/tarjeta-cuanto-cuesta-visitar-todos-disney/b466884922e7-w768.avif",
+            "width": 768,
+            "bytes": 41360
+          },
+          {
+            "file": "responsive/tarjeta-cuanto-cuesta-visitar-todos-disney/b466884922e7-w1200.avif",
+            "width": 1200,
+            "bytes": 90932
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-cuanto-cuesta-visitar-todos-disney/b466884922e7-w480.webp",
+            "width": 480,
+            "bytes": 27196
+          },
+          {
+            "file": "responsive/tarjeta-cuanto-cuesta-visitar-todos-disney/b466884922e7-w768.webp",
+            "width": 768,
+            "bytes": 61944
+          },
+          {
+            "file": "responsive/tarjeta-cuanto-cuesta-visitar-todos-disney/b466884922e7-w1200.webp",
+            "width": 1200,
+            "bytes": 139708
+          }
+        ]
+      }
+    },
+    "tarjeta-europa-park.jpg": {
+      "sha256": "eaa6ed58c58e24123fbc51d5a766aee780404315cd444af1dbfb895d6d804fd8",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-europa-park/eaa6ed58c58e-w480.avif",
+            "width": 480,
+            "bytes": 18988
+          },
+          {
+            "file": "responsive/tarjeta-europa-park/eaa6ed58c58e-w768.avif",
+            "width": 768,
+            "bytes": 44736
+          },
+          {
+            "file": "responsive/tarjeta-europa-park/eaa6ed58c58e-w1200.avif",
+            "width": 1200,
+            "bytes": 107189
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-europa-park/eaa6ed58c58e-w480.webp",
+            "width": 480,
+            "bytes": 29454
+          },
+          {
+            "file": "responsive/tarjeta-europa-park/eaa6ed58c58e-w768.webp",
+            "width": 768,
+            "bytes": 70094
+          },
+          {
+            "file": "responsive/tarjeta-europa-park/eaa6ed58c58e-w1200.webp",
+            "width": 1200,
+            "bytes": 165084
+          }
+        ]
+      }
+    },
+    "tarjeta-efteling.jpg": {
+      "sha256": "81cb60d91d4fca1fe66732e637bab00d24b3c1aa28876b40323c0baee19a1c50",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-efteling/81cb60d91d4f-w480.avif",
+            "width": 480,
+            "bytes": 21712
+          },
+          {
+            "file": "responsive/tarjeta-efteling/81cb60d91d4f-w768.avif",
+            "width": 768,
+            "bytes": 50122
+          },
+          {
+            "file": "responsive/tarjeta-efteling/81cb60d91d4f-w1200.avif",
+            "width": 1200,
+            "bytes": 115499
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-efteling/81cb60d91d4f-w480.webp",
+            "width": 480,
+            "bytes": 32362
+          },
+          {
+            "file": "responsive/tarjeta-efteling/81cb60d91d4f-w768.webp",
+            "width": 768,
+            "bytes": 74356
+          },
+          {
+            "file": "responsive/tarjeta-efteling/81cb60d91d4f-w1200.webp",
+            "width": 1200,
+            "bytes": 170542
+          }
+        ]
+      }
+    },
+    "tarjeta-canadas-wonderland.jpg": {
+      "sha256": "20cad05d59b5137d78d5527f4d8d8d25ab1a62531dc3dff524e1cbebfc9d3edb",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-canadas-wonderland/20cad05d59b5-w480.avif",
+            "width": 480,
+            "bytes": 21994
+          },
+          {
+            "file": "responsive/tarjeta-canadas-wonderland/20cad05d59b5-w768.avif",
+            "width": 768,
+            "bytes": 49033
+          },
+          {
+            "file": "responsive/tarjeta-canadas-wonderland/20cad05d59b5-w1200.avif",
+            "width": 1200,
+            "bytes": 103940
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-canadas-wonderland/20cad05d59b5-w480.webp",
+            "width": 480,
+            "bytes": 34354
+          },
+          {
+            "file": "responsive/tarjeta-canadas-wonderland/20cad05d59b5-w768.webp",
+            "width": 768,
+            "bytes": 76274
+          },
+          {
+            "file": "responsive/tarjeta-canadas-wonderland/20cad05d59b5-w1200.webp",
+            "width": 1200,
+            "bytes": 168980
+          }
+        ]
+      }
+    },
+    "tarjeta-cedar-point-guia-completa.jpg": {
+      "sha256": "8349b37122be63449d241f8a8e89931ac90b6c972dcdb6e4b292b4e43db11500",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-cedar-point-guia-completa/8349b37122be-w480.avif",
+            "width": 480,
+            "bytes": 15973
+          },
+          {
+            "file": "responsive/tarjeta-cedar-point-guia-completa/8349b37122be-w768.avif",
+            "width": 768,
+            "bytes": 37604
+          },
+          {
+            "file": "responsive/tarjeta-cedar-point-guia-completa/8349b37122be-w1200.avif",
+            "width": 1200,
+            "bytes": 81319
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-cedar-point-guia-completa/8349b37122be-w480.webp",
+            "width": 480,
+            "bytes": 24204
+          },
+          {
+            "file": "responsive/tarjeta-cedar-point-guia-completa/8349b37122be-w768.webp",
+            "width": 768,
+            "bytes": 56340
+          },
+          {
+            "file": "responsive/tarjeta-cedar-point-guia-completa/8349b37122be-w1200.webp",
+            "width": 1200,
+            "bytes": 127536
+          }
+        ]
+      }
+    },
+    "tarjeta-universal-orlando-resort-guia-completa.jpg": {
+      "sha256": "08aac1b9d059f975b837eb6d6e084a459fbc9b77b730f3ea0c7897de91a4d003",
+      "original_width": 1600,
+      "original_height": 1083,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-universal-orlando-resort-guia-completa/08aac1b9d059-w480.avif",
+            "width": 480,
+            "bytes": 17494
+          },
+          {
+            "file": "responsive/tarjeta-universal-orlando-resort-guia-completa/08aac1b9d059-w768.avif",
+            "width": 768,
+            "bytes": 39081
+          },
+          {
+            "file": "responsive/tarjeta-universal-orlando-resort-guia-completa/08aac1b9d059-w1200.avif",
+            "width": 1200,
+            "bytes": 77515
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-universal-orlando-resort-guia-completa/08aac1b9d059-w480.webp",
+            "width": 480,
+            "bytes": 25758
+          },
+          {
+            "file": "responsive/tarjeta-universal-orlando-resort-guia-completa/08aac1b9d059-w768.webp",
+            "width": 768,
+            "bytes": 58866
+          },
+          {
+            "file": "responsive/tarjeta-universal-orlando-resort-guia-completa/08aac1b9d059-w1200.webp",
+            "width": 1200,
+            "bytes": 123624
+          }
+        ]
+      }
+    },
+    "tarjeta-walt-disney-world-orlando.jpg": {
+      "sha256": "de339f2398ca2e9a276517d7bd1d7c5c46c0e009788132c03d1e588eb23934b3",
+      "original_width": 1600,
+      "original_height": 1063,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-walt-disney-world-orlando/de339f2398ca-w480.avif",
+            "width": 480,
+            "bytes": 22715
+          },
+          {
+            "file": "responsive/tarjeta-walt-disney-world-orlando/de339f2398ca-w768.avif",
+            "width": 768,
+            "bytes": 51283
+          },
+          {
+            "file": "responsive/tarjeta-walt-disney-world-orlando/de339f2398ca-w1200.avif",
+            "width": 1200,
+            "bytes": 106727
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-walt-disney-world-orlando/de339f2398ca-w480.webp",
+            "width": 480,
+            "bytes": 32988
+          },
+          {
+            "file": "responsive/tarjeta-walt-disney-world-orlando/de339f2398ca-w768.webp",
+            "width": 768,
+            "bytes": 74092
+          },
+          {
+            "file": "responsive/tarjeta-walt-disney-world-orlando/de339f2398ca-w1200.webp",
+            "width": 1200,
+            "bytes": 159832
+          }
+        ]
+      }
+    },
+    "tarjeta-universal-orlando-en-familia.jpg": {
+      "sha256": "34be817e69b6a0336271312c35a5b9c87c2fda8bc9c876ed84c9e3f9dfdfb1c3",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-universal-orlando-en-familia/34be817e69b6-w480.avif",
+            "width": 480,
+            "bytes": 19885
+          },
+          {
+            "file": "responsive/tarjeta-universal-orlando-en-familia/34be817e69b6-w768.avif",
+            "width": 768,
+            "bytes": 42052
+          },
+          {
+            "file": "responsive/tarjeta-universal-orlando-en-familia/34be817e69b6-w1200.avif",
+            "width": 1200,
+            "bytes": 84318
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-universal-orlando-en-familia/34be817e69b6-w480.webp",
+            "width": 480,
+            "bytes": 29020
+          },
+          {
+            "file": "responsive/tarjeta-universal-orlando-en-familia/34be817e69b6-w768.webp",
+            "width": 768,
+            "bytes": 63796
+          },
+          {
+            "file": "responsive/tarjeta-universal-orlando-en-familia/34be817e69b6-w1200.webp",
+            "width": 1200,
+            "bytes": 133082
+          }
+        ]
+      }
+    },
+    "tarjeta-six-flags-fiesta-texas.jpg": {
+      "sha256": "fe5aa67b9d86483bf1af7d88ed98f6930fa69d2cd465659a76e941311df48531",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-six-flags-fiesta-texas/fe5aa67b9d86-w480.avif",
+            "width": 480,
+            "bytes": 21302
+          },
+          {
+            "file": "responsive/tarjeta-six-flags-fiesta-texas/fe5aa67b9d86-w768.avif",
+            "width": 768,
+            "bytes": 52576
+          },
+          {
+            "file": "responsive/tarjeta-six-flags-fiesta-texas/fe5aa67b9d86-w1200.avif",
+            "width": 1200,
+            "bytes": 117055
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-six-flags-fiesta-texas/fe5aa67b9d86-w480.webp",
+            "width": 480,
+            "bytes": 31444
+          },
+          {
+            "file": "responsive/tarjeta-six-flags-fiesta-texas/fe5aa67b9d86-w768.webp",
+            "width": 768,
+            "bytes": 76734
+          },
+          {
+            "file": "responsive/tarjeta-six-flags-fiesta-texas/fe5aa67b9d86-w1200.webp",
+            "width": 1200,
+            "bytes": 175370
+          }
+        ]
+      }
+    },
+    "tarjeta-beto-carrero-world.jpg": {
+      "sha256": "cb342cbfa9e489cd59e1d844395709c207e9081bc404f3bb09e119555030f50e",
+      "original_width": 1600,
+      "original_height": 905,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-beto-carrero-world/cb342cbfa9e4-w480.avif",
+            "width": 480,
+            "bytes": 22100
+          },
+          {
+            "file": "responsive/tarjeta-beto-carrero-world/cb342cbfa9e4-w768.avif",
+            "width": 768,
+            "bytes": 44546
+          },
+          {
+            "file": "responsive/tarjeta-beto-carrero-world/cb342cbfa9e4-w1200.avif",
+            "width": 1200,
+            "bytes": 84838
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-beto-carrero-world/cb342cbfa9e4-w480.webp",
+            "width": 480,
+            "bytes": 30170
+          },
+          {
+            "file": "responsive/tarjeta-beto-carrero-world/cb342cbfa9e4-w768.webp",
+            "width": 768,
+            "bytes": 67406
+          },
+          {
+            "file": "responsive/tarjeta-beto-carrero-world/cb342cbfa9e4-w1200.webp",
+            "width": 1200,
+            "bytes": 145592
+          }
+        ]
+      }
+    },
+    "tarjeta-xcaret-mexico.jpg": {
+      "sha256": "8d51eb4495d21103fe4267b2aebe3e1740bf9a313b8b6c332f72cf6d057577be",
+      "original_width": 1600,
+      "original_height": 1043,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-xcaret-mexico/8d51eb4495d2-w480.avif",
+            "width": 480,
+            "bytes": 20630
+          },
+          {
+            "file": "responsive/tarjeta-xcaret-mexico/8d51eb4495d2-w768.avif",
+            "width": 768,
+            "bytes": 46087
+          },
+          {
+            "file": "responsive/tarjeta-xcaret-mexico/8d51eb4495d2-w1200.avif",
+            "width": 1200,
+            "bytes": 90934
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-xcaret-mexico/8d51eb4495d2-w480.webp",
+            "width": 480,
+            "bytes": 31172
+          },
+          {
+            "file": "responsive/tarjeta-xcaret-mexico/8d51eb4495d2-w768.webp",
+            "width": 768,
+            "bytes": 72008
+          },
+          {
+            "file": "responsive/tarjeta-xcaret-mexico/8d51eb4495d2-w1200.webp",
+            "width": 1200,
+            "bytes": 154516
+          }
+        ]
+      }
+    },
+    "tarjeta-xplor-riviera-maya.jpg": {
+      "sha256": "6a129f4a8379101e7298a8b1fd32956ea70927c5b44dfd31af13e6377cd5e61f",
+      "original_width": 1600,
+      "original_height": 1602,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-xplor-riviera-maya/6a129f4a8379-w480.avif",
+            "width": 480,
+            "bytes": 14136
+          },
+          {
+            "file": "responsive/tarjeta-xplor-riviera-maya/6a129f4a8379-w768.avif",
+            "width": 768,
+            "bytes": 24451
+          },
+          {
+            "file": "responsive/tarjeta-xplor-riviera-maya/6a129f4a8379-w1200.avif",
+            "width": 1200,
+            "bytes": 39790
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-xplor-riviera-maya/6a129f4a8379-w480.webp",
+            "width": 480,
+            "bytes": 27740
+          },
+          {
+            "file": "responsive/tarjeta-xplor-riviera-maya/6a129f4a8379-w768.webp",
+            "width": 768,
+            "bytes": 51624
+          },
+          {
+            "file": "responsive/tarjeta-xplor-riviera-maya/6a129f4a8379-w1200.webp",
+            "width": 1200,
+            "bytes": 92300
+          }
+        ]
+      }
+    },
+    "tarjeta-xelha-mexico.jpg": {
+      "sha256": "93837d230a92b7adffbcdbd5aa4f28525ee82a160386a84133c415a32ffaccda",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-xelha-mexico/93837d230a92-w480.avif",
+            "width": 480,
+            "bytes": 25972
+          },
+          {
+            "file": "responsive/tarjeta-xelha-mexico/93837d230a92-w768.avif",
+            "width": 768,
+            "bytes": 63486
+          },
+          {
+            "file": "responsive/tarjeta-xelha-mexico/93837d230a92-w1200.avif",
+            "width": 1200,
+            "bytes": 144116
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-xelha-mexico/93837d230a92-w480.webp",
+            "width": 480,
+            "bytes": 36568
+          },
+          {
+            "file": "responsive/tarjeta-xelha-mexico/93837d230a92-w768.webp",
+            "width": 768,
+            "bytes": 91756
+          },
+          {
+            "file": "responsive/tarjeta-xelha-mexico/93837d230a92-w1200.webp",
+            "width": 1200,
+            "bytes": 213224
+          }
+        ]
+      }
+    },
+    "tarjeta-beach-park-brasil.jpg": {
+      "sha256": "bd91377a2d655ff9562405b068af2942296386605c920750fce96aaffbcebeb2",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-beach-park-brasil/bd91377a2d65-w480.avif",
+            "width": 480,
+            "bytes": 29367
+          },
+          {
+            "file": "responsive/tarjeta-beach-park-brasil/bd91377a2d65-w768.avif",
+            "width": 768,
+            "bytes": 60234
+          },
+          {
+            "file": "responsive/tarjeta-beach-park-brasil/bd91377a2d65-w1200.avif",
+            "width": 1200,
+            "bytes": 109507
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-beach-park-brasil/bd91377a2d65-w480.webp",
+            "width": 480,
+            "bytes": 43022
+          },
+          {
+            "file": "responsive/tarjeta-beach-park-brasil/bd91377a2d65-w768.webp",
+            "width": 768,
+            "bytes": 91740
+          },
+          {
+            "file": "responsive/tarjeta-beach-park-brasil/bd91377a2d65-w1200.webp",
+            "width": 1200,
+            "bytes": 181748
+          }
+        ]
+      }
+    },
+    "tarjeta-hopi-hari.jpg": {
+      "sha256": "072e22816dbd35d34aeac5c5d6d2d66eab6cb93579357c028a71e14f583c4990",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-hopi-hari/072e22816dbd-w480.avif",
+            "width": 480,
+            "bytes": 15740
+          },
+          {
+            "file": "responsive/tarjeta-hopi-hari/072e22816dbd-w768.avif",
+            "width": 768,
+            "bytes": 35674
+          },
+          {
+            "file": "responsive/tarjeta-hopi-hari/072e22816dbd-w1200.avif",
+            "width": 1200,
+            "bytes": 76942
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-hopi-hari/072e22816dbd-w480.webp",
+            "width": 480,
+            "bytes": 22660
+          },
+          {
+            "file": "responsive/tarjeta-hopi-hari/072e22816dbd-w768.webp",
+            "width": 768,
+            "bytes": 53058
+          },
+          {
+            "file": "responsive/tarjeta-hopi-hari/072e22816dbd-w1200.webp",
+            "width": 1200,
+            "bytes": 117728
+          }
+        ]
+      }
+    },
+    "tarjeta-universal-studios-japan.jpg": {
+      "sha256": "79e1a5a6419625d5905efe33fdc14c77fb8785d13d77925bf470b08d1e7b0a24",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-universal-studios-japan/79e1a5a64196-w480.avif",
+            "width": 480,
+            "bytes": 23632
+          },
+          {
+            "file": "responsive/tarjeta-universal-studios-japan/79e1a5a64196-w768.avif",
+            "width": 768,
+            "bytes": 50945
+          },
+          {
+            "file": "responsive/tarjeta-universal-studios-japan/79e1a5a64196-w1200.avif",
+            "width": 1200,
+            "bytes": 102225
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-universal-studios-japan/79e1a5a64196-w480.webp",
+            "width": 480,
+            "bytes": 35362
+          },
+          {
+            "file": "responsive/tarjeta-universal-studios-japan/79e1a5a64196-w768.webp",
+            "width": 768,
+            "bytes": 78258
+          },
+          {
+            "file": "responsive/tarjeta-universal-studios-japan/79e1a5a64196-w1200.webp",
+            "width": 1200,
+            "bytes": 163838
+          }
+        ]
+      }
+    },
+    "tarjeta-tokyo-disneysea.jpg": {
+      "sha256": "132157afbad7d8b0b214f1a657f3619ba64b1e0137549f393bd7853881aa8db4",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-tokyo-disneysea/132157afbad7-w480.avif",
+            "width": 480,
+            "bytes": 21958
+          },
+          {
+            "file": "responsive/tarjeta-tokyo-disneysea/132157afbad7-w768.avif",
+            "width": 768,
+            "bytes": 48079
+          },
+          {
+            "file": "responsive/tarjeta-tokyo-disneysea/132157afbad7-w1200.avif",
+            "width": 1200,
+            "bytes": 99222
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-tokyo-disneysea/132157afbad7-w480.webp",
+            "width": 480,
+            "bytes": 35918
+          },
+          {
+            "file": "responsive/tarjeta-tokyo-disneysea/132157afbad7-w768.webp",
+            "width": 768,
+            "bytes": 81120
+          },
+          {
+            "file": "responsive/tarjeta-tokyo-disneysea/132157afbad7-w1200.webp",
+            "width": 1200,
+            "bytes": 173910
+          }
+        ]
+      }
+    },
+    "tarjeta-tokyo-disneyland.jpg": {
+      "sha256": "3918e0bc6286f75a0c6b086d26f889c4d8739cf61e361f0fbc5ef8008f607405",
+      "original_width": 1600,
+      "original_height": 1067,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tarjeta-tokyo-disneyland/3918e0bc6286-w480.avif",
+            "width": 480,
+            "bytes": 17495
+          },
+          {
+            "file": "responsive/tarjeta-tokyo-disneyland/3918e0bc6286-w768.avif",
+            "width": 768,
+            "bytes": 41234
+          },
+          {
+            "file": "responsive/tarjeta-tokyo-disneyland/3918e0bc6286-w1200.avif",
+            "width": 1200,
+            "bytes": 96639
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tarjeta-tokyo-disneyland/3918e0bc6286-w480.webp",
+            "width": 480,
+            "bytes": 26562
+          },
+          {
+            "file": "responsive/tarjeta-tokyo-disneyland/3918e0bc6286-w768.webp",
+            "width": 768,
+            "bytes": 63506
+          },
+          {
+            "file": "responsive/tarjeta-tokyo-disneyland/3918e0bc6286-w1200.webp",
+            "width": 1200,
+            "bytes": 147912
+          }
+        ]
+      }
     }
   }
 }
