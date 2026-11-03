@@ -1215,5 +1215,45 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "original_date": "2018-09-21",
     "changes": "redimensionada a 1600 px, JPG"
+  },
+  "navidad-europa-park.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Europa-Park_-_Paysage.jpg",
+    "author": "Gzen92",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2012-12-02 17:53:53",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "navidad-efteling.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Winter_gate_at_night_Efteling.jpg",
+    "author": "Eliedion",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2009-12-05 18:12:35",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "navidad-gardaland.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Gardaland_Prezzemolo_Natale_2014.jpg",
+    "author": "RicCianc",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "27 December 2014",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "navidad-hersheypark.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Gov._Wolf-_Santa’s_Reindeer_Approved_for_Flight,_Pennsylvanians_Can_Expect_Christmas_Eve_Deliveries_(cropped).jpg",
+    "author": "Governor Tom Wolf",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "Taken on 23 December 2021, 10:34:12",
+    "changes": "redimensionada a 1600 px, JPG"
+  },
+  "navidad-disneyland-paris.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Christmas_Tree_(12152746803).jpg",
+    "author": "HumMelissa_Glee",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2014-06-06 00:50",
+    "changes": "recortada a 16:9, JPG"
   }
 }
