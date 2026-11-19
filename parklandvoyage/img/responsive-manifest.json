@@ -6563,6 +6563,183 @@
         ]
       }
     },
+    "dollywood-1.jpg": {
+      "sha256": "00e828c0be255f5c8726e059a87fb8affbe9e4ae697878daabe40a15dda48025",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dollywood-1/00e828c0be25-w480.avif",
+            "width": 480,
+            "bytes": 18783
+          },
+          {
+            "file": "responsive/dollywood-1/00e828c0be25-w768.avif",
+            "width": 768,
+            "bytes": 41708
+          },
+          {
+            "file": "responsive/dollywood-1/00e828c0be25-w1200.avif",
+            "width": 1200,
+            "bytes": 90259
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dollywood-1/00e828c0be25-w480.webp",
+            "width": 480,
+            "bytes": 30094
+          },
+          {
+            "file": "responsive/dollywood-1/00e828c0be25-w768.webp",
+            "width": 768,
+            "bytes": 67636
+          },
+          {
+            "file": "responsive/dollywood-1/00e828c0be25-w1200.webp",
+            "width": 1200,
+            "bytes": 143870
+          }
+        ]
+      }
+    },
+    "dollywood-2.jpg": {
+      "sha256": "242e0bbb8bf42d64cdcc88d7bf3433d66149446a1410a574900f2535a4103271",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dollywood-2/242e0bbb8bf4-w480.avif",
+            "width": 480,
+            "bytes": 47129
+          },
+          {
+            "file": "responsive/dollywood-2/242e0bbb8bf4-w768.avif",
+            "width": 768,
+            "bytes": 110352
+          },
+          {
+            "file": "responsive/dollywood-2/242e0bbb8bf4-w1200.avif",
+            "width": 1200,
+            "bytes": 241253
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dollywood-2/242e0bbb8bf4-w480.webp",
+            "width": 480,
+            "bytes": 62726
+          },
+          {
+            "file": "responsive/dollywood-2/242e0bbb8bf4-w768.webp",
+            "width": 768,
+            "bytes": 148170
+          },
+          {
+            "file": "responsive/dollywood-2/242e0bbb8bf4-w1200.webp",
+            "width": 1200,
+            "bytes": 332686
+          }
+        ]
+      }
+    },
+    "dollywood-portada.jpg": {
+      "sha256": "23e7e6e25a426d04fa4efdc6406069da1cfa4986902bf43e9efb919e7d463a8d",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dollywood-portada/23e7e6e25a42-w480.avif",
+            "width": 480,
+            "bytes": 26720
+          },
+          {
+            "file": "responsive/dollywood-portada/23e7e6e25a42-w768.avif",
+            "width": 768,
+            "bytes": 68556
+          },
+          {
+            "file": "responsive/dollywood-portada/23e7e6e25a42-w1200.avif",
+            "width": 1200,
+            "bytes": 168311
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dollywood-portada/23e7e6e25a42-w480.webp",
+            "width": 480,
+            "bytes": 39680
+          },
+          {
+            "file": "responsive/dollywood-portada/23e7e6e25a42-w768.webp",
+            "width": 768,
+            "bytes": 100380
+          },
+          {
+            "file": "responsive/dollywood-portada/23e7e6e25a42-w1200.webp",
+            "width": 1200,
+            "bytes": 239360
+          }
+        ]
+      }
+    },
     "efteling-2.jpg": {
       "sha256": "135b193752fc1b3aac13a4b377ceb08589d997ebee1084e28f9712100de8f3e6",
       "original_width": 1376,
@@ -6795,6 +6972,183 @@
             "file": "responsive/efteling/5ad6a5f5842f-w1200.webp",
             "width": 1200,
             "bytes": 99240
+          }
+        ]
+      }
+    },
+    "energylandia-1.jpg": {
+      "sha256": "d9392060ba2fd038d1d3f527ad0778eae9a56dcd0f9c39f3b567383d213186a6",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/energylandia-1/d9392060ba2f-w480.avif",
+            "width": 480,
+            "bytes": 29309
+          },
+          {
+            "file": "responsive/energylandia-1/d9392060ba2f-w768.avif",
+            "width": 768,
+            "bytes": 73331
+          },
+          {
+            "file": "responsive/energylandia-1/d9392060ba2f-w1200.avif",
+            "width": 1200,
+            "bytes": 178331
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/energylandia-1/d9392060ba2f-w480.webp",
+            "width": 480,
+            "bytes": 40530
+          },
+          {
+            "file": "responsive/energylandia-1/d9392060ba2f-w768.webp",
+            "width": 768,
+            "bytes": 99242
+          },
+          {
+            "file": "responsive/energylandia-1/d9392060ba2f-w1200.webp",
+            "width": 1200,
+            "bytes": 236632
+          }
+        ]
+      }
+    },
+    "energylandia-2.jpg": {
+      "sha256": "01bd6f82b8181474b2cf33696080cdee0b57fbabdef4a21542ad65c605bb9648",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/energylandia-2/01bd6f82b818-w480.avif",
+            "width": 480,
+            "bytes": 16273
+          },
+          {
+            "file": "responsive/energylandia-2/01bd6f82b818-w768.avif",
+            "width": 768,
+            "bytes": 34293
+          },
+          {
+            "file": "responsive/energylandia-2/01bd6f82b818-w1200.avif",
+            "width": 1200,
+            "bytes": 71819
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/energylandia-2/01bd6f82b818-w480.webp",
+            "width": 480,
+            "bytes": 27120
+          },
+          {
+            "file": "responsive/energylandia-2/01bd6f82b818-w768.webp",
+            "width": 768,
+            "bytes": 58262
+          },
+          {
+            "file": "responsive/energylandia-2/01bd6f82b818-w1200.webp",
+            "width": 1200,
+            "bytes": 122112
+          }
+        ]
+      }
+    },
+    "energylandia-portada.jpg": {
+      "sha256": "bdd907d889af313b57f6afe3d1072d8f0a5fb94e59ea7b21f9d5ca48e94391c9",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/energylandia-portada/bdd907d889af-w480.avif",
+            "width": 480,
+            "bytes": 18259
+          },
+          {
+            "file": "responsive/energylandia-portada/bdd907d889af-w768.avif",
+            "width": 768,
+            "bytes": 40304
+          },
+          {
+            "file": "responsive/energylandia-portada/bdd907d889af-w1200.avif",
+            "width": 1200,
+            "bytes": 84527
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/energylandia-portada/bdd907d889af-w480.webp",
+            "width": 480,
+            "bytes": 27708
+          },
+          {
+            "file": "responsive/energylandia-portada/bdd907d889af-w768.webp",
+            "width": 768,
+            "bytes": 62984
+          },
+          {
+            "file": "responsive/energylandia-portada/bdd907d889af-w1200.webp",
+            "width": 1200,
+            "bytes": 135780
           }
         ]
       }
@@ -9867,6 +10221,183 @@
         ]
       }
     },
+    "heide-park-1.jpg": {
+      "sha256": "a85841c21f3b53853d44f3e079b4587436f39f29a10afa667b2c32a2590d68b1",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/heide-park-1/a85841c21f3b-w480.avif",
+            "width": 480,
+            "bytes": 14204
+          },
+          {
+            "file": "responsive/heide-park-1/a85841c21f3b-w768.avif",
+            "width": 768,
+            "bytes": 30076
+          },
+          {
+            "file": "responsive/heide-park-1/a85841c21f3b-w1200.avif",
+            "width": 1200,
+            "bytes": 58567
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/heide-park-1/a85841c21f3b-w480.webp",
+            "width": 480,
+            "bytes": 22908
+          },
+          {
+            "file": "responsive/heide-park-1/a85841c21f3b-w768.webp",
+            "width": 768,
+            "bytes": 48712
+          },
+          {
+            "file": "responsive/heide-park-1/a85841c21f3b-w1200.webp",
+            "width": 1200,
+            "bytes": 95718
+          }
+        ]
+      }
+    },
+    "heide-park-2.jpg": {
+      "sha256": "be2eaaa2324fa15ee033c2fec97016b9f686076cb1c9fcc238ae2c381d9a3680",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/heide-park-2/be2eaaa2324f-w480.avif",
+            "width": 480,
+            "bytes": 10396
+          },
+          {
+            "file": "responsive/heide-park-2/be2eaaa2324f-w768.avif",
+            "width": 768,
+            "bytes": 18107
+          },
+          {
+            "file": "responsive/heide-park-2/be2eaaa2324f-w1200.avif",
+            "width": 1200,
+            "bytes": 31321
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/heide-park-2/be2eaaa2324f-w480.webp",
+            "width": 480,
+            "bytes": 18474
+          },
+          {
+            "file": "responsive/heide-park-2/be2eaaa2324f-w768.webp",
+            "width": 768,
+            "bytes": 34042
+          },
+          {
+            "file": "responsive/heide-park-2/be2eaaa2324f-w1200.webp",
+            "width": 1200,
+            "bytes": 63064
+          }
+        ]
+      }
+    },
+    "heide-park-portada.jpg": {
+      "sha256": "7d29da845b6ed9ebd4086670f25a504c50035ddb737a961a817bc38f15ca8e93",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/heide-park-portada/7d29da845b6e-w480.avif",
+            "width": 480,
+            "bytes": 25524
+          },
+          {
+            "file": "responsive/heide-park-portada/7d29da845b6e-w768.avif",
+            "width": 768,
+            "bytes": 56744
+          },
+          {
+            "file": "responsive/heide-park-portada/7d29da845b6e-w1200.avif",
+            "width": 1200,
+            "bytes": 118393
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/heide-park-portada/7d29da845b6e-w480.webp",
+            "width": 480,
+            "bytes": 37420
+          },
+          {
+            "file": "responsive/heide-park-portada/7d29da845b6e-w768.webp",
+            "width": 768,
+            "bytes": 86576
+          },
+          {
+            "file": "responsive/heide-park-portada/7d29da845b6e-w1200.webp",
+            "width": 1200,
+            "bytes": 184310
+          }
+        ]
+      }
+    },
     "hero-bg.jpg": {
       "sha256": "d96edcf68b2510437b08ee19ec21b4e9f9691ec87dea52b47052c96d57cbf950",
       "original_width": 1376,
@@ -11873,6 +12404,183 @@
         ]
       }
     },
+    "kings-island-1.jpg": {
+      "sha256": "743c79c997222e8d327d4f6cd739acf20bdf146976ac93c8e520d33e2efdbcdf",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kings-island-1/743c79c99722-w480.avif",
+            "width": 480,
+            "bytes": 16136
+          },
+          {
+            "file": "responsive/kings-island-1/743c79c99722-w768.avif",
+            "width": 768,
+            "bytes": 33903
+          },
+          {
+            "file": "responsive/kings-island-1/743c79c99722-w1200.avif",
+            "width": 1200,
+            "bytes": 75729
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kings-island-1/743c79c99722-w480.webp",
+            "width": 480,
+            "bytes": 26366
+          },
+          {
+            "file": "responsive/kings-island-1/743c79c99722-w768.webp",
+            "width": 768,
+            "bytes": 58388
+          },
+          {
+            "file": "responsive/kings-island-1/743c79c99722-w1200.webp",
+            "width": 1200,
+            "bytes": 126036
+          }
+        ]
+      }
+    },
+    "kings-island-2.jpg": {
+      "sha256": "3a87da704233135e0f57087603225ca81cccae2cc889945373350e6a80da4da8",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kings-island-2/3a87da704233-w480.avif",
+            "width": 480,
+            "bytes": 17994
+          },
+          {
+            "file": "responsive/kings-island-2/3a87da704233-w768.avif",
+            "width": 768,
+            "bytes": 35982
+          },
+          {
+            "file": "responsive/kings-island-2/3a87da704233-w1200.avif",
+            "width": 1200,
+            "bytes": 73154
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kings-island-2/3a87da704233-w480.webp",
+            "width": 480,
+            "bytes": 27376
+          },
+          {
+            "file": "responsive/kings-island-2/3a87da704233-w768.webp",
+            "width": 768,
+            "bytes": 58424
+          },
+          {
+            "file": "responsive/kings-island-2/3a87da704233-w1200.webp",
+            "width": 1200,
+            "bytes": 118840
+          }
+        ]
+      }
+    },
+    "kings-island-portada.jpg": {
+      "sha256": "a436253c47c235ed542e7533290208b4e0b5737e1898d56da30ddd3855756187",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kings-island-portada/a436253c47c2-w480.avif",
+            "width": 480,
+            "bytes": 19700
+          },
+          {
+            "file": "responsive/kings-island-portada/a436253c47c2-w768.avif",
+            "width": 768,
+            "bytes": 47157
+          },
+          {
+            "file": "responsive/kings-island-portada/a436253c47c2-w1200.avif",
+            "width": 1200,
+            "bytes": 114636
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kings-island-portada/a436253c47c2-w480.webp",
+            "width": 480,
+            "bytes": 29436
+          },
+          {
+            "file": "responsive/kings-island-portada/a436253c47c2-w768.webp",
+            "width": 768,
+            "bytes": 71728
+          },
+          {
+            "file": "responsive/kings-island-portada/a436253c47c2-w1200.webp",
+            "width": 1200,
+            "bytes": 171890
+          }
+        ]
+      }
+    },
     "knotts-berry-farm.jpg": {
       "sha256": "8eab8c664b021f37cedeaf4af32a01bc07b827e573ac512bad672e292f539bfc",
       "original_width": 1408,
@@ -12463,6 +13171,124 @@
         ]
       }
     },
+    "legoland-billund-1.jpg": {
+      "sha256": "42e1aef5e9d759cc367b9ab4b4cebb1ad38f29abe80d0adc750c16a6b629fc01",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-billund-1/42e1aef5e9d7-w480.avif",
+            "width": 480,
+            "bytes": 8857
+          },
+          {
+            "file": "responsive/legoland-billund-1/42e1aef5e9d7-w768.avif",
+            "width": 768,
+            "bytes": 15634
+          },
+          {
+            "file": "responsive/legoland-billund-1/42e1aef5e9d7-w1200.avif",
+            "width": 1200,
+            "bytes": 27702
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-billund-1/42e1aef5e9d7-w480.webp",
+            "width": 480,
+            "bytes": 14600
+          },
+          {
+            "file": "responsive/legoland-billund-1/42e1aef5e9d7-w768.webp",
+            "width": 768,
+            "bytes": 28872
+          },
+          {
+            "file": "responsive/legoland-billund-1/42e1aef5e9d7-w1200.webp",
+            "width": 1200,
+            "bytes": 54756
+          }
+        ]
+      }
+    },
+    "legoland-billund-2.jpg": {
+      "sha256": "7da2ff96b38197289e098412d04f158dfda43bb23cc9d78c4bbb7b81c6a85418",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-billund-2/7da2ff96b381-w480.avif",
+            "width": 480,
+            "bytes": 16491
+          },
+          {
+            "file": "responsive/legoland-billund-2/7da2ff96b381-w768.avif",
+            "width": 768,
+            "bytes": 34858
+          },
+          {
+            "file": "responsive/legoland-billund-2/7da2ff96b381-w1200.avif",
+            "width": 1200,
+            "bytes": 75021
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-billund-2/7da2ff96b381-w480.webp",
+            "width": 480,
+            "bytes": 26146
+          },
+          {
+            "file": "responsive/legoland-billund-2/7da2ff96b381-w768.webp",
+            "width": 768,
+            "bytes": 57286
+          },
+          {
+            "file": "responsive/legoland-billund-2/7da2ff96b381-w1200.webp",
+            "width": 1200,
+            "bytes": 123004
+          }
+        ]
+      }
+    },
     "legoland-billund-miniland.jpg": {
       "sha256": "dd0edf92534cdb7d4efb216bcd293b69aa0b12ad8cc419edce11f4d51f12f29b",
       "original_width": 1600,
@@ -12522,6 +13348,242 @@
         ]
       }
     },
+    "legoland-billund-portada.jpg": {
+      "sha256": "82e8d087e0b68bd4469aa53582699a5c07922b61a04723ff975db206bc7aef3b",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-billund-portada/82e8d087e0b6-w480.avif",
+            "width": 480,
+            "bytes": 33442
+          },
+          {
+            "file": "responsive/legoland-billund-portada/82e8d087e0b6-w768.avif",
+            "width": 768,
+            "bytes": 76815
+          },
+          {
+            "file": "responsive/legoland-billund-portada/82e8d087e0b6-w1200.avif",
+            "width": 1200,
+            "bytes": 170772
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-billund-portada/82e8d087e0b6-w480.webp",
+            "width": 480,
+            "bytes": 45794
+          },
+          {
+            "file": "responsive/legoland-billund-portada/82e8d087e0b6-w768.webp",
+            "width": 768,
+            "bytes": 108550
+          },
+          {
+            "file": "responsive/legoland-billund-portada/82e8d087e0b6-w1200.webp",
+            "width": 1200,
+            "bytes": 249600
+          }
+        ]
+      }
+    },
+    "liseberg-1.jpg": {
+      "sha256": "59b8656404cbfebcf5336a3d236c2f82a7e7645a505248f9a7485f38ab25ba62",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/liseberg-1/59b8656404cb-w480.avif",
+            "width": 480,
+            "bytes": 34306
+          },
+          {
+            "file": "responsive/liseberg-1/59b8656404cb-w768.avif",
+            "width": 768,
+            "bytes": 72024
+          },
+          {
+            "file": "responsive/liseberg-1/59b8656404cb-w1200.avif",
+            "width": 1200,
+            "bytes": 135283
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/liseberg-1/59b8656404cb-w480.webp",
+            "width": 480,
+            "bytes": 50954
+          },
+          {
+            "file": "responsive/liseberg-1/59b8656404cb-w768.webp",
+            "width": 768,
+            "bytes": 109674
+          },
+          {
+            "file": "responsive/liseberg-1/59b8656404cb-w1200.webp",
+            "width": 1200,
+            "bytes": 211272
+          }
+        ]
+      }
+    },
+    "liseberg-2.jpg": {
+      "sha256": "994340b7626a2822db193d4e16271eb807dcec6a03881d9cd37a96583c7af90c",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/liseberg-2/994340b7626a-w480.avif",
+            "width": 480,
+            "bytes": 20000
+          },
+          {
+            "file": "responsive/liseberg-2/994340b7626a-w768.avif",
+            "width": 768,
+            "bytes": 40747
+          },
+          {
+            "file": "responsive/liseberg-2/994340b7626a-w1200.avif",
+            "width": 1200,
+            "bytes": 78374
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/liseberg-2/994340b7626a-w480.webp",
+            "width": 480,
+            "bytes": 32558
+          },
+          {
+            "file": "responsive/liseberg-2/994340b7626a-w768.webp",
+            "width": 768,
+            "bytes": 73250
+          },
+          {
+            "file": "responsive/liseberg-2/994340b7626a-w1200.webp",
+            "width": 1200,
+            "bytes": 144932
+          }
+        ]
+      }
+    },
+    "liseberg-portada.jpg": {
+      "sha256": "6c0ec41ab8cac4be68b344ea26a0096f7c7fe75b020084b4e17e988f3ca551cb",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/liseberg-portada/6c0ec41ab8ca-w480.avif",
+            "width": 480,
+            "bytes": 10357
+          },
+          {
+            "file": "responsive/liseberg-portada/6c0ec41ab8ca-w768.avif",
+            "width": 768,
+            "bytes": 22933
+          },
+          {
+            "file": "responsive/liseberg-portada/6c0ec41ab8ca-w1200.avif",
+            "width": 1200,
+            "bytes": 48663
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/liseberg-portada/6c0ec41ab8ca-w480.webp",
+            "width": 480,
+            "bytes": 17148
+          },
+          {
+            "file": "responsive/liseberg-portada/6c0ec41ab8ca-w768.webp",
+            "width": 768,
+            "bytes": 39670
+          },
+          {
+            "file": "responsive/liseberg-portada/6c0ec41ab8ca-w1200.webp",
+            "width": 1200,
+            "bytes": 86200
+          }
+        ]
+      }
+    },
     "logo.jpg": {
       "sha256": "2fe26e779440fdefb942773901a9687548062e73b604fe2f79b64f8267c5cb2a",
       "original_width": 1376,
@@ -12566,6 +13628,360 @@
             "file": "responsive/logo/2fe26e779440-w160.webp",
             "width": 160,
             "bytes": 1294
+          }
+        ]
+      }
+    },
+    "loro-parque-1.jpg": {
+      "sha256": "d17f7e4c0bdc5b3e51bd5d9eeec18b8665955e130ee4b9b07c2acdbd432af197",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/loro-parque-1/d17f7e4c0bdc-w480.avif",
+            "width": 480,
+            "bytes": 22419
+          },
+          {
+            "file": "responsive/loro-parque-1/d17f7e4c0bdc-w768.avif",
+            "width": 768,
+            "bytes": 45978
+          },
+          {
+            "file": "responsive/loro-parque-1/d17f7e4c0bdc-w1200.avif",
+            "width": 1200,
+            "bytes": 96765
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/loro-parque-1/d17f7e4c0bdc-w480.webp",
+            "width": 480,
+            "bytes": 33488
+          },
+          {
+            "file": "responsive/loro-parque-1/d17f7e4c0bdc-w768.webp",
+            "width": 768,
+            "bytes": 74168
+          },
+          {
+            "file": "responsive/loro-parque-1/d17f7e4c0bdc-w1200.webp",
+            "width": 1200,
+            "bytes": 158732
+          }
+        ]
+      }
+    },
+    "loro-parque-2.jpg": {
+      "sha256": "3b449eb104d9a6fc18490ae2e0027c1322fa697ddd00351ca423174f00ecded7",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/loro-parque-2/3b449eb104d9-w480.avif",
+            "width": 480,
+            "bytes": 21423
+          },
+          {
+            "file": "responsive/loro-parque-2/3b449eb104d9-w768.avif",
+            "width": 768,
+            "bytes": 41557
+          },
+          {
+            "file": "responsive/loro-parque-2/3b449eb104d9-w1200.avif",
+            "width": 1200,
+            "bytes": 79693
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/loro-parque-2/3b449eb104d9-w480.webp",
+            "width": 480,
+            "bytes": 33196
+          },
+          {
+            "file": "responsive/loro-parque-2/3b449eb104d9-w768.webp",
+            "width": 768,
+            "bytes": 70430
+          },
+          {
+            "file": "responsive/loro-parque-2/3b449eb104d9-w1200.webp",
+            "width": 1200,
+            "bytes": 136014
+          }
+        ]
+      }
+    },
+    "loro-parque-portada.jpg": {
+      "sha256": "75573c6e160b96fe736a2b0c0c203df7e1d500dd3edb35abf5ec8f6f369188e0",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/loro-parque-portada/75573c6e160b-w480.avif",
+            "width": 480,
+            "bytes": 18647
+          },
+          {
+            "file": "responsive/loro-parque-portada/75573c6e160b-w768.avif",
+            "width": 768,
+            "bytes": 42118
+          },
+          {
+            "file": "responsive/loro-parque-portada/75573c6e160b-w1200.avif",
+            "width": 1200,
+            "bytes": 92999
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/loro-parque-portada/75573c6e160b-w480.webp",
+            "width": 480,
+            "bytes": 27926
+          },
+          {
+            "file": "responsive/loro-parque-portada/75573c6e160b-w768.webp",
+            "width": 768,
+            "bytes": 65980
+          },
+          {
+            "file": "responsive/loro-parque-portada/75573c6e160b-w1200.webp",
+            "width": 1200,
+            "bytes": 149488
+          }
+        ]
+      }
+    },
+    "lotte-world-1.jpg": {
+      "sha256": "06a1f25a8d70f4da1d1614b8caa95b63897e098600aa749357b606079d88b999",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/lotte-world-1/06a1f25a8d70-w480.avif",
+            "width": 480,
+            "bytes": 18822
+          },
+          {
+            "file": "responsive/lotte-world-1/06a1f25a8d70-w768.avif",
+            "width": 768,
+            "bytes": 36295
+          },
+          {
+            "file": "responsive/lotte-world-1/06a1f25a8d70-w1200.avif",
+            "width": 1200,
+            "bytes": 66882
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/lotte-world-1/06a1f25a8d70-w480.webp",
+            "width": 480,
+            "bytes": 30016
+          },
+          {
+            "file": "responsive/lotte-world-1/06a1f25a8d70-w768.webp",
+            "width": 768,
+            "bytes": 61242
+          },
+          {
+            "file": "responsive/lotte-world-1/06a1f25a8d70-w1200.webp",
+            "width": 1200,
+            "bytes": 115366
+          }
+        ]
+      }
+    },
+    "lotte-world-2.jpg": {
+      "sha256": "29c4baf1ebac90c9d7ffe38d36067c29593d84d9192b9a793f3c1bdb0dc819f1",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/lotte-world-2/29c4baf1ebac-w480.avif",
+            "width": 480,
+            "bytes": 9291
+          },
+          {
+            "file": "responsive/lotte-world-2/29c4baf1ebac-w768.avif",
+            "width": 768,
+            "bytes": 15640
+          },
+          {
+            "file": "responsive/lotte-world-2/29c4baf1ebac-w1200.avif",
+            "width": 1200,
+            "bytes": 25336
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/lotte-world-2/29c4baf1ebac-w480.webp",
+            "width": 480,
+            "bytes": 17226
+          },
+          {
+            "file": "responsive/lotte-world-2/29c4baf1ebac-w768.webp",
+            "width": 768,
+            "bytes": 30688
+          },
+          {
+            "file": "responsive/lotte-world-2/29c4baf1ebac-w1200.webp",
+            "width": 1200,
+            "bytes": 54670
+          }
+        ]
+      }
+    },
+    "lotte-world-portada.jpg": {
+      "sha256": "2afaf02c5c26c864e7f961b5561c74f15a51b6f0158610009aa5ec12e65d8d03",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/lotte-world-portada/2afaf02c5c26-w480.avif",
+            "width": 480,
+            "bytes": 25758
+          },
+          {
+            "file": "responsive/lotte-world-portada/2afaf02c5c26-w768.avif",
+            "width": 768,
+            "bytes": 61815
+          },
+          {
+            "file": "responsive/lotte-world-portada/2afaf02c5c26-w1200.avif",
+            "width": 1200,
+            "bytes": 146239
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/lotte-world-portada/2afaf02c5c26-w480.webp",
+            "width": 480,
+            "bytes": 37234
+          },
+          {
+            "file": "responsive/lotte-world-portada/2afaf02c5c26-w768.webp",
+            "width": 768,
+            "bytes": 89644
+          },
+          {
+            "file": "responsive/lotte-world-portada/2afaf02c5c26-w1200.webp",
+            "width": 1200,
+            "bytes": 212412
           }
         ]
       }
@@ -15992,6 +17408,183 @@
         ]
       }
     },
+    "phantasialand-1.jpg": {
+      "sha256": "21796db6dfa28301f576126274c4bde19e33ebf56a63f7038f77289e8bfea941",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/phantasialand-1/21796db6dfa2-w480.avif",
+            "width": 480,
+            "bytes": 24344
+          },
+          {
+            "file": "responsive/phantasialand-1/21796db6dfa2-w768.avif",
+            "width": 768,
+            "bytes": 52670
+          },
+          {
+            "file": "responsive/phantasialand-1/21796db6dfa2-w1200.avif",
+            "width": 1200,
+            "bytes": 120133
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/phantasialand-1/21796db6dfa2-w480.webp",
+            "width": 480,
+            "bytes": 35350
+          },
+          {
+            "file": "responsive/phantasialand-1/21796db6dfa2-w768.webp",
+            "width": 768,
+            "bytes": 79748
+          },
+          {
+            "file": "responsive/phantasialand-1/21796db6dfa2-w1200.webp",
+            "width": 1200,
+            "bytes": 179908
+          }
+        ]
+      }
+    },
+    "phantasialand-2.jpg": {
+      "sha256": "c2708fda41972456e6fa08c56d78b6cf51e1ef7811df5d62d1da193a6707202a",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/phantasialand-2/c2708fda4197-w480.avif",
+            "width": 480,
+            "bytes": 24316
+          },
+          {
+            "file": "responsive/phantasialand-2/c2708fda4197-w768.avif",
+            "width": 768,
+            "bytes": 56501
+          },
+          {
+            "file": "responsive/phantasialand-2/c2708fda4197-w1200.avif",
+            "width": 1200,
+            "bytes": 136657
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/phantasialand-2/c2708fda4197-w480.webp",
+            "width": 480,
+            "bytes": 35590
+          },
+          {
+            "file": "responsive/phantasialand-2/c2708fda4197-w768.webp",
+            "width": 768,
+            "bytes": 82074
+          },
+          {
+            "file": "responsive/phantasialand-2/c2708fda4197-w1200.webp",
+            "width": 1200,
+            "bytes": 195266
+          }
+        ]
+      }
+    },
+    "phantasialand-portada.jpg": {
+      "sha256": "d0e6d4cc65784019ed2eedaffed89597202a5fe8594b99566dbbdd7a536990bf",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/phantasialand-portada/d0e6d4cc6578-w480.avif",
+            "width": 480,
+            "bytes": 20611
+          },
+          {
+            "file": "responsive/phantasialand-portada/d0e6d4cc6578-w768.avif",
+            "width": 768,
+            "bytes": 42800
+          },
+          {
+            "file": "responsive/phantasialand-portada/d0e6d4cc6578-w1200.avif",
+            "width": 1200,
+            "bytes": 84354
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/phantasialand-portada/d0e6d4cc6578-w480.webp",
+            "width": 480,
+            "bytes": 30304
+          },
+          {
+            "file": "responsive/phantasialand-portada/d0e6d4cc6578-w768.webp",
+            "width": 768,
+            "bytes": 66510
+          },
+          {
+            "file": "responsive/phantasialand-portada/d0e6d4cc6578-w1200.webp",
+            "width": 1200,
+            "bytes": 135850
+          }
+        ]
+      }
+    },
     "port-aventura-world-2.jpg": {
       "sha256": "7e1fc2a51a43d4cf49e3f114ac979268c37f85fc1da50797bc0f88febb98a929",
       "original_width": 1376,
@@ -17703,6 +19296,183 @@
         ]
       }
     },
+    "puy-du-fou-espana-1.jpg": {
+      "sha256": "e538ee2c63da279e801e6ad386d86196e69f35cbf0612aa2100d7d7d3935c19e",
+      "original_width": 1200,
+      "original_height": 904,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/puy-du-fou-espana-1/e538ee2c63da-w480.avif",
+            "width": 480,
+            "bytes": 13967
+          },
+          {
+            "file": "responsive/puy-du-fou-espana-1/e538ee2c63da-w768.avif",
+            "width": 768,
+            "bytes": 35858
+          },
+          {
+            "file": "responsive/puy-du-fou-espana-1/e538ee2c63da-w1200.avif",
+            "width": 1200,
+            "bytes": 94322
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/puy-du-fou-espana-1/e538ee2c63da-w480.webp",
+            "width": 480,
+            "bytes": 22582
+          },
+          {
+            "file": "responsive/puy-du-fou-espana-1/e538ee2c63da-w768.webp",
+            "width": 768,
+            "bytes": 56984
+          },
+          {
+            "file": "responsive/puy-du-fou-espana-1/e538ee2c63da-w1200.webp",
+            "width": 1200,
+            "bytes": 141232
+          }
+        ]
+      }
+    },
+    "puy-du-fou-espana-2.jpg": {
+      "sha256": "616fd45d71c84655cb9ae715816da5beae226c2b0f2738b0e8544489b0ffeaae",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/puy-du-fou-espana-2/616fd45d71c8-w480.avif",
+            "width": 480,
+            "bytes": 7033
+          },
+          {
+            "file": "responsive/puy-du-fou-espana-2/616fd45d71c8-w768.avif",
+            "width": 768,
+            "bytes": 14576
+          },
+          {
+            "file": "responsive/puy-du-fou-espana-2/616fd45d71c8-w1200.avif",
+            "width": 1200,
+            "bytes": 30641
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/puy-du-fou-espana-2/616fd45d71c8-w480.webp",
+            "width": 480,
+            "bytes": 12374
+          },
+          {
+            "file": "responsive/puy-du-fou-espana-2/616fd45d71c8-w768.webp",
+            "width": 768,
+            "bytes": 26650
+          },
+          {
+            "file": "responsive/puy-du-fou-espana-2/616fd45d71c8-w1200.webp",
+            "width": 1200,
+            "bytes": 55652
+          }
+        ]
+      }
+    },
+    "puy-du-fou-espana-portada.jpg": {
+      "sha256": "16145d1ba72fb0563600a5ba49c59d95c29374b3672299882a786a030297aa82",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/puy-du-fou-espana-portada/16145d1ba72f-w480.avif",
+            "width": 480,
+            "bytes": 10756
+          },
+          {
+            "file": "responsive/puy-du-fou-espana-portada/16145d1ba72f-w768.avif",
+            "width": 768,
+            "bytes": 25824
+          },
+          {
+            "file": "responsive/puy-du-fou-espana-portada/16145d1ba72f-w1200.avif",
+            "width": 1200,
+            "bytes": 56423
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/puy-du-fou-espana-portada/16145d1ba72f-w480.webp",
+            "width": 480,
+            "bytes": 17090
+          },
+          {
+            "file": "responsive/puy-du-fou-espana-portada/16145d1ba72f-w768.webp",
+            "width": 768,
+            "bytes": 41432
+          },
+          {
+            "file": "responsive/puy-du-fou-espana-portada/16145d1ba72f-w1200.webp",
+            "width": 1200,
+            "bytes": 93746
+          }
+        ]
+      }
+    },
     "puy-du-fou-mime-etoile.jpg": {
       "sha256": "481b0a2b0a619b05b35a5758bc5401b63a58b098101ac0fe9c17fe558800bd15",
       "original_width": 1600,
@@ -18706,6 +20476,124 @@
         ]
       }
     },
+    "seaworld-orlando-1.jpg": {
+      "sha256": "0cd9e0db0c06c1fd864038435e33ffdb697d763158abde87074cc40c04687e92",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/seaworld-orlando-1/0cd9e0db0c06-w480.avif",
+            "width": 480,
+            "bytes": 28222
+          },
+          {
+            "file": "responsive/seaworld-orlando-1/0cd9e0db0c06-w768.avif",
+            "width": 768,
+            "bytes": 67257
+          },
+          {
+            "file": "responsive/seaworld-orlando-1/0cd9e0db0c06-w1200.avif",
+            "width": 1200,
+            "bytes": 159228
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/seaworld-orlando-1/0cd9e0db0c06-w480.webp",
+            "width": 480,
+            "bytes": 41852
+          },
+          {
+            "file": "responsive/seaworld-orlando-1/0cd9e0db0c06-w768.webp",
+            "width": 768,
+            "bytes": 98914
+          },
+          {
+            "file": "responsive/seaworld-orlando-1/0cd9e0db0c06-w1200.webp",
+            "width": 1200,
+            "bytes": 231262
+          }
+        ]
+      }
+    },
+    "seaworld-orlando-2.jpg": {
+      "sha256": "0cb00d0b83f3ca60f2d59aac6591f4bc7df0681c8350efe439efa775ed68dc4e",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/seaworld-orlando-2/0cb00d0b83f3-w480.avif",
+            "width": 480,
+            "bytes": 17765
+          },
+          {
+            "file": "responsive/seaworld-orlando-2/0cb00d0b83f3-w768.avif",
+            "width": 768,
+            "bytes": 41037
+          },
+          {
+            "file": "responsive/seaworld-orlando-2/0cb00d0b83f3-w1200.avif",
+            "width": 1200,
+            "bytes": 94541
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/seaworld-orlando-2/0cb00d0b83f3-w480.webp",
+            "width": 480,
+            "bytes": 27114
+          },
+          {
+            "file": "responsive/seaworld-orlando-2/0cb00d0b83f3-w768.webp",
+            "width": 768,
+            "bytes": 61436
+          },
+          {
+            "file": "responsive/seaworld-orlando-2/0cb00d0b83f3-w1200.webp",
+            "width": 1200,
+            "bytes": 139692
+          }
+        ]
+      }
+    },
     "seaworld-orlando-pacific-point.jpg": {
       "sha256": "2c27e21bc81ebfae486785e2ffb90555dfa614c19dd015bfac44fce25bdfb616",
       "original_width": 1600,
@@ -18761,6 +20649,65 @@
             "file": "responsive/seaworld-orlando-pacific-point/2c27e21bc81e-w1200.webp",
             "width": 1200,
             "bytes": 147416
+          }
+        ]
+      }
+    },
+    "seaworld-orlando-portada.jpg": {
+      "sha256": "7421c14a49a3b2ba6beb9eece56aee3109320afbbc2f2c0b47ee4eed619fcc45",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/seaworld-orlando-portada/7421c14a49a3-w480.avif",
+            "width": 480,
+            "bytes": 18736
+          },
+          {
+            "file": "responsive/seaworld-orlando-portada/7421c14a49a3-w768.avif",
+            "width": 768,
+            "bytes": 47498
+          },
+          {
+            "file": "responsive/seaworld-orlando-portada/7421c14a49a3-w1200.avif",
+            "width": 1200,
+            "bytes": 113273
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/seaworld-orlando-portada/7421c14a49a3-w480.webp",
+            "width": 480,
+            "bytes": 28968
+          },
+          {
+            "file": "responsive/seaworld-orlando-portada/7421c14a49a3-w768.webp",
+            "width": 768,
+            "bytes": 72400
+          },
+          {
+            "file": "responsive/seaworld-orlando-portada/7421c14a49a3-w1200.webp",
+            "width": 1200,
+            "bytes": 170808
           }
         ]
       }
@@ -19941,6 +21888,183 @@
             "file": "responsive/six-flags-fiesta-texas/03083acba437-w1200.webp",
             "width": 1200,
             "bytes": 158504
+          }
+        ]
+      }
+    },
+    "six-flags-great-adventure-1.jpg": {
+      "sha256": "0d5bdbda38eb3c2b3bc28e6253c36398f00e6c39dccddba7256f96e485852146",
+      "original_width": 1200,
+      "original_height": 904,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/six-flags-great-adventure-1/0d5bdbda38eb-w480.avif",
+            "width": 480,
+            "bytes": 23368
+          },
+          {
+            "file": "responsive/six-flags-great-adventure-1/0d5bdbda38eb-w768.avif",
+            "width": 768,
+            "bytes": 53561
+          },
+          {
+            "file": "responsive/six-flags-great-adventure-1/0d5bdbda38eb-w1200.avif",
+            "width": 1200,
+            "bytes": 122108
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/six-flags-great-adventure-1/0d5bdbda38eb-w480.webp",
+            "width": 480,
+            "bytes": 35938
+          },
+          {
+            "file": "responsive/six-flags-great-adventure-1/0d5bdbda38eb-w768.webp",
+            "width": 768,
+            "bytes": 83292
+          },
+          {
+            "file": "responsive/six-flags-great-adventure-1/0d5bdbda38eb-w1200.webp",
+            "width": 1200,
+            "bytes": 187090
+          }
+        ]
+      }
+    },
+    "six-flags-great-adventure-2.jpg": {
+      "sha256": "3f9ce3f389730dbd44de8508624dd010319d945e96079e3dbc5d21767beddd17",
+      "original_width": 1200,
+      "original_height": 904,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/six-flags-great-adventure-2/3f9ce3f38973-w480.avif",
+            "width": 480,
+            "bytes": 16296
+          },
+          {
+            "file": "responsive/six-flags-great-adventure-2/3f9ce3f38973-w768.avif",
+            "width": 768,
+            "bytes": 33517
+          },
+          {
+            "file": "responsive/six-flags-great-adventure-2/3f9ce3f38973-w1200.avif",
+            "width": 1200,
+            "bytes": 68890
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/six-flags-great-adventure-2/3f9ce3f38973-w480.webp",
+            "width": 480,
+            "bytes": 28404
+          },
+          {
+            "file": "responsive/six-flags-great-adventure-2/3f9ce3f38973-w768.webp",
+            "width": 768,
+            "bytes": 60644
+          },
+          {
+            "file": "responsive/six-flags-great-adventure-2/3f9ce3f38973-w1200.webp",
+            "width": 1200,
+            "bytes": 124562
+          }
+        ]
+      }
+    },
+    "six-flags-great-adventure-portada.jpg": {
+      "sha256": "1ebee76168984b140265a9ace4d80ae1b6159b3cdc07aee4d0c57082e20c1f7d",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/six-flags-great-adventure-portada/1ebee7616898-w480.avif",
+            "width": 480,
+            "bytes": 10443
+          },
+          {
+            "file": "responsive/six-flags-great-adventure-portada/1ebee7616898-w768.avif",
+            "width": 768,
+            "bytes": 25030
+          },
+          {
+            "file": "responsive/six-flags-great-adventure-portada/1ebee7616898-w1200.avif",
+            "width": 1200,
+            "bytes": 55845
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/six-flags-great-adventure-portada/1ebee7616898-w480.webp",
+            "width": 480,
+            "bytes": 17644
+          },
+          {
+            "file": "responsive/six-flags-great-adventure-portada/1ebee7616898-w768.webp",
+            "width": 768,
+            "bytes": 41274
+          },
+          {
+            "file": "responsive/six-flags-great-adventure-portada/1ebee7616898-w1200.webp",
+            "width": 1200,
+            "bytes": 91802
           }
         ]
       }
@@ -25727,6 +27851,183 @@
         ]
       }
     },
+    "thorpe-park-1.jpg": {
+      "sha256": "154dff9b159965c990a77944ff9e91e268275d844b802f102d81f8bfeb04e501",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/thorpe-park-1/154dff9b1599-w480.avif",
+            "width": 480,
+            "bytes": 6820
+          },
+          {
+            "file": "responsive/thorpe-park-1/154dff9b1599-w768.avif",
+            "width": 768,
+            "bytes": 12728
+          },
+          {
+            "file": "responsive/thorpe-park-1/154dff9b1599-w1200.avif",
+            "width": 1200,
+            "bytes": 24493
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/thorpe-park-1/154dff9b1599-w480.webp",
+            "width": 480,
+            "bytes": 13234
+          },
+          {
+            "file": "responsive/thorpe-park-1/154dff9b1599-w768.webp",
+            "width": 768,
+            "bytes": 25526
+          },
+          {
+            "file": "responsive/thorpe-park-1/154dff9b1599-w1200.webp",
+            "width": 1200,
+            "bytes": 49464
+          }
+        ]
+      }
+    },
+    "thorpe-park-2.jpg": {
+      "sha256": "e54801217eed9af3fa5c4de26f11cfd54d985813e31b561d10a10118a11ce05d",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/thorpe-park-2/e54801217eed-w480.avif",
+            "width": 480,
+            "bytes": 15925
+          },
+          {
+            "file": "responsive/thorpe-park-2/e54801217eed-w768.avif",
+            "width": 768,
+            "bytes": 33264
+          },
+          {
+            "file": "responsive/thorpe-park-2/e54801217eed-w1200.avif",
+            "width": 1200,
+            "bytes": 70304
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/thorpe-park-2/e54801217eed-w480.webp",
+            "width": 480,
+            "bytes": 24150
+          },
+          {
+            "file": "responsive/thorpe-park-2/e54801217eed-w768.webp",
+            "width": 768,
+            "bytes": 53054
+          },
+          {
+            "file": "responsive/thorpe-park-2/e54801217eed-w1200.webp",
+            "width": 1200,
+            "bytes": 112436
+          }
+        ]
+      }
+    },
+    "thorpe-park-portada.jpg": {
+      "sha256": "a69fd82c7709b0dc550e46d70e16274a9c3b684b9563d46ab09b77bdfa5969b3",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/thorpe-park-portada/a69fd82c7709-w480.avif",
+            "width": 480,
+            "bytes": 5591
+          },
+          {
+            "file": "responsive/thorpe-park-portada/a69fd82c7709-w768.avif",
+            "width": 768,
+            "bytes": 15062
+          },
+          {
+            "file": "responsive/thorpe-park-portada/a69fd82c7709-w1200.avif",
+            "width": 1200,
+            "bytes": 40559
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/thorpe-park-portada/a69fd82c7709-w480.webp",
+            "width": 480,
+            "bytes": 11122
+          },
+          {
+            "file": "responsive/thorpe-park-portada/a69fd82c7709-w768.webp",
+            "width": 768,
+            "bytes": 29652
+          },
+          {
+            "file": "responsive/thorpe-park-portada/a69fd82c7709-w1200.webp",
+            "width": 1200,
+            "bytes": 76394
+          }
+        ]
+      }
+    },
     "tibidabo-barcelona-2.jpg": {
       "sha256": "7d31bb200a20e2b0d0b80a794834992e4515a97b27144024098e6ab3c7064c3a",
       "original_width": 1376,
@@ -25841,6 +28142,183 @@
             "file": "responsive/tibidabo-barcelona/a8d37ecc1a58-w1200.webp",
             "width": 1200,
             "bytes": 99980
+          }
+        ]
+      }
+    },
+    "tivoli-1.jpg": {
+      "sha256": "55dcf5354821c427d86d90758e4d1677cc7021b2b0652e11a6e1ede322357f51",
+      "original_width": 1200,
+      "original_height": 793,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tivoli-1/55dcf5354821-w480.avif",
+            "width": 480,
+            "bytes": 18986
+          },
+          {
+            "file": "responsive/tivoli-1/55dcf5354821-w768.avif",
+            "width": 768,
+            "bytes": 41342
+          },
+          {
+            "file": "responsive/tivoli-1/55dcf5354821-w1200.avif",
+            "width": 1200,
+            "bytes": 89543
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tivoli-1/55dcf5354821-w480.webp",
+            "width": 480,
+            "bytes": 30672
+          },
+          {
+            "file": "responsive/tivoli-1/55dcf5354821-w768.webp",
+            "width": 768,
+            "bytes": 69252
+          },
+          {
+            "file": "responsive/tivoli-1/55dcf5354821-w1200.webp",
+            "width": 1200,
+            "bytes": 149706
+          }
+        ]
+      }
+    },
+    "tivoli-2.jpg": {
+      "sha256": "58d4dbd54887f3f7a9517b4118ff4984965c4acc6b74e5657fdb7386e98d6308",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tivoli-2/58d4dbd54887-w480.avif",
+            "width": 480,
+            "bytes": 19785
+          },
+          {
+            "file": "responsive/tivoli-2/58d4dbd54887-w768.avif",
+            "width": 768,
+            "bytes": 40465
+          },
+          {
+            "file": "responsive/tivoli-2/58d4dbd54887-w1200.avif",
+            "width": 1200,
+            "bytes": 79358
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tivoli-2/58d4dbd54887-w480.webp",
+            "width": 480,
+            "bytes": 31394
+          },
+          {
+            "file": "responsive/tivoli-2/58d4dbd54887-w768.webp",
+            "width": 768,
+            "bytes": 67152
+          },
+          {
+            "file": "responsive/tivoli-2/58d4dbd54887-w1200.webp",
+            "width": 1200,
+            "bytes": 135028
+          }
+        ]
+      }
+    },
+    "tivoli-portada.jpg": {
+      "sha256": "86eb46b1b3a93ca7a07d684a3ebb7d9442cbc2c8485d64c7e6426d5144d2f9c5",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tivoli-portada/86eb46b1b3a9-w480.avif",
+            "width": 480,
+            "bytes": 11614
+          },
+          {
+            "file": "responsive/tivoli-portada/86eb46b1b3a9-w768.avif",
+            "width": 768,
+            "bytes": 21972
+          },
+          {
+            "file": "responsive/tivoli-portada/86eb46b1b3a9-w1200.avif",
+            "width": 1200,
+            "bytes": 39007
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tivoli-portada/86eb46b1b3a9-w480.webp",
+            "width": 480,
+            "bytes": 17866
+          },
+          {
+            "file": "responsive/tivoli-portada/86eb46b1b3a9-w768.webp",
+            "width": 768,
+            "bytes": 36190
+          },
+          {
+            "file": "responsive/tivoli-portada/86eb46b1b3a9-w1200.webp",
+            "width": 1200,
+            "bytes": 68502
           }
         ]
       }
@@ -27788,6 +30266,183 @@
             "file": "responsive/universal-orlando-resort/6713296dde9a-w1200.webp",
             "width": 1200,
             "bytes": 158672
+          }
+        ]
+      }
+    },
+    "universal-singapore-1.jpg": {
+      "sha256": "748cf65f0ba592e1aff77e1edf734d2ccb026665f3de6c2385f10a064cf35a68",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/universal-singapore-1/748cf65f0ba5-w480.avif",
+            "width": 480,
+            "bytes": 20990
+          },
+          {
+            "file": "responsive/universal-singapore-1/748cf65f0ba5-w768.avif",
+            "width": 768,
+            "bytes": 48537
+          },
+          {
+            "file": "responsive/universal-singapore-1/748cf65f0ba5-w1200.avif",
+            "width": 1200,
+            "bytes": 117612
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/universal-singapore-1/748cf65f0ba5-w480.webp",
+            "width": 480,
+            "bytes": 32752
+          },
+          {
+            "file": "responsive/universal-singapore-1/748cf65f0ba5-w768.webp",
+            "width": 768,
+            "bytes": 79024
+          },
+          {
+            "file": "responsive/universal-singapore-1/748cf65f0ba5-w1200.webp",
+            "width": 1200,
+            "bytes": 187144
+          }
+        ]
+      }
+    },
+    "universal-singapore-2.jpg": {
+      "sha256": "802b5eaa1f9d96d0bedbc56cbc2ddd7751ff9edbf2358ccb407ea8b4cbcc560d",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/universal-singapore-2/802b5eaa1f9d-w480.avif",
+            "width": 480,
+            "bytes": 19093
+          },
+          {
+            "file": "responsive/universal-singapore-2/802b5eaa1f9d-w768.avif",
+            "width": 768,
+            "bytes": 35106
+          },
+          {
+            "file": "responsive/universal-singapore-2/802b5eaa1f9d-w1200.avif",
+            "width": 1200,
+            "bytes": 65168
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/universal-singapore-2/802b5eaa1f9d-w480.webp",
+            "width": 480,
+            "bytes": 31542
+          },
+          {
+            "file": "responsive/universal-singapore-2/802b5eaa1f9d-w768.webp",
+            "width": 768,
+            "bytes": 62908
+          },
+          {
+            "file": "responsive/universal-singapore-2/802b5eaa1f9d-w1200.webp",
+            "width": 1200,
+            "bytes": 120684
+          }
+        ]
+      }
+    },
+    "universal-singapore-portada.jpg": {
+      "sha256": "9a547fc4d706c424d76d507b3704571cb672c90f9703d77612f3a077872eb656",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/universal-singapore-portada/9a547fc4d706-w480.avif",
+            "width": 480,
+            "bytes": 16214
+          },
+          {
+            "file": "responsive/universal-singapore-portada/9a547fc4d706-w768.avif",
+            "width": 768,
+            "bytes": 41223
+          },
+          {
+            "file": "responsive/universal-singapore-portada/9a547fc4d706-w1200.avif",
+            "width": 1200,
+            "bytes": 96343
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/universal-singapore-portada/9a547fc4d706-w480.webp",
+            "width": 480,
+            "bytes": 25388
+          },
+          {
+            "file": "responsive/universal-singapore-portada/9a547fc4d706-w768.webp",
+            "width": 768,
+            "bytes": 63464
+          },
+          {
+            "file": "responsive/universal-singapore-portada/9a547fc4d706-w1200.webp",
+            "width": 1200,
+            "bytes": 148066
           }
         ]
       }
