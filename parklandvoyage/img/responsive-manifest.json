@@ -427,6 +427,596 @@
         ]
       }
     },
+    "aqualand-costa-adeje-1.jpg": {
+      "sha256": "1ab060abf9522c20538ded56b3d89010b2f263faadd038e5e0867664e1d71c03",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualand-costa-adeje-1/1ab060abf952-w480.avif",
+            "width": 480,
+            "bytes": 15167
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-1/1ab060abf952-w768.avif",
+            "width": 768,
+            "bytes": 37175
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-1/1ab060abf952-w1200.avif",
+            "width": 1200,
+            "bytes": 90858
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualand-costa-adeje-1/1ab060abf952-w480.webp",
+            "width": 480,
+            "bytes": 26062
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-1/1ab060abf952-w768.webp",
+            "width": 768,
+            "bytes": 63856
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-1/1ab060abf952-w1200.webp",
+            "width": 1200,
+            "bytes": 147584
+          }
+        ]
+      }
+    },
+    "aqualand-costa-adeje-2.jpg": {
+      "sha256": "082811fe825e412791c8125a69ba89abb0132f77b420f005192838018745bfff",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualand-costa-adeje-2/082811fe825e-w480.avif",
+            "width": 480,
+            "bytes": 11589
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-2/082811fe825e-w768.avif",
+            "width": 768,
+            "bytes": 33757
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-2/082811fe825e-w1200.avif",
+            "width": 1200,
+            "bytes": 95474
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualand-costa-adeje-2/082811fe825e-w480.webp",
+            "width": 480,
+            "bytes": 21306
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-2/082811fe825e-w768.webp",
+            "width": 768,
+            "bytes": 61278
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-2/082811fe825e-w1200.webp",
+            "width": 1200,
+            "bytes": 153090
+          }
+        ]
+      }
+    },
+    "aqualand-costa-adeje-3.jpg": {
+      "sha256": "dea13da9737bda5a53297aa187e04caa73f9a160226913f628ee5fa094c2b6f7",
+      "original_width": 1200,
+      "original_height": 886,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualand-costa-adeje-3/dea13da9737b-w480.avif",
+            "width": 480,
+            "bytes": 21724
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-3/dea13da9737b-w768.avif",
+            "width": 768,
+            "bytes": 47956
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-3/dea13da9737b-w1200.avif",
+            "width": 1200,
+            "bytes": 90361
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualand-costa-adeje-3/dea13da9737b-w480.webp",
+            "width": 480,
+            "bytes": 35652
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-3/dea13da9737b-w768.webp",
+            "width": 768,
+            "bytes": 80130
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-3/dea13da9737b-w1200.webp",
+            "width": 1200,
+            "bytes": 153402
+          }
+        ]
+      }
+    },
+    "aqualand-costa-adeje-delfines.jpg": {
+      "sha256": "56038e563b7cf7559167c74ad46f523a8ce7ee110648fa5b04c937ad643712c8",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualand-costa-adeje-delfines/56038e563b7c-w480.avif",
+            "width": 480,
+            "bytes": 17455
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-delfines/56038e563b7c-w768.avif",
+            "width": 768,
+            "bytes": 40584
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-delfines/56038e563b7c-w1200.avif",
+            "width": 1200,
+            "bytes": 87928
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualand-costa-adeje-delfines/56038e563b7c-w480.webp",
+            "width": 480,
+            "bytes": 29264
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-delfines/56038e563b7c-w768.webp",
+            "width": 768,
+            "bytes": 68688
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-delfines/56038e563b7c-w1200.webp",
+            "width": 1200,
+            "bytes": 151182
+          }
+        ]
+      }
+    },
+    "aqualand-costa-adeje-portada.jpg": {
+      "sha256": "1c8f47e4e8d187d18448b698fe0082b8a094219ca742a93df7ca2568f69ed40b",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualand-costa-adeje-portada/1c8f47e4e8d1-w480.avif",
+            "width": 480,
+            "bytes": 9881
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-portada/1c8f47e4e8d1-w768.avif",
+            "width": 768,
+            "bytes": 23699
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-portada/1c8f47e4e8d1-w1200.avif",
+            "width": 1200,
+            "bytes": 61912
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualand-costa-adeje-portada/1c8f47e4e8d1-w480.webp",
+            "width": 480,
+            "bytes": 17692
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-portada/1c8f47e4e8d1-w768.webp",
+            "width": 768,
+            "bytes": 42950
+          },
+          {
+            "file": "responsive/aqualand-costa-adeje-portada/1c8f47e4e8d1-w1200.webp",
+            "width": 1200,
+            "bytes": 109718
+          }
+        ]
+      }
+    },
+    "aqualand-el-arenal-1.jpg": {
+      "sha256": "f8bfc426bac7a869ca28e1de535ef5f0c4ab7edb73782289b13dece167bf4b83",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualand-el-arenal-1/f8bfc426bac7-w480.avif",
+            "width": 480,
+            "bytes": 18810
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-1/f8bfc426bac7-w768.avif",
+            "width": 768,
+            "bytes": 42271
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-1/f8bfc426bac7-w1200.avif",
+            "width": 1200,
+            "bytes": 86905
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualand-el-arenal-1/f8bfc426bac7-w480.webp",
+            "width": 480,
+            "bytes": 30610
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-1/f8bfc426bac7-w768.webp",
+            "width": 768,
+            "bytes": 70012
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-1/f8bfc426bac7-w1200.webp",
+            "width": 1200,
+            "bytes": 147940
+          }
+        ]
+      }
+    },
+    "aqualand-el-arenal-2.jpg": {
+      "sha256": "6dcfbf9fdbd86a04e52c1be777e2a47c7a77e5b2747bf709f86082201faecbb9",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualand-el-arenal-2/6dcfbf9fdbd8-w480.avif",
+            "width": 480,
+            "bytes": 13773
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-2/6dcfbf9fdbd8-w768.avif",
+            "width": 768,
+            "bytes": 32429
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-2/6dcfbf9fdbd8-w1200.avif",
+            "width": 1200,
+            "bytes": 73827
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualand-el-arenal-2/6dcfbf9fdbd8-w480.webp",
+            "width": 480,
+            "bytes": 23368
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-2/6dcfbf9fdbd8-w768.webp",
+            "width": 768,
+            "bytes": 55374
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-2/6dcfbf9fdbd8-w1200.webp",
+            "width": 1200,
+            "bytes": 127412
+          }
+        ]
+      }
+    },
+    "aqualand-el-arenal-3.jpg": {
+      "sha256": "b7633f362009181ef7570c1021fd7d81e1f9d0344c84c458f55789f8d733ae46",
+      "original_width": 1000,
+      "original_height": 667,
+      "widths": [
+        480,
+        768,
+        1000
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualand-el-arenal-3/b7633f362009-w480.avif",
+            "width": 480,
+            "bytes": 17158
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-3/b7633f362009-w768.avif",
+            "width": 768,
+            "bytes": 40806
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-3/b7633f362009-w1000.avif",
+            "width": 1000,
+            "bytes": 76145
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualand-el-arenal-3/b7633f362009-w480.webp",
+            "width": 480,
+            "bytes": 30190
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-3/b7633f362009-w768.webp",
+            "width": 768,
+            "bytes": 71442
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-3/b7633f362009-w1000.webp",
+            "width": 1000,
+            "bytes": 121812
+          }
+        ]
+      }
+    },
+    "aqualand-el-arenal-portada.jpg": {
+      "sha256": "9cd0abb60222b2833c239c8e2c525bd450913aa5961c8b41fd10bfb8b11a00b3",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualand-el-arenal-portada/9cd0abb60222-w480.avif",
+            "width": 480,
+            "bytes": 14808
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-portada/9cd0abb60222-w768.avif",
+            "width": 768,
+            "bytes": 36075
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-portada/9cd0abb60222-w1200.avif",
+            "width": 1200,
+            "bytes": 81219
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualand-el-arenal-portada/9cd0abb60222-w480.webp",
+            "width": 480,
+            "bytes": 24232
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-portada/9cd0abb60222-w768.webp",
+            "width": 768,
+            "bytes": 59406
+          },
+          {
+            "file": "responsive/aqualand-el-arenal-portada/9cd0abb60222-w1200.webp",
+            "width": 1200,
+            "bytes": 136340
+          }
+        ]
+      }
+    },
+    "aqualand-maspalomas-portada.jpg": {
+      "sha256": "48e26cc7d65dfc1ed113ef07cb3e5c251f9095591aeccd6c88ba143c9bfa6d9c",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualand-maspalomas-portada/48e26cc7d65d-w480.avif",
+            "width": 480,
+            "bytes": 17480
+          },
+          {
+            "file": "responsive/aqualand-maspalomas-portada/48e26cc7d65d-w768.avif",
+            "width": 768,
+            "bytes": 40194
+          },
+          {
+            "file": "responsive/aqualand-maspalomas-portada/48e26cc7d65d-w1200.avif",
+            "width": 1200,
+            "bytes": 91036
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualand-maspalomas-portada/48e26cc7d65d-w480.webp",
+            "width": 480,
+            "bytes": 26920
+          },
+          {
+            "file": "responsive/aqualand-maspalomas-portada/48e26cc7d65d-w768.webp",
+            "width": 768,
+            "bytes": 63496
+          },
+          {
+            "file": "responsive/aqualand-maspalomas-portada/48e26cc7d65d-w1200.webp",
+            "width": 1200,
+            "bytes": 156178
+          }
+        ]
+      }
+    },
     "aquascope-futuroscope-banner.jpg": {
       "sha256": "e7ca76e87ff037cef44a53333f9c2970ee170aa14ed5049e3c8c5ac96d42bf8f",
       "original_width": 1600,
@@ -12286,6 +12876,478 @@
         ]
       }
     },
+    "jungle-park-1.jpg": {
+      "sha256": "93a25d583602af124b34b67f04ea0276af13e1fad2e26cb45c10377eed7b3327",
+      "original_width": 1200,
+      "original_height": 797,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/jungle-park-1/93a25d583602-w480.avif",
+            "width": 480,
+            "bytes": 27985
+          },
+          {
+            "file": "responsive/jungle-park-1/93a25d583602-w768.avif",
+            "width": 768,
+            "bytes": 73316
+          },
+          {
+            "file": "responsive/jungle-park-1/93a25d583602-w1200.avif",
+            "width": 1200,
+            "bytes": 173422
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/jungle-park-1/93a25d583602-w480.webp",
+            "width": 480,
+            "bytes": 40100
+          },
+          {
+            "file": "responsive/jungle-park-1/93a25d583602-w768.webp",
+            "width": 768,
+            "bytes": 105740
+          },
+          {
+            "file": "responsive/jungle-park-1/93a25d583602-w1200.webp",
+            "width": 1200,
+            "bytes": 255946
+          }
+        ]
+      }
+    },
+    "jungle-park-2.jpg": {
+      "sha256": "4a219eed4805d612c1887c2e2976cc7263280acd7bd8133091c461d2bba07c2a",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/jungle-park-2/4a219eed4805-w480.avif",
+            "width": 480,
+            "bytes": 22682
+          },
+          {
+            "file": "responsive/jungle-park-2/4a219eed4805-w768.avif",
+            "width": 768,
+            "bytes": 47170
+          },
+          {
+            "file": "responsive/jungle-park-2/4a219eed4805-w1200.avif",
+            "width": 1200,
+            "bytes": 89667
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/jungle-park-2/4a219eed4805-w480.webp",
+            "width": 480,
+            "bytes": 34880
+          },
+          {
+            "file": "responsive/jungle-park-2/4a219eed4805-w768.webp",
+            "width": 768,
+            "bytes": 76734
+          },
+          {
+            "file": "responsive/jungle-park-2/4a219eed4805-w1200.webp",
+            "width": 1200,
+            "bytes": 153360
+          }
+        ]
+      }
+    },
+    "jungle-park-3.jpg": {
+      "sha256": "34234e056c6794e9d0763c6dbf42092d1a8c278352309f0999896d8eeb91aec2",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/jungle-park-3/34234e056c67-w480.avif",
+            "width": 480,
+            "bytes": 17267
+          },
+          {
+            "file": "responsive/jungle-park-3/34234e056c67-w768.avif",
+            "width": 768,
+            "bytes": 30899
+          },
+          {
+            "file": "responsive/jungle-park-3/34234e056c67-w1200.avif",
+            "width": 1200,
+            "bytes": 56199
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/jungle-park-3/34234e056c67-w480.webp",
+            "width": 480,
+            "bytes": 31006
+          },
+          {
+            "file": "responsive/jungle-park-3/34234e056c67-w768.webp",
+            "width": 768,
+            "bytes": 57736
+          },
+          {
+            "file": "responsive/jungle-park-3/34234e056c67-w1200.webp",
+            "width": 1200,
+            "bytes": 114112
+          }
+        ]
+      }
+    },
+    "jungle-park-portada.jpg": {
+      "sha256": "350daeb3038e9378a41206217662f83605ce6d56f9cef696f0d9560b27cdef3b",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/jungle-park-portada/350daeb3038e-w480.avif",
+            "width": 480,
+            "bytes": 16936
+          },
+          {
+            "file": "responsive/jungle-park-portada/350daeb3038e-w768.avif",
+            "width": 768,
+            "bytes": 37922
+          },
+          {
+            "file": "responsive/jungle-park-portada/350daeb3038e-w1200.avif",
+            "width": 1200,
+            "bytes": 77254
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/jungle-park-portada/350daeb3038e-w480.webp",
+            "width": 480,
+            "bytes": 26122
+          },
+          {
+            "file": "responsive/jungle-park-portada/350daeb3038e-w768.webp",
+            "width": 768,
+            "bytes": 59836
+          },
+          {
+            "file": "responsive/jungle-park-portada/350daeb3038e-w1200.webp",
+            "width": 1200,
+            "bytes": 128190
+          }
+        ]
+      }
+    },
+    "katmandu-park-2.jpg": {
+      "sha256": "2770206653e007e4975ddd59665f797a1e4726dc26ffbf28113ab1966e7ead6f",
+      "original_width": 1200,
+      "original_height": 614,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/katmandu-park-2/2770206653e0-w480.avif",
+            "width": 480,
+            "bytes": 12222
+          },
+          {
+            "file": "responsive/katmandu-park-2/2770206653e0-w768.avif",
+            "width": 768,
+            "bytes": 27120
+          },
+          {
+            "file": "responsive/katmandu-park-2/2770206653e0-w1200.avif",
+            "width": 1200,
+            "bytes": 59290
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/katmandu-park-2/2770206653e0-w480.webp",
+            "width": 480,
+            "bytes": 19650
+          },
+          {
+            "file": "responsive/katmandu-park-2/2770206653e0-w768.webp",
+            "width": 768,
+            "bytes": 44286
+          },
+          {
+            "file": "responsive/katmandu-park-2/2770206653e0-w1200.webp",
+            "width": 1200,
+            "bytes": 99962
+          }
+        ]
+      }
+    },
+    "katmandu-park-3.jpg": {
+      "sha256": "7c204c051f3eb3fe841f6c837d0ba56d51fe638262f653ae129f9ee79e4bd1fb",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/katmandu-park-3/7c204c051f3e-w480.avif",
+            "width": 480,
+            "bytes": 23233
+          },
+          {
+            "file": "responsive/katmandu-park-3/7c204c051f3e-w768.avif",
+            "width": 768,
+            "bytes": 46939
+          },
+          {
+            "file": "responsive/katmandu-park-3/7c204c051f3e-w1200.avif",
+            "width": 1200,
+            "bytes": 93591
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/katmandu-park-3/7c204c051f3e-w480.webp",
+            "width": 480,
+            "bytes": 36984
+          },
+          {
+            "file": "responsive/katmandu-park-3/7c204c051f3e-w768.webp",
+            "width": 768,
+            "bytes": 78238
+          },
+          {
+            "file": "responsive/katmandu-park-3/7c204c051f3e-w1200.webp",
+            "width": 1200,
+            "bytes": 159782
+          }
+        ]
+      }
+    },
+    "katmandu-park-casa.jpg": {
+      "sha256": "00dfa0471e759bfbb52872844860eb865e1fa74b0d7a0e1fb4a206ff5348b616",
+      "original_width": 1024,
+      "original_height": 796,
+      "widths": [
+        480,
+        768,
+        1024
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/katmandu-park-casa/00dfa0471e75-w480.avif",
+            "width": 480,
+            "bytes": 19303
+          },
+          {
+            "file": "responsive/katmandu-park-casa/00dfa0471e75-w768.avif",
+            "width": 768,
+            "bytes": 37321
+          },
+          {
+            "file": "responsive/katmandu-park-casa/00dfa0471e75-w1024.avif",
+            "width": 1024,
+            "bytes": 57752
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/katmandu-park-casa/00dfa0471e75-w480.webp",
+            "width": 480,
+            "bytes": 31680
+          },
+          {
+            "file": "responsive/katmandu-park-casa/00dfa0471e75-w768.webp",
+            "width": 768,
+            "bytes": 65668
+          },
+          {
+            "file": "responsive/katmandu-park-casa/00dfa0471e75-w1024.webp",
+            "width": 1024,
+            "bytes": 100742
+          }
+        ]
+      }
+    },
+    "katmandu-park-portada.jpg": {
+      "sha256": "72c024bdb1d9e694d79cbb05907212942148470c9eabfe130d1e8f3150f24c27",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/katmandu-park-portada/72c024bdb1d9-w480.avif",
+            "width": 480,
+            "bytes": 15760
+          },
+          {
+            "file": "responsive/katmandu-park-portada/72c024bdb1d9-w768.avif",
+            "width": 768,
+            "bytes": 33632
+          },
+          {
+            "file": "responsive/katmandu-park-portada/72c024bdb1d9-w1200.avif",
+            "width": 1200,
+            "bytes": 74071
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/katmandu-park-portada/72c024bdb1d9-w480.webp",
+            "width": 480,
+            "bytes": 25452
+          },
+          {
+            "file": "responsive/katmandu-park-portada/72c024bdb1d9-w768.webp",
+            "width": 768,
+            "bytes": 56340
+          },
+          {
+            "file": "responsive/katmandu-park-portada/72c024bdb1d9-w1200.webp",
+            "width": 1200,
+            "bytes": 124768
+          }
+        ]
+      }
+    },
     "kingda-ka-coaster.jpg": {
       "sha256": "714983aa3aa015f3cdee748f2faee2fce60f930ee74677006a9cc3e1ea2306e9",
       "original_width": 2752,
@@ -16047,6 +17109,478 @@
             "file": "responsive/orlando-skyline/ec40aa5e6292-w1200.webp",
             "width": 1200,
             "bytes": 157154
+          }
+        ]
+      }
+    },
+    "palma-aquarium-1.jpg": {
+      "sha256": "cefc4b5bb4be3e82b23c02b6db02b9c3afa4779b54045d7c7082f9787f7bbc89",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/palma-aquarium-1/cefc4b5bb4be-w480.avif",
+            "width": 480,
+            "bytes": 44511
+          },
+          {
+            "file": "responsive/palma-aquarium-1/cefc4b5bb4be-w768.avif",
+            "width": 768,
+            "bytes": 132574
+          },
+          {
+            "file": "responsive/palma-aquarium-1/cefc4b5bb4be-w1200.avif",
+            "width": 1200,
+            "bytes": 333497
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/palma-aquarium-1/cefc4b5bb4be-w480.webp",
+            "width": 480,
+            "bytes": 60162
+          },
+          {
+            "file": "responsive/palma-aquarium-1/cefc4b5bb4be-w768.webp",
+            "width": 768,
+            "bytes": 171380
+          },
+          {
+            "file": "responsive/palma-aquarium-1/cefc4b5bb4be-w1200.webp",
+            "width": 1200,
+            "bytes": 450612
+          }
+        ]
+      }
+    },
+    "palma-aquarium-2.jpg": {
+      "sha256": "38cb16baf32757bea1dce295e5be75a47ba559bae189cadcef15472ae5ab61e4",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/palma-aquarium-2/38cb16baf327-w480.avif",
+            "width": 480,
+            "bytes": 48953
+          },
+          {
+            "file": "responsive/palma-aquarium-2/38cb16baf327-w768.avif",
+            "width": 768,
+            "bytes": 126079
+          },
+          {
+            "file": "responsive/palma-aquarium-2/38cb16baf327-w1200.avif",
+            "width": 1200,
+            "bytes": 299213
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/palma-aquarium-2/38cb16baf327-w480.webp",
+            "width": 480,
+            "bytes": 65086
+          },
+          {
+            "file": "responsive/palma-aquarium-2/38cb16baf327-w768.webp",
+            "width": 768,
+            "bytes": 166314
+          },
+          {
+            "file": "responsive/palma-aquarium-2/38cb16baf327-w1200.webp",
+            "width": 1200,
+            "bytes": 405238
+          }
+        ]
+      }
+    },
+    "palma-aquarium-3.jpg": {
+      "sha256": "2fdf968eff92ac7356c2ab4b31900b57ada56f2171814c3ddc269fe9ae7884b5",
+      "original_width": 1200,
+      "original_height": 920,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/palma-aquarium-3/2fdf968eff92-w480.avif",
+            "width": 480,
+            "bytes": 33999
+          },
+          {
+            "file": "responsive/palma-aquarium-3/2fdf968eff92-w768.avif",
+            "width": 768,
+            "bytes": 78875
+          },
+          {
+            "file": "responsive/palma-aquarium-3/2fdf968eff92-w1200.avif",
+            "width": 1200,
+            "bytes": 160699
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/palma-aquarium-3/2fdf968eff92-w480.webp",
+            "width": 480,
+            "bytes": 44740
+          },
+          {
+            "file": "responsive/palma-aquarium-3/2fdf968eff92-w768.webp",
+            "width": 768,
+            "bytes": 106598
+          },
+          {
+            "file": "responsive/palma-aquarium-3/2fdf968eff92-w1200.webp",
+            "width": 1200,
+            "bytes": 229882
+          }
+        ]
+      }
+    },
+    "palma-aquarium-portada.jpg": {
+      "sha256": "29146e9a32de0eec8a30e087d1e728f56e56517a1ab051540b4cc8692aab858d",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/palma-aquarium-portada/29146e9a32de-w480.avif",
+            "width": 480,
+            "bytes": 12705
+          },
+          {
+            "file": "responsive/palma-aquarium-portada/29146e9a32de-w768.avif",
+            "width": 768,
+            "bytes": 26137
+          },
+          {
+            "file": "responsive/palma-aquarium-portada/29146e9a32de-w1200.avif",
+            "width": 1200,
+            "bytes": 48610
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/palma-aquarium-portada/29146e9a32de-w480.webp",
+            "width": 480,
+            "bytes": 17994
+          },
+          {
+            "file": "responsive/palma-aquarium-portada/29146e9a32de-w768.webp",
+            "width": 768,
+            "bytes": 39476
+          },
+          {
+            "file": "responsive/palma-aquarium-portada/29146e9a32de-w1200.webp",
+            "width": 1200,
+            "bytes": 80236
+          }
+        ]
+      }
+    },
+    "palmitos-park-1.jpg": {
+      "sha256": "df824b93772a0c09e3eb8921eb4d74aa9ccd55fa4f54b747311b48b204af7b7e",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/palmitos-park-1/df824b93772a-w480.avif",
+            "width": 480,
+            "bytes": 31445
+          },
+          {
+            "file": "responsive/palmitos-park-1/df824b93772a-w768.avif",
+            "width": 768,
+            "bytes": 88883
+          },
+          {
+            "file": "responsive/palmitos-park-1/df824b93772a-w1200.avif",
+            "width": 1200,
+            "bytes": 216152
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/palmitos-park-1/df824b93772a-w480.webp",
+            "width": 480,
+            "bytes": 43682
+          },
+          {
+            "file": "responsive/palmitos-park-1/df824b93772a-w768.webp",
+            "width": 768,
+            "bytes": 118394
+          },
+          {
+            "file": "responsive/palmitos-park-1/df824b93772a-w1200.webp",
+            "width": 1200,
+            "bytes": 299840
+          }
+        ]
+      }
+    },
+    "palmitos-park-2.jpg": {
+      "sha256": "069072c288533d4bee6b9056712b4b2397835d4174c56bf778975469236c6ddb",
+      "original_width": 1200,
+      "original_height": 543,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/palmitos-park-2/069072c28853-w480.avif",
+            "width": 480,
+            "bytes": 18089
+          },
+          {
+            "file": "responsive/palmitos-park-2/069072c28853-w768.avif",
+            "width": 768,
+            "bytes": 44592
+          },
+          {
+            "file": "responsive/palmitos-park-2/069072c28853-w1200.avif",
+            "width": 1200,
+            "bytes": 106766
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/palmitos-park-2/069072c28853-w480.webp",
+            "width": 480,
+            "bytes": 25252
+          },
+          {
+            "file": "responsive/palmitos-park-2/069072c28853-w768.webp",
+            "width": 768,
+            "bytes": 62906
+          },
+          {
+            "file": "responsive/palmitos-park-2/069072c28853-w1200.webp",
+            "width": 1200,
+            "bytes": 150742
+          }
+        ]
+      }
+    },
+    "palmitos-park-3.jpg": {
+      "sha256": "6a746dc7f800da3eaf5fda38f955f33aa1826ddf80ba37a156373ba1dc88f4d2",
+      "original_width": 1200,
+      "original_height": 803,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/palmitos-park-3/6a746dc7f800-w480.avif",
+            "width": 480,
+            "bytes": 20804
+          },
+          {
+            "file": "responsive/palmitos-park-3/6a746dc7f800-w768.avif",
+            "width": 768,
+            "bytes": 56908
+          },
+          {
+            "file": "responsive/palmitos-park-3/6a746dc7f800-w1200.avif",
+            "width": 1200,
+            "bytes": 143148
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/palmitos-park-3/6a746dc7f800-w480.webp",
+            "width": 480,
+            "bytes": 34474
+          },
+          {
+            "file": "responsive/palmitos-park-3/6a746dc7f800-w768.webp",
+            "width": 768,
+            "bytes": 92272
+          },
+          {
+            "file": "responsive/palmitos-park-3/6a746dc7f800-w1200.webp",
+            "width": 1200,
+            "bytes": 224100
+          }
+        ]
+      }
+    },
+    "palmitos-park-portada.jpg": {
+      "sha256": "90116179192bad378663ba341edc167ea21cd2b1494497114a83cb293ff08417",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/palmitos-park-portada/90116179192b-w480.avif",
+            "width": 480,
+            "bytes": 18332
+          },
+          {
+            "file": "responsive/palmitos-park-portada/90116179192b-w768.avif",
+            "width": 768,
+            "bytes": 51619
+          },
+          {
+            "file": "responsive/palmitos-park-portada/90116179192b-w1200.avif",
+            "width": 1200,
+            "bytes": 141655
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/palmitos-park-portada/90116179192b-w480.webp",
+            "width": 480,
+            "bytes": 29422
+          },
+          {
+            "file": "responsive/palmitos-park-portada/90116179192b-w768.webp",
+            "width": 768,
+            "bytes": 80494
+          },
+          {
+            "file": "responsive/palmitos-park-portada/90116179192b-w1200.webp",
+            "width": 1200,
+            "bytes": 214594
           }
         ]
       }
@@ -32036,6 +33570,231 @@
             "file": "responsive/walt-disney-world-orlando/0c5ca5add2d4-w1200.webp",
             "width": 1200,
             "bytes": 162658
+          }
+        ]
+      }
+    },
+    "western-water-park-1.jpg": {
+      "sha256": "e99d03bb52f00593f361c08deff115b7b6648574697e7178885c68cdf96b26af",
+      "original_width": 550,
+      "original_height": 412,
+      "widths": [
+        480,
+        550
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/western-water-park-1/e99d03bb52f0-w480.avif",
+            "width": 480,
+            "bytes": 33514
+          },
+          {
+            "file": "responsive/western-water-park-1/e99d03bb52f0-w550.avif",
+            "width": 550,
+            "bytes": 45284
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/western-water-park-1/e99d03bb52f0-w480.webp",
+            "width": 480,
+            "bytes": 46260
+          },
+          {
+            "file": "responsive/western-water-park-1/e99d03bb52f0-w550.webp",
+            "width": 550,
+            "bytes": 61296
+          }
+        ]
+      }
+    },
+    "western-water-park-2.jpg": {
+      "sha256": "9341c3f05eb66cbf9f1be1acd535a81ff7f99176df4fdd3c0798311916047bf4",
+      "original_width": 1200,
+      "original_height": 798,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/western-water-park-2/9341c3f05eb6-w480.avif",
+            "width": 480,
+            "bytes": 17512
+          },
+          {
+            "file": "responsive/western-water-park-2/9341c3f05eb6-w768.avif",
+            "width": 768,
+            "bytes": 42216
+          },
+          {
+            "file": "responsive/western-water-park-2/9341c3f05eb6-w1200.avif",
+            "width": 1200,
+            "bytes": 93389
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/western-water-park-2/9341c3f05eb6-w480.webp",
+            "width": 480,
+            "bytes": 26456
+          },
+          {
+            "file": "responsive/western-water-park-2/9341c3f05eb6-w768.webp",
+            "width": 768,
+            "bytes": 64870
+          },
+          {
+            "file": "responsive/western-water-park-2/9341c3f05eb6-w1200.webp",
+            "width": 1200,
+            "bytes": 147384
+          }
+        ]
+      }
+    },
+    "western-water-park-3.jpg": {
+      "sha256": "768361538abcbd21252ae92a35e47b3e7e851b3743436b6118880ff061b6ce66",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/western-water-park-3/768361538abc-w480.avif",
+            "width": 480,
+            "bytes": 16836
+          },
+          {
+            "file": "responsive/western-water-park-3/768361538abc-w768.avif",
+            "width": 768,
+            "bytes": 33167
+          },
+          {
+            "file": "responsive/western-water-park-3/768361538abc-w1200.avif",
+            "width": 1200,
+            "bytes": 64392
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/western-water-park-3/768361538abc-w480.webp",
+            "width": 480,
+            "bytes": 28840
+          },
+          {
+            "file": "responsive/western-water-park-3/768361538abc-w768.webp",
+            "width": 768,
+            "bytes": 59004
+          },
+          {
+            "file": "responsive/western-water-park-3/768361538abc-w1200.webp",
+            "width": 1200,
+            "bytes": 118480
+          }
+        ]
+      }
+    },
+    "western-water-park-portada.jpg": {
+      "sha256": "d448e2d2687bf617df8324f2c69b1a270a0365f26022f557e8e444ea11ad10e5",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/western-water-park-portada/d448e2d2687b-w480.avif",
+            "width": 480,
+            "bytes": 24595
+          },
+          {
+            "file": "responsive/western-water-park-portada/d448e2d2687b-w768.avif",
+            "width": 768,
+            "bytes": 55157
+          },
+          {
+            "file": "responsive/western-water-park-portada/d448e2d2687b-w1200.avif",
+            "width": 1200,
+            "bytes": 119151
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/western-water-park-portada/d448e2d2687b-w480.webp",
+            "width": 480,
+            "bytes": 36442
+          },
+          {
+            "file": "responsive/western-water-park-portada/d448e2d2687b-w768.webp",
+            "width": 768,
+            "bytes": 82686
+          },
+          {
+            "file": "responsive/western-water-park-portada/d448e2d2687b-w1200.webp",
+            "width": 1200,
+            "bytes": 185436
           }
         ]
       }
