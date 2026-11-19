@@ -1076,6 +1076,242 @@
         ]
       }
     },
+    "asahiyama-zoo-1.jpg": {
+      "sha256": "bd27d804c7421b7b335cea5d86eab1941567ac918f831b42087cd466c28d5237",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/asahiyama-zoo-1/bd27d804c742-w480.avif",
+            "width": 480,
+            "bytes": 22638
+          },
+          {
+            "file": "responsive/asahiyama-zoo-1/bd27d804c742-w768.avif",
+            "width": 768,
+            "bytes": 67155
+          },
+          {
+            "file": "responsive/asahiyama-zoo-1/bd27d804c742-w1200.avif",
+            "width": 1200,
+            "bytes": 179147
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/asahiyama-zoo-1/bd27d804c742-w480.webp",
+            "width": 480,
+            "bytes": 34414
+          },
+          {
+            "file": "responsive/asahiyama-zoo-1/bd27d804c742-w768.webp",
+            "width": 768,
+            "bytes": 99764
+          },
+          {
+            "file": "responsive/asahiyama-zoo-1/bd27d804c742-w1200.webp",
+            "width": 1200,
+            "bytes": 260204
+          }
+        ]
+      }
+    },
+    "asahiyama-zoo-2.jpg": {
+      "sha256": "cb6e81e6975d02bc9f7492cfc099d173216a48d431c513fef3bb3015880f48d9",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/asahiyama-zoo-2/cb6e81e6975d-w480.avif",
+            "width": 480,
+            "bytes": 17470
+          },
+          {
+            "file": "responsive/asahiyama-zoo-2/cb6e81e6975d-w768.avif",
+            "width": 768,
+            "bytes": 35601
+          },
+          {
+            "file": "responsive/asahiyama-zoo-2/cb6e81e6975d-w1200.avif",
+            "width": 1200,
+            "bytes": 69181
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/asahiyama-zoo-2/cb6e81e6975d-w480.webp",
+            "width": 480,
+            "bytes": 28286
+          },
+          {
+            "file": "responsive/asahiyama-zoo-2/cb6e81e6975d-w768.webp",
+            "width": 768,
+            "bytes": 60796
+          },
+          {
+            "file": "responsive/asahiyama-zoo-2/cb6e81e6975d-w1200.webp",
+            "width": 1200,
+            "bytes": 120448
+          }
+        ]
+      }
+    },
+    "asahiyama-zoo-3.jpg": {
+      "sha256": "ae9eec45ef3fd1cdcee722812ea566e632a86140733a62e8b1acdc647201c13f",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/asahiyama-zoo-3/ae9eec45ef3f-w480.avif",
+            "width": 480,
+            "bytes": 14833
+          },
+          {
+            "file": "responsive/asahiyama-zoo-3/ae9eec45ef3f-w768.avif",
+            "width": 768,
+            "bytes": 34622
+          },
+          {
+            "file": "responsive/asahiyama-zoo-3/ae9eec45ef3f-w1200.avif",
+            "width": 1200,
+            "bytes": 82180
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/asahiyama-zoo-3/ae9eec45ef3f-w480.webp",
+            "width": 480,
+            "bytes": 26350
+          },
+          {
+            "file": "responsive/asahiyama-zoo-3/ae9eec45ef3f-w768.webp",
+            "width": 768,
+            "bytes": 61496
+          },
+          {
+            "file": "responsive/asahiyama-zoo-3/ae9eec45ef3f-w1200.webp",
+            "width": 1200,
+            "bytes": 146850
+          }
+        ]
+      }
+    },
+    "asahiyama-zoo-portada.jpg": {
+      "sha256": "e171529606c75c3753f0a0b50e1ed64e2c724a4200f833f7cfc9d1f43c2ff2ea",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/asahiyama-zoo-portada/e171529606c7-w480.avif",
+            "width": 480,
+            "bytes": 10763
+          },
+          {
+            "file": "responsive/asahiyama-zoo-portada/e171529606c7-w768.avif",
+            "width": 768,
+            "bytes": 22776
+          },
+          {
+            "file": "responsive/asahiyama-zoo-portada/e171529606c7-w1200.avif",
+            "width": 1200,
+            "bytes": 49099
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/asahiyama-zoo-portada/e171529606c7-w480.webp",
+            "width": 480,
+            "bytes": 17806
+          },
+          {
+            "file": "responsive/asahiyama-zoo-portada/e171529606c7-w768.webp",
+            "width": 768,
+            "bytes": 38514
+          },
+          {
+            "file": "responsive/asahiyama-zoo-portada/e171529606c7-w1200.webp",
+            "width": 1200,
+            "bytes": 87514
+          }
+        ]
+      }
+    },
     "atracciones-caras-futuro.jpg": {
       "sha256": "b0ac3043e93d20462fd3c0367fd74a4df5b916a47f11a33aeb0eea9c4ad00543",
       "original_width": 2752,
@@ -8923,6 +9159,242 @@
         ]
       }
     },
+    "everland-1.jpg": {
+      "sha256": "2bd3c1e26f0ba7bcee8add3884cb2a873c9ea240fa1b9f3d2db3afc180375d1e",
+      "original_width": 1200,
+      "original_height": 541,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/everland-1/2bd3c1e26f0b-w480.avif",
+            "width": 480,
+            "bytes": 16517
+          },
+          {
+            "file": "responsive/everland-1/2bd3c1e26f0b-w768.avif",
+            "width": 768,
+            "bytes": 49684
+          },
+          {
+            "file": "responsive/everland-1/2bd3c1e26f0b-w1200.avif",
+            "width": 1200,
+            "bytes": 121262
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/everland-1/2bd3c1e26f0b-w480.webp",
+            "width": 480,
+            "bytes": 21416
+          },
+          {
+            "file": "responsive/everland-1/2bd3c1e26f0b-w768.webp",
+            "width": 768,
+            "bytes": 60932
+          },
+          {
+            "file": "responsive/everland-1/2bd3c1e26f0b-w1200.webp",
+            "width": 1200,
+            "bytes": 153266
+          }
+        ]
+      }
+    },
+    "everland-2.jpg": {
+      "sha256": "5ba17a52af7997841c7e573a7c133e7142a3c55e85674807fcc34f3e168c27ee",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/everland-2/5ba17a52af79-w480.avif",
+            "width": 480,
+            "bytes": 38248
+          },
+          {
+            "file": "responsive/everland-2/5ba17a52af79-w768.avif",
+            "width": 768,
+            "bytes": 110827
+          },
+          {
+            "file": "responsive/everland-2/5ba17a52af79-w1200.avif",
+            "width": 1200,
+            "bytes": 273811
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/everland-2/5ba17a52af79-w480.webp",
+            "width": 480,
+            "bytes": 49874
+          },
+          {
+            "file": "responsive/everland-2/5ba17a52af79-w768.webp",
+            "width": 768,
+            "bytes": 140180
+          },
+          {
+            "file": "responsive/everland-2/5ba17a52af79-w1200.webp",
+            "width": 1200,
+            "bytes": 360806
+          }
+        ]
+      }
+    },
+    "everland-3.jpg": {
+      "sha256": "fe5a16cf871fda1445c8d70f247421f2634ee46d5524b7222fd9b93f65d55456",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/everland-3/fe5a16cf871f-w480.avif",
+            "width": 480,
+            "bytes": 12517
+          },
+          {
+            "file": "responsive/everland-3/fe5a16cf871f-w768.avif",
+            "width": 768,
+            "bytes": 25103
+          },
+          {
+            "file": "responsive/everland-3/fe5a16cf871f-w1200.avif",
+            "width": 1200,
+            "bytes": 46136
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/everland-3/fe5a16cf871f-w480.webp",
+            "width": 480,
+            "bytes": 19386
+          },
+          {
+            "file": "responsive/everland-3/fe5a16cf871f-w768.webp",
+            "width": 768,
+            "bytes": 40732
+          },
+          {
+            "file": "responsive/everland-3/fe5a16cf871f-w1200.webp",
+            "width": 1200,
+            "bytes": 78560
+          }
+        ]
+      }
+    },
+    "everland-portada.jpg": {
+      "sha256": "464bc558d0c84904aed73ce1f1fa07c669821041d47e543eccd4973bd3dfb539",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/everland-portada/464bc558d0c8-w480.avif",
+            "width": 480,
+            "bytes": 20218
+          },
+          {
+            "file": "responsive/everland-portada/464bc558d0c8-w768.avif",
+            "width": 768,
+            "bytes": 45225
+          },
+          {
+            "file": "responsive/everland-portada/464bc558d0c8-w1200.avif",
+            "width": 1200,
+            "bytes": 95858
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/everland-portada/464bc558d0c8-w480.webp",
+            "width": 480,
+            "bytes": 28886
+          },
+          {
+            "file": "responsive/everland-portada/464bc558d0c8-w768.webp",
+            "width": 768,
+            "bytes": 67516
+          },
+          {
+            "file": "responsive/everland-portada/464bc558d0c8-w1200.webp",
+            "width": 1200,
+            "bytes": 149628
+          }
+        ]
+      }
+    },
     "expedition-everest-lago.jpg": {
       "sha256": "978e10098c34f6f44e43f54ad8f21966d456ecbd061e26fa4e2b18b16c0dff39",
       "original_width": 1600,
@@ -13112,6 +13584,242 @@
         ]
       }
     },
+    "kaiyukan-1.jpg": {
+      "sha256": "8a6b77c596ed50b2763efc4c13f5eaa30334fa2e83122ee5df11764c6481a207",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kaiyukan-1/8a6b77c596ed-w480.avif",
+            "width": 480,
+            "bytes": 30399
+          },
+          {
+            "file": "responsive/kaiyukan-1/8a6b77c596ed-w768.avif",
+            "width": 768,
+            "bytes": 74875
+          },
+          {
+            "file": "responsive/kaiyukan-1/8a6b77c596ed-w1200.avif",
+            "width": 1200,
+            "bytes": 170978
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kaiyukan-1/8a6b77c596ed-w480.webp",
+            "width": 480,
+            "bytes": 47508
+          },
+          {
+            "file": "responsive/kaiyukan-1/8a6b77c596ed-w768.webp",
+            "width": 768,
+            "bytes": 114780
+          },
+          {
+            "file": "responsive/kaiyukan-1/8a6b77c596ed-w1200.webp",
+            "width": 1200,
+            "bytes": 259840
+          }
+        ]
+      }
+    },
+    "kaiyukan-2.jpg": {
+      "sha256": "a2ee19832d7458dfa30ecb8167ad2f60a1fc294917e84288ada367b8b0f24f7a",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kaiyukan-2/a2ee19832d74-w480.avif",
+            "width": 480,
+            "bytes": 13192
+          },
+          {
+            "file": "responsive/kaiyukan-2/a2ee19832d74-w768.avif",
+            "width": 768,
+            "bytes": 26771
+          },
+          {
+            "file": "responsive/kaiyukan-2/a2ee19832d74-w1200.avif",
+            "width": 1200,
+            "bytes": 52951
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kaiyukan-2/a2ee19832d74-w480.webp",
+            "width": 480,
+            "bytes": 22586
+          },
+          {
+            "file": "responsive/kaiyukan-2/a2ee19832d74-w768.webp",
+            "width": 768,
+            "bytes": 47744
+          },
+          {
+            "file": "responsive/kaiyukan-2/a2ee19832d74-w1200.webp",
+            "width": 1200,
+            "bytes": 98046
+          }
+        ]
+      }
+    },
+    "kaiyukan-3.jpg": {
+      "sha256": "2cdeaad35614e51a29b2154dab3d67ba3e7180e601540818e673f63094e3623e",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kaiyukan-3/2cdeaad35614-w480.avif",
+            "width": 480,
+            "bytes": 3434
+          },
+          {
+            "file": "responsive/kaiyukan-3/2cdeaad35614-w768.avif",
+            "width": 768,
+            "bytes": 6584
+          },
+          {
+            "file": "responsive/kaiyukan-3/2cdeaad35614-w1200.avif",
+            "width": 1200,
+            "bytes": 12151
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kaiyukan-3/2cdeaad35614-w480.webp",
+            "width": 480,
+            "bytes": 6256
+          },
+          {
+            "file": "responsive/kaiyukan-3/2cdeaad35614-w768.webp",
+            "width": 768,
+            "bytes": 13440
+          },
+          {
+            "file": "responsive/kaiyukan-3/2cdeaad35614-w1200.webp",
+            "width": 1200,
+            "bytes": 29828
+          }
+        ]
+      }
+    },
+    "kaiyukan-portada.jpg": {
+      "sha256": "aaba16935eb9a6e525cd3886f94932d70bbb5a8e3e038e3622388ce0431288fd",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kaiyukan-portada/aaba16935eb9-w480.avif",
+            "width": 480,
+            "bytes": 12093
+          },
+          {
+            "file": "responsive/kaiyukan-portada/aaba16935eb9-w768.avif",
+            "width": 768,
+            "bytes": 26081
+          },
+          {
+            "file": "responsive/kaiyukan-portada/aaba16935eb9-w1200.avif",
+            "width": 1200,
+            "bytes": 55293
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kaiyukan-portada/aaba16935eb9-w480.webp",
+            "width": 480,
+            "bytes": 19950
+          },
+          {
+            "file": "responsive/kaiyukan-portada/aaba16935eb9-w768.webp",
+            "width": 768,
+            "bytes": 45550
+          },
+          {
+            "file": "responsive/kaiyukan-portada/aaba16935eb9-w1200.webp",
+            "width": 1200,
+            "bytes": 99296
+          }
+        ]
+      }
+    },
     "katmandu-park-2.jpg": {
       "sha256": "2770206653e007e4975ddd59665f797a1e4726dc26ffbf28113ab1966e7ead6f",
       "original_width": 1200,
@@ -16991,6 +17699,242 @@
             "file": "responsive/ocean-park-the-summit-vista/410d94a26a7b-w1200.webp",
             "width": 1200,
             "bytes": 164784
+          }
+        ]
+      }
+    },
+    "okinawa-churaumi-1.jpg": {
+      "sha256": "aeaf9c0cf110ee6ca2b1575e5704e5a94c6d90c58f6c82e19816cc48ca006039",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/okinawa-churaumi-1/aeaf9c0cf110-w480.avif",
+            "width": 480,
+            "bytes": 10557
+          },
+          {
+            "file": "responsive/okinawa-churaumi-1/aeaf9c0cf110-w768.avif",
+            "width": 768,
+            "bytes": 32006
+          },
+          {
+            "file": "responsive/okinawa-churaumi-1/aeaf9c0cf110-w1200.avif",
+            "width": 1200,
+            "bytes": 90215
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/okinawa-churaumi-1/aeaf9c0cf110-w480.webp",
+            "width": 480,
+            "bytes": 18868
+          },
+          {
+            "file": "responsive/okinawa-churaumi-1/aeaf9c0cf110-w768.webp",
+            "width": 768,
+            "bytes": 52920
+          },
+          {
+            "file": "responsive/okinawa-churaumi-1/aeaf9c0cf110-w1200.webp",
+            "width": 1200,
+            "bytes": 138202
+          }
+        ]
+      }
+    },
+    "okinawa-churaumi-2.jpg": {
+      "sha256": "4310c60dbf2fe9e5d3427c9623535e2666dcd6b98c62146acf07a5123560d147",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/okinawa-churaumi-2/4310c60dbf2f-w480.avif",
+            "width": 480,
+            "bytes": 14408
+          },
+          {
+            "file": "responsive/okinawa-churaumi-2/4310c60dbf2f-w768.avif",
+            "width": 768,
+            "bytes": 37321
+          },
+          {
+            "file": "responsive/okinawa-churaumi-2/4310c60dbf2f-w1200.avif",
+            "width": 1200,
+            "bytes": 99410
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/okinawa-churaumi-2/4310c60dbf2f-w480.webp",
+            "width": 480,
+            "bytes": 23858
+          },
+          {
+            "file": "responsive/okinawa-churaumi-2/4310c60dbf2f-w768.webp",
+            "width": 768,
+            "bytes": 66254
+          },
+          {
+            "file": "responsive/okinawa-churaumi-2/4310c60dbf2f-w1200.webp",
+            "width": 1200,
+            "bytes": 166896
+          }
+        ]
+      }
+    },
+    "okinawa-churaumi-3.jpg": {
+      "sha256": "64f26a64a95806b2225dcc9119f9e983f80c4d4cab645cf03789447453feaba0",
+      "original_width": 1200,
+      "original_height": 798,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/okinawa-churaumi-3/64f26a64a958-w480.avif",
+            "width": 480,
+            "bytes": 18763
+          },
+          {
+            "file": "responsive/okinawa-churaumi-3/64f26a64a958-w768.avif",
+            "width": 768,
+            "bytes": 39611
+          },
+          {
+            "file": "responsive/okinawa-churaumi-3/64f26a64a958-w1200.avif",
+            "width": 1200,
+            "bytes": 86108
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/okinawa-churaumi-3/64f26a64a958-w480.webp",
+            "width": 480,
+            "bytes": 30508
+          },
+          {
+            "file": "responsive/okinawa-churaumi-3/64f26a64a958-w768.webp",
+            "width": 768,
+            "bytes": 70718
+          },
+          {
+            "file": "responsive/okinawa-churaumi-3/64f26a64a958-w1200.webp",
+            "width": 1200,
+            "bytes": 153486
+          }
+        ]
+      }
+    },
+    "okinawa-churaumi-portada.jpg": {
+      "sha256": "059ae3ebe9caee3065fb100ccfe3cb67335f52134cb21f3fa460fa56fcee74dd",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/okinawa-churaumi-portada/059ae3ebe9ca-w480.avif",
+            "width": 480,
+            "bytes": 14895
+          },
+          {
+            "file": "responsive/okinawa-churaumi-portada/059ae3ebe9ca-w768.avif",
+            "width": 768,
+            "bytes": 30387
+          },
+          {
+            "file": "responsive/okinawa-churaumi-portada/059ae3ebe9ca-w1200.avif",
+            "width": 1200,
+            "bytes": 57083
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/okinawa-churaumi-portada/059ae3ebe9ca-w480.webp",
+            "width": 480,
+            "bytes": 23664
+          },
+          {
+            "file": "responsive/okinawa-churaumi-portada/059ae3ebe9ca-w768.webp",
+            "width": 768,
+            "bytes": 51636
+          },
+          {
+            "file": "responsive/okinawa-churaumi-portada/059ae3ebe9ca-w1200.webp",
+            "width": 1200,
+            "bytes": 105236
           }
         ]
       }
@@ -30915,6 +31859,242 @@
             "file": "responsive/top-europa-park/c1db0126d167-w1200.webp",
             "width": 1200,
             "bytes": 184068
+          }
+        ]
+      }
+    },
+    "ueno-zoo-1.jpg": {
+      "sha256": "2780f24ab4e3f08447f38e2b832d00e007fabeb4195e365c6f4d5d52bd400cd5",
+      "original_width": 1200,
+      "original_height": 801,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ueno-zoo-1/2780f24ab4e3-w480.avif",
+            "width": 480,
+            "bytes": 21705
+          },
+          {
+            "file": "responsive/ueno-zoo-1/2780f24ab4e3-w768.avif",
+            "width": 768,
+            "bytes": 58481
+          },
+          {
+            "file": "responsive/ueno-zoo-1/2780f24ab4e3-w1200.avif",
+            "width": 1200,
+            "bytes": 137864
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ueno-zoo-1/2780f24ab4e3-w480.webp",
+            "width": 480,
+            "bytes": 33284
+          },
+          {
+            "file": "responsive/ueno-zoo-1/2780f24ab4e3-w768.webp",
+            "width": 768,
+            "bytes": 86190
+          },
+          {
+            "file": "responsive/ueno-zoo-1/2780f24ab4e3-w1200.webp",
+            "width": 1200,
+            "bytes": 205348
+          }
+        ]
+      }
+    },
+    "ueno-zoo-2.jpg": {
+      "sha256": "ecf722d5bfff650c4e0f558abbdddc21ac7b36dddb85d35ca161d12b92cdfe82",
+      "original_width": 1200,
+      "original_height": 798,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ueno-zoo-2/ecf722d5bfff-w480.avif",
+            "width": 480,
+            "bytes": 14703
+          },
+          {
+            "file": "responsive/ueno-zoo-2/ecf722d5bfff-w768.avif",
+            "width": 768,
+            "bytes": 33135
+          },
+          {
+            "file": "responsive/ueno-zoo-2/ecf722d5bfff-w1200.avif",
+            "width": 1200,
+            "bytes": 74529
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ueno-zoo-2/ecf722d5bfff-w480.webp",
+            "width": 480,
+            "bytes": 26218
+          },
+          {
+            "file": "responsive/ueno-zoo-2/ecf722d5bfff-w768.webp",
+            "width": 768,
+            "bytes": 61784
+          },
+          {
+            "file": "responsive/ueno-zoo-2/ecf722d5bfff-w1200.webp",
+            "width": 1200,
+            "bytes": 131184
+          }
+        ]
+      }
+    },
+    "ueno-zoo-3.jpg": {
+      "sha256": "a69cb44c925b7f59b13ef6bd6c734d217b95a1b54d1f5e26b2e36d5e9b514744",
+      "original_width": 1200,
+      "original_height": 801,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ueno-zoo-3/a69cb44c925b-w480.avif",
+            "width": 480,
+            "bytes": 14329
+          },
+          {
+            "file": "responsive/ueno-zoo-3/a69cb44c925b-w768.avif",
+            "width": 768,
+            "bytes": 33359
+          },
+          {
+            "file": "responsive/ueno-zoo-3/a69cb44c925b-w1200.avif",
+            "width": 1200,
+            "bytes": 72665
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ueno-zoo-3/a69cb44c925b-w480.webp",
+            "width": 480,
+            "bytes": 24906
+          },
+          {
+            "file": "responsive/ueno-zoo-3/a69cb44c925b-w768.webp",
+            "width": 768,
+            "bytes": 58770
+          },
+          {
+            "file": "responsive/ueno-zoo-3/a69cb44c925b-w1200.webp",
+            "width": 1200,
+            "bytes": 122172
+          }
+        ]
+      }
+    },
+    "ueno-zoo-portada.jpg": {
+      "sha256": "e9301e45fae68aa1b3a84c52e7f32be4c7a750000ce7632ce0a6b49701d2284b",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ueno-zoo-portada/e9301e45fae6-w480.avif",
+            "width": 480,
+            "bytes": 20628
+          },
+          {
+            "file": "responsive/ueno-zoo-portada/e9301e45fae6-w768.avif",
+            "width": 768,
+            "bytes": 58826
+          },
+          {
+            "file": "responsive/ueno-zoo-portada/e9301e45fae6-w1200.avif",
+            "width": 1200,
+            "bytes": 159883
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ueno-zoo-portada/e9301e45fae6-w480.webp",
+            "width": 480,
+            "bytes": 28966
+          },
+          {
+            "file": "responsive/ueno-zoo-portada/e9301e45fae6-w768.webp",
+            "width": 768,
+            "bytes": 80230
+          },
+          {
+            "file": "responsive/ueno-zoo-portada/e9301e45fae6-w1200.webp",
+            "width": 1200,
+            "bytes": 212324
           }
         ]
       }
