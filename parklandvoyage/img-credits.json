@@ -7631,5 +7631,133 @@
     "license_url": "https://creativecommons.org/licenses/by/3.0",
     "original_date": "2011-07-11",
     "changes": "redimensionada a 1200 px, JPG"
+  },
+  "faunia-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Faunia_-_polar_ecosystem.jpg",
+    "author": "Tiia Monto",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2016-09-01",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "faunia-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Faunia_entry.jpg",
+    "author": "Tiia Monto",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2016-09-01",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "faunia-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Faunia_-_polar_ecosystem_5.jpg",
+    "author": "Tiia Monto",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2016-09-01",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "faunia-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Faunia_-_aquarium.jpg",
+    "author": "Tiia Monto",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2016-09-01",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "zoo-aquarium-madrid-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Jielbeaumadier_panda_geant_1_madrid_2014.jpeg",
+    "author": "Jiel Beaumadier (http://jiel.b.free.fr)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2014-05-07",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "zoo-aquarium-madrid-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Zoo_Aquarium_de_Madrid_(1)_(16790184666).jpg",
+    "author": "Daniel from Glasgow, United Kingdom",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2015-03-14",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "zoo-aquarium-madrid-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ceratotherium_simum_simum.001_-_Zoo_Aquarium_de_Madrid.jpg",
+    "author": "Fernando Losada Rodríguez",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2009-10-25",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "zoo-aquarium-madrid-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hippopotamus_amphibius.001_-_Zoo_Aquarium_de_Madrid.JPG",
+    "author": "Fernando Losada Rodríguez",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2009-10-25",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "oceanografic-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Candela_Oceanographique.jpg",
+    "author": "e://Dantes",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2008-08-06",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "oceanografic-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:B%C3%A9lugas_Oceanografic.jpg",
+    "author": "Léodras",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2016-08-03",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "oceanografic-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:23_Underwater_tunnel_in_Valencia_Aquarium_-_Valencia_Oceanarium_(L%27Oceanografic),_Spain.jpg",
+    "author": "Marek Ślusarczyk (Tupungato) Photo portfolio",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "2010-10-09",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "oceanografic-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Rhizostoma_pulmo_in_Oceanogr%C3%A0fic_Valencia.jpg",
+    "author": "Esniom",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2026-08-28",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "bioparc-valencia-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Animales_bioparc-valencia-2012.JPG",
+    "author": "Alberto-g-rovi",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2013-07",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "bioparc-valencia-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Gorilla-bioparc-valencia-2012.jpg",
+    "author": "Alberto-g-rovi",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2013-07",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "bioparc-valencia-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Entr%C3%A9e_Bioparc_Valencia.jpg",
+    "author": "Guillermo Viciano",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2010-03-19",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "bioparc-valencia-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Zooimmersi%C3%B3_Bioparc_Val%C3%A8ncia.jpg",
+    "author": "Josu PV",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-12-01",
+    "changes": "redimensionada a 1200 px, JPG"
   }
 }
