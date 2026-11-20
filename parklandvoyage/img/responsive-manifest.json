@@ -899,6 +899,242 @@
         ]
       }
     },
+    "animal-kingdom-1.jpg": {
+      "sha256": "871978728cd8823ec2a6b7d467f5f0b2f1c52590a32d04843c61587b5b306256",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/animal-kingdom-1/871978728cd8-w480.avif",
+            "width": 480,
+            "bytes": 22845
+          },
+          {
+            "file": "responsive/animal-kingdom-1/871978728cd8-w768.avif",
+            "width": 768,
+            "bytes": 48788
+          },
+          {
+            "file": "responsive/animal-kingdom-1/871978728cd8-w1200.avif",
+            "width": 1200,
+            "bytes": 98726
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/animal-kingdom-1/871978728cd8-w480.webp",
+            "width": 480,
+            "bytes": 32892
+          },
+          {
+            "file": "responsive/animal-kingdom-1/871978728cd8-w768.webp",
+            "width": 768,
+            "bytes": 72710
+          },
+          {
+            "file": "responsive/animal-kingdom-1/871978728cd8-w1200.webp",
+            "width": 1200,
+            "bytes": 151654
+          }
+        ]
+      }
+    },
+    "animal-kingdom-2.jpg": {
+      "sha256": "c1ef3c14c0ab6d70db4ef661e1320efeb8c745e37c9ce6654a8eb987bf549401",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/animal-kingdom-2/c1ef3c14c0ab-w480.avif",
+            "width": 480,
+            "bytes": 25607
+          },
+          {
+            "file": "responsive/animal-kingdom-2/c1ef3c14c0ab-w768.avif",
+            "width": 768,
+            "bytes": 64579
+          },
+          {
+            "file": "responsive/animal-kingdom-2/c1ef3c14c0ab-w1200.avif",
+            "width": 1200,
+            "bytes": 155123
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/animal-kingdom-2/c1ef3c14c0ab-w480.webp",
+            "width": 480,
+            "bytes": 39458
+          },
+          {
+            "file": "responsive/animal-kingdom-2/c1ef3c14c0ab-w768.webp",
+            "width": 768,
+            "bytes": 100530
+          },
+          {
+            "file": "responsive/animal-kingdom-2/c1ef3c14c0ab-w1200.webp",
+            "width": 1200,
+            "bytes": 235130
+          }
+        ]
+      }
+    },
+    "animal-kingdom-3.jpg": {
+      "sha256": "a15878e9c18784016c6682f1e0749d17e82206eee7580209b9084565e436a410",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/animal-kingdom-3/a15878e9c187-w480.avif",
+            "width": 480,
+            "bytes": 21389
+          },
+          {
+            "file": "responsive/animal-kingdom-3/a15878e9c187-w768.avif",
+            "width": 768,
+            "bytes": 57292
+          },
+          {
+            "file": "responsive/animal-kingdom-3/a15878e9c187-w1200.avif",
+            "width": 1200,
+            "bytes": 149818
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/animal-kingdom-3/a15878e9c187-w480.webp",
+            "width": 480,
+            "bytes": 30152
+          },
+          {
+            "file": "responsive/animal-kingdom-3/a15878e9c187-w768.webp",
+            "width": 768,
+            "bytes": 77812
+          },
+          {
+            "file": "responsive/animal-kingdom-3/a15878e9c187-w1200.webp",
+            "width": 1200,
+            "bytes": 199310
+          }
+        ]
+      }
+    },
+    "animal-kingdom-portada.jpg": {
+      "sha256": "8d644c0ee48dae49b7fb1be9bbd2d507aebc7e702e9bf95dc511ce9a17a3c63b",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/animal-kingdom-portada/8d644c0ee48d-w480.avif",
+            "width": 480,
+            "bytes": 38789
+          },
+          {
+            "file": "responsive/animal-kingdom-portada/8d644c0ee48d-w768.avif",
+            "width": 768,
+            "bytes": 101171
+          },
+          {
+            "file": "responsive/animal-kingdom-portada/8d644c0ee48d-w1200.avif",
+            "width": 1200,
+            "bytes": 254279
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/animal-kingdom-portada/8d644c0ee48d-w480.webp",
+            "width": 480,
+            "bytes": 50226
+          },
+          {
+            "file": "responsive/animal-kingdom-portada/8d644c0ee48d-w768.webp",
+            "width": 768,
+            "bytes": 129230
+          },
+          {
+            "file": "responsive/animal-kingdom-portada/8d644c0ee48d-w1200.webp",
+            "width": 1200,
+            "bytes": 326962
+          }
+        ]
+      }
+    },
     "aquafan-1.jpg": {
       "sha256": "1f6e123f85ac4d2f171209aeec92e1be7b8e241f1a05cb46b83ff0775306ac15",
       "original_width": 1200,
@@ -3351,6 +3587,242 @@
             "file": "responsive/bioparc-valencia-portada/dc96498cb125-w1200.webp",
             "width": 1200,
             "bytes": 317148
+          }
+        ]
+      }
+    },
+    "blizzard-beach-1.jpg": {
+      "sha256": "8765e5656fa34927b5d8dff5d03f9f6f7ba163c8dc7bbe0aee2f273270b18d11",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/blizzard-beach-1/8765e5656fa3-w480.avif",
+            "width": 480,
+            "bytes": 10267
+          },
+          {
+            "file": "responsive/blizzard-beach-1/8765e5656fa3-w768.avif",
+            "width": 768,
+            "bytes": 22224
+          },
+          {
+            "file": "responsive/blizzard-beach-1/8765e5656fa3-w1200.avif",
+            "width": 1200,
+            "bytes": 47185
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/blizzard-beach-1/8765e5656fa3-w480.webp",
+            "width": 480,
+            "bytes": 17578
+          },
+          {
+            "file": "responsive/blizzard-beach-1/8765e5656fa3-w768.webp",
+            "width": 768,
+            "bytes": 39406
+          },
+          {
+            "file": "responsive/blizzard-beach-1/8765e5656fa3-w1200.webp",
+            "width": 1200,
+            "bytes": 84328
+          }
+        ]
+      }
+    },
+    "blizzard-beach-2.jpg": {
+      "sha256": "6f300ec059351aeb9cabe98085f578a00474fe1633a389721b00d79f09a7081a",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/blizzard-beach-2/6f300ec05935-w480.avif",
+            "width": 480,
+            "bytes": 27474
+          },
+          {
+            "file": "responsive/blizzard-beach-2/6f300ec05935-w768.avif",
+            "width": 768,
+            "bytes": 68639
+          },
+          {
+            "file": "responsive/blizzard-beach-2/6f300ec05935-w1200.avif",
+            "width": 1200,
+            "bytes": 154911
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/blizzard-beach-2/6f300ec05935-w480.webp",
+            "width": 480,
+            "bytes": 41230
+          },
+          {
+            "file": "responsive/blizzard-beach-2/6f300ec05935-w768.webp",
+            "width": 768,
+            "bytes": 102202
+          },
+          {
+            "file": "responsive/blizzard-beach-2/6f300ec05935-w1200.webp",
+            "width": 1200,
+            "bytes": 237906
+          }
+        ]
+      }
+    },
+    "blizzard-beach-3.jpg": {
+      "sha256": "e387585d75ae085c55cf8212147659455c372390be784bc7a1a9e8ecca942efb",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/blizzard-beach-3/e387585d75ae-w480.avif",
+            "width": 480,
+            "bytes": 35748
+          },
+          {
+            "file": "responsive/blizzard-beach-3/e387585d75ae-w768.avif",
+            "width": 768,
+            "bytes": 92401
+          },
+          {
+            "file": "responsive/blizzard-beach-3/e387585d75ae-w1200.avif",
+            "width": 1200,
+            "bytes": 208390
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/blizzard-beach-3/e387585d75ae-w480.webp",
+            "width": 480,
+            "bytes": 46970
+          },
+          {
+            "file": "responsive/blizzard-beach-3/e387585d75ae-w768.webp",
+            "width": 768,
+            "bytes": 121276
+          },
+          {
+            "file": "responsive/blizzard-beach-3/e387585d75ae-w1200.webp",
+            "width": 1200,
+            "bytes": 283322
+          }
+        ]
+      }
+    },
+    "blizzard-beach-portada.jpg": {
+      "sha256": "2d21773b9848bc03d07c436defb97117dc548cadc07a947ff55364d4f22bc8a8",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/blizzard-beach-portada/2d21773b9848-w480.avif",
+            "width": 480,
+            "bytes": 18125
+          },
+          {
+            "file": "responsive/blizzard-beach-portada/2d21773b9848-w768.avif",
+            "width": 768,
+            "bytes": 43496
+          },
+          {
+            "file": "responsive/blizzard-beach-portada/2d21773b9848-w1200.avif",
+            "width": 1200,
+            "bytes": 97626
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/blizzard-beach-portada/2d21773b9848-w480.webp",
+            "width": 480,
+            "bytes": 27646
+          },
+          {
+            "file": "responsive/blizzard-beach-portada/2d21773b9848-w768.webp",
+            "width": 768,
+            "bytes": 65468
+          },
+          {
+            "file": "responsive/blizzard-beach-portada/2d21773b9848-w1200.webp",
+            "width": 1200,
+            "bytes": 152130
           }
         ]
       }
@@ -6950,6 +7422,242 @@
             "file": "responsive/diagon-alley-dragon-gringotts/8dae16ef2069-w1200.webp",
             "width": 1200,
             "bytes": 66208
+          }
+        ]
+      }
+    },
+    "discovery-cove-1.jpg": {
+      "sha256": "e6df788d8e7f705405148539c0d5cdb99343f19ff77510bc409fddda8463efe3",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/discovery-cove-1/e6df788d8e7f-w480.avif",
+            "width": 480,
+            "bytes": 20712
+          },
+          {
+            "file": "responsive/discovery-cove-1/e6df788d8e7f-w768.avif",
+            "width": 768,
+            "bytes": 55585
+          },
+          {
+            "file": "responsive/discovery-cove-1/e6df788d8e7f-w1200.avif",
+            "width": 1200,
+            "bytes": 148338
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/discovery-cove-1/e6df788d8e7f-w480.webp",
+            "width": 480,
+            "bytes": 31980
+          },
+          {
+            "file": "responsive/discovery-cove-1/e6df788d8e7f-w768.webp",
+            "width": 768,
+            "bytes": 82690
+          },
+          {
+            "file": "responsive/discovery-cove-1/e6df788d8e7f-w1200.webp",
+            "width": 1200,
+            "bytes": 213206
+          }
+        ]
+      }
+    },
+    "discovery-cove-2.jpg": {
+      "sha256": "6dd0ef1632ce7c251c8a939bfe39c26ba4cd09e5bdf8737a08b0e946676755d5",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/discovery-cove-2/6dd0ef1632ce-w480.avif",
+            "width": 480,
+            "bytes": 37812
+          },
+          {
+            "file": "responsive/discovery-cove-2/6dd0ef1632ce-w768.avif",
+            "width": 768,
+            "bytes": 94192
+          },
+          {
+            "file": "responsive/discovery-cove-2/6dd0ef1632ce-w1200.avif",
+            "width": 1200,
+            "bytes": 230134
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/discovery-cove-2/6dd0ef1632ce-w480.webp",
+            "width": 480,
+            "bytes": 51452
+          },
+          {
+            "file": "responsive/discovery-cove-2/6dd0ef1632ce-w768.webp",
+            "width": 768,
+            "bytes": 129958
+          },
+          {
+            "file": "responsive/discovery-cove-2/6dd0ef1632ce-w1200.webp",
+            "width": 1200,
+            "bytes": 317536
+          }
+        ]
+      }
+    },
+    "discovery-cove-3.jpg": {
+      "sha256": "4fda504160f2c9bd8f07f95f7ffb20cf52d91887ebf9f155b93f7de2e11630f7",
+      "original_width": 1200,
+      "original_height": 796,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/discovery-cove-3/4fda504160f2-w480.avif",
+            "width": 480,
+            "bytes": 7314
+          },
+          {
+            "file": "responsive/discovery-cove-3/4fda504160f2-w768.avif",
+            "width": 768,
+            "bytes": 12816
+          },
+          {
+            "file": "responsive/discovery-cove-3/4fda504160f2-w1200.avif",
+            "width": 1200,
+            "bytes": 24245
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/discovery-cove-3/4fda504160f2-w480.webp",
+            "width": 480,
+            "bytes": 14086
+          },
+          {
+            "file": "responsive/discovery-cove-3/4fda504160f2-w768.webp",
+            "width": 768,
+            "bytes": 27342
+          },
+          {
+            "file": "responsive/discovery-cove-3/4fda504160f2-w1200.webp",
+            "width": 1200,
+            "bytes": 59824
+          }
+        ]
+      }
+    },
+    "discovery-cove-portada.jpg": {
+      "sha256": "4dc6cdd6dba2654da492c9b7755b134f35b283257097381cd1850f882b4b95d2",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/discovery-cove-portada/4dc6cdd6dba2-w480.avif",
+            "width": 480,
+            "bytes": 17078
+          },
+          {
+            "file": "responsive/discovery-cove-portada/4dc6cdd6dba2-w768.avif",
+            "width": 768,
+            "bytes": 44319
+          },
+          {
+            "file": "responsive/discovery-cove-portada/4dc6cdd6dba2-w1200.avif",
+            "width": 1200,
+            "bytes": 112592
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/discovery-cove-portada/4dc6cdd6dba2-w480.webp",
+            "width": 480,
+            "bytes": 24924
+          },
+          {
+            "file": "responsive/discovery-cove-portada/4dc6cdd6dba2-w768.webp",
+            "width": 768,
+            "bytes": 64426
+          },
+          {
+            "file": "responsive/discovery-cove-portada/4dc6cdd6dba2-w1200.webp",
+            "width": 1200,
+            "bytes": 165358
           }
         ]
       }
@@ -36738,6 +37446,242 @@
         ]
       }
     },
+    "typhoon-lagoon-1.jpg": {
+      "sha256": "d3d00917f3635c8665211b07292ab3fd667d52c126d64ada500915da5d5f4a93",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/typhoon-lagoon-1/d3d00917f363-w480.avif",
+            "width": 480,
+            "bytes": 15827
+          },
+          {
+            "file": "responsive/typhoon-lagoon-1/d3d00917f363-w768.avif",
+            "width": 768,
+            "bytes": 42851
+          },
+          {
+            "file": "responsive/typhoon-lagoon-1/d3d00917f363-w1200.avif",
+            "width": 1200,
+            "bytes": 113465
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/typhoon-lagoon-1/d3d00917f363-w480.webp",
+            "width": 480,
+            "bytes": 26902
+          },
+          {
+            "file": "responsive/typhoon-lagoon-1/d3d00917f363-w768.webp",
+            "width": 768,
+            "bytes": 69232
+          },
+          {
+            "file": "responsive/typhoon-lagoon-1/d3d00917f363-w1200.webp",
+            "width": 1200,
+            "bytes": 172598
+          }
+        ]
+      }
+    },
+    "typhoon-lagoon-2.jpg": {
+      "sha256": "853eb00b12a93fa8e9fd808db6d797741f5fa426e50574308db22f2aea15978f",
+      "original_width": 1200,
+      "original_height": 660,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/typhoon-lagoon-2/853eb00b12a9-w480.avif",
+            "width": 480,
+            "bytes": 26551
+          },
+          {
+            "file": "responsive/typhoon-lagoon-2/853eb00b12a9-w768.avif",
+            "width": 768,
+            "bytes": 68647
+          },
+          {
+            "file": "responsive/typhoon-lagoon-2/853eb00b12a9-w1200.avif",
+            "width": 1200,
+            "bytes": 175853
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/typhoon-lagoon-2/853eb00b12a9-w480.webp",
+            "width": 480,
+            "bytes": 36898
+          },
+          {
+            "file": "responsive/typhoon-lagoon-2/853eb00b12a9-w768.webp",
+            "width": 768,
+            "bytes": 92918
+          },
+          {
+            "file": "responsive/typhoon-lagoon-2/853eb00b12a9-w1200.webp",
+            "width": 1200,
+            "bytes": 236794
+          }
+        ]
+      }
+    },
+    "typhoon-lagoon-3.jpg": {
+      "sha256": "3395fae6a97f4cfd4b30a61776b6879bd4b1dc42c7de83864361e560cf9cbe91",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/typhoon-lagoon-3/3395fae6a97f-w480.avif",
+            "width": 480,
+            "bytes": 22954
+          },
+          {
+            "file": "responsive/typhoon-lagoon-3/3395fae6a97f-w768.avif",
+            "width": 768,
+            "bytes": 51605
+          },
+          {
+            "file": "responsive/typhoon-lagoon-3/3395fae6a97f-w1200.avif",
+            "width": 1200,
+            "bytes": 109703
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/typhoon-lagoon-3/3395fae6a97f-w480.webp",
+            "width": 480,
+            "bytes": 34982
+          },
+          {
+            "file": "responsive/typhoon-lagoon-3/3395fae6a97f-w768.webp",
+            "width": 768,
+            "bytes": 79286
+          },
+          {
+            "file": "responsive/typhoon-lagoon-3/3395fae6a97f-w1200.webp",
+            "width": 1200,
+            "bytes": 173544
+          }
+        ]
+      }
+    },
+    "typhoon-lagoon-portada.jpg": {
+      "sha256": "216b1feb3c578814002f5c856868cdb85de26f37f77bc48e7dfe343656f40ac6",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/typhoon-lagoon-portada/216b1feb3c57-w480.avif",
+            "width": 480,
+            "bytes": 14362
+          },
+          {
+            "file": "responsive/typhoon-lagoon-portada/216b1feb3c57-w768.avif",
+            "width": 768,
+            "bytes": 27398
+          },
+          {
+            "file": "responsive/typhoon-lagoon-portada/216b1feb3c57-w1200.avif",
+            "width": 1200,
+            "bytes": 49999
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/typhoon-lagoon-portada/216b1feb3c57-w480.webp",
+            "width": 480,
+            "bytes": 22492
+          },
+          {
+            "file": "responsive/typhoon-lagoon-portada/216b1feb3c57-w768.webp",
+            "width": 768,
+            "bytes": 46050
+          },
+          {
+            "file": "responsive/typhoon-lagoon-portada/216b1feb3c57-w1200.webp",
+            "width": 1200,
+            "bytes": 96770
+          }
+        ]
+      }
+    },
     "ueno-zoo-1.jpg": {
       "sha256": "2780f24ab4e3f08447f38e2b832d00e007fabeb4195e365c6f4d5d52bd400cd5",
       "original_width": 1200,
@@ -39334,6 +40278,124 @@
         ]
       }
     },
+    "volcano-bay-1.jpg": {
+      "sha256": "b65c3bd7ec397b256ba67eb2592fe884acec0919fc6f52d6f4ca5fec8a69f5fe",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/volcano-bay-1/b65c3bd7ec39-w480.avif",
+            "width": 480,
+            "bytes": 9949
+          },
+          {
+            "file": "responsive/volcano-bay-1/b65c3bd7ec39-w768.avif",
+            "width": 768,
+            "bytes": 17763
+          },
+          {
+            "file": "responsive/volcano-bay-1/b65c3bd7ec39-w1200.avif",
+            "width": 1200,
+            "bytes": 32984
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/volcano-bay-1/b65c3bd7ec39-w480.webp",
+            "width": 480,
+            "bytes": 17040
+          },
+          {
+            "file": "responsive/volcano-bay-1/b65c3bd7ec39-w768.webp",
+            "width": 768,
+            "bytes": 32652
+          },
+          {
+            "file": "responsive/volcano-bay-1/b65c3bd7ec39-w1200.webp",
+            "width": 1200,
+            "bytes": 64064
+          }
+        ]
+      }
+    },
+    "volcano-bay-2.jpg": {
+      "sha256": "bd7192c493b7583575886475dc2a15c84a34a9e3fb2ce32abb9df475211234db",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/volcano-bay-2/bd7192c493b7-w480.avif",
+            "width": 480,
+            "bytes": 22272
+          },
+          {
+            "file": "responsive/volcano-bay-2/bd7192c493b7-w768.avif",
+            "width": 768,
+            "bytes": 49998
+          },
+          {
+            "file": "responsive/volcano-bay-2/bd7192c493b7-w1200.avif",
+            "width": 1200,
+            "bytes": 111870
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/volcano-bay-2/bd7192c493b7-w480.webp",
+            "width": 480,
+            "bytes": 35574
+          },
+          {
+            "file": "responsive/volcano-bay-2/bd7192c493b7-w768.webp",
+            "width": 768,
+            "bytes": 82708
+          },
+          {
+            "file": "responsive/volcano-bay-2/bd7192c493b7-w1200.webp",
+            "width": 1200,
+            "bytes": 180592
+          }
+        ]
+      }
+    },
     "volcano-bay-krakatau-aqua-coaster.jpg": {
       "sha256": "5d2c9dbc3c7351d0e7ae755baf5f55468edcb811106b51866018f1f2bca53012",
       "original_width": 1600,
@@ -39448,6 +40510,65 @@
             "file": "responsive/volcano-bay-krakatau-playa/a343761e2806-w1200.webp",
             "width": 1200,
             "bytes": 143666
+          }
+        ]
+      }
+    },
+    "volcano-bay-portada.jpg": {
+      "sha256": "bc046829b65016efa3b4b7f6dab520fa3bec5e789c6b159aa9dfdc494e3adf75",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/volcano-bay-portada/bc046829b650-w480.avif",
+            "width": 480,
+            "bytes": 12832
+          },
+          {
+            "file": "responsive/volcano-bay-portada/bc046829b650-w768.avif",
+            "width": 768,
+            "bytes": 35944
+          },
+          {
+            "file": "responsive/volcano-bay-portada/bc046829b650-w1200.avif",
+            "width": 1200,
+            "bytes": 104668
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/volcano-bay-portada/bc046829b650-w480.webp",
+            "width": 480,
+            "bytes": 20318
+          },
+          {
+            "file": "responsive/volcano-bay-portada/bc046829b650-w768.webp",
+            "width": 768,
+            "bytes": 54716
+          },
+          {
+            "file": "responsive/volcano-bay-portada/bc046829b650-w1200.webp",
+            "width": 1200,
+            "bytes": 150350
           }
         ]
       }

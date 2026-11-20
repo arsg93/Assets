@@ -105,6 +105,58 @@
     "guia"
    ]
   },
+  "animal-kingdom-1.jpg": {
+   "park": "animal-kingdom",
+   "ride": null,
+   "shows": "Las montañas flotantes de Pandora – The World of Avatar (valle de Mo'ara)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "animal-kingdom-2.jpg": {
+   "park": "animal-kingdom",
+   "ride": null,
+   "shows": "Pareja de rinocerontes blancos en la sabana de Kilimanjaro Safaris",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "animal-kingdom-3.jpg": {
+   "park": "animal-kingdom",
+   "ride": null,
+   "shows": "Panorámica de la zona Asia con la montaña de Expedition Everest",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "animal-kingdom-portada.jpg": {
+   "park": "animal-kingdom",
+   "ride": null,
+   "shows": "El Árbol de la Vida, icono del parque, en Discovery Island",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "aquafan-1.jpg": {
    "park": "aquafan",
    "ride": null,
@@ -1093,6 +1145,58 @@
     "guia"
    ]
   },
+  "blizzard-beach-1.jpg": {
+   "park": "blizzard-beach",
+   "ride": null,
+   "shows": "Mount Gushmore y el tobogán Summit Plummet vistos desde la entrada",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "blizzard-beach-2.jpg": {
+   "park": "blizzard-beach",
+   "ride": null,
+   "shows": "Team Boat Springs, el tobogán de balsas familiares",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "blizzard-beach-3.jpg": {
+   "park": "blizzard-beach",
+   "ride": null,
+   "shows": "Cross Country Creek, el río lento que rodea el parque",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "blizzard-beach-portada.jpg": {
+   "park": "blizzard-beach",
+   "ride": null,
+   "shows": "Entrada de Blizzard Beach con su decoración de estación de esquí",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "bp-insano.jpg": {
    "park": "beach-park",
    "ride": "Insano",
@@ -1819,6 +1923,58 @@
    "via": "commons",
    "uses": [
     "alturas"
+   ]
+  },
+  "discovery-cove-1.jpg": {
+   "park": "discovery-cove",
+   "ride": null,
+   "shows": "Ray Lagoon, la laguna de las rayas",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "discovery-cove-2.jpg": {
+   "park": "discovery-cove",
+   "ride": null,
+   "shows": "Wind-away River, el río tropical que recorre el parque",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "discovery-cove-3.jpg": {
+   "park": "discovery-cove",
+   "ride": null,
+   "shows": "Foto submarina del arrecife (Grand Reef) con peces tropicales",
+   "width": 1200,
+   "height": 796,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "discovery-cove-portada.jpg": {
+   "park": "discovery-cove",
+   "ride": null,
+   "shows": "La laguna de los delfines (Dolphin Lagoon) de Discovery Cove",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
    ]
   },
   "dlp-adventure-isle.jpg": {
@@ -9725,6 +9881,58 @@
     "guia"
    ]
   },
+  "typhoon-lagoon-1.jpg": {
+   "park": "typhoon-lagoon",
+   "ride": null,
+   "shows": "Toboganes acuáticos de Crush 'n' Gusher (water coaster)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "typhoon-lagoon-2.jpg": {
+   "park": "typhoon-lagoon",
+   "ride": null,
+   "shows": "Mount Mayday con el barco Miss Tilly encallado en la cima",
+   "width": 1200,
+   "height": 660,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "typhoon-lagoon-3.jpg": {
+   "park": "typhoon-lagoon",
+   "ride": null,
+   "shows": "Entrada temática de Typhoon Lagoon con el cartel del parque",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "typhoon-lagoon-portada.jpg": {
+   "park": "typhoon-lagoon",
+   "ride": null,
+   "shows": "La gran piscina de olas (Surf Pool) de Typhoon Lagoon con Mount Mayday al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "ueno-zoo-1.jpg": {
    "park": "ueno-zoo",
    "ride": null,
@@ -10399,6 +10607,45 @@
    "via": "commons",
    "uses": [
     "alturas"
+   ]
+  },
+  "volcano-bay-1.jpg": {
+   "park": "volcano-bay",
+   "ride": null,
+   "shows": "Toboganes de balsa Honu y Ika Moana",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "volcano-bay-2.jpg": {
+   "park": "volcano-bay",
+   "ride": null,
+   "shows": "Entrada de Volcano Bay con decoración polinesia",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "volcano-bay-portada.jpg": {
+   "park": "volcano-bay",
+   "ride": null,
+   "shows": "Vista general de Volcano Bay con el volcán Krakatau",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
    ]
   },
   "water-world-lloret-1.jpg": {
