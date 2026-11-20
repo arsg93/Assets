@@ -14,6 +14,242 @@
     "avif_quality": 50
   },
   "sources": {
+    "acquario-genova-1.jpg": {
+      "sha256": "cf06c480a8e3b8bb506976a175cb1df40c5f5a641ebd5756f4a4ba253b54bf4c",
+      "original_width": 1200,
+      "original_height": 537,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/acquario-genova-1/cf06c480a8e3-w480.avif",
+            "width": 480,
+            "bytes": 18872
+          },
+          {
+            "file": "responsive/acquario-genova-1/cf06c480a8e3-w768.avif",
+            "width": 768,
+            "bytes": 50278
+          },
+          {
+            "file": "responsive/acquario-genova-1/cf06c480a8e3-w1200.avif",
+            "width": 1200,
+            "bytes": 129682
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/acquario-genova-1/cf06c480a8e3-w480.webp",
+            "width": 480,
+            "bytes": 26820
+          },
+          {
+            "file": "responsive/acquario-genova-1/cf06c480a8e3-w768.webp",
+            "width": 768,
+            "bytes": 70690
+          },
+          {
+            "file": "responsive/acquario-genova-1/cf06c480a8e3-w1200.webp",
+            "width": 1200,
+            "bytes": 178960
+          }
+        ]
+      }
+    },
+    "acquario-genova-2.jpg": {
+      "sha256": "41647538595307dd8ddd2cd31bb4b228d6275267295047d1b586cc0325340939",
+      "original_width": 1200,
+      "original_height": 795,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/acquario-genova-2/416475385953-w480.avif",
+            "width": 480,
+            "bytes": 4283
+          },
+          {
+            "file": "responsive/acquario-genova-2/416475385953-w768.avif",
+            "width": 768,
+            "bytes": 7271
+          },
+          {
+            "file": "responsive/acquario-genova-2/416475385953-w1200.avif",
+            "width": 1200,
+            "bytes": 12254
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/acquario-genova-2/416475385953-w480.webp",
+            "width": 480,
+            "bytes": 8728
+          },
+          {
+            "file": "responsive/acquario-genova-2/416475385953-w768.webp",
+            "width": 768,
+            "bytes": 16734
+          },
+          {
+            "file": "responsive/acquario-genova-2/416475385953-w1200.webp",
+            "width": 1200,
+            "bytes": 36576
+          }
+        ]
+      }
+    },
+    "acquario-genova-3.jpg": {
+      "sha256": "f13afe4d25504753b971fbee9233941a6bda5820c6f3964b080889ef2b7ce5c9",
+      "original_width": 1200,
+      "original_height": 798,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/acquario-genova-3/f13afe4d2550-w480.avif",
+            "width": 480,
+            "bytes": 9496
+          },
+          {
+            "file": "responsive/acquario-genova-3/f13afe4d2550-w768.avif",
+            "width": 768,
+            "bytes": 19686
+          },
+          {
+            "file": "responsive/acquario-genova-3/f13afe4d2550-w1200.avif",
+            "width": 1200,
+            "bytes": 40183
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/acquario-genova-3/f13afe4d2550-w480.webp",
+            "width": 480,
+            "bytes": 16834
+          },
+          {
+            "file": "responsive/acquario-genova-3/f13afe4d2550-w768.webp",
+            "width": 768,
+            "bytes": 37282
+          },
+          {
+            "file": "responsive/acquario-genova-3/f13afe4d2550-w1200.webp",
+            "width": 1200,
+            "bytes": 84590
+          }
+        ]
+      }
+    },
+    "acquario-genova-portada.jpg": {
+      "sha256": "48ccd764ca2f50c6d3cc2a05cda9781417bc5f636164d8f3a2f9d60298e14d95",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/acquario-genova-portada/48ccd764ca2f-w480.avif",
+            "width": 480,
+            "bytes": 36583
+          },
+          {
+            "file": "responsive/acquario-genova-portada/48ccd764ca2f-w768.avif",
+            "width": 768,
+            "bytes": 85117
+          },
+          {
+            "file": "responsive/acquario-genova-portada/48ccd764ca2f-w1200.avif",
+            "width": 1200,
+            "bytes": 182077
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/acquario-genova-portada/48ccd764ca2f-w480.webp",
+            "width": 480,
+            "bytes": 48188
+          },
+          {
+            "file": "responsive/acquario-genova-portada/48ccd764ca2f-w768.webp",
+            "width": 768,
+            "bytes": 116152
+          },
+          {
+            "file": "responsive/acquario-genova-portada/48ccd764ca2f-w1200.webp",
+            "width": 1200,
+            "bytes": 261852
+          }
+        ]
+      }
+    },
     "altas-fury325.jpg": {
       "sha256": "7864693bcbf9ed920e36e83c7ffec3f56d895fe5ae4389d98dc387199868da05",
       "original_width": 1408,
@@ -423,6 +659,242 @@
             "file": "responsive/alton-towers/7bbd9a44d329-w1200.webp",
             "width": 1200,
             "bytes": 119094
+          }
+        ]
+      }
+    },
+    "aquafan-1.jpg": {
+      "sha256": "1f6e123f85ac4d2f171209aeec92e1be7b8e241f1a05cb46b83ff0775306ac15",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquafan-1/1f6e123f85ac-w480.avif",
+            "width": 480,
+            "bytes": 19743
+          },
+          {
+            "file": "responsive/aquafan-1/1f6e123f85ac-w768.avif",
+            "width": 768,
+            "bytes": 50558
+          },
+          {
+            "file": "responsive/aquafan-1/1f6e123f85ac-w1200.avif",
+            "width": 1200,
+            "bytes": 125799
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquafan-1/1f6e123f85ac-w480.webp",
+            "width": 480,
+            "bytes": 31662
+          },
+          {
+            "file": "responsive/aquafan-1/1f6e123f85ac-w768.webp",
+            "width": 768,
+            "bytes": 79176
+          },
+          {
+            "file": "responsive/aquafan-1/1f6e123f85ac-w1200.webp",
+            "width": 1200,
+            "bytes": 193026
+          }
+        ]
+      }
+    },
+    "aquafan-2.jpg": {
+      "sha256": "958adb526ad2751a6213a78c391ae1b2602567691767060ad7d8789a8400a315",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquafan-2/958adb526ad2-w480.avif",
+            "width": 480,
+            "bytes": 17938
+          },
+          {
+            "file": "responsive/aquafan-2/958adb526ad2-w768.avif",
+            "width": 768,
+            "bytes": 49246
+          },
+          {
+            "file": "responsive/aquafan-2/958adb526ad2-w1200.avif",
+            "width": 1200,
+            "bytes": 123705
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquafan-2/958adb526ad2-w480.webp",
+            "width": 480,
+            "bytes": 31194
+          },
+          {
+            "file": "responsive/aquafan-2/958adb526ad2-w768.webp",
+            "width": 768,
+            "bytes": 82358
+          },
+          {
+            "file": "responsive/aquafan-2/958adb526ad2-w1200.webp",
+            "width": 1200,
+            "bytes": 199014
+          }
+        ]
+      }
+    },
+    "aquafan-3.jpg": {
+      "sha256": "dabcf6240c1424424b13e162d45c37169278e12e6c409e750ec8a67600cb4249",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquafan-3/dabcf6240c14-w480.avif",
+            "width": 480,
+            "bytes": 17415
+          },
+          {
+            "file": "responsive/aquafan-3/dabcf6240c14-w768.avif",
+            "width": 768,
+            "bytes": 48156
+          },
+          {
+            "file": "responsive/aquafan-3/dabcf6240c14-w1200.avif",
+            "width": 1200,
+            "bytes": 120065
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquafan-3/dabcf6240c14-w480.webp",
+            "width": 480,
+            "bytes": 29130
+          },
+          {
+            "file": "responsive/aquafan-3/dabcf6240c14-w768.webp",
+            "width": 768,
+            "bytes": 77938
+          },
+          {
+            "file": "responsive/aquafan-3/dabcf6240c14-w1200.webp",
+            "width": 1200,
+            "bytes": 188368
+          }
+        ]
+      }
+    },
+    "aquafan-portada.jpg": {
+      "sha256": "cc000c510e62ba6525a84b27dbf252690ac8967bfdeedbf957e2f95c66dd4736",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquafan-portada/cc000c510e62-w480.avif",
+            "width": 480,
+            "bytes": 19028
+          },
+          {
+            "file": "responsive/aquafan-portada/cc000c510e62-w768.avif",
+            "width": 768,
+            "bytes": 45733
+          },
+          {
+            "file": "responsive/aquafan-portada/cc000c510e62-w1200.avif",
+            "width": 1200,
+            "bytes": 108352
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquafan-portada/cc000c510e62-w480.webp",
+            "width": 480,
+            "bytes": 29928
+          },
+          {
+            "file": "responsive/aquafan-portada/cc000c510e62-w768.webp",
+            "width": 768,
+            "bytes": 72646
+          },
+          {
+            "file": "responsive/aquafan-portada/cc000c510e62-w1200.webp",
+            "width": 1200,
+            "bytes": 171334
           }
         ]
       }
@@ -1758,6 +2230,242 @@
             "file": "responsive/beach-park-brasil/da174b8a517e-w1200.webp",
             "width": 1200,
             "bytes": 174228
+          }
+        ]
+      }
+    },
+    "beauval-1.jpg": {
+      "sha256": "fe231e1e5e1fab6a9602e57d7fb2895312d3eaf054f3ee6ab96d2a6c6b6d9e13",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/beauval-1/fe231e1e5e1f-w480.avif",
+            "width": 480,
+            "bytes": 20299
+          },
+          {
+            "file": "responsive/beauval-1/fe231e1e5e1f-w768.avif",
+            "width": 768,
+            "bytes": 53302
+          },
+          {
+            "file": "responsive/beauval-1/fe231e1e5e1f-w1200.avif",
+            "width": 1200,
+            "bytes": 123828
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/beauval-1/fe231e1e5e1f-w480.webp",
+            "width": 480,
+            "bytes": 30744
+          },
+          {
+            "file": "responsive/beauval-1/fe231e1e5e1f-w768.webp",
+            "width": 768,
+            "bytes": 78910
+          },
+          {
+            "file": "responsive/beauval-1/fe231e1e5e1f-w1200.webp",
+            "width": 1200,
+            "bytes": 186266
+          }
+        ]
+      }
+    },
+    "beauval-2.jpg": {
+      "sha256": "4d36ec6c3983a121b7b4ea3b813162afa064d094afafdf0cb7975db0381fa83a",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/beauval-2/4d36ec6c3983-w480.avif",
+            "width": 480,
+            "bytes": 27055
+          },
+          {
+            "file": "responsive/beauval-2/4d36ec6c3983-w768.avif",
+            "width": 768,
+            "bytes": 60541
+          },
+          {
+            "file": "responsive/beauval-2/4d36ec6c3983-w1200.avif",
+            "width": 1200,
+            "bytes": 125415
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/beauval-2/4d36ec6c3983-w480.webp",
+            "width": 480,
+            "bytes": 37464
+          },
+          {
+            "file": "responsive/beauval-2/4d36ec6c3983-w768.webp",
+            "width": 768,
+            "bytes": 87076
+          },
+          {
+            "file": "responsive/beauval-2/4d36ec6c3983-w1200.webp",
+            "width": 1200,
+            "bytes": 186460
+          }
+        ]
+      }
+    },
+    "beauval-3.jpg": {
+      "sha256": "5198090bfa698729f1dd147085c120c6c8b888700a5ae144a2521116ac9e05dc",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/beauval-3/5198090bfa69-w480.avif",
+            "width": 480,
+            "bytes": 18359
+          },
+          {
+            "file": "responsive/beauval-3/5198090bfa69-w768.avif",
+            "width": 768,
+            "bytes": 50104
+          },
+          {
+            "file": "responsive/beauval-3/5198090bfa69-w1200.avif",
+            "width": 1200,
+            "bytes": 123637
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/beauval-3/5198090bfa69-w480.webp",
+            "width": 480,
+            "bytes": 27514
+          },
+          {
+            "file": "responsive/beauval-3/5198090bfa69-w768.webp",
+            "width": 768,
+            "bytes": 72766
+          },
+          {
+            "file": "responsive/beauval-3/5198090bfa69-w1200.webp",
+            "width": 1200,
+            "bytes": 178970
+          }
+        ]
+      }
+    },
+    "beauval-portada.jpg": {
+      "sha256": "0d933ee889c38defce406a7a0c899782ab8dda2f8f560db361da5d01d63e9184",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/beauval-portada/0d933ee889c3-w480.avif",
+            "width": 480,
+            "bytes": 16162
+          },
+          {
+            "file": "responsive/beauval-portada/0d933ee889c3-w768.avif",
+            "width": 768,
+            "bytes": 40934
+          },
+          {
+            "file": "responsive/beauval-portada/0d933ee889c3-w1200.avif",
+            "width": 1200,
+            "bytes": 94798
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/beauval-portada/0d933ee889c3-w480.webp",
+            "width": 480,
+            "bytes": 23026
+          },
+          {
+            "file": "responsive/beauval-portada/0d933ee889c3-w768.webp",
+            "width": 768,
+            "bytes": 57204
+          },
+          {
+            "file": "responsive/beauval-portada/0d933ee889c3-w1200.webp",
+            "width": 1200,
+            "bytes": 137200
           }
         ]
       }
@@ -18153,6 +18861,242 @@
         ]
       }
     },
+    "nausicaa-1.jpg": {
+      "sha256": "02578ef6950c9037e07b876063beadffa9825d1bf5ca43c340e7bb69d9b0974e",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nausicaa-1/02578ef6950c-w480.avif",
+            "width": 480,
+            "bytes": 11252
+          },
+          {
+            "file": "responsive/nausicaa-1/02578ef6950c-w768.avif",
+            "width": 768,
+            "bytes": 20579
+          },
+          {
+            "file": "responsive/nausicaa-1/02578ef6950c-w1200.avif",
+            "width": 1200,
+            "bytes": 36337
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nausicaa-1/02578ef6950c-w480.webp",
+            "width": 480,
+            "bytes": 21774
+          },
+          {
+            "file": "responsive/nausicaa-1/02578ef6950c-w768.webp",
+            "width": 768,
+            "bytes": 41944
+          },
+          {
+            "file": "responsive/nausicaa-1/02578ef6950c-w1200.webp",
+            "width": 1200,
+            "bytes": 79862
+          }
+        ]
+      }
+    },
+    "nausicaa-2.jpg": {
+      "sha256": "daf65517ddf4a3fbccd0ee8e27ecf4655d525802a083db6df6be43cae7914e10",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nausicaa-2/daf65517ddf4-w480.avif",
+            "width": 480,
+            "bytes": 8776
+          },
+          {
+            "file": "responsive/nausicaa-2/daf65517ddf4-w768.avif",
+            "width": 768,
+            "bytes": 20699
+          },
+          {
+            "file": "responsive/nausicaa-2/daf65517ddf4-w1200.avif",
+            "width": 1200,
+            "bytes": 50500
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nausicaa-2/daf65517ddf4-w480.webp",
+            "width": 480,
+            "bytes": 14356
+          },
+          {
+            "file": "responsive/nausicaa-2/daf65517ddf4-w768.webp",
+            "width": 768,
+            "bytes": 34540
+          },
+          {
+            "file": "responsive/nausicaa-2/daf65517ddf4-w1200.webp",
+            "width": 1200,
+            "bytes": 82722
+          }
+        ]
+      }
+    },
+    "nausicaa-3.jpg": {
+      "sha256": "9d04fb4189781e54c2cae4f090c66c30b728ac42bbdba22f9311755d0e54be6b",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nausicaa-3/9d04fb418978-w480.avif",
+            "width": 480,
+            "bytes": 7696
+          },
+          {
+            "file": "responsive/nausicaa-3/9d04fb418978-w768.avif",
+            "width": 768,
+            "bytes": 21256
+          },
+          {
+            "file": "responsive/nausicaa-3/9d04fb418978-w1200.avif",
+            "width": 1200,
+            "bytes": 49446
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nausicaa-3/9d04fb418978-w480.webp",
+            "width": 480,
+            "bytes": 16964
+          },
+          {
+            "file": "responsive/nausicaa-3/9d04fb418978-w768.webp",
+            "width": 768,
+            "bytes": 42454
+          },
+          {
+            "file": "responsive/nausicaa-3/9d04fb418978-w1200.webp",
+            "width": 1200,
+            "bytes": 86908
+          }
+        ]
+      }
+    },
+    "nausicaa-portada.jpg": {
+      "sha256": "0035d63461bbd3ab9950b8abcf9aad8967ea879fef4a4810078726803af22051",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nausicaa-portada/0035d63461bb-w480.avif",
+            "width": 480,
+            "bytes": 5099
+          },
+          {
+            "file": "responsive/nausicaa-portada/0035d63461bb-w768.avif",
+            "width": 768,
+            "bytes": 9513
+          },
+          {
+            "file": "responsive/nausicaa-portada/0035d63461bb-w1200.avif",
+            "width": 1200,
+            "bytes": 17289
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nausicaa-portada/0035d63461bb-w480.webp",
+            "width": 480,
+            "bytes": 10184
+          },
+          {
+            "file": "responsive/nausicaa-portada/0035d63461bb-w768.webp",
+            "width": 768,
+            "bytes": 20110
+          },
+          {
+            "file": "responsive/nausicaa-portada/0035d63461bb-w1200.webp",
+            "width": 1200,
+            "bytes": 38568
+          }
+        ]
+      }
+    },
     "novedades-parques-europa-2026.jpg": {
       "sha256": "452462f08e159e773dc523a479eed1c76a1d5cb653c5ead3468716c9b51863db",
       "original_width": 1408,
@@ -18920,6 +19864,242 @@
         ]
       }
     },
+    "pairi-daiza-1.jpg": {
+      "sha256": "5b213f975cd414b610f628619402b34eb5e1b64f02445b8efa08731bc83edd5f",
+      "original_width": 1200,
+      "original_height": 727,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/pairi-daiza-1/5b213f975cd4-w480.avif",
+            "width": 480,
+            "bytes": 39086
+          },
+          {
+            "file": "responsive/pairi-daiza-1/5b213f975cd4-w768.avif",
+            "width": 768,
+            "bytes": 105819
+          },
+          {
+            "file": "responsive/pairi-daiza-1/5b213f975cd4-w1200.avif",
+            "width": 1200,
+            "bytes": 245316
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/pairi-daiza-1/5b213f975cd4-w480.webp",
+            "width": 480,
+            "bytes": 52040
+          },
+          {
+            "file": "responsive/pairi-daiza-1/5b213f975cd4-w768.webp",
+            "width": 768,
+            "bytes": 139388
+          },
+          {
+            "file": "responsive/pairi-daiza-1/5b213f975cd4-w1200.webp",
+            "width": 1200,
+            "bytes": 341048
+          }
+        ]
+      }
+    },
+    "pairi-daiza-2.jpg": {
+      "sha256": "10a710983a28b53caa74c5978e991db32d55b37c47e910373c66ac95d8aff5b3",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/pairi-daiza-2/10a710983a28-w480.avif",
+            "width": 480,
+            "bytes": 11318
+          },
+          {
+            "file": "responsive/pairi-daiza-2/10a710983a28-w768.avif",
+            "width": 768,
+            "bytes": 25237
+          },
+          {
+            "file": "responsive/pairi-daiza-2/10a710983a28-w1200.avif",
+            "width": 1200,
+            "bytes": 55876
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/pairi-daiza-2/10a710983a28-w480.webp",
+            "width": 480,
+            "bytes": 18958
+          },
+          {
+            "file": "responsive/pairi-daiza-2/10a710983a28-w768.webp",
+            "width": 768,
+            "bytes": 43072
+          },
+          {
+            "file": "responsive/pairi-daiza-2/10a710983a28-w1200.webp",
+            "width": 1200,
+            "bytes": 93130
+          }
+        ]
+      }
+    },
+    "pairi-daiza-3.jpg": {
+      "sha256": "f321b32373277edce44bc616bb0cd60cc07ccb3dd38103ac2f9356b6671595f9",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/pairi-daiza-3/f321b3237327-w480.avif",
+            "width": 480,
+            "bytes": 18920
+          },
+          {
+            "file": "responsive/pairi-daiza-3/f321b3237327-w768.avif",
+            "width": 768,
+            "bytes": 36808
+          },
+          {
+            "file": "responsive/pairi-daiza-3/f321b3237327-w1200.avif",
+            "width": 1200,
+            "bytes": 67821
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/pairi-daiza-3/f321b3237327-w480.webp",
+            "width": 480,
+            "bytes": 32278
+          },
+          {
+            "file": "responsive/pairi-daiza-3/f321b3237327-w768.webp",
+            "width": 768,
+            "bytes": 66116
+          },
+          {
+            "file": "responsive/pairi-daiza-3/f321b3237327-w1200.webp",
+            "width": 1200,
+            "bytes": 125412
+          }
+        ]
+      }
+    },
+    "pairi-daiza-portada.jpg": {
+      "sha256": "138d1eb00b07f0601b56940bdcf4e066a5ace63b6f61cd29f804d71a0902a188",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/pairi-daiza-portada/138d1eb00b07-w480.avif",
+            "width": 480,
+            "bytes": 31545
+          },
+          {
+            "file": "responsive/pairi-daiza-portada/138d1eb00b07-w768.avif",
+            "width": 768,
+            "bytes": 80336
+          },
+          {
+            "file": "responsive/pairi-daiza-portada/138d1eb00b07-w1200.avif",
+            "width": 1200,
+            "bytes": 192757
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/pairi-daiza-portada/138d1eb00b07-w480.webp",
+            "width": 480,
+            "bytes": 43042
+          },
+          {
+            "file": "responsive/pairi-daiza-portada/138d1eb00b07-w768.webp",
+            "width": 768,
+            "bytes": 109454
+          },
+          {
+            "file": "responsive/pairi-daiza-portada/138d1eb00b07-w1200.webp",
+            "width": 1200,
+            "bytes": 261618
+          }
+        ]
+      }
+    },
     "palma-aquarium-1.jpg": {
       "sha256": "cefc4b5bb4be3e82b23c02b6db02b9c3afa4779b54045d7c7082f9787f7bbc89",
       "original_width": 1200,
@@ -19565,6 +20745,242 @@
             "file": "responsive/parc-asterix/9d6c40bdcd55-w1200.webp",
             "width": 1200,
             "bytes": 150276
+          }
+        ]
+      }
+    },
+    "parco-natura-viva-1.jpg": {
+      "sha256": "2d24eadef96ce5920fe1d61ab10e714f41d4b002b9760b60c13d33805d7dde8a",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/parco-natura-viva-1/2d24eadef96c-w480.avif",
+            "width": 480,
+            "bytes": 30335
+          },
+          {
+            "file": "responsive/parco-natura-viva-1/2d24eadef96c-w768.avif",
+            "width": 768,
+            "bytes": 73827
+          },
+          {
+            "file": "responsive/parco-natura-viva-1/2d24eadef96c-w1200.avif",
+            "width": 1200,
+            "bytes": 161654
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/parco-natura-viva-1/2d24eadef96c-w480.webp",
+            "width": 480,
+            "bytes": 44348
+          },
+          {
+            "file": "responsive/parco-natura-viva-1/2d24eadef96c-w768.webp",
+            "width": 768,
+            "bytes": 109708
+          },
+          {
+            "file": "responsive/parco-natura-viva-1/2d24eadef96c-w1200.webp",
+            "width": 1200,
+            "bytes": 241390
+          }
+        ]
+      }
+    },
+    "parco-natura-viva-2.jpg": {
+      "sha256": "4d2fe07e9c5c55bae547eb8363559f5e38f06f00491dacc4e45480cec15f0f56",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/parco-natura-viva-2/4d2fe07e9c5c-w480.avif",
+            "width": 480,
+            "bytes": 37346
+          },
+          {
+            "file": "responsive/parco-natura-viva-2/4d2fe07e9c5c-w768.avif",
+            "width": 768,
+            "bytes": 89881
+          },
+          {
+            "file": "responsive/parco-natura-viva-2/4d2fe07e9c5c-w1200.avif",
+            "width": 1200,
+            "bytes": 200054
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/parco-natura-viva-2/4d2fe07e9c5c-w480.webp",
+            "width": 480,
+            "bytes": 52558
+          },
+          {
+            "file": "responsive/parco-natura-viva-2/4d2fe07e9c5c-w768.webp",
+            "width": 768,
+            "bytes": 126514
+          },
+          {
+            "file": "responsive/parco-natura-viva-2/4d2fe07e9c5c-w1200.webp",
+            "width": 1200,
+            "bytes": 289598
+          }
+        ]
+      }
+    },
+    "parco-natura-viva-3.jpg": {
+      "sha256": "e0300cb83a3183374609554f922f3cdd3ef492e444b3b0bbf0d4dc69742efe78",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/parco-natura-viva-3/e0300cb83a31-w480.avif",
+            "width": 480,
+            "bytes": 9807
+          },
+          {
+            "file": "responsive/parco-natura-viva-3/e0300cb83a31-w768.avif",
+            "width": 768,
+            "bytes": 17449
+          },
+          {
+            "file": "responsive/parco-natura-viva-3/e0300cb83a31-w1200.avif",
+            "width": 1200,
+            "bytes": 31575
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/parco-natura-viva-3/e0300cb83a31-w480.webp",
+            "width": 480,
+            "bytes": 18542
+          },
+          {
+            "file": "responsive/parco-natura-viva-3/e0300cb83a31-w768.webp",
+            "width": 768,
+            "bytes": 35876
+          },
+          {
+            "file": "responsive/parco-natura-viva-3/e0300cb83a31-w1200.webp",
+            "width": 1200,
+            "bytes": 68364
+          }
+        ]
+      }
+    },
+    "parco-natura-viva-portada.jpg": {
+      "sha256": "c3cd6619f1f79147d1378299487ef236924b60811aaa5fe807fc8e82a18946eb",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/parco-natura-viva-portada/c3cd6619f1f7-w480.avif",
+            "width": 480,
+            "bytes": 11598
+          },
+          {
+            "file": "responsive/parco-natura-viva-portada/c3cd6619f1f7-w768.avif",
+            "width": 768,
+            "bytes": 22362
+          },
+          {
+            "file": "responsive/parco-natura-viva-portada/c3cd6619f1f7-w1200.avif",
+            "width": 1200,
+            "bytes": 41839
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/parco-natura-viva-portada/c3cd6619f1f7-w480.webp",
+            "width": 480,
+            "bytes": 19898
+          },
+          {
+            "file": "responsive/parco-natura-viva-portada/c3cd6619f1f7-w768.webp",
+            "width": 768,
+            "bytes": 41554
+          },
+          {
+            "file": "responsive/parco-natura-viva-portada/c3cd6619f1f7-w1200.webp",
+            "width": 1200,
+            "bytes": 82860
           }
         ]
       }
@@ -36959,6 +38375,242 @@
             "file": "responsive/xplor-riviera-maya/14597dc0b072-w1200.webp",
             "width": 1200,
             "bytes": 249842
+          }
+        ]
+      }
+    },
+    "zoomarine-roma-1.jpg": {
+      "sha256": "fffa6a68481b6fce11ecceb34e4f104d8f44a95104dc46b24897eea3fa171718",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoomarine-roma-1/fffa6a68481b-w480.avif",
+            "width": 480,
+            "bytes": 16020
+          },
+          {
+            "file": "responsive/zoomarine-roma-1/fffa6a68481b-w768.avif",
+            "width": 768,
+            "bytes": 35148
+          },
+          {
+            "file": "responsive/zoomarine-roma-1/fffa6a68481b-w1200.avif",
+            "width": 1200,
+            "bytes": 74265
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoomarine-roma-1/fffa6a68481b-w480.webp",
+            "width": 480,
+            "bytes": 24154
+          },
+          {
+            "file": "responsive/zoomarine-roma-1/fffa6a68481b-w768.webp",
+            "width": 768,
+            "bytes": 53770
+          },
+          {
+            "file": "responsive/zoomarine-roma-1/fffa6a68481b-w1200.webp",
+            "width": 1200,
+            "bytes": 120800
+          }
+        ]
+      }
+    },
+    "zoomarine-roma-2.jpg": {
+      "sha256": "a544e2186a7a2cc93b3c30aea90ac47be4547f492836e577b168eeb2b4dc28d3",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoomarine-roma-2/a544e2186a7a-w480.avif",
+            "width": 480,
+            "bytes": 11412
+          },
+          {
+            "file": "responsive/zoomarine-roma-2/a544e2186a7a-w768.avif",
+            "width": 768,
+            "bytes": 22771
+          },
+          {
+            "file": "responsive/zoomarine-roma-2/a544e2186a7a-w1200.avif",
+            "width": 1200,
+            "bytes": 47678
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoomarine-roma-2/a544e2186a7a-w480.webp",
+            "width": 480,
+            "bytes": 22940
+          },
+          {
+            "file": "responsive/zoomarine-roma-2/a544e2186a7a-w768.webp",
+            "width": 768,
+            "bytes": 49608
+          },
+          {
+            "file": "responsive/zoomarine-roma-2/a544e2186a7a-w1200.webp",
+            "width": 1200,
+            "bytes": 105010
+          }
+        ]
+      }
+    },
+    "zoomarine-roma-3.jpg": {
+      "sha256": "f27de6cb0a2a369491772b78b7c9f2a0a433473d81a8b3d0e976eec97e60f7b5",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoomarine-roma-3/f27de6cb0a2a-w480.avif",
+            "width": 480,
+            "bytes": 14712
+          },
+          {
+            "file": "responsive/zoomarine-roma-3/f27de6cb0a2a-w768.avif",
+            "width": 768,
+            "bytes": 31200
+          },
+          {
+            "file": "responsive/zoomarine-roma-3/f27de6cb0a2a-w1200.avif",
+            "width": 1200,
+            "bytes": 67495
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoomarine-roma-3/f27de6cb0a2a-w480.webp",
+            "width": 480,
+            "bytes": 26638
+          },
+          {
+            "file": "responsive/zoomarine-roma-3/f27de6cb0a2a-w768.webp",
+            "width": 768,
+            "bytes": 58628
+          },
+          {
+            "file": "responsive/zoomarine-roma-3/f27de6cb0a2a-w1200.webp",
+            "width": 1200,
+            "bytes": 124112
+          }
+        ]
+      }
+    },
+    "zoomarine-roma-portada.jpg": {
+      "sha256": "4b47f010a92c869079a0a1b2a0282a3cbd20ce37d8d5ebdf0b48420358fa0b9c",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoomarine-roma-portada/4b47f010a92c-w480.avif",
+            "width": 480,
+            "bytes": 13471
+          },
+          {
+            "file": "responsive/zoomarine-roma-portada/4b47f010a92c-w768.avif",
+            "width": 768,
+            "bytes": 34030
+          },
+          {
+            "file": "responsive/zoomarine-roma-portada/4b47f010a92c-w1200.avif",
+            "width": 1200,
+            "bytes": 81547
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoomarine-roma-portada/4b47f010a92c-w480.webp",
+            "width": 480,
+            "bytes": 21034
+          },
+          {
+            "file": "responsive/zoomarine-roma-portada/4b47f010a92c-w768.webp",
+            "width": 768,
+            "bytes": 53250
+          },
+          {
+            "file": "responsive/zoomarine-roma-portada/4b47f010a92c-w1200.webp",
+            "width": 1200,
+            "bytes": 135084
           }
         ]
       }
