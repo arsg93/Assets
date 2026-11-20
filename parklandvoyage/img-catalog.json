@@ -53,6 +53,19 @@
     "guia"
    ]
   },
+  "action-park-1.jpg": {
+   "park": "action-park",
+   "ride": null,
+   "shows": "Bañistas en un flotador bajando por un tobogán de Action Park",
+   "width": 1200,
+   "height": 786,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "africam-safari-1.jpg": {
    "park": "africam-safari",
    "ride": null,
@@ -96,6 +109,19 @@
    "park": "africam-safari",
    "ride": null,
    "shows": "Manada de bisontes en la pradera del safari (sección Yellowstone), con colinas y árboles al fondo.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "alton-towers-nemesis-reborn.jpg": {
+   "park": "alton-towers",
+   "ride": "Nemesis Reborn",
+   "shows": "Vía de Nemesis Reborn con el helicóptero tematizado, vista desde la cola",
    "width": 1600,
    "height": 900,
    "orientation": "horizontal",
@@ -859,6 +885,19 @@
     "alturas"
    ]
   },
+  "beach-park-entrada-fortaleza.jpg": {
+   "park": "beach-park",
+   "ride": null,
+   "shows": "Arco de entrada del Beach Park con peces y conchas gigantes y el mar al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "beauval-1.jpg": {
    "park": "beauval",
    "ride": null,
@@ -902,6 +941,32 @@
    "park": "beauval",
    "ride": null,
    "shows": "Vista del parque con la telecabina Le Nuage de Beauval y la cúpula del Dôme Équatorial al fondo.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "beto-carrero-world-extreme-show.jpg": {
+   "park": "beto-carrero",
+   "ride": null,
+   "shows": "Escena del Extreme Show de acrobacias con coches",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "beto-carrero-world-vista-noria.jpg": {
+   "park": "beto-carrero",
+   "ride": null,
+   "shows": "Beto Carrero World visto desde la noria",
    "width": 1600,
    "height": 900,
    "orientation": "horizontal",
@@ -1210,6 +1275,97 @@
     "alturas"
    ]
   },
+  "busch-gardens-cobras-curse-1.jpg": {
+   "park": "busch-gardens-tampa",
+   "ride": "Cobra's Curse",
+   "shows": "Un tren de Cobra's Curse sobre la vía entre palmeras",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "busch-gardens-falcons-fury-1.jpg": {
+   "park": "busch-gardens-tampa",
+   "ride": "Falcon's Fury",
+   "shows": "La entrada y la torre de caída de Falcon's Fury",
+   "width": 1200,
+   "height": 904,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "busch-gardens-iron-gwazi-night-1.jpg": {
+   "park": "busch-gardens-tampa",
+   "ride": "Iron Gwazi",
+   "shows": "Iron Gwazi iluminada de noche",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "busch-gardens-serengeti-plain-1.jpg": {
+   "park": "busch-gardens-tampa",
+   "ride": null,
+   "shows": "Cebras y jirafas en la sabana de Serengeti Plain",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "busch-gardens-timbuktu-1.jpg": {
+   "park": "busch-gardens-tampa",
+   "ride": null,
+   "shows": "La torre de adobe de la zona Timbuktu entre palmeras",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "canadas-wonderland-entrance-1.jpg": {
+   "park": "canadas-wonderland",
+   "ride": null,
+   "shows": "La fuente y la montaña Wonder Mountain a la entrada del parque",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "canadas-wonderland-lights-1.jpg": {
+   "park": "canadas-wonderland",
+   "ride": null,
+   "shows": "Árboles con luces en un paseo del parque al anochecer",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "caribe-aquatic-park-1.jpg": {
    "park": "caribe-aquatic-park",
    "ride": null,
@@ -1240,6 +1396,84 @@
    "park": "caribe-aquatic-park",
    "ride": null,
    "shows": "Vista elevada del parque: toboganes amarillo, rojo, azul y verde en primer plano y piscinas con palmeras al fondo (horizontal).",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "carowinds-fury-325-curve.jpg": {
+   "park": "carowinds",
+   "ride": "Fury 325",
+   "shows": "Un tramo de la vía verde y azul de Fury 325",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "carowinds-fury-325-lift.jpg": {
+   "park": "carowinds",
+   "ride": "Fury 325",
+   "shows": "La subida de Fury 325 y su estructura blanca",
+   "width": 1200,
+   "height": 904,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cedar-point-from-marblehead-1.jpg": {
+   "park": "cedar-point",
+   "ride": null,
+   "shows": "Las montañas rusas de Cedar Point en el horizonte, al otro lado del lago Erie",
+   "width": 1200,
+   "height": 799,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cedar-point-lake-erie-skyline-1.jpg": {
+   "park": "cedar-point",
+   "ride": null,
+   "shows": "Las montañas rusas de Cedar Point vistas desde el lago Erie",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cedar-point-shores-slides-1.jpg": {
+   "park": "cedar-point",
+   "ride": null,
+   "shows": "Toboganes y torres de Cedar Point Shores",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "como-ir-portaventura-tren-estacion.jpg": {
+   "park": "portaventura",
+   "ride": null,
+   "shows": "Andén de la estación de Port Aventura con el cartel de la parada",
    "width": 1600,
    "height": 900,
    "orientation": "horizontal",
@@ -1925,6 +2159,45 @@
     "alturas"
    ]
   },
+  "dca-paradise-bay-1.jpg": {
+   "park": "disneyland-california",
+   "ride": null,
+   "shows": "Pixar Pier con su noria y la montaña rusa Incredicoaster al anochecer",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dca-world-of-color-1.jpg": {
+   "park": "disneyland-california",
+   "ride": null,
+   "shows": "Fuentes iluminadas de World of Color con la noria al fondo",
+   "width": 1200,
+   "height": 624,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dcl-castaway-cay-1.jpg": {
+   "park": "disney-cruise-line",
+   "ride": null,
+   "shows": "La laguna de Castaway Cay, isla privada de Disney Cruise Line",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "discovery-cove-1.jpg": {
    "park": "discovery-cove",
    "ride": null,
@@ -1972,6 +2245,149 @@
    "height": 900,
    "orientation": "horizontal",
    "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "disney-adventure-world-fanfare.jpg": {
+   "park": "disneyland-paris",
+   "ride": null,
+   "shows": "Banda Disney con Minnie en Adventure Way, Disney Adventure World",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "disneyland-castle-dusk-1.jpg": {
+   "park": "disneyland-california",
+   "ride": null,
+   "shows": "El castillo de la Bella Durmiente iluminado al anochecer",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "disneyland-castle-plaza-1.jpg": {
+   "park": "disneyland-california",
+   "ride": null,
+   "shows": "Plaza central de Disneyland Park con el castillo al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "disneyland-main-street-1.jpg": {
+   "park": "disneyland-california",
+   "ride": null,
+   "shows": "Main Street, U.S.A. con sus edificios victorianos",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "disneyland-paris-castillo-2013.jpg": {
+   "park": "disneyland-paris",
+   "ride": null,
+   "shows": "El castillo de la Bella Durmiente a lo lejos sobre los jardines",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "disneyland-paris-entrada-2026.jpg": {
+   "park": "disneyland-paris",
+   "ride": null,
+   "shows": "Explanada de acceso y pabellón de taquillas de Disneyland Paris",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "disneyland-paris-hoteles-lago-noche.jpg": {
+   "park": "disneyland-paris",
+   "ride": null,
+   "shows": "Hoteles de Disneyland Paris iluminados al anochecer junto al lago",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "disneyland-paris-main-street-2013.jpg": {
+   "park": "disneyland-paris",
+   "ride": null,
+   "shows": "Entrada de Disneyland Park con el Disneyland Hotel al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "disneyland-paris-taquillas-2025.jpg": {
+   "park": "disneyland-paris",
+   "ride": null,
+   "shows": "Puertas de acceso a Disneyland Park con el rótulo del parque",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "disneyland-paris-tgv-chessy.jpg": {
+   "park": "disneyland-paris",
+   "ride": null,
+   "shows": "TGV Duplex en el andén de la estación de Marne-la-Vallée – Chessy",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "disneyland-soundsational-parade-1.jpg": {
+   "park": "disneyland-california",
+   "ride": null,
+   "shows": "Una carroza del desfile Mickey's Soundsational Parade por Main Street",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
    "via": "commons",
    "uses": [
     "guia"
@@ -3329,6 +3745,19 @@
     "alturas"
    ]
   },
+  "efteling-baron-1898-pagode.jpg": {
+   "park": "efteling",
+   "ride": "Baron 1898",
+   "shows": "Baron 1898 visto desde la Pagode con el pueblo minero y la montaña rusa de madera",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "energylandia-1.jpg": {
    "park": "energylandia",
    "ride": null,
@@ -3901,6 +4330,84 @@
     "alturas"
    ]
   },
+  "epic-universe-chronos-tower-1.jpg": {
+   "park": "epic-universe",
+   "ride": null,
+   "shows": "La Chronos Tower, la entrada de Epic Universe",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "epic-universe-dark-universe-1.jpg": {
+   "park": "epic-universe",
+   "ride": null,
+   "shows": "La entrada de Dark Universe y su torre oscura tras las fuentes",
+   "width": 1200,
+   "height": 673,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "epic-universe-super-nintendo-world-1.jpg": {
+   "park": "epic-universe",
+   "ride": null,
+   "shows": "Super Nintendo World en Epic Universe al atardecer",
+   "width": 1200,
+   "height": 904,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "europa-park-eingang-2024.jpg": {
+   "park": "europa-park",
+   "ride": null,
+   "shows": "Entrada del Europa-Park, en Rust",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "europa-park-entrada-rust.jpg": {
+   "park": "europa-park",
+   "ride": null,
+   "shows": "Entrada principal del Europa-Park, en Rust",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "europa-park-panorama-2026.jpg": {
+   "park": "europa-park",
+   "ride": null,
+   "shows": "Vista aérea del Europa-Park con la esfera de Eurosat",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "everland-1.jpg": {
    "park": "everland",
    "ride": null,
@@ -3944,6 +4451,19 @@
    "park": "everland",
    "ride": null,
    "shows": "Calle del desfile de Everland con visitantes en primavera de 2025",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "fantasilandia-raptor.jpg": {
+   "park": "fantasilandia",
+   "ride": "Raptor",
+   "shows": "Raptor de Fantasilandia con su cartel",
    "width": 1600,
    "height": 900,
    "orientation": "horizontal",
@@ -4000,6 +4520,97 @@
    "height": 900,
    "orientation": "horizontal",
    "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ferrari-land-entrada-red-force.jpg": {
+   "park": "ferrari-land",
+   "ride": "Red Force",
+   "shows": "Entrada de la atracción Red Force",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ferrari-land-palacio-ducal.jpg": {
+   "park": "ferrari-land",
+   "ride": null,
+   "shows": "Réplica de la fachada del Palacio Ducal de Venecia en Ferrari Land",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ferrari-land-plaza-red-force.jpg": {
+   "park": "ferrari-land",
+   "ride": "Red Force",
+   "shows": "Plaza central de Ferrari Land con Red Force al fondo",
+   "width": 1200,
+   "height": 890,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ferrari-land-pueblo-italiano.jpg": {
+   "park": "ferrari-land",
+   "ride": null,
+   "shows": "Plaza del pueblo italiano de Ferrari Land con restaurantes y fuente",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ferrari-land-vista-general.jpg": {
+   "park": "ferrari-land",
+   "ride": "Red Force",
+   "shows": "Vista general de Ferrari Land con la torre de Red Force y la vía de la montaña rusa",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ferrari-world-formula-rossa-1.jpg": {
+   "park": "ferrari-world-abu-dhabi",
+   "ride": "Formula Rossa",
+   "shows": "Un tren de Formula Rossa sobre su vía elevada",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ferrari-world-formula-rossa-2.jpg": {
+   "park": "ferrari-world-abu-dhabi",
+   "ride": "Formula Rossa",
+   "shows": "Un tren de Formula Rossa bajo la gran cubierta de Ferrari World",
+   "width": 1200,
+   "height": 798,
+   "orientation": "horizontal",
+   "hero_ok": false,
    "via": "commons",
    "uses": [
     "guia"
@@ -4185,6 +4796,45 @@
    "via": "openverse",
    "uses": [
     "alturas"
+   ]
+  },
+  "futuroscope-kinemax-360.jpg": {
+   "park": "futuroscope",
+   "ride": null,
+   "shows": "Pabellones Kinémax y 360° del Futuroscope",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "futuroscope-lago-kinemax.jpg": {
+   "park": "futuroscope",
+   "ride": null,
+   "shows": "Lago del Futuroscope con el Kinémax y el Gyrotour al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "gardaland-entrada.jpg": {
+   "park": "gardaland",
+   "ride": null,
+   "shows": "Arco de entrada de Gardaland",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
    ]
   },
   "gl-animal-treasure-island.jpg": {
@@ -4434,6 +5084,58 @@
     "guia"
    ]
   },
+  "hersheypark-boardwalk-1.jpg": {
+   "park": "hersheypark",
+   "ride": null,
+   "shows": "La entrada de The Boardwalk con sus toboganes",
+   "width": 1200,
+   "height": 798,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hersheypark-chocolate-world-1.jpg": {
+   "park": "hersheypark",
+   "ride": null,
+   "shows": "La fachada de Hershey's Chocolate World con su torre del reloj",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hersheypark-entrance-1.jpg": {
+   "park": "hersheypark",
+   "ride": null,
+   "shows": "La entrada de Hersheypark con la colina de elevación de una montaña rusa al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hersheypark-sign-1.jpg": {
+   "park": "hersheypark",
+   "ride": null,
+   "shows": "El letrero de Hersheypark sobre las puertas de entrada",
+   "width": 1200,
+   "height": 588,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "hh-evolution.jpg": {
    "park": "hopi-hari",
    "ride": "Evolution",
@@ -4627,6 +5329,19 @@
    "via": "openverse",
    "uses": [
     "alturas"
+   ]
+  },
+  "hopi-hari-kaminda-mundi.jpg": {
+   "park": "hopi-hari",
+   "ride": null,
+   "shows": "Noria y edificios de colores en Kaminda Mundi",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
    ]
   },
   "hp-big-loop.jpg": {
@@ -5056,6 +5771,19 @@
    "via": "commons",
    "uses": [
     "alturas"
+   ]
+  },
+  "isla-magica-puerto-fuerte.jpg": {
+   "park": "isla-magica",
+   "ride": null,
+   "shows": "El fuerte y el galeón del puerto de Isla Mágica",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
    ]
   },
   "jungle-park-1.jpg": {
@@ -5669,6 +6397,19 @@
     "alturas"
    ]
   },
+  "kidzania-cuicuilco.jpg": {
+   "park": "kidzania",
+   "ride": null,
+   "shows": "Fachada recreada dentro de KidZania Cuicuilco, Ciudad de México",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "kings-island-1.jpg": {
    "park": "kings-island",
    "ride": null,
@@ -5703,6 +6444,45 @@
    "height": 900,
    "orientation": "horizontal",
    "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "knotts-bear-y-tales-night-1.jpg": {
+   "park": "knotts",
+   "ride": null,
+   "shows": "La entrada de Knott's Bear-y Tales iluminada de noche",
+   "width": 1200,
+   "height": 676,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "knotts-berry-farm-entrance-1.jpg": {
+   "park": "knotts",
+   "ride": null,
+   "shows": "La entrada de Knott's Berry Farm con las montañas rusas al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "knotts-calico-river-rapids-1.jpg": {
+   "park": "knotts",
+   "ride": null,
+   "shows": "El arco de entrada de Calico River Rapids",
+   "width": 1200,
+   "height": 676,
+   "orientation": "horizontal",
+   "hero_ok": false,
    "via": "commons",
    "uses": [
     "guia"
@@ -6501,6 +7281,32 @@
     "guia"
    ]
   },
+  "nagashima-steel-dragon-2000-1.jpg": {
+   "park": "nagashima-spa-land",
+   "ride": "Steel Dragon 2000",
+   "shows": "Steel Dragon 2000 y su estructura blanca y roja",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nagashima-steel-dragon-2000-2.jpg": {
+   "park": "nagashima-spa-land",
+   "ride": "Steel Dragon 2000",
+   "shows": "Las montañas rusas de Nagashima Spa Land junto al río, con Steel Dragon 2000",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "nausicaa-1.jpg": {
    "park": "nausicaa",
    "ride": null,
@@ -6746,6 +7552,19 @@
    "via": "commons",
    "uses": [
     "alturas"
+   ]
+  },
+  "orlando-skyline-1.jpg": {
+   "park": "orlando",
+   "ride": null,
+   "shows": "El centro de Orlando visto desde lo alto",
+   "width": 1200,
+   "height": 750,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
    ]
   },
   "pa-angkor.jpg": {
@@ -7320,6 +8139,32 @@
     "alturas"
    ]
   },
+  "parc-asterix-oziris.jpg": {
+   "park": "parc-asterix",
+   "ride": "OzIris",
+   "shows": "Tren invertido de OzIris sobre su vía",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parc-asterix-tonnerre-de-zeus.jpg": {
+   "park": "parc-asterix",
+   "ride": "Tonnerre de Zeus",
+   "shows": "Montaña rusa de madera Tonnerre de Zeus",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "parco-natura-viva-1.jpg": {
    "park": "parco-natura-viva",
    "ride": null,
@@ -7363,6 +8208,110 @@
    "park": "parco-natura-viva",
    "ride": null,
    "shows": "Tigre siberiano nacido en el parque en 2020, metido en el agua.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parque-atracciones-madrid-entrada.jpg": {
+   "park": "parque-atracciones-madrid",
+   "ride": null,
+   "shows": "Arco de entrada del Parque de Atracciones de Madrid",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parque-warner-lago-2009.jpg": {
+   "park": "parque-warner",
+   "ride": null,
+   "shows": "Lago central con un velero y edificios del puerto",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parque-warner-madrid-2022-1.jpg": {
+   "park": "parque-warner",
+   "ride": null,
+   "shows": "Rampa de bajada de una atracción acuática entre rocas rojas",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parque-warner-madrid-2022-2.jpg": {
+   "park": "parque-warner",
+   "ride": "Coaster Express",
+   "shows": "Estructura de madera de la montaña rusa Coaster Express",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parque-warner-madrid-2022-3.jpg": {
+   "park": "parque-warner",
+   "ride": null,
+   "shows": "Balsa en el canal de rápidos de una atracción acuática",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parque-warner-madrid-joker-neon.jpg": {
+   "park": "parque-warner",
+   "ride": null,
+   "shows": "Letrero luminoso del Joker de noche",
+   "width": 1200,
+   "height": 674,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parque-warner-madrid-joker-noche.jpg": {
+   "park": "parque-warner",
+   "ride": null,
+   "shows": "Rostro del Joker iluminado de noche junto a una farola",
+   "width": 1200,
+   "height": 674,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parque-warner-madrid-noche-globo.jpg": {
+   "park": "parque-warner",
+   "ride": null,
+   "shows": "Globo de Warner Bros. iluminado de noche en una fuente",
    "width": 1600,
    "height": 900,
    "orientation": "horizontal",
@@ -7606,6 +8555,188 @@
     "alturas"
    ]
   },
+  "portaventura-dragon-khan-shambhala-2012.jpg": {
+   "park": "portaventura",
+   "ride": "Dragon Khan",
+   "shows": "Dragon Khan y Shambhala desde un jardín con tejado chino en primer plano",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-dragon-khan-shambhala-2019-1.jpg": {
+   "park": "portaventura",
+   "ride": "Shambhala",
+   "shows": "Dragon Khan y Shambhala vistos desde un paseo de PortAventura",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-dragon-khan-shambhala-2019-2.jpg": {
+   "park": "portaventura",
+   "ride": "Shambhala",
+   "shows": "Shambhala y Dragon Khan entre la vegetación",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-dragon-khan-shambhala-2019-3.jpg": {
+   "park": "portaventura",
+   "ride": "Shambhala",
+   "shows": "Shambhala y Dragon Khan sobre la vegetación",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-dragon-khan-shambhala-2019-4.jpg": {
+   "park": "portaventura",
+   "ride": "Shambhala",
+   "shows": "Visitantes paseando bajo Shambhala y Dragon Khan",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-dragon-khan-shambhala-2019-5.jpg": {
+   "park": "portaventura",
+   "ride": "Shambhala",
+   "shows": "Camino hacia Shambhala y Dragon Khan",
+   "width": 1200,
+   "height": 674,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-hotel-gold-river.jpg": {
+   "park": "portaventura",
+   "ride": null,
+   "shows": "Entrada del hotel Gold River, ambientación Far West",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-hotel-mansion-de-lucy.jpg": {
+   "park": "portaventura",
+   "ride": null,
+   "shows": "Fachada del hotel Mansión de Lucy",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-mediterrania-lago.jpg": {
+   "park": "portaventura",
+   "ride": null,
+   "shows": "Lago de Mediterrània con rocas y montañas rusas al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-sesamoaventura-1.jpg": {
+   "park": "portaventura",
+   "ride": null,
+   "shows": "Zona SésamoAventura con árboles de colores",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-sesamoaventura-2.jpg": {
+   "park": "portaventura",
+   "ride": null,
+   "shows": "Zona infantil de SésamoAventura con torres y árboles de colores",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-shambhala-cima-2019.jpg": {
+   "park": "portaventura",
+   "ride": "Shambhala",
+   "shows": "Tren de Shambhala en lo alto de la primera colina",
+   "width": 1200,
+   "height": 674,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-shambhala-noche.jpg": {
+   "park": "portaventura",
+   "ride": "Shambhala",
+   "shows": "Farolas chinas con la vía de Shambhala al anochecer",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "portaventura-tren-sesamoaventura.jpg": {
+   "park": "portaventura",
+   "ride": null,
+   "shows": "Tren de vapor de SésamoAventura",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "puy-du-fou-espana-1.jpg": {
    "park": "puy-du-fou-espana",
    "ride": null,
@@ -7640,6 +8771,19 @@
    "height": 900,
    "orientation": "horizontal",
    "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "puy-du-fou-signe-du-triomphe.jpg": {
+   "park": "puy-du-fou",
+   "ride": "Signe du Triomphe",
+   "shows": "Espectáculo Signe du Triomphe en el Puy du Fou",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
    "via": "commons",
    "uses": [
     "guia"
@@ -8529,6 +9673,45 @@
     "alturas"
    ]
   },
+  "siam-park-vista-aerea.jpg": {
+   "park": "siam-park",
+   "ride": null,
+   "shows": "Vista aérea de Siam Park con la piscina de olas",
+   "width": 1200,
+   "height": 755,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "siam-park-vista-general.jpg": {
+   "park": "siam-park",
+   "ride": null,
+   "shows": "Vista general de Siam Park con templos, toboganes y jardines",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "six-flags-fiesta-texas-entrance-1.jpg": {
+   "park": "six-flags-fiesta-texas",
+   "ride": null,
+   "shows": "La explanada de entrada del parque con una montaña rusa al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "six-flags-great-adventure-1.jpg": {
    "park": "six-flags-great-adventure",
    "ride": null,
@@ -8555,6 +9738,45 @@
     "guia"
    ]
   },
+  "six-flags-great-adventure-kingda-ka-1.jpg": {
+   "park": "six-flags-great-adventure",
+   "ride": "Kingda Ka",
+   "shows": "Kingda Ka con su torre y la gran colina de la vía",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "six-flags-great-adventure-kingda-ka-2.jpg": {
+   "park": "six-flags-great-adventure",
+   "ride": "Kingda Ka",
+   "shows": "La estación, la subida y la torre de Kingda Ka",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "six-flags-great-adventure-kingda-ka-3.jpg": {
+   "park": "six-flags-great-adventure",
+   "ride": "Kingda Ka",
+   "shows": "La torre de Kingda Ka vista desde abajo",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "six-flags-great-adventure-portada.jpg": {
    "park": "six-flags-great-adventure",
    "ride": null,
@@ -8563,6 +9785,110 @@
    "height": 900,
    "orientation": "horizontal",
    "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "six-flags-hurricane-harbor-la-1.jpg": {
+   "park": "six-flags-magic-mountain",
+   "ride": null,
+   "shows": "El rótulo de piedra de la entrada de Hurricane Harbor",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "six-flags-magic-mountain-entrance-1.jpg": {
+   "park": "six-flags-magic-mountain",
+   "ride": null,
+   "shows": "El rótulo de Magic Mountain entre cascadas y flores a la entrada",
+   "width": 1200,
+   "height": 904,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "six-flags-magic-mountain-valley-1.jpg": {
+   "park": "six-flags-magic-mountain",
+   "ride": null,
+   "shows": "Vista aérea de las montañas rusas de Magic Mountain sobre el valle",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "six-flags-magic-mountain-x2-1.jpg": {
+   "park": "six-flags-magic-mountain",
+   "ride": "X2",
+   "shows": "La estructura de X2 con su vía roja contra el cielo",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "six-flags-mexico-entrada.jpg": {
+   "park": "six-flags-mexico",
+   "ride": null,
+   "shows": "Fachada de entrada de Six Flags México",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "six-flags-mexico-hollywood.jpg": {
+   "park": "six-flags-mexico",
+   "ride": null,
+   "shows": "Zona Hollywood de Six Flags México con montañas rusas al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "six-flags-mexico-vista-lejana.jpg": {
+   "park": "six-flags-mexico",
+   "ride": null,
+   "shows": "Vista lejana de Six Flags México y sus montañas rusas entre la bruma",
+   "width": 1200,
+   "height": 796,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "six-flags-qiddiya-falcons-flight-1.jpg": {
+   "park": "six-flags-qiddiya",
+   "ride": "Falcon's Flight",
+   "shows": "La vía y la torre de Falcon's Flight",
+   "width": 1200,
+   "height": 816,
+   "orientation": "horizontal",
+   "hero_ok": false,
    "via": "commons",
    "uses": [
     "guia"
@@ -9218,6 +10544,32 @@
     "alturas"
    ]
   },
+  "terra-mitica-espectaculo-roma.jpg": {
+   "park": "terra-mitica",
+   "ride": null,
+   "shows": "Gladiadores en un espectáculo callejero de la zona de Roma",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "terra-mitica-inferno.jpg": {
+   "park": "terra-mitica",
+   "ride": "Inferno",
+   "shows": "Inferno con el letrero de Terra Mítica",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "terra-natura-benidorm-1.jpg": {
    "park": "terra-natura-benidorm",
    "ride": null,
@@ -9352,6 +10704,19 @@
    "park": "thorpe-park",
    "ride": null,
    "shows": "Hyperia vista desde el puente de entrada, con el lago (marzo 2024)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tibidabo-vista-parque.jpg": {
+   "park": "tibidabo",
+   "ride": null,
+   "shows": "Parque del Tibidabo con la Talaia, el Giradabo y Barcelona al fondo",
    "width": 1600,
    "height": 900,
    "orientation": "horizontal",
@@ -9976,6 +11341,45 @@
    "park": "ueno-zoo",
    "ride": null,
    "shows": "Puerta principal (East Garden) del zoo de Ueno, febrero de 2026",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "universal-hollywood-globe-1.jpg": {
+   "park": "universal-hollywood",
+   "ride": null,
+   "shows": "El globo terráqueo de Universal con palmeras",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "universal-hollywood-plaza-1.jpg": {
+   "park": "universal-hollywood",
+   "ride": null,
+   "shows": "El globo y la plaza de entrada de Universal Studios Hollywood",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "universal-orlando-citywalk-1.jpg": {
+   "park": "universal-orlando",
+   "ride": null,
+   "shows": "Un taxi acuático en el canal junto a Universal CityWalk",
    "width": 1600,
    "height": 900,
    "orientation": "horizontal",
@@ -10648,6 +12052,32 @@
     "guia"
    ]
   },
+  "walt-disney-world-cinderella-castle-1.jpg": {
+   "park": "walt-disney-world",
+   "ride": null,
+   "shows": "El castillo de Cinderella al final de Main Street, U.S.A.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "walt-disney-world-grand-floridian-1.jpg": {
+   "park": "walt-disney-world",
+   "ride": null,
+   "shows": "El Grand Floridian Resort visto al otro lado del lago Seven Seas Lagoon",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "water-world-lloret-1.jpg": {
    "park": "water-world-lloret",
    "ride": null,
@@ -10713,6 +12143,58 @@
     "alturas"
    ]
   },
+  "wdw-cinderella-castle-1.jpg": {
+   "park": "walt-disney-world",
+   "ride": null,
+   "shows": "El castillo de Cenicienta en el Magic Kingdom",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wdw-cinderella-castle-2.jpg": {
+   "park": "walt-disney-world",
+   "ride": null,
+   "shows": "El castillo de Cenicienta con su decoración rosa y azul",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wdw-cinderella-castle-wishes-1.jpg": {
+   "park": "walt-disney-world",
+   "ride": null,
+   "shows": "Fuegos artificiales sobre el castillo de Cenicienta durante Wishes",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wdw-cinderella-castle-wishes-2.jpg": {
+   "park": "walt-disney-world",
+   "ride": null,
+   "shows": "El castillo de Cenicienta iluminado de azul bajo los fuegos artificiales de Wishes",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "wdw-dumbo-the-flying-elephant.jpg": {
    "park": "walt-disney-world",
    "ride": "Dumbo the Flying Elephant",
@@ -10724,6 +12206,19 @@
    "via": "openverse",
    "uses": [
     "alturas"
+   ]
+  },
+  "wdw-grand-floridian-1.jpg": {
+   "park": "walt-disney-world",
+   "ride": null,
+   "shows": "El Grand Floridian Resort & Spa visto desde el lago Seven Seas",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
    ]
   },
   "wdw-haunted-mansion.jpg": {
@@ -10789,6 +12284,19 @@
    "via": "openverse",
    "uses": [
     "alturas"
+   ]
+  },
+  "wdw-polynesian-1.jpg": {
+   "park": "walt-disney-world",
+   "ride": null,
+   "shows": "El Polynesian Village Resort al atardecer",
+   "width": 1200,
+   "height": 798,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
    ]
   },
   "wdw-prince-charming-regal-carrousel.jpg": {
@@ -10921,6 +12429,19 @@
     "alturas"
    ]
   },
+  "wdw-wedding-pavilion-1.jpg": {
+   "park": "walt-disney-world",
+   "ride": null,
+   "shows": "Disney's Wedding Pavilion iluminado de noche",
+   "width": 1200,
+   "height": 823,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "western-water-park-1.jpg": {
    "park": "western-water-park",
    "ride": null,
@@ -10964,6 +12485,71 @@
    "park": "western-water-park",
    "ride": null,
    "shows": "Vista aérea del norte del parque con los toboganes de colores, La Bestia, la torre de toboganes de tubo y la sierra de fondo.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "xcaret-estanque.jpg": {
+   "park": "xcaret",
+   "ride": null,
+   "shows": "Canal rodeado de selva dentro de Xcaret",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "xcaret-noche-mexicana.jpg": {
+   "park": "xcaret",
+   "ride": null,
+   "shows": "Final del espectáculo nocturno de Xcaret con bailarines y banderas",
+   "width": 1200,
+   "height": 704,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "xcaret-ruinas-mayas.jpg": {
+   "park": "xcaret",
+   "ride": null,
+   "shows": "Ruinas mayas dentro de Xcaret",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "xelha-caleta.jpg": {
+   "park": "xelha",
+   "ride": null,
+   "shows": "Caleta de Xel-Há con rocas y el mar al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "xplor-entrada.jpg": {
+   "park": "xplor",
+   "ride": null,
+   "shows": "Entrada de Xplor en la Riviera Maya",
    "width": 1600,
    "height": 900,
    "orientation": "horizontal",
