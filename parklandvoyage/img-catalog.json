@@ -12662,6 +12662,422 @@
    "uses": [
     "guia"
    ]
+  },
+  "huis-ten-bosch-portada.jpg": {
+   "park": "huis-ten-bosch",
+   "ride": null,
+   "shows": "Vista general al atardecer: torre Domtoren, tejados neerlandeses y colinas.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "huis-ten-bosch-1.jpg": {
+   "park": "huis-ten-bosch",
+   "ride": null,
+   "shows": "Domtoren, edificios blancos de estilo palaciego, canales y casas de tejado rojo.",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "huis-ten-bosch-2.jpg": {
+   "park": "huis-ten-bosch",
+   "ride": null,
+   "shows": "Tejados naranjas en primer plano y Domtoren al fondo.",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "huis-ten-bosch-3.jpg": {
+   "park": "huis-ten-bosch",
+   "ride": null,
+   "shows": "Detalle de la parte alta de la torre Domtoren.",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ghibli-park-portada.jpg": {
+   "park": "ghibli-park",
+   "ride": null,
+   "shows": "Panorámica de Mononoke Village (Aldea de la princesa Mononoke) con la Tatara-ba y el Demon Spirit, diciembre de 2023",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ghibli-park-1.jpg": {
+   "park": "ghibli-park",
+   "ride": null,
+   "shows": "Elevator Tower en Hill of Youth (Colina de la Juventud)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ghibli-park-2.jpg": {
+   "park": "ghibli-park",
+   "ride": null,
+   "shows": "Maqueta colgante de la gran aeronave (Giant Flying Ship) sobre la Central Stairs del Grand Warehouse",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ghibli-park-3.jpg": {
+   "park": "ghibli-park",
+   "ride": null,
+   "shows": "Edificio de Ghibli's Grand Warehouse (antigua piscina cubierta del parque Expo 2005)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sanrio-puroland-portada.jpg": {
+   "park": "sanrio-puroland",
+   "ride": null,
+   "shows": "Arco de entrada iluminado de noche con el arcoíris y el letrero «Sanrio Puroland»",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sanrio-puroland-1.jpg": {
+   "park": "sanrio-puroland",
+   "ride": null,
+   "shows": "Fachada y arco de entrada de Sanrio Puroland con cielo azul, vista frontal desde el paseo",
+   "width": 1200,
+   "height": 725,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sanrio-puroland-2.jpg": {
+   "park": "sanrio-puroland",
+   "ride": null,
+   "shows": "Edificio completo con cúpulas y aguja, y la pasarela de acceso",
+   "width": 1200,
+   "height": 878,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sanrio-puroland-3.jpg": {
+   "park": "sanrio-puroland",
+   "ride": null,
+   "shows": "Interior: Puro Village con el Árbol de la Sabiduría y casitas iluminadas",
+   "width": 1200,
+   "height": 901,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "yomiuriland-portada.jpg": {
+   "park": "yomiuriland",
+   "ride": null,
+   "shows": "Telecabina Sky Shuttle entre la estructura de la montaña rusa sobre el bosque",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "yomiuriland-1.jpg": {
+   "park": "yomiuriland",
+   "ride": null,
+   "shows": "Vista aérea desde un avión de todo el parque en la colina, con la piscina WAI, las montañas rusas y la ciudad alrededor",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "yomiuriland-2.jpg": {
+   "park": "yomiuriland",
+   "ride": null,
+   "shows": "Vía de la montaña rusa Bandit sobre el valle con colores de otoño",
+   "width": 1200,
+   "height": 904,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "yomiuriland-3.jpg": {
+   "park": "yomiuriland",
+   "ride": null,
+   "shows": "Bandit y telecabina de noche, iluminados en temporada de luces",
+   "width": 1200,
+   "height": 904,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-japan-portada.jpg": {
+   "park": "legoland-japan",
+   "ride": null,
+   "shows": "Entrada principal de LEGOLAND Japan con el arco de bloques y el cartel, octubre de 2026",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-japan-1.jpg": {
+   "park": "legoland-japan",
+   "ride": null,
+   "shows": "Figura de Lloyd hecha con LEGO en la cola de una atracción de LEGO NINJAGO World",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-japan-2.jpg": {
+   "park": "legoland-japan",
+   "ride": null,
+   "shows": "Puerta-castillo de Knight's Kingdom (Reino de los Caballeros), al atardecer",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-japan-3.jpg": {
+   "park": "legoland-japan",
+   "ride": null,
+   "shows": "Detalle de Miniland: calle japonesa con camión de reparto y figuras, hecho con bloques LEGO",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nagoya-aquarium-portada.jpg": {
+   "park": "nagoya-aquarium",
+   "ride": null,
+   "shows": "Fachada del edificio sur con la cúpula plateada y la explanada, mayo de 2025",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nagoya-aquarium-1.jpg": {
+   "park": "nagoya-aquarium",
+   "ride": null,
+   "shows": "Espectáculo de delfines en la piscina principal y la grada del edificio norte (2016)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nagoya-aquarium-2.jpg": {
+   "park": "nagoya-aquarium",
+   "ride": null,
+   "shows": "Belugas bajo el agua en «Aurora Sea» (2009)",
+   "width": 1200,
+   "height": 748,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nagoya-aquarium-3.jpg": {
+   "park": "nagoya-aquarium",
+   "ride": null,
+   "shows": "Orca junto al cristal del área «Japan Sea» con una cuidadora, 2014",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hakkeijima-sea-paradise-portada.jpg": {
+   "park": "hakkeijima-sea-paradise",
+   "ride": null,
+   "shows": "La isla de Hakkeijima con la montaña rusa, la pirámide del Aqua Museum y la torre, vista desde el mirador del parque Nojima, mar azul",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hakkeijima-sea-paradise-1.jpg": {
+   "park": "hakkeijima-sea-paradise",
+   "ride": null,
+   "shows": "Vista aérea de la Surf Coaster Leviathan sobre el agua y el paseo de la isla",
+   "width": 1200,
+   "height": 849,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hakkeijima-sea-paradise-2.jpg": {
+   "park": "hakkeijima-sea-paradise",
+   "ride": null,
+   "shows": "Vista aérea de la isla y del puerto deportivo de Hakkeijima",
+   "width": 1200,
+   "height": 797,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hakkeijima-sea-paradise-3.jpg": {
+   "park": "hakkeijima-sea-paradise",
+   "ride": null,
+   "shows": "Paseo de tablas y muelle con barcos de crucero",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nagashima-spa-land-portada.jpg": {
+   "park": "nagashima-spa-land",
+   "ride": null,
+   "shows": "Perfil del parque (Steel Dragon 2000, noria, montañas rusas) visto desde el río Ibi.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nagashima-spa-land-1.jpg": {
+   "park": "nagashima-spa-land",
+   "ride": null,
+   "shows": "Montaña rusa Hakugei vista desde arriba, con cielo azul y la bahía de Ise.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nagashima-spa-land-2.jpg": {
+   "park": "nagashima-spa-land",
+   "ride": null,
+   "shows": "Vista desde la noria: Looping Star, Acrobat, Steel Dragon 2000 y Arashi (día nublado).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nagashima-spa-land-3.jpg": {
+   "park": "nagashima-spa-land",
+   "ride": null,
+   "shows": "Acrobat salpicando sobre el agua con Steel Dragon 2000 al fondo.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }

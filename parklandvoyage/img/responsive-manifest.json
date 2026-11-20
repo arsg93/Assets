@@ -18872,6 +18872,242 @@
         ]
       }
     },
+    "ghibli-park-1.jpg": {
+      "sha256": "ffb44c03cd05f38a8dc31069655f0db6c16f674f25f878a0b34f1dfa0e553a0b",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ghibli-park-1/ffb44c03cd05-w480.avif",
+            "width": 480,
+            "bytes": 14942
+          },
+          {
+            "file": "responsive/ghibli-park-1/ffb44c03cd05-w768.avif",
+            "width": 768,
+            "bytes": 38555
+          },
+          {
+            "file": "responsive/ghibli-park-1/ffb44c03cd05-w1200.avif",
+            "width": 1200,
+            "bytes": 102146
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ghibli-park-1/ffb44c03cd05-w480.webp",
+            "width": 480,
+            "bytes": 25402
+          },
+          {
+            "file": "responsive/ghibli-park-1/ffb44c03cd05-w768.webp",
+            "width": 768,
+            "bytes": 63310
+          },
+          {
+            "file": "responsive/ghibli-park-1/ffb44c03cd05-w1200.webp",
+            "width": 1200,
+            "bytes": 156236
+          }
+        ]
+      }
+    },
+    "ghibli-park-2.jpg": {
+      "sha256": "0c547acb5d2ef3d05fe4f353306b4239cbe318bc1285313ae1413ae2ad0dd848",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ghibli-park-2/0c547acb5d2e-w480.avif",
+            "width": 480,
+            "bytes": 17944
+          },
+          {
+            "file": "responsive/ghibli-park-2/0c547acb5d2e-w768.avif",
+            "width": 768,
+            "bytes": 41401
+          },
+          {
+            "file": "responsive/ghibli-park-2/0c547acb5d2e-w1200.avif",
+            "width": 1200,
+            "bytes": 96691
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ghibli-park-2/0c547acb5d2e-w480.webp",
+            "width": 480,
+            "bytes": 28726
+          },
+          {
+            "file": "responsive/ghibli-park-2/0c547acb5d2e-w768.webp",
+            "width": 768,
+            "bytes": 67954
+          },
+          {
+            "file": "responsive/ghibli-park-2/0c547acb5d2e-w1200.webp",
+            "width": 1200,
+            "bytes": 154292
+          }
+        ]
+      }
+    },
+    "ghibli-park-3.jpg": {
+      "sha256": "26f95ac8fd639399a703957ad2116abecacef451b8b51566172e7025f9684061",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ghibli-park-3/26f95ac8fd63-w480.avif",
+            "width": 480,
+            "bytes": 15745
+          },
+          {
+            "file": "responsive/ghibli-park-3/26f95ac8fd63-w768.avif",
+            "width": 768,
+            "bytes": 35017
+          },
+          {
+            "file": "responsive/ghibli-park-3/26f95ac8fd63-w1200.avif",
+            "width": 1200,
+            "bytes": 87619
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ghibli-park-3/26f95ac8fd63-w480.webp",
+            "width": 480,
+            "bytes": 27256
+          },
+          {
+            "file": "responsive/ghibli-park-3/26f95ac8fd63-w768.webp",
+            "width": 768,
+            "bytes": 62706
+          },
+          {
+            "file": "responsive/ghibli-park-3/26f95ac8fd63-w1200.webp",
+            "width": 1200,
+            "bytes": 151346
+          }
+        ]
+      }
+    },
+    "ghibli-park-portada.jpg": {
+      "sha256": "5270d9ecf54681dbfaef9609b84bf14eee14d393c3c6b80c4be60a026f380a31",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ghibli-park-portada/5270d9ecf546-w480.avif",
+            "width": 480,
+            "bytes": 11893
+          },
+          {
+            "file": "responsive/ghibli-park-portada/5270d9ecf546-w768.avif",
+            "width": 768,
+            "bytes": 33922
+          },
+          {
+            "file": "responsive/ghibli-park-portada/5270d9ecf546-w1200.avif",
+            "width": 1200,
+            "bytes": 90025
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ghibli-park-portada/5270d9ecf546-w480.webp",
+            "width": 480,
+            "bytes": 20252
+          },
+          {
+            "file": "responsive/ghibli-park-portada/5270d9ecf546-w768.webp",
+            "width": 768,
+            "bytes": 53224
+          },
+          {
+            "file": "responsive/ghibli-park-portada/5270d9ecf546-w1200.webp",
+            "width": 1200,
+            "bytes": 134586
+          }
+        ]
+      }
+    },
     "gl-blue-tornado.jpg": {
       "sha256": "308c5f3345dee378b012620d9353a81d473deff5ee06172b596535a4ecaf270d",
       "original_width": 800,
@@ -19281,6 +19517,242 @@
             "file": "responsive/hagenbeck-portada/1213bbc8c7dd-w1200.webp",
             "width": 1200,
             "bytes": 216646
+          }
+        ]
+      }
+    },
+    "hakkeijima-sea-paradise-1.jpg": {
+      "sha256": "d5307b76e9063f7cbf9b9f06b732eff256e88e2a4893db1fbb740edd139325f3",
+      "original_width": 1200,
+      "original_height": 849,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hakkeijima-sea-paradise-1/d5307b76e906-w480.avif",
+            "width": 480,
+            "bytes": 6450
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-1/d5307b76e906-w768.avif",
+            "width": 768,
+            "bytes": 16357
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-1/d5307b76e906-w1200.avif",
+            "width": 1200,
+            "bytes": 55877
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hakkeijima-sea-paradise-1/d5307b76e906-w480.webp",
+            "width": 480,
+            "bytes": 12410
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-1/d5307b76e906-w768.webp",
+            "width": 768,
+            "bytes": 34900
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-1/d5307b76e906-w1200.webp",
+            "width": 1200,
+            "bytes": 114686
+          }
+        ]
+      }
+    },
+    "hakkeijima-sea-paradise-2.jpg": {
+      "sha256": "99d24d87ed62cc32e86e86488c770c89ccd2fef022659c1b7b07ecaf6498d687",
+      "original_width": 1200,
+      "original_height": 797,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hakkeijima-sea-paradise-2/99d24d87ed62-w480.avif",
+            "width": 480,
+            "bytes": 6372
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-2/99d24d87ed62-w768.avif",
+            "width": 768,
+            "bytes": 14608
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-2/99d24d87ed62-w1200.avif",
+            "width": 1200,
+            "bytes": 39543
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hakkeijima-sea-paradise-2/99d24d87ed62-w480.webp",
+            "width": 480,
+            "bytes": 11992
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-2/99d24d87ed62-w768.webp",
+            "width": 768,
+            "bytes": 29028
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-2/99d24d87ed62-w1200.webp",
+            "width": 1200,
+            "bytes": 84744
+          }
+        ]
+      }
+    },
+    "hakkeijima-sea-paradise-3.jpg": {
+      "sha256": "87659b78da65f3cd314a8f9bd5d84a172370199549357a04984f6a9ab98b0ed2",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hakkeijima-sea-paradise-3/87659b78da65-w480.avif",
+            "width": 480,
+            "bytes": 7366
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-3/87659b78da65-w768.avif",
+            "width": 768,
+            "bytes": 17888
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-3/87659b78da65-w1200.avif",
+            "width": 1200,
+            "bytes": 48168
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hakkeijima-sea-paradise-3/87659b78da65-w480.webp",
+            "width": 480,
+            "bytes": 13430
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-3/87659b78da65-w768.webp",
+            "width": 768,
+            "bytes": 33468
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-3/87659b78da65-w1200.webp",
+            "width": 1200,
+            "bytes": 88642
+          }
+        ]
+      }
+    },
+    "hakkeijima-sea-paradise-portada.jpg": {
+      "sha256": "811e520dc0aacc7fd41eb6761407a199ff3d987c0c42ff55b3c99d6e89048608",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hakkeijima-sea-paradise-portada/811e520dc0aa-w480.avif",
+            "width": 480,
+            "bytes": 4768
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-portada/811e520dc0aa-w768.avif",
+            "width": 768,
+            "bytes": 11529
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-portada/811e520dc0aa-w1200.avif",
+            "width": 1200,
+            "bytes": 30557
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hakkeijima-sea-paradise-portada/811e520dc0aa-w480.webp",
+            "width": 480,
+            "bytes": 9254
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-portada/811e520dc0aa-w768.webp",
+            "width": 768,
+            "bytes": 23682
+          },
+          {
+            "file": "responsive/hakkeijima-sea-paradise-portada/811e520dc0aa-w1200.webp",
+            "width": 1200,
+            "bytes": 61270
           }
         ]
       }
@@ -21700,6 +22172,242 @@
             "file": "responsive/hsp-wildcats-revenge/1add73e85859-w800.webp",
             "width": 800,
             "bytes": 117862
+          }
+        ]
+      }
+    },
+    "huis-ten-bosch-1.jpg": {
+      "sha256": "2691b4f18950a9ba1a0c0c336227032cded2b8f8c2e8c81e91dbb7ccbf4cc802",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/huis-ten-bosch-1/2691b4f18950-w480.avif",
+            "width": 480,
+            "bytes": 20351
+          },
+          {
+            "file": "responsive/huis-ten-bosch-1/2691b4f18950-w768.avif",
+            "width": 768,
+            "bytes": 48711
+          },
+          {
+            "file": "responsive/huis-ten-bosch-1/2691b4f18950-w1200.avif",
+            "width": 1200,
+            "bytes": 121811
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/huis-ten-bosch-1/2691b4f18950-w480.webp",
+            "width": 480,
+            "bytes": 31012
+          },
+          {
+            "file": "responsive/huis-ten-bosch-1/2691b4f18950-w768.webp",
+            "width": 768,
+            "bytes": 75110
+          },
+          {
+            "file": "responsive/huis-ten-bosch-1/2691b4f18950-w1200.webp",
+            "width": 1200,
+            "bytes": 184570
+          }
+        ]
+      }
+    },
+    "huis-ten-bosch-2.jpg": {
+      "sha256": "beca36f488832ab8de760e37fcdcee7b7f360b0e31d02c286259c71e3bbd7a42",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/huis-ten-bosch-2/beca36f48883-w480.avif",
+            "width": 480,
+            "bytes": 20862
+          },
+          {
+            "file": "responsive/huis-ten-bosch-2/beca36f48883-w768.avif",
+            "width": 768,
+            "bytes": 49347
+          },
+          {
+            "file": "responsive/huis-ten-bosch-2/beca36f48883-w1200.avif",
+            "width": 1200,
+            "bytes": 123058
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/huis-ten-bosch-2/beca36f48883-w480.webp",
+            "width": 480,
+            "bytes": 31786
+          },
+          {
+            "file": "responsive/huis-ten-bosch-2/beca36f48883-w768.webp",
+            "width": 768,
+            "bytes": 75680
+          },
+          {
+            "file": "responsive/huis-ten-bosch-2/beca36f48883-w1200.webp",
+            "width": 1200,
+            "bytes": 184392
+          }
+        ]
+      }
+    },
+    "huis-ten-bosch-3.jpg": {
+      "sha256": "bb8f6fa64e6d7e93737ad2744154fa1d8ab34f7435e7335556ed15f24c749e2b",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/huis-ten-bosch-3/bb8f6fa64e6d-w480.avif",
+            "width": 480,
+            "bytes": 3702
+          },
+          {
+            "file": "responsive/huis-ten-bosch-3/bb8f6fa64e6d-w768.avif",
+            "width": 768,
+            "bytes": 7690
+          },
+          {
+            "file": "responsive/huis-ten-bosch-3/bb8f6fa64e6d-w1200.avif",
+            "width": 1200,
+            "bytes": 16485
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/huis-ten-bosch-3/bb8f6fa64e6d-w480.webp",
+            "width": 480,
+            "bytes": 6850
+          },
+          {
+            "file": "responsive/huis-ten-bosch-3/bb8f6fa64e6d-w768.webp",
+            "width": 768,
+            "bytes": 15584
+          },
+          {
+            "file": "responsive/huis-ten-bosch-3/bb8f6fa64e6d-w1200.webp",
+            "width": 1200,
+            "bytes": 34856
+          }
+        ]
+      }
+    },
+    "huis-ten-bosch-portada.jpg": {
+      "sha256": "10e267e0e725058cd96ca81bd5fc8bfbab0ce27fe80ff9e2b7252c7336cbe23a",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/huis-ten-bosch-portada/10e267e0e725-w480.avif",
+            "width": 480,
+            "bytes": 12221
+          },
+          {
+            "file": "responsive/huis-ten-bosch-portada/10e267e0e725-w768.avif",
+            "width": 768,
+            "bytes": 28569
+          },
+          {
+            "file": "responsive/huis-ten-bosch-portada/10e267e0e725-w1200.avif",
+            "width": 1200,
+            "bytes": 66306
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/huis-ten-bosch-portada/10e267e0e725-w480.webp",
+            "width": 480,
+            "bytes": 19916
+          },
+          {
+            "file": "responsive/huis-ten-bosch-portada/10e267e0e725-w768.webp",
+            "width": 768,
+            "bytes": 47530
+          },
+          {
+            "file": "responsive/huis-ten-bosch-portada/10e267e0e725-w1200.webp",
+            "width": 1200,
+            "bytes": 115148
           }
         ]
       }
@@ -24536,6 +25244,242 @@
         ]
       }
     },
+    "legoland-japan-1.jpg": {
+      "sha256": "6e2d8ff124af3a6ec7b7851495ac5b4d11ce138332ae3aa25db3a420548c116c",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-japan-1/6e2d8ff124af-w480.avif",
+            "width": 480,
+            "bytes": 16103
+          },
+          {
+            "file": "responsive/legoland-japan-1/6e2d8ff124af-w768.avif",
+            "width": 768,
+            "bytes": 33703
+          },
+          {
+            "file": "responsive/legoland-japan-1/6e2d8ff124af-w1200.avif",
+            "width": 1200,
+            "bytes": 84561
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-japan-1/6e2d8ff124af-w480.webp",
+            "width": 480,
+            "bytes": 26158
+          },
+          {
+            "file": "responsive/legoland-japan-1/6e2d8ff124af-w768.webp",
+            "width": 768,
+            "bytes": 57614
+          },
+          {
+            "file": "responsive/legoland-japan-1/6e2d8ff124af-w1200.webp",
+            "width": 1200,
+            "bytes": 138552
+          }
+        ]
+      }
+    },
+    "legoland-japan-2.jpg": {
+      "sha256": "62cf8a62cc13bd14d56c445da657f28c2c75e87eef043198ca36a9aeb86ceeb8",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-japan-2/62cf8a62cc13-w480.avif",
+            "width": 480,
+            "bytes": 10280
+          },
+          {
+            "file": "responsive/legoland-japan-2/62cf8a62cc13-w768.avif",
+            "width": 768,
+            "bytes": 23485
+          },
+          {
+            "file": "responsive/legoland-japan-2/62cf8a62cc13-w1200.avif",
+            "width": 1200,
+            "bytes": 57901
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-japan-2/62cf8a62cc13-w480.webp",
+            "width": 480,
+            "bytes": 17520
+          },
+          {
+            "file": "responsive/legoland-japan-2/62cf8a62cc13-w768.webp",
+            "width": 768,
+            "bytes": 40884
+          },
+          {
+            "file": "responsive/legoland-japan-2/62cf8a62cc13-w1200.webp",
+            "width": 1200,
+            "bytes": 94872
+          }
+        ]
+      }
+    },
+    "legoland-japan-3.jpg": {
+      "sha256": "71703b47d07e0d3b4c39980131176e36cb1a7db1161f583b03ac910e1ad553c5",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-japan-3/71703b47d07e-w480.avif",
+            "width": 480,
+            "bytes": 38394
+          },
+          {
+            "file": "responsive/legoland-japan-3/71703b47d07e-w768.avif",
+            "width": 768,
+            "bytes": 106348
+          },
+          {
+            "file": "responsive/legoland-japan-3/71703b47d07e-w1200.avif",
+            "width": 1200,
+            "bytes": 268497
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-japan-3/71703b47d07e-w480.webp",
+            "width": 480,
+            "bytes": 52038
+          },
+          {
+            "file": "responsive/legoland-japan-3/71703b47d07e-w768.webp",
+            "width": 768,
+            "bytes": 141530
+          },
+          {
+            "file": "responsive/legoland-japan-3/71703b47d07e-w1200.webp",
+            "width": 1200,
+            "bytes": 354328
+          }
+        ]
+      }
+    },
+    "legoland-japan-portada.jpg": {
+      "sha256": "ffacab257046404b16a7e8e8806dc52f34bc85865001807fd36642b4db61abc9",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-japan-portada/ffacab257046-w480.avif",
+            "width": 480,
+            "bytes": 16872
+          },
+          {
+            "file": "responsive/legoland-japan-portada/ffacab257046-w768.avif",
+            "width": 768,
+            "bytes": 36812
+          },
+          {
+            "file": "responsive/legoland-japan-portada/ffacab257046-w1200.avif",
+            "width": 1200,
+            "bytes": 84557
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-japan-portada/ffacab257046-w480.webp",
+            "width": 480,
+            "bytes": 26842
+          },
+          {
+            "file": "responsive/legoland-japan-portada/ffacab257046-w768.webp",
+            "width": 768,
+            "bytes": 62842
+          },
+          {
+            "file": "responsive/legoland-japan-portada/ffacab257046-w1200.webp",
+            "width": 1200,
+            "bytes": 148514
+          }
+        ]
+      }
+    },
     "liseberg-1.jpg": {
       "sha256": "59b8656404cbfebcf5336a3d236c2f82a7e7645a505248f9a7485f38ab25ba62",
       "original_width": 1200,
@@ -26767,6 +27711,242 @@
         ]
       }
     },
+    "nagashima-spa-land-1.jpg": {
+      "sha256": "95e9e6e488364a85538ada53fc5f39fe1de040feec737bc56ac0df99e4318cb6",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nagashima-spa-land-1/95e9e6e48836-w480.avif",
+            "width": 480,
+            "bytes": 38883
+          },
+          {
+            "file": "responsive/nagashima-spa-land-1/95e9e6e48836-w768.avif",
+            "width": 768,
+            "bytes": 102271
+          },
+          {
+            "file": "responsive/nagashima-spa-land-1/95e9e6e48836-w1200.avif",
+            "width": 1200,
+            "bytes": 257522
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nagashima-spa-land-1/95e9e6e48836-w480.webp",
+            "width": 480,
+            "bytes": 53958
+          },
+          {
+            "file": "responsive/nagashima-spa-land-1/95e9e6e48836-w768.webp",
+            "width": 768,
+            "bytes": 136332
+          },
+          {
+            "file": "responsive/nagashima-spa-land-1/95e9e6e48836-w1200.webp",
+            "width": 1200,
+            "bytes": 337740
+          }
+        ]
+      }
+    },
+    "nagashima-spa-land-2.jpg": {
+      "sha256": "c509133fa333975a1ba9038120d21d817ecb7c2f378ae2b100c7ca9138cc1a45",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nagashima-spa-land-2/c509133fa333-w480.avif",
+            "width": 480,
+            "bytes": 24687
+          },
+          {
+            "file": "responsive/nagashima-spa-land-2/c509133fa333-w768.avif",
+            "width": 768,
+            "bytes": 65876
+          },
+          {
+            "file": "responsive/nagashima-spa-land-2/c509133fa333-w1200.avif",
+            "width": 1200,
+            "bytes": 172589
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nagashima-spa-land-2/c509133fa333-w480.webp",
+            "width": 480,
+            "bytes": 37310
+          },
+          {
+            "file": "responsive/nagashima-spa-land-2/c509133fa333-w768.webp",
+            "width": 768,
+            "bytes": 96056
+          },
+          {
+            "file": "responsive/nagashima-spa-land-2/c509133fa333-w1200.webp",
+            "width": 1200,
+            "bytes": 245404
+          }
+        ]
+      }
+    },
+    "nagashima-spa-land-3.jpg": {
+      "sha256": "2d491bf6df9c2c67e291d6fa75165c1fa30a5e030f6f1689d89ecbb387b1fed2",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nagashima-spa-land-3/2d491bf6df9c-w480.avif",
+            "width": 480,
+            "bytes": 14727
+          },
+          {
+            "file": "responsive/nagashima-spa-land-3/2d491bf6df9c-w768.avif",
+            "width": 768,
+            "bytes": 41917
+          },
+          {
+            "file": "responsive/nagashima-spa-land-3/2d491bf6df9c-w1200.avif",
+            "width": 1200,
+            "bytes": 117680
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nagashima-spa-land-3/2d491bf6df9c-w480.webp",
+            "width": 480,
+            "bytes": 24592
+          },
+          {
+            "file": "responsive/nagashima-spa-land-3/2d491bf6df9c-w768.webp",
+            "width": 768,
+            "bytes": 65656
+          },
+          {
+            "file": "responsive/nagashima-spa-land-3/2d491bf6df9c-w1200.webp",
+            "width": 1200,
+            "bytes": 173674
+          }
+        ]
+      }
+    },
+    "nagashima-spa-land-portada.jpg": {
+      "sha256": "88058fde991f90af1fef6d46815516445c67eda3fb4f019cb37287b80dda5a26",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nagashima-spa-land-portada/88058fde991f-w480.avif",
+            "width": 480,
+            "bytes": 5833
+          },
+          {
+            "file": "responsive/nagashima-spa-land-portada/88058fde991f-w768.avif",
+            "width": 768,
+            "bytes": 18214
+          },
+          {
+            "file": "responsive/nagashima-spa-land-portada/88058fde991f-w1200.avif",
+            "width": 1200,
+            "bytes": 58525
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nagashima-spa-land-portada/88058fde991f-w480.webp",
+            "width": 480,
+            "bytes": 12136
+          },
+          {
+            "file": "responsive/nagashima-spa-land-portada/88058fde991f-w768.webp",
+            "width": 768,
+            "bytes": 36384
+          },
+          {
+            "file": "responsive/nagashima-spa-land-portada/88058fde991f-w1200.webp",
+            "width": 1200,
+            "bytes": 105766
+          }
+        ]
+      }
+    },
     "nagashima-steel-dragon-2000-1.jpg": {
       "sha256": "193677489ce28fe731ad75abed1c462d57bee0ec62e0eb6c659abd17e60e5b1b",
       "original_width": 1200,
@@ -26881,6 +28061,242 @@
             "file": "responsive/nagashima-steel-dragon-2000-2/c8458e081ac0-w1200.webp",
             "width": 1200,
             "bytes": 92180
+          }
+        ]
+      }
+    },
+    "nagoya-aquarium-1.jpg": {
+      "sha256": "9648385a670159d6f08ced3c0ce85c83cbc90ef9a5369170b8724bd6e8eaa7b5",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nagoya-aquarium-1/9648385a6701-w480.avif",
+            "width": 480,
+            "bytes": 13823
+          },
+          {
+            "file": "responsive/nagoya-aquarium-1/9648385a6701-w768.avif",
+            "width": 768,
+            "bytes": 29040
+          },
+          {
+            "file": "responsive/nagoya-aquarium-1/9648385a6701-w1200.avif",
+            "width": 1200,
+            "bytes": 64125
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nagoya-aquarium-1/9648385a6701-w480.webp",
+            "width": 480,
+            "bytes": 25646
+          },
+          {
+            "file": "responsive/nagoya-aquarium-1/9648385a6701-w768.webp",
+            "width": 768,
+            "bytes": 55872
+          },
+          {
+            "file": "responsive/nagoya-aquarium-1/9648385a6701-w1200.webp",
+            "width": 1200,
+            "bytes": 119460
+          }
+        ]
+      }
+    },
+    "nagoya-aquarium-2.jpg": {
+      "sha256": "5f5a7048fbea76d0ed5debb03e64d9a9a266a779ff5cb39bba4a027f8a9451d8",
+      "original_width": 1200,
+      "original_height": 748,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nagoya-aquarium-2/5f5a7048fbea-w480.avif",
+            "width": 480,
+            "bytes": 2824
+          },
+          {
+            "file": "responsive/nagoya-aquarium-2/5f5a7048fbea-w768.avif",
+            "width": 768,
+            "bytes": 4951
+          },
+          {
+            "file": "responsive/nagoya-aquarium-2/5f5a7048fbea-w1200.avif",
+            "width": 1200,
+            "bytes": 9143
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nagoya-aquarium-2/5f5a7048fbea-w480.webp",
+            "width": 480,
+            "bytes": 6654
+          },
+          {
+            "file": "responsive/nagoya-aquarium-2/5f5a7048fbea-w768.webp",
+            "width": 768,
+            "bytes": 13576
+          },
+          {
+            "file": "responsive/nagoya-aquarium-2/5f5a7048fbea-w1200.webp",
+            "width": 1200,
+            "bytes": 35310
+          }
+        ]
+      }
+    },
+    "nagoya-aquarium-3.jpg": {
+      "sha256": "54c91a61209e22b3c536ddcd5ae60ffee054c1753287b5a436775a931f84feef",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nagoya-aquarium-3/54c91a61209e-w480.avif",
+            "width": 480,
+            "bytes": 2962
+          },
+          {
+            "file": "responsive/nagoya-aquarium-3/54c91a61209e-w768.avif",
+            "width": 768,
+            "bytes": 4819
+          },
+          {
+            "file": "responsive/nagoya-aquarium-3/54c91a61209e-w1200.avif",
+            "width": 1200,
+            "bytes": 8490
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nagoya-aquarium-3/54c91a61209e-w480.webp",
+            "width": 480,
+            "bytes": 7452
+          },
+          {
+            "file": "responsive/nagoya-aquarium-3/54c91a61209e-w768.webp",
+            "width": 768,
+            "bytes": 14156
+          },
+          {
+            "file": "responsive/nagoya-aquarium-3/54c91a61209e-w1200.webp",
+            "width": 1200,
+            "bytes": 32110
+          }
+        ]
+      }
+    },
+    "nagoya-aquarium-portada.jpg": {
+      "sha256": "36ec94c78be20a8f1b54514922ce469319f7b1d975436f1055c716c918a28eaf",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nagoya-aquarium-portada/36ec94c78be2-w480.avif",
+            "width": 480,
+            "bytes": 8130
+          },
+          {
+            "file": "responsive/nagoya-aquarium-portada/36ec94c78be2-w768.avif",
+            "width": 768,
+            "bytes": 18336
+          },
+          {
+            "file": "responsive/nagoya-aquarium-portada/36ec94c78be2-w1200.avif",
+            "width": 1200,
+            "bytes": 43205
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nagoya-aquarium-portada/36ec94c78be2-w480.webp",
+            "width": 480,
+            "bytes": 13472
+          },
+          {
+            "file": "responsive/nagoya-aquarium-portada/36ec94c78be2-w768.webp",
+            "width": 768,
+            "bytes": 31204
+          },
+          {
+            "file": "responsive/nagoya-aquarium-portada/36ec94c78be2-w1200.webp",
+            "width": 1200,
+            "bytes": 74846
           }
         ]
       }
@@ -35613,6 +37029,242 @@
             "file": "responsive/rulantica-portada/5399b62d9f8b-w1200.webp",
             "width": 1200,
             "bytes": 163626
+          }
+        ]
+      }
+    },
+    "sanrio-puroland-1.jpg": {
+      "sha256": "83d0ef5afbf1405275f01488aef1449405b0f3531ac07f6ecfd68d812d16755d",
+      "original_width": 1200,
+      "original_height": 725,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sanrio-puroland-1/83d0ef5afbf1-w480.avif",
+            "width": 480,
+            "bytes": 13301
+          },
+          {
+            "file": "responsive/sanrio-puroland-1/83d0ef5afbf1-w768.avif",
+            "width": 768,
+            "bytes": 31416
+          },
+          {
+            "file": "responsive/sanrio-puroland-1/83d0ef5afbf1-w1200.avif",
+            "width": 1200,
+            "bytes": 80790
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sanrio-puroland-1/83d0ef5afbf1-w480.webp",
+            "width": 480,
+            "bytes": 20418
+          },
+          {
+            "file": "responsive/sanrio-puroland-1/83d0ef5afbf1-w768.webp",
+            "width": 768,
+            "bytes": 49098
+          },
+          {
+            "file": "responsive/sanrio-puroland-1/83d0ef5afbf1-w1200.webp",
+            "width": 1200,
+            "bytes": 123374
+          }
+        ]
+      }
+    },
+    "sanrio-puroland-2.jpg": {
+      "sha256": "4014aa1d8860eafc0ae3d0a5507c3ebf040f195e54e3039682d93b8c2a42aa97",
+      "original_width": 1200,
+      "original_height": 878,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sanrio-puroland-2/4014aa1d8860-w480.avif",
+            "width": 480,
+            "bytes": 16642
+          },
+          {
+            "file": "responsive/sanrio-puroland-2/4014aa1d8860-w768.avif",
+            "width": 768,
+            "bytes": 38197
+          },
+          {
+            "file": "responsive/sanrio-puroland-2/4014aa1d8860-w1200.avif",
+            "width": 1200,
+            "bytes": 92284
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sanrio-puroland-2/4014aa1d8860-w480.webp",
+            "width": 480,
+            "bytes": 24642
+          },
+          {
+            "file": "responsive/sanrio-puroland-2/4014aa1d8860-w768.webp",
+            "width": 768,
+            "bytes": 59074
+          },
+          {
+            "file": "responsive/sanrio-puroland-2/4014aa1d8860-w1200.webp",
+            "width": 1200,
+            "bytes": 143376
+          }
+        ]
+      }
+    },
+    "sanrio-puroland-3.jpg": {
+      "sha256": "61dd243cf0224ff21c7f2b8ff95a1b36622f8d18442cecc17b3dc77e8409b24a",
+      "original_width": 1200,
+      "original_height": 901,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sanrio-puroland-3/61dd243cf022-w480.avif",
+            "width": 480,
+            "bytes": 36196
+          },
+          {
+            "file": "responsive/sanrio-puroland-3/61dd243cf022-w768.avif",
+            "width": 768,
+            "bytes": 86618
+          },
+          {
+            "file": "responsive/sanrio-puroland-3/61dd243cf022-w1200.avif",
+            "width": 1200,
+            "bytes": 196264
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sanrio-puroland-3/61dd243cf022-w480.webp",
+            "width": 480,
+            "bytes": 51690
+          },
+          {
+            "file": "responsive/sanrio-puroland-3/61dd243cf022-w768.webp",
+            "width": 768,
+            "bytes": 125052
+          },
+          {
+            "file": "responsive/sanrio-puroland-3/61dd243cf022-w1200.webp",
+            "width": 1200,
+            "bytes": 280984
+          }
+        ]
+      }
+    },
+    "sanrio-puroland-portada.jpg": {
+      "sha256": "48ba4159785358de8d799483404a43555312e8b80c7cc54a8e7d3edb9c369a3e",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sanrio-puroland-portada/48ba41597853-w480.avif",
+            "width": 480,
+            "bytes": 18119
+          },
+          {
+            "file": "responsive/sanrio-puroland-portada/48ba41597853-w768.avif",
+            "width": 768,
+            "bytes": 34944
+          },
+          {
+            "file": "responsive/sanrio-puroland-portada/48ba41597853-w1200.avif",
+            "width": 1200,
+            "bytes": 64900
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sanrio-puroland-portada/48ba41597853-w480.webp",
+            "width": 480,
+            "bytes": 26122
+          },
+          {
+            "file": "responsive/sanrio-puroland-portada/48ba41597853-w768.webp",
+            "width": 768,
+            "bytes": 53848
+          },
+          {
+            "file": "responsive/sanrio-puroland-portada/48ba41597853-w1200.webp",
+            "width": 1200,
+            "bytes": 110678
           }
         ]
       }
@@ -52889,6 +54541,242 @@
             "file": "responsive/xplor-riviera-maya/14597dc0b072-w1200.webp",
             "width": 1200,
             "bytes": 249842
+          }
+        ]
+      }
+    },
+    "yomiuriland-1.jpg": {
+      "sha256": "b39d484c9d957a437dbcc130d336a17cb80a32f372f4f1beb3e7119440b1a44b",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/yomiuriland-1/b39d484c9d95-w480.avif",
+            "width": 480,
+            "bytes": 28272
+          },
+          {
+            "file": "responsive/yomiuriland-1/b39d484c9d95-w768.avif",
+            "width": 768,
+            "bytes": 79587
+          },
+          {
+            "file": "responsive/yomiuriland-1/b39d484c9d95-w1200.avif",
+            "width": 1200,
+            "bytes": 212880
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/yomiuriland-1/b39d484c9d95-w480.webp",
+            "width": 480,
+            "bytes": 40016
+          },
+          {
+            "file": "responsive/yomiuriland-1/b39d484c9d95-w768.webp",
+            "width": 768,
+            "bytes": 109128
+          },
+          {
+            "file": "responsive/yomiuriland-1/b39d484c9d95-w1200.webp",
+            "width": 1200,
+            "bytes": 294308
+          }
+        ]
+      }
+    },
+    "yomiuriland-2.jpg": {
+      "sha256": "63868e0e963ca50280bb71b7efaa9916dce5f4a238974e00c88bff861b95f805",
+      "original_width": 1200,
+      "original_height": 904,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/yomiuriland-2/63868e0e963c-w480.avif",
+            "width": 480,
+            "bytes": 24675
+          },
+          {
+            "file": "responsive/yomiuriland-2/63868e0e963c-w768.avif",
+            "width": 768,
+            "bytes": 70435
+          },
+          {
+            "file": "responsive/yomiuriland-2/63868e0e963c-w1200.avif",
+            "width": 1200,
+            "bytes": 174788
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/yomiuriland-2/63868e0e963c-w480.webp",
+            "width": 480,
+            "bytes": 38402
+          },
+          {
+            "file": "responsive/yomiuriland-2/63868e0e963c-w768.webp",
+            "width": 768,
+            "bytes": 102086
+          },
+          {
+            "file": "responsive/yomiuriland-2/63868e0e963c-w1200.webp",
+            "width": 1200,
+            "bytes": 250876
+          }
+        ]
+      }
+    },
+    "yomiuriland-3.jpg": {
+      "sha256": "f3c4f247445d723c8ce6a6b2197e1d1d0f825eadf1c569e524a152f509e517ce",
+      "original_width": 1200,
+      "original_height": 904,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/yomiuriland-3/f3c4f247445d-w480.avif",
+            "width": 480,
+            "bytes": 13622
+          },
+          {
+            "file": "responsive/yomiuriland-3/f3c4f247445d-w768.avif",
+            "width": 768,
+            "bytes": 33491
+          },
+          {
+            "file": "responsive/yomiuriland-3/f3c4f247445d-w1200.avif",
+            "width": 1200,
+            "bytes": 75687
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/yomiuriland-3/f3c4f247445d-w480.webp",
+            "width": 480,
+            "bytes": 23574
+          },
+          {
+            "file": "responsive/yomiuriland-3/f3c4f247445d-w768.webp",
+            "width": 768,
+            "bytes": 55750
+          },
+          {
+            "file": "responsive/yomiuriland-3/f3c4f247445d-w1200.webp",
+            "width": 1200,
+            "bytes": 123404
+          }
+        ]
+      }
+    },
+    "yomiuriland-portada.jpg": {
+      "sha256": "f083c6811d9914517566c92302bd947f1160f7f915361626188a3cc490db478d",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/yomiuriland-portada/f083c6811d99-w480.avif",
+            "width": 480,
+            "bytes": 13917
+          },
+          {
+            "file": "responsive/yomiuriland-portada/f083c6811d99-w768.avif",
+            "width": 768,
+            "bytes": 32384
+          },
+          {
+            "file": "responsive/yomiuriland-portada/f083c6811d99-w1200.avif",
+            "width": 1200,
+            "bytes": 75379
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/yomiuriland-portada/f083c6811d99-w480.webp",
+            "width": 480,
+            "bytes": 22122
+          },
+          {
+            "file": "responsive/yomiuriland-portada/f083c6811d99-w768.webp",
+            "width": 768,
+            "bytes": 52060
+          },
+          {
+            "file": "responsive/yomiuriland-portada/f083c6811d99-w1200.webp",
+            "width": 1200,
+            "bytes": 119676
           }
         ]
       }
