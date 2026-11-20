@@ -7759,5 +7759,317 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "original_date": "2022-12-01",
     "changes": "redimensionada a 1200 px, JPG"
+  },
+  "tropical-islands-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tropical_Islands_Halbe_10.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2020-02-13",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "tropical-islands-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tropical_Islands_Halbe_15.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2020-02-13",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "tropical-islands-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tropical_Islands_Resort.jpg",
+    "author": "Rkoster",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2024-01-04",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "tropical-islands-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:S%C3%BCdsee_Tropical_Islands.jpg",
+    "author": "Technouwe",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2013-05-22",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "rulantica-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Rulantica_v.2.jpg",
+    "author": "Simone Graffi",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_date": "2020-01-16",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "rulantica-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Rulantica_wellenbecken.jpg",
+    "author": "Bluec",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2019-11-23",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "rulantica-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Rulantica_wave_pool.jpg",
+    "author": "Simone Graffi",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_date": "2020-09-03",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "rulantica-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:A_a_hall_rulantica_oct_22.jpg",
+    "author": "Blackberrijack",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-10-27",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "therme-erding-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Therme_Erding_outdoor_waterslides.jpg",
+    "author": "Almanta",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-07-25",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "therme-erding-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Therme_Erding_ambient_pool_lighting.jpg",
+    "author": "Almanta",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-07-25",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "therme-erding-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Therme_Erding_Galaxy1.jpg",
+    "author": "Turmi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2016-03-30",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "therme-erding-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Glass_pyramid_at_Therme_Erding.jpg",
+    "author": "Almanta",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-07-25",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "hagenbeck-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Afrika-Panorama_-_Tierpark_Hagenbeck_01.jpg",
+    "author": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2026-08-22",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "hagenbeck-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Elephas_maximus_-_Tierpark_Hagenbeck_01.jpg",
+    "author": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2026-08-22",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "hagenbeck-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Odobenus_rosmarus_-_Tierpark_Hagenbeck_01.jpg",
+    "author": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2026-08-22",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "hagenbeck-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ursus_maritimus_-_Tierpark_Hagenbeck_01.jpg",
+    "author": "H. Zell",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2026-08-22",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "africam-safari-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Africam_Safari_2021_-_056.jpg",
+    "author": "Isaacvp",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2021-04-25",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "africam-safari-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Common_Eland_Africam.jpg",
+    "author": "Mamj16",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_date": "2011-03-13",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "africam-safari-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Grants_zebras_zoo.jpg",
+    "author": "Mamj16",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_date": "2011-03-13",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "africam-safari-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:ElephantAfricamSafari.jpg",
+    "author": "Iván Montejo-Martínez",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2014-11-16",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "animal-kingdom-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tree_of_Life,_Disney%27s_Animal_Kingdom.jpg",
+    "author": "Jedi94",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2019-01-23",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "animal-kingdom-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:The_World_of_Avatar.jpg",
+    "author": "Stevenliuyi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2019-01-07",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "animal-kingdom-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Disney-Animal-Kingdom-Rhinos-8027.jpg",
+    "author": "David R. Tribble (Loadmaster)",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2012-12-26",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "animal-kingdom-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Asia_themed_land_at_Disney%27s_Animal_Kingdom.jpg",
+    "author": "Jedi94",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2025-01-09",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "typhoon-lagoon-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:WDW_Typhoon_Lagoon_Surf_Pool.JPG",
+    "author": "JZ85",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2009-06-08",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "typhoon-lagoon-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Crush_%27n%27_Gusher_(34144801522).jpg",
+    "author": "elisfkc",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "26 April 2017",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "typhoon-lagoon-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Mount_Mayday_(17875664772).jpg",
+    "author": "Chad Sparkes",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2015-05-19",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "typhoon-lagoon-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Walt_Disney_World_Typhoon_Lagoon_Entrance.JPG",
+    "author": "JZ85",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2009-01-17",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "blizzard-beach-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:WDW_Blizzard_Beach_entrance.JPG",
+    "author": "JZ85",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2009-01-17",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "blizzard-beach-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Summit_Plummet_from_Blizzard_Beach_Entrance_-_panoramio.jpg",
+    "author": "Evan Nichols",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "22 October 2006",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "blizzard-beach-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Team_Boat_Springs.jpg",
+    "author": "Dr latino999",
+    "license": "Dominio público",
+    "license_url": "https://commons.wikimedia.org/wiki/Commons:Public_domain",
+    "original_date": "11 August 2007",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "blizzard-beach-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Blizzard_Beach_Disney_Water_Park_Lazy_River_-_panoramio.jpg",
+    "author": "Ivan Curra",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "21 August 2015",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "volcano-bay-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Volcano_Bay_(36499388003).jpg",
+    "author": "elisfkc",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "18 September 2017",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "volcano-bay-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Honu_and_Ika_Moana_(37170120711).jpg",
+    "author": "elisfkc",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "18 September 2017",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "volcano-bay-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Volcano_Bay_Entrance_(37145873331).jpg",
+    "author": "elisfkc",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "17 September 2017",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "discovery-cove-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:DisccoveDolphin.jpg",
+    "author": "Michael Lowin",
+    "license": "CC BY-SA 2.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de",
+    "original_date": "2007-11-07",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "discovery-cove-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:DisccoveLagoon.jpg",
+    "author": "Michael Lowin",
+    "license": "CC BY-SA 2.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de",
+    "original_date": "2007-11-07",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "discovery-cove-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:DisccoveRiver.jpg",
+    "author": "Michael Lowin",
+    "license": "CC BY-SA 2.0 de",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/de",
+    "original_date": "8 November 2007",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "discovery-cove-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Discovery_Cove,_Orlando_-_panoramio.jpg",
+    "author": "Bob Linsdell",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "22 July 2008",
+    "changes": "redimensionada a 1200 px, JPG"
   }
 }

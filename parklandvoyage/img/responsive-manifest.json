@@ -250,6 +250,242 @@
         ]
       }
     },
+    "africam-safari-1.jpg": {
+      "sha256": "e5c6ac6730ed4b5d1660b24b7bfd574724c6008ddf0a60c8255cd0f81c170c2f",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/africam-safari-1/e5c6ac6730ed-w480.avif",
+            "width": 480,
+            "bytes": 20635
+          },
+          {
+            "file": "responsive/africam-safari-1/e5c6ac6730ed-w768.avif",
+            "width": 768,
+            "bytes": 54878
+          },
+          {
+            "file": "responsive/africam-safari-1/e5c6ac6730ed-w1200.avif",
+            "width": 1200,
+            "bytes": 126821
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/africam-safari-1/e5c6ac6730ed-w480.webp",
+            "width": 480,
+            "bytes": 33088
+          },
+          {
+            "file": "responsive/africam-safari-1/e5c6ac6730ed-w768.webp",
+            "width": 768,
+            "bytes": 83298
+          },
+          {
+            "file": "responsive/africam-safari-1/e5c6ac6730ed-w1200.webp",
+            "width": 1200,
+            "bytes": 194738
+          }
+        ]
+      }
+    },
+    "africam-safari-2.jpg": {
+      "sha256": "2c25c8e28f1047cbe05aaae7df189eca4add04a0056f1d37dd4bc8a219c17968",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/africam-safari-2/2c25c8e28f10-w480.avif",
+            "width": 480,
+            "bytes": 22617
+          },
+          {
+            "file": "responsive/africam-safari-2/2c25c8e28f10-w768.avif",
+            "width": 768,
+            "bytes": 54022
+          },
+          {
+            "file": "responsive/africam-safari-2/2c25c8e28f10-w1200.avif",
+            "width": 1200,
+            "bytes": 112937
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/africam-safari-2/2c25c8e28f10-w480.webp",
+            "width": 480,
+            "bytes": 36536
+          },
+          {
+            "file": "responsive/africam-safari-2/2c25c8e28f10-w768.webp",
+            "width": 768,
+            "bytes": 87084
+          },
+          {
+            "file": "responsive/africam-safari-2/2c25c8e28f10-w1200.webp",
+            "width": 1200,
+            "bytes": 179766
+          }
+        ]
+      }
+    },
+    "africam-safari-3.jpg": {
+      "sha256": "37103f358970f98b70101211d8ea1b7d2cf62ce83ae974bff01e771bfc946137",
+      "original_width": 1200,
+      "original_height": 673,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/africam-safari-3/37103f358970-w480.avif",
+            "width": 480,
+            "bytes": 29076
+          },
+          {
+            "file": "responsive/africam-safari-3/37103f358970-w768.avif",
+            "width": 768,
+            "bytes": 76008
+          },
+          {
+            "file": "responsive/africam-safari-3/37103f358970-w1200.avif",
+            "width": 1200,
+            "bytes": 152044
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/africam-safari-3/37103f358970-w480.webp",
+            "width": 480,
+            "bytes": 39572
+          },
+          {
+            "file": "responsive/africam-safari-3/37103f358970-w768.webp",
+            "width": 768,
+            "bytes": 104784
+          },
+          {
+            "file": "responsive/africam-safari-3/37103f358970-w1200.webp",
+            "width": 1200,
+            "bytes": 222372
+          }
+        ]
+      }
+    },
+    "africam-safari-portada.jpg": {
+      "sha256": "c626838f497f54d4b78ae2b6c3543b514e2f280488bd6197f5533bd4bbb8e082",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/africam-safari-portada/c626838f497f-w480.avif",
+            "width": 480,
+            "bytes": 8959
+          },
+          {
+            "file": "responsive/africam-safari-portada/c626838f497f-w768.avif",
+            "width": 768,
+            "bytes": 25376
+          },
+          {
+            "file": "responsive/africam-safari-portada/c626838f497f-w1200.avif",
+            "width": 1200,
+            "bytes": 76893
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/africam-safari-portada/c626838f497f-w480.webp",
+            "width": 480,
+            "bytes": 15702
+          },
+          {
+            "file": "responsive/africam-safari-portada/c626838f497f-w768.webp",
+            "width": 768,
+            "bytes": 43738
+          },
+          {
+            "file": "responsive/africam-safari-portada/c626838f497f-w1200.webp",
+            "width": 1200,
+            "bytes": 120332
+          }
+        ]
+      }
+    },
     "altas-fury325.jpg": {
       "sha256": "7864693bcbf9ed920e36e83c7ffec3f56d895fe5ae4389d98dc387199868da05",
       "original_width": 1408,
@@ -13086,6 +13322,242 @@
             "file": "responsive/guardians-cosmic-rewind-epcot/a85c25be1c36-w1200.webp",
             "width": 1200,
             "bytes": 201068
+          }
+        ]
+      }
+    },
+    "hagenbeck-1.jpg": {
+      "sha256": "ca8a3b8b688c2ee17a7cfd98119f98d2acf76d64e276487cf2dc44e6e9e8a9d8",
+      "original_width": 1200,
+      "original_height": 811,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hagenbeck-1/ca8a3b8b688c-w480.avif",
+            "width": 480,
+            "bytes": 31601
+          },
+          {
+            "file": "responsive/hagenbeck-1/ca8a3b8b688c-w768.avif",
+            "width": 768,
+            "bytes": 81220
+          },
+          {
+            "file": "responsive/hagenbeck-1/ca8a3b8b688c-w1200.avif",
+            "width": 1200,
+            "bytes": 200185
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hagenbeck-1/ca8a3b8b688c-w480.webp",
+            "width": 480,
+            "bytes": 45838
+          },
+          {
+            "file": "responsive/hagenbeck-1/ca8a3b8b688c-w768.webp",
+            "width": 768,
+            "bytes": 118154
+          },
+          {
+            "file": "responsive/hagenbeck-1/ca8a3b8b688c-w1200.webp",
+            "width": 1200,
+            "bytes": 289872
+          }
+        ]
+      }
+    },
+    "hagenbeck-2.jpg": {
+      "sha256": "0af0c7c0c2e7739a42b933d54fc0bc78a0faeda0b52a283cb2272550b6a5c35d",
+      "original_width": 1200,
+      "original_height": 623,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hagenbeck-2/0af0c7c0c2e7-w480.avif",
+            "width": 480,
+            "bytes": 16354
+          },
+          {
+            "file": "responsive/hagenbeck-2/0af0c7c0c2e7-w768.avif",
+            "width": 768,
+            "bytes": 36179
+          },
+          {
+            "file": "responsive/hagenbeck-2/0af0c7c0c2e7-w1200.avif",
+            "width": 1200,
+            "bytes": 74939
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hagenbeck-2/0af0c7c0c2e7-w480.webp",
+            "width": 480,
+            "bytes": 27782
+          },
+          {
+            "file": "responsive/hagenbeck-2/0af0c7c0c2e7-w768.webp",
+            "width": 768,
+            "bytes": 62432
+          },
+          {
+            "file": "responsive/hagenbeck-2/0af0c7c0c2e7-w1200.webp",
+            "width": 1200,
+            "bytes": 129360
+          }
+        ]
+      }
+    },
+    "hagenbeck-3.jpg": {
+      "sha256": "dad33ed4f3c5457cac8e09dd597385c5a62183e1445d350a83f0cd6a1fd6bf39",
+      "original_width": 1200,
+      "original_height": 937,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hagenbeck-3/dad33ed4f3c5-w480.avif",
+            "width": 480,
+            "bytes": 13249
+          },
+          {
+            "file": "responsive/hagenbeck-3/dad33ed4f3c5-w768.avif",
+            "width": 768,
+            "bytes": 31265
+          },
+          {
+            "file": "responsive/hagenbeck-3/dad33ed4f3c5-w1200.avif",
+            "width": 1200,
+            "bytes": 78917
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hagenbeck-3/dad33ed4f3c5-w480.webp",
+            "width": 480,
+            "bytes": 24620
+          },
+          {
+            "file": "responsive/hagenbeck-3/dad33ed4f3c5-w768.webp",
+            "width": 768,
+            "bytes": 58160
+          },
+          {
+            "file": "responsive/hagenbeck-3/dad33ed4f3c5-w1200.webp",
+            "width": 1200,
+            "bytes": 135764
+          }
+        ]
+      }
+    },
+    "hagenbeck-portada.jpg": {
+      "sha256": "1213bbc8c7dd37cf34ea1f71b2c08b3e7b90b50ff4de55cf2488cc3918100cfa",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hagenbeck-portada/1213bbc8c7dd-w480.avif",
+            "width": 480,
+            "bytes": 23084
+          },
+          {
+            "file": "responsive/hagenbeck-portada/1213bbc8c7dd-w768.avif",
+            "width": 768,
+            "bytes": 61182
+          },
+          {
+            "file": "responsive/hagenbeck-portada/1213bbc8c7dd-w1200.avif",
+            "width": 1200,
+            "bytes": 156548
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hagenbeck-portada/1213bbc8c7dd-w480.webp",
+            "width": 480,
+            "bytes": 33044
+          },
+          {
+            "file": "responsive/hagenbeck-portada/1213bbc8c7dd-w768.webp",
+            "width": 768,
+            "bytes": 85252
+          },
+          {
+            "file": "responsive/hagenbeck-portada/1213bbc8c7dd-w1200.webp",
+            "width": 1200,
+            "bytes": 216646
           }
         ]
       }
@@ -25941,6 +26413,242 @@
         ]
       }
     },
+    "rulantica-1.jpg": {
+      "sha256": "d3f3bf8593d60d98f534ccfee1552cd5c8b61c47587f0ca3690511d41162a537",
+      "original_width": 1200,
+      "original_height": 804,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/rulantica-1/d3f3bf8593d6-w480.avif",
+            "width": 480,
+            "bytes": 13439
+          },
+          {
+            "file": "responsive/rulantica-1/d3f3bf8593d6-w768.avif",
+            "width": 768,
+            "bytes": 25848
+          },
+          {
+            "file": "responsive/rulantica-1/d3f3bf8593d6-w1200.avif",
+            "width": 1200,
+            "bytes": 48533
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/rulantica-1/d3f3bf8593d6-w480.webp",
+            "width": 480,
+            "bytes": 23170
+          },
+          {
+            "file": "responsive/rulantica-1/d3f3bf8593d6-w768.webp",
+            "width": 768,
+            "bytes": 47220
+          },
+          {
+            "file": "responsive/rulantica-1/d3f3bf8593d6-w1200.webp",
+            "width": 1200,
+            "bytes": 89510
+          }
+        ]
+      }
+    },
+    "rulantica-2.jpg": {
+      "sha256": "de3eaefc25559df2c335b4e40c25dab5d92444f5517834ac157c62a4e9723cec",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/rulantica-2/de3eaefc2555-w480.avif",
+            "width": 480,
+            "bytes": 36054
+          },
+          {
+            "file": "responsive/rulantica-2/de3eaefc2555-w768.avif",
+            "width": 768,
+            "bytes": 84687
+          },
+          {
+            "file": "responsive/rulantica-2/de3eaefc2555-w1200.avif",
+            "width": 1200,
+            "bytes": 193263
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/rulantica-2/de3eaefc2555-w480.webp",
+            "width": 480,
+            "bytes": 54000
+          },
+          {
+            "file": "responsive/rulantica-2/de3eaefc2555-w768.webp",
+            "width": 768,
+            "bytes": 130654
+          },
+          {
+            "file": "responsive/rulantica-2/de3eaefc2555-w1200.webp",
+            "width": 1200,
+            "bytes": 297004
+          }
+        ]
+      }
+    },
+    "rulantica-3.jpg": {
+      "sha256": "94c9e8bf327b027ab5df36ac64978f3818443599d9660ef49cc5cc4df6ff53f0",
+      "original_width": 908,
+      "original_height": 681,
+      "widths": [
+        480,
+        768,
+        908
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/rulantica-3/94c9e8bf327b-w480.avif",
+            "width": 480,
+            "bytes": 14726
+          },
+          {
+            "file": "responsive/rulantica-3/94c9e8bf327b-w768.avif",
+            "width": 768,
+            "bytes": 27918
+          },
+          {
+            "file": "responsive/rulantica-3/94c9e8bf327b-w908.avif",
+            "width": 908,
+            "bytes": 38971
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/rulantica-3/94c9e8bf327b-w480.webp",
+            "width": 480,
+            "bytes": 25656
+          },
+          {
+            "file": "responsive/rulantica-3/94c9e8bf327b-w768.webp",
+            "width": 768,
+            "bytes": 51340
+          },
+          {
+            "file": "responsive/rulantica-3/94c9e8bf327b-w908.webp",
+            "width": 908,
+            "bytes": 70760
+          }
+        ]
+      }
+    },
+    "rulantica-portada.jpg": {
+      "sha256": "5399b62d9f8b65f260d99966a02071cef3b78e7b21e9669a679188dfa14c6860",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/rulantica-portada/5399b62d9f8b-w480.avif",
+            "width": 480,
+            "bytes": 28317
+          },
+          {
+            "file": "responsive/rulantica-portada/5399b62d9f8b-w768.avif",
+            "width": 768,
+            "bytes": 55803
+          },
+          {
+            "file": "responsive/rulantica-portada/5399b62d9f8b-w1200.avif",
+            "width": 1200,
+            "bytes": 97600
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/rulantica-portada/5399b62d9f8b-w480.webp",
+            "width": 480,
+            "bytes": 39724
+          },
+          {
+            "file": "responsive/rulantica-portada/5399b62d9f8b-w768.webp",
+            "width": 768,
+            "bytes": 84292
+          },
+          {
+            "file": "responsive/rulantica-portada/5399b62d9f8b-w1200.webp",
+            "width": 1200,
+            "bytes": 163626
+          }
+        ]
+      }
+    },
     "seaworld-orlando-1.jpg": {
       "sha256": "0cd9e0db0c06c1fd864038435e33ffdb697d763158abde87074cc40c04687e92",
       "original_width": 1200,
@@ -34024,6 +34732,242 @@
         ]
       }
     },
+    "therme-erding-1.jpg": {
+      "sha256": "3b19103cebae2cdd50b1b6dc84bde7c787da691a702f01e767e51413f2406e54",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/therme-erding-1/3b19103cebae-w480.avif",
+            "width": 480,
+            "bytes": 17908
+          },
+          {
+            "file": "responsive/therme-erding-1/3b19103cebae-w768.avif",
+            "width": 768,
+            "bytes": 37149
+          },
+          {
+            "file": "responsive/therme-erding-1/3b19103cebae-w1200.avif",
+            "width": 1200,
+            "bytes": 75980
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/therme-erding-1/3b19103cebae-w480.webp",
+            "width": 480,
+            "bytes": 30146
+          },
+          {
+            "file": "responsive/therme-erding-1/3b19103cebae-w768.webp",
+            "width": 768,
+            "bytes": 64500
+          },
+          {
+            "file": "responsive/therme-erding-1/3b19103cebae-w1200.webp",
+            "width": 1200,
+            "bytes": 130422
+          }
+        ]
+      }
+    },
+    "therme-erding-2.jpg": {
+      "sha256": "91d5d50320cb24078a625708ce48eef086c18b07f48bac3fb794a4cb8652b9ff",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/therme-erding-2/91d5d50320cb-w480.avif",
+            "width": 480,
+            "bytes": 18009
+          },
+          {
+            "file": "responsive/therme-erding-2/91d5d50320cb-w768.avif",
+            "width": 768,
+            "bytes": 33697
+          },
+          {
+            "file": "responsive/therme-erding-2/91d5d50320cb-w1200.avif",
+            "width": 1200,
+            "bytes": 63015
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/therme-erding-2/91d5d50320cb-w480.webp",
+            "width": 480,
+            "bytes": 26672
+          },
+          {
+            "file": "responsive/therme-erding-2/91d5d50320cb-w768.webp",
+            "width": 768,
+            "bytes": 54242
+          },
+          {
+            "file": "responsive/therme-erding-2/91d5d50320cb-w1200.webp",
+            "width": 1200,
+            "bytes": 105742
+          }
+        ]
+      }
+    },
+    "therme-erding-3.jpg": {
+      "sha256": "0d981efec04129079cf5b2fc0ccadd5b4cf5294bb31038b3f9bfe0e8fa0c1a20",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/therme-erding-3/0d981efec041-w480.avif",
+            "width": 480,
+            "bytes": 8623
+          },
+          {
+            "file": "responsive/therme-erding-3/0d981efec041-w768.avif",
+            "width": 768,
+            "bytes": 20902
+          },
+          {
+            "file": "responsive/therme-erding-3/0d981efec041-w1200.avif",
+            "width": 1200,
+            "bytes": 58782
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/therme-erding-3/0d981efec041-w480.webp",
+            "width": 480,
+            "bytes": 15552
+          },
+          {
+            "file": "responsive/therme-erding-3/0d981efec041-w768.webp",
+            "width": 768,
+            "bytes": 39488
+          },
+          {
+            "file": "responsive/therme-erding-3/0d981efec041-w1200.webp",
+            "width": 1200,
+            "bytes": 100154
+          }
+        ]
+      }
+    },
+    "therme-erding-portada.jpg": {
+      "sha256": "0831998d63e98849083a2cbb4a3f79f5a6a838531e9ddc2e03f8d108a8734632",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/therme-erding-portada/0831998d63e9-w480.avif",
+            "width": 480,
+            "bytes": 15210
+          },
+          {
+            "file": "responsive/therme-erding-portada/0831998d63e9-w768.avif",
+            "width": 768,
+            "bytes": 29648
+          },
+          {
+            "file": "responsive/therme-erding-portada/0831998d63e9-w1200.avif",
+            "width": 1200,
+            "bytes": 54866
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/therme-erding-portada/0831998d63e9-w480.webp",
+            "width": 480,
+            "bytes": 24220
+          },
+          {
+            "file": "responsive/therme-erding-portada/0831998d63e9-w768.webp",
+            "width": 768,
+            "bytes": 50856
+          },
+          {
+            "file": "responsive/therme-erding-portada/0831998d63e9-w1200.webp",
+            "width": 1200,
+            "bytes": 100730
+          }
+        ]
+      }
+    },
     "thorpe-park-1.jpg": {
       "sha256": "154dff9b159965c990a77944ff9e91e268275d844b802f102d81f8bfeb04e501",
       "original_width": 1200,
@@ -35554,6 +36498,242 @@
             "file": "responsive/top-europa-park/c1db0126d167-w1200.webp",
             "width": 1200,
             "bytes": 184068
+          }
+        ]
+      }
+    },
+    "tropical-islands-1.jpg": {
+      "sha256": "f295b8384136130394ca847c6f572ea436b00a20f3f3384da24766e0d8b8a71c",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tropical-islands-1/f295b8384136-w480.avif",
+            "width": 480,
+            "bytes": 17897
+          },
+          {
+            "file": "responsive/tropical-islands-1/f295b8384136-w768.avif",
+            "width": 768,
+            "bytes": 37056
+          },
+          {
+            "file": "responsive/tropical-islands-1/f295b8384136-w1200.avif",
+            "width": 1200,
+            "bytes": 76956
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tropical-islands-1/f295b8384136-w480.webp",
+            "width": 480,
+            "bytes": 29904
+          },
+          {
+            "file": "responsive/tropical-islands-1/f295b8384136-w768.webp",
+            "width": 768,
+            "bytes": 64538
+          },
+          {
+            "file": "responsive/tropical-islands-1/f295b8384136-w1200.webp",
+            "width": 1200,
+            "bytes": 129258
+          }
+        ]
+      }
+    },
+    "tropical-islands-2.jpg": {
+      "sha256": "66e382e8bfacafc60eb1ba202a3f936f094ae9351b59b88c8841d143f5569386",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tropical-islands-2/66e382e8bfac-w480.avif",
+            "width": 480,
+            "bytes": 9991
+          },
+          {
+            "file": "responsive/tropical-islands-2/66e382e8bfac-w768.avif",
+            "width": 768,
+            "bytes": 21623
+          },
+          {
+            "file": "responsive/tropical-islands-2/66e382e8bfac-w1200.avif",
+            "width": 1200,
+            "bytes": 48202
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tropical-islands-2/66e382e8bfac-w480.webp",
+            "width": 480,
+            "bytes": 17844
+          },
+          {
+            "file": "responsive/tropical-islands-2/66e382e8bfac-w768.webp",
+            "width": 768,
+            "bytes": 40220
+          },
+          {
+            "file": "responsive/tropical-islands-2/66e382e8bfac-w1200.webp",
+            "width": 1200,
+            "bytes": 91600
+          }
+        ]
+      }
+    },
+    "tropical-islands-3.jpg": {
+      "sha256": "866fc6e9c3d6922ca71cb259b3c297dec4518d8251eda47638244fd132f77639",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tropical-islands-3/866fc6e9c3d6-w480.avif",
+            "width": 480,
+            "bytes": 18894
+          },
+          {
+            "file": "responsive/tropical-islands-3/866fc6e9c3d6-w768.avif",
+            "width": 768,
+            "bytes": 38979
+          },
+          {
+            "file": "responsive/tropical-islands-3/866fc6e9c3d6-w1200.avif",
+            "width": 1200,
+            "bytes": 77913
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tropical-islands-3/866fc6e9c3d6-w480.webp",
+            "width": 480,
+            "bytes": 30358
+          },
+          {
+            "file": "responsive/tropical-islands-3/866fc6e9c3d6-w768.webp",
+            "width": 768,
+            "bytes": 66320
+          },
+          {
+            "file": "responsive/tropical-islands-3/866fc6e9c3d6-w1200.webp",
+            "width": 1200,
+            "bytes": 133618
+          }
+        ]
+      }
+    },
+    "tropical-islands-portada.jpg": {
+      "sha256": "96fce2dc14bddaab3b6c4566e1cbb1bd212d1f538657f0b9700e3e8cca3b2867",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/tropical-islands-portada/96fce2dc14bd-w480.avif",
+            "width": 480,
+            "bytes": 17379
+          },
+          {
+            "file": "responsive/tropical-islands-portada/96fce2dc14bd-w768.avif",
+            "width": 768,
+            "bytes": 36909
+          },
+          {
+            "file": "responsive/tropical-islands-portada/96fce2dc14bd-w1200.avif",
+            "width": 1200,
+            "bytes": 69308
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/tropical-islands-portada/96fce2dc14bd-w480.webp",
+            "width": 480,
+            "bytes": 28326
+          },
+          {
+            "file": "responsive/tropical-islands-portada/96fce2dc14bd-w768.webp",
+            "width": 768,
+            "bytes": 61590
+          },
+          {
+            "file": "responsive/tropical-islands-portada/96fce2dc14bd-w1200.webp",
+            "width": 1200,
+            "bytes": 119540
           }
         ]
       }

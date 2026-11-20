@@ -1,6 +1,162 @@
 {
  "notes": "Catálogo de fotos reales con licencia (Andrés 19-11-2026: documentar para reutilizar en artículos). Una entrada por archivo de img/: parque (clave de config/site-sections.json del repo parklandvoyage), atracción si la foto es de una concreta, qué se ve, tamaño, orientación, si sirve de portada 16:9 (hero_ok) y dónde se usa. Licencia, autor y origen: img-credits.json. Para buscar: jq '.photos | to_entries[] | select(.value.park==\"<clave>\")' img-catalog.json",
  "photos": {
+  "acquario-genova-1.jpg": {
+   "park": "acquario-genova",
+   "ride": null,
+   "shows": "Panorámica del Porto Antico con veleros en primer plano y los edificios azules del acuario al fondo.",
+   "width": 1200,
+   "height": 537,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "acquario-genova-2.jpg": {
+   "park": "acquario-genova",
+   "ride": null,
+   "shows": "Tiburón nadando en un gran tanque azul.",
+   "width": 1200,
+   "height": 795,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "acquario-genova-3.jpg": {
+   "park": "acquario-genova",
+   "ride": null,
+   "shows": "Tanque táctil de las rayas con visitantes alrededor.",
+   "width": 1200,
+   "height": 798,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "acquario-genova-portada.jpg": {
+   "park": "acquario-genova",
+   "ride": null,
+   "shows": "Visitantes en un túnel acrílico bajo un tanque de arrecife con peces de colores.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "africam-safari-1.jpg": {
+   "park": "africam-safari",
+   "ride": null,
+   "shows": "Elands comunes pastando junto al camino del safari, con coches de visitantes al fondo.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "africam-safari-2.jpg": {
+   "park": "africam-safari",
+   "ride": null,
+   "shows": "Cebras de Grant en el safari con un coche de visitantes detrás.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "africam-safari-3.jpg": {
+   "park": "africam-safari",
+   "ride": null,
+   "shows": "Cría de elefante africano caminando en su recinto.",
+   "width": 1200,
+   "height": 673,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "africam-safari-portada.jpg": {
+   "park": "africam-safari",
+   "ride": null,
+   "shows": "Manada de bisontes en la pradera del safari (sección Yellowstone), con colinas y árboles al fondo.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquafan-1.jpg": {
+   "park": "aquafan",
+   "ride": null,
+   "shows": "Vista general de la gran piscina de olas con sombrillas y pinos.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquafan-2.jpg": {
+   "park": "aquafan",
+   "ride": null,
+   "shows": "Piscina infantil con oso polar y minitoboganes blancos (Antarctic Baby Beach).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquafan-3.jpg": {
+   "park": "aquafan",
+   "ride": null,
+   "shows": "Tobogán ancho de varios carriles bajando por la colina (probablemente Surfing Hill), vertical.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquafan-portada.jpg": {
+   "park": "aquafan",
+   "ride": null,
+   "shows": "Piscina de olas llena de bañistas con el rótulo AQUAFAN, palmeras y sombrillas.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "aqualand-costa-adeje-1.jpg": {
    "park": "aqualand-costa-adeje",
    "ride": null,
@@ -122,6 +278,110 @@
    "park": "aqualand-maspalomas",
    "ride": null,
    "shows": "Torres de toboganes verdes y amarillos, piscina y hamacas con las montañas detrás.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aqualandia-1.jpg": {
+   "park": "aqualandia",
+   "ride": null,
+   "shows": "Zona infantil con toboganes de colores, sombrillas y pinos de Serra Gelada.",
+   "width": 989,
+   "height": 737,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aqualandia-2.jpg": {
+   "park": "aqualandia",
+   "ride": null,
+   "shows": "Toboganes multipista blancos (Pistas Blandas/Splash) con pinar detrás. Flickr vía Openverse; título 'aqualandia 3', etiqueta 'spain'.",
+   "width": 683,
+   "height": 512,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aqualandia-3.jpg": {
+   "park": "aqualandia",
+   "ride": null,
+   "shows": "Torre de toboganes de colores (verde, rojo, amarillo) sobre la piscina de llegada.",
+   "width": 683,
+   "height": 512,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aqualandia-portada.jpg": {
+   "park": "aqualandia",
+   "ride": null,
+   "shows": "Vista desde lo alto de Aqualandia: piscina de olas con el faro, palmeras, gente y los rascacielos de Benidorm y el mar al fondo.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "asahiyama-zoo-1.jpg": {
+   "park": "asahiyama-zoo",
+   "ride": null,
+   "shows": "Vista del zoo nevado en marzo de 2026",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "asahiyama-zoo-2.jpg": {
+   "park": "asahiyama-zoo",
+   "ride": null,
+   "shows": "Foca nadando en la Seal House",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "asahiyama-zoo-3.jpg": {
+   "park": "asahiyama-zoo",
+   "ride": null,
+   "shows": "Puerta principal con visitantes en verano (2022)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "asahiyama-zoo-portada.jpg": {
+   "park": "asahiyama-zoo",
+   "ride": null,
+   "shows": "Paseo de los pingüinos rey sobre la nieve con un cuidador",
    "width": 1600,
    "height": 900,
    "orientation": "horizontal",
@@ -547,6 +807,58 @@
     "alturas"
    ]
   },
+  "beauval-1.jpg": {
+   "park": "beauval",
+   "ride": null,
+   "shows": "Recinto con cabañas y el Dôme Équatorial, con una cabina de la telecabina pasando por encima.",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "beauval-2.jpg": {
+   "park": "beauval",
+   "ride": null,
+   "shows": "Interior del Dôme Équatorial: vegetación tropical bajo la gran estructura de vidrio.",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "beauval-3.jpg": {
+   "park": "beauval",
+   "ride": null,
+   "shows": "Llanura con vallas de madera y la línea de la telecabina sobre el parque.",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "beauval-portada.jpg": {
+   "park": "beauval",
+   "ride": null,
+   "shows": "Vista del parque con la telecabina Le Nuage de Beauval y la cúpula del Dôme Équatorial al fondo.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "bgt-air-grover.jpg": {
    "park": "busch-gardens-tampa",
    "ride": "Air Grover",
@@ -677,6 +989,110 @@
     "alturas"
    ]
   },
+  "bioparc-fuengirola-1.jpg": {
+   "park": "bioparc-fuengirola",
+   "ride": null,
+   "shows": "Cocodrilo enano (África Ecuatorial).",
+   "width": 1200,
+   "height": 768,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bioparc-fuengirola-2.jpg": {
+   "park": "bioparc-fuengirola",
+   "ride": null,
+   "shows": "Dragón de Komodo (Indo-Pacífico).",
+   "width": 1200,
+   "height": 869,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bioparc-fuengirola-3.jpg": {
+   "park": "bioparc-fuengirola",
+   "ride": null,
+   "shows": "Tigre de Sumatra (Sudeste Asiático).",
+   "width": 1200,
+   "height": 870,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bioparc-fuengirola-portada.jpg": {
+   "park": "bioparc-fuengirola",
+   "ride": null,
+   "shows": "Fachada y entrada del parque en la calle, con edificios de tejas y banderolas.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bioparc-valencia-1.jpg": {
+   "park": "bioparc-valencia",
+   "ride": null,
+   "shows": "Gorila occidental",
+   "width": 1200,
+   "height": 797,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bioparc-valencia-2.jpg": {
+   "park": "bioparc-valencia",
+   "ride": null,
+   "shows": "Pasarela peatonal de entrada",
+   "width": 1200,
+   "height": 672,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bioparc-valencia-3.jpg": {
+   "park": "bioparc-valencia",
+   "ride": null,
+   "shows": "Zooinmersión en el hábitat de Madagascar (formato cuadrado)",
+   "width": 1200,
+   "height": 1200,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bioparc-valencia-portada.jpg": {
+   "park": "bioparc-valencia",
+   "ride": null,
+   "shows": "Sabana africana con baobabs y rocas",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "bp-insano.jpg": {
    "park": "beach-park",
    "ride": "Insano",
@@ -688,6 +1104,45 @@
    "via": "commons",
    "uses": [
     "alturas"
+   ]
+  },
+  "caribe-aquatic-park-1.jpg": {
+   "park": "caribe-aquatic-park",
+   "ride": null,
+   "shows": "Entrada vista desde dentro: tienda Costa Caribe Shop, mástil con velas y casitas de colores (aún con la marca antigua 'Costa Caribe').",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "caribe-aquatic-park-2.jpg": {
+   "park": "caribe-aquatic-park",
+   "ride": null,
+   "shows": "La Laguna de Woody, zona infantil.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "caribe-aquatic-park-portada.jpg": {
+   "park": "caribe-aquatic-park",
+   "ride": null,
+   "shows": "Vista elevada del parque: toboganes amarillo, rojo, azul y verde en primer plano y piscinas con palmeras al fondo (horizontal).",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
    ]
   },
   "cp-blue-streak.jpg": {
@@ -3290,6 +3745,110 @@
     "alturas"
    ]
   },
+  "everland-1.jpg": {
+   "park": "everland",
+   "ride": null,
+   "shows": "Montaña rusa de madera monimo RUSH (antes T Express) en la ladera",
+   "width": 1200,
+   "height": 541,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "everland-2.jpg": {
+   "park": "everland",
+   "ride": null,
+   "shows": "Panda Ai Bao con las gemelas Rui Bao y Hui Bao en Panda World (enero de 2024)",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "everland-3.jpg": {
+   "park": "everland",
+   "ride": null,
+   "shows": "Puerta de entrada de Everland",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "everland-portada.jpg": {
+   "park": "everland",
+   "ride": null,
+   "shows": "Calle del desfile de Everland con visitantes en primavera de 2025",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "faunia-1.jpg": {
+   "park": "faunia",
+   "ride": null,
+   "shows": "Entrada al parque",
+   "width": 1200,
+   "height": 773,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "faunia-2.jpg": {
+   "park": "faunia",
+   "ride": null,
+   "shows": "Recinto de pingüinos en el pabellón Polos",
+   "width": 1200,
+   "height": 700,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "faunia-3.jpg": {
+   "park": "faunia",
+   "ride": null,
+   "shows": "Acuario dentro de Faunia",
+   "width": 1200,
+   "height": 799,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "faunia-portada.jpg": {
+   "park": "faunia",
+   "ride": null,
+   "shows": "Edificio del ecosistema Polos (pingüinario)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "fl-boomerang.jpg": {
    "park": "fantasilandia",
    "ride": "Boomerang",
@@ -3626,6 +4185,58 @@
    "via": "commons",
    "uses": [
     "alturas"
+   ]
+  },
+  "hagenbeck-1.jpg": {
+   "park": "hagenbeck",
+   "ride": null,
+   "shows": "Elefante asiático en Hagenbeck (agosto de 2026).",
+   "width": 1200,
+   "height": 811,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hagenbeck-2.jpg": {
+   "park": "hagenbeck",
+   "ride": null,
+   "shows": "Morsa del Pacífico en el Eismeer (agosto de 2026).",
+   "width": 1200,
+   "height": 623,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hagenbeck-3.jpg": {
+   "park": "hagenbeck",
+   "ride": null,
+   "shows": "Oso polar en el Eismeer (agosto de 2026).",
+   "width": 1200,
+   "height": 937,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hagenbeck-portada.jpg": {
+   "park": "hagenbeck",
+   "ride": null,
+   "shows": "Afrika-Panorama: flamencos ante el estanque con las rocas artificiales y la vegetación al fondo (agosto de 2026).",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
    ]
   },
   "heide-park-1.jpg": {
@@ -4334,6 +4945,58 @@
    "park": "jungle-park",
    "ride": null,
    "shows": "Entrada de Jungle Park con el gran letrero, la taquilla de techo de paja y la vegetación.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kaiyukan-1.jpg": {
+   "park": "kaiyukan",
+   "ride": null,
+   "shows": "Vista aérea de Kaiyukan y la noria de Tempozan junto al puerto de Osaka (2026)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kaiyukan-2.jpg": {
+   "park": "kaiyukan",
+   "ride": null,
+   "shows": "Túnel Aqua Gate de la entrada",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kaiyukan-3.jpg": {
+   "park": "kaiyukan",
+   "ride": null,
+   "shows": "Tiburón ballena en el tanque Pacific Ocean",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kaiyukan-portada.jpg": {
+   "park": "kaiyukan",
+   "ride": null,
+   "shows": "Fachada del edificio de Kaiyukan en Tempozan",
    "width": 1600,
    "height": 900,
    "orientation": "horizontal",
@@ -5630,6 +6293,214 @@
     "alturas"
    ]
   },
+  "mundomar-1.jpg": {
+   "park": "mundomar",
+   "ride": null,
+   "shows": "Delfín saltando en vertical frente al barco pirata del delfinario.",
+   "width": 1200,
+   "height": 897,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "mundomar-2.jpg": {
+   "park": "mundomar",
+   "ride": null,
+   "shows": "Cuidador sobre el decorado con un delfín saltando a su lado.",
+   "width": 1200,
+   "height": 899,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "mundomar-3.jpg": {
+   "park": "mundomar",
+   "ride": null,
+   "shows": "Entrenadora de pie sobre el agua impulsada por delfines.",
+   "width": 1200,
+   "height": 901,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "mundomar-portada.jpg": {
+   "park": "mundomar",
+   "ride": null,
+   "shows": "Delfinario con el decorado de barco pirata y delfines saltando durante la demostración.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nausicaa-1.jpg": {
+   "park": "nausicaa",
+   "ride": null,
+   "shows": "Túnel submarino bajo el Grand Bassin, con visitantes y peces alrededor.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nausicaa-2.jpg": {
+   "park": "nausicaa",
+   "ride": null,
+   "shows": "Edificio de Nausicaá en Boulogne-sur-Mer con la escultura de tiburones en la entrada.",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nausicaa-3.jpg": {
+   "park": "nausicaa",
+   "ride": null,
+   "shows": "Medusa Chrysaora fuscescens sobre fondo azul oscuro en el acuario.",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nausicaa-portada.jpg": {
+   "park": "nausicaa",
+   "ride": null,
+   "shows": "Grand Bassin de la Haute Mer: gran ventanal con una mantarraya y bancos de peces, y visitantes a contraluz.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "oceanografic-1.jpg": {
+   "park": "oceanografic",
+   "ride": null,
+   "shows": "Belugas",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "oceanografic-2.jpg": {
+   "park": "oceanografic",
+   "ride": null,
+   "shows": "Visitantes en el túnel submarino",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "oceanografic-3.jpg": {
+   "park": "oceanografic",
+   "ride": null,
+   "shows": "Medusa Rhizostoma pulmo (agosto de 2026)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "oceanografic-portada.jpg": {
+   "park": "oceanografic",
+   "ride": null,
+   "shows": "Edificio de Félix Candela (restaurante submarino) al anochecer",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "okinawa-churaumi-1.jpg": {
+   "park": "okinawa-churaumi",
+   "ride": null,
+   "shows": "Edificio del acuario visto desde el césped de Ocean Expo Park",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "okinawa-churaumi-2.jpg": {
+   "park": "okinawa-churaumi",
+   "ride": null,
+   "shows": "Entrada del acuario (4.ª planta) con la escultura de tiburón ballena",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "okinawa-churaumi-3.jpg": {
+   "park": "okinawa-churaumi",
+   "ride": null,
+   "shows": "Sala Shark Research Lab (2.ª planta)",
+   "width": 1200,
+   "height": 798,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "okinawa-churaumi-portada.jpg": {
+   "park": "okinawa-churaumi",
+   "ride": null,
+   "shows": "Tiburón ballena y manta en el gran tanque Kuroshio Sea, con bancos de peces",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "op-cable-car.jpg": {
    "park": "ocean-park",
    "ride": "Cable Car",
@@ -6033,6 +6904,58 @@
     "alturas"
    ]
   },
+  "pairi-daiza-1.jpg": {
+   "park": "pairi-daiza",
+   "ride": null,
+   "shows": "Vista amplia del invernadero Edenya bajo su gran cubierta de vidrio, con caminos y vegetación.",
+   "width": 1200,
+   "height": 727,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "pairi-daiza-2.jpg": {
+   "park": "pairi-daiza",
+   "ride": null,
+   "shows": "Entrada principal de Pairi Daiza: gran arco con el logotipo y esferas de piedra en la plaza.",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "pairi-daiza-3.jpg": {
+   "park": "pairi-daiza",
+   "ride": null,
+   "shows": "Jaguar tumbado en su recinto de Edenya.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "pairi-daiza-portada.jpg": {
+   "park": "pairi-daiza",
+   "ride": null,
+   "shows": "Interior de Edenya: río turquesa entre vegetación tropical y pasarelas elevadas con visitantes.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "palma-aquarium-1.jpg": {
    "park": "palma-aquarium",
    "ride": null,
@@ -6239,6 +7162,58 @@
    "via": "openverse",
    "uses": [
     "alturas"
+   ]
+  },
+  "parco-natura-viva-1.jpg": {
+   "park": "parco-natura-viva",
+   "ride": null,
+   "shows": "Estatua de bronce del hipopótamo Pippo, primer animal del parque, con la boca abierta.",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parco-natura-viva-2.jpg": {
+   "park": "parco-natura-viva",
+   "ride": null,
+   "shows": "Jirafas comiendo heno de un comedero elevado (zona Safari).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parco-natura-viva-3.jpg": {
+   "park": "parco-natura-viva",
+   "ride": null,
+   "shows": "Guacamayo aliverde posado sobre un tronco.",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parco-natura-viva-portada.jpg": {
+   "park": "parco-natura-viva",
+   "ride": null,
+   "shows": "Tigre siberiano nacido en el parque en 2020, metido en el agua.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
    ]
   },
   "phantasialand-1.jpg": {
@@ -6644,6 +7619,58 @@
     "alturas"
    ]
   },
+  "rulantica-1.jpg": {
+   "park": "rulantica",
+   "ride": null,
+   "shows": "La piscina de olas Surf Fjørd en Lumåfals (noviembre de 2019, días después de la apertura).",
+   "width": 1200,
+   "height": 804,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "rulantica-2.jpg": {
+   "park": "rulantica",
+   "ride": null,
+   "shows": "Otra vista de la piscina de olas (septiembre de 2020).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "rulantica-3.jpg": {
+   "park": "rulantica",
+   "ride": null,
+   "shows": "Interior de la nave de Rulantica (vertical, octubre de 2022).",
+   "width": 908,
+   "height": 681,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "rulantica-portada.jpg": {
+   "park": "rulantica",
+   "ride": null,
+   "shows": "Vista general del interior: el río lento con flotadores, playa con tumbonas y el barco pirata de Skip Strand al fondo (enero de 2020).",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "seaworld-orlando-1.jpg": {
    "park": "seaworld-orlando",
    "ride": null,
@@ -6674,6 +7701,110 @@
    "park": "seaworld-orlando",
    "ride": null,
    "shows": "Vista del lago central con el looping de Kraken, la subida de Mako y la vía de Manta al fondo (vista general).",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "selwo-aventura-1.jpg": {
+   "park": "selwo-aventura",
+   "ride": null,
+   "shows": "Entrada de Selwo Aventura (horizontal).",
+   "width": 1200,
+   "height": 676,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "selwo-aventura-2.jpg": {
+   "park": "selwo-aventura",
+   "ride": null,
+   "shows": "Puente colgante del recorrido.",
+   "width": 1200,
+   "height": 676,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "selwo-aventura-3.jpg": {
+   "park": "selwo-aventura",
+   "ride": null,
+   "shows": "Poblado Central.",
+   "width": 1200,
+   "height": 676,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "selwo-aventura-portada.jpg": {
+   "park": "selwo-aventura",
+   "ride": null,
+   "shows": "Reserva de los Lagos: sabana con palmeras, cercados y la sierra al fondo.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "selwo-marina-1.jpg": {
+   "park": "selwo-marina",
+   "ride": null,
+   "shows": "Delfines en la piscina del delfinario.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "selwo-marina-2.jpg": {
+   "park": "selwo-marina",
+   "ride": null,
+   "shows": "Flamencos en Las Antillas.",
+   "width": 1200,
+   "height": 895,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "selwo-marina-3.jpg": {
+   "park": "selwo-marina",
+   "ride": null,
+   "shows": "Pelícanos comunes en un recinto de aves.",
+   "width": 1200,
+   "height": 930,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "selwo-marina-portada.jpg": {
+   "park": "selwo-marina",
+   "ride": null,
+   "shows": "Entrada principal con el logotipo antiguo de Selwo Marina.",
    "width": 1600,
    "height": 900,
    "orientation": "horizontal",
@@ -7931,6 +9062,110 @@
     "alturas"
    ]
   },
+  "terra-natura-benidorm-1.jpg": {
+   "park": "terra-natura-benidorm",
+   "ride": null,
+   "shows": "Entrada de Terra Natura con el letrero en acero corten y pérgola.",
+   "width": 1200,
+   "height": 817,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "terra-natura-benidorm-2.jpg": {
+   "park": "terra-natura-benidorm",
+   "ride": null,
+   "shows": "Tigre caminando por el agua en Terra Natura.",
+   "width": 1200,
+   "height": 807,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "terra-natura-benidorm-3.jpg": {
+   "park": "terra-natura-benidorm",
+   "ride": null,
+   "shows": "Primer plano de un león macho.",
+   "width": 1200,
+   "height": 848,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "terra-natura-benidorm-portada.jpg": {
+   "park": "terra-natura-benidorm",
+   "ride": null,
+   "shows": "Panorámica de una gran pradera de tierra del zoo con árboles y montañas al fondo.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "therme-erding-1.jpg": {
+   "park": "therme-erding",
+   "ride": null,
+   "shows": "Piscina interior con iluminación ambiental (julio de 2022).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "therme-erding-2.jpg": {
+   "park": "therme-erding",
+   "ride": null,
+   "shows": "Torre de toboganes del Galaxy con los tubos de colores (2016).",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "therme-erding-3.jpg": {
+   "park": "therme-erding",
+   "ride": null,
+   "shows": "Pirámide de cristal con tubos de toboganes dentro (julio de 2022).",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "therme-erding-portada.jpg": {
+   "park": "therme-erding",
+   "ride": null,
+   "shows": "Toboganes exteriores del Galaxy (The Big Wave) sobre la zona de tumbonas al atardecer (julio de 2022).",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "thorpe-park-1.jpg": {
    "park": "thorpe-park",
    "ride": null,
@@ -8436,6 +9671,110 @@
    "via": "commons",
    "uses": [
     "alturas"
+   ]
+  },
+  "tropical-islands-1.jpg": {
+   "park": "tropical-islands",
+   "ride": null,
+   "shows": "Vista nocturna del interior desde la torre de toboganes: Jungle Splash, playa y pueblo tropical iluminados (2020).",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tropical-islands-2.jpg": {
+   "park": "tropical-islands",
+   "ride": null,
+   "shows": "Exterior de la cúpula blanca (antiguo hangar de CargoLifter) con el aparcamiento delante (enero de 2024).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tropical-islands-3.jpg": {
+   "park": "tropical-islands",
+   "ride": null,
+   "shows": "El Südsee y la playa vistos desde la torre de toboganes (2013).",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tropical-islands-portada.jpg": {
+   "park": "tropical-islands",
+   "ride": null,
+   "shows": "Interior de la cúpula: el Südsee con playa, la torre de toboganes y el Jungle Splash a la izquierda, y el globo aerostático bajo el techo (2020).",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ueno-zoo-1.jpg": {
+   "park": "ueno-zoo",
+   "ride": null,
+   "shows": "Cola de visitantes en la puerta principal (2022)",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ueno-zoo-2.jpg": {
+   "park": "ueno-zoo",
+   "ride": null,
+   "shows": "Elefante asiático con su cuidador en el recinto de elefantes",
+   "width": 1200,
+   "height": 798,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ueno-zoo-3.jpg": {
+   "park": "ueno-zoo",
+   "ride": null,
+   "shows": "Cuidador cepillando a un tapir",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ueno-zoo-portada.jpg": {
+   "park": "ueno-zoo",
+   "ride": null,
+   "shows": "Puerta principal (East Garden) del zoo de Ueno, febrero de 2026",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
    ]
   },
   "universal-singapore-1.jpg": {
@@ -9062,6 +10401,32 @@
     "alturas"
    ]
   },
+  "water-world-lloret-1.jpg": {
+   "park": "water-world-lloret",
+   "ride": null,
+   "shows": "Casi idéntica a la anterior: torres de Speed Furious y Hurricanes y los Speed Slides.",
+   "width": 1024,
+   "height": 768,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "water-world-lloret-portada.jpg": {
+   "park": "water-world-lloret",
+   "ride": null,
+   "shows": "Escaleras y torres de Speed Furious, Hurricanes y Speed Slides con tobogán multipista verde y azul; cielo nublado (horizontal, solo 1024 px).",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
   "wdw-astro-orbiter.jpg": {
    "park": "walt-disney-world",
    "ride": "Astro Orbiter",
@@ -9352,6 +10717,110 @@
    "park": "western-water-park",
    "ride": null,
    "shows": "Vista aérea del norte del parque con los toboganes de colores, La Bestia, la torre de toboganes de tubo y la sierra de fondo.",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-aquarium-madrid-1.jpg": {
+   "park": "zoo-aquarium-madrid",
+   "ride": null,
+   "shows": "Jardines y praderas del zoo en la Casa de Campo",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-aquarium-madrid-2.jpg": {
+   "park": "zoo-aquarium-madrid",
+   "ride": null,
+   "shows": "Rinoceronte blanco",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-aquarium-madrid-3.jpg": {
+   "park": "zoo-aquarium-madrid",
+   "ride": null,
+   "shows": "Hipopótamo",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-aquarium-madrid-portada.jpg": {
+   "park": "zoo-aquarium-madrid",
+   "ride": null,
+   "shows": "Panda gigante comiendo bambú",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoomarine-roma-1.jpg": {
+   "park": "zoomarine-roma",
+   "ride": null,
+   "shows": "Looping de la montaña rusa Vertigo entre árboles.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoomarine-roma-2.jpg": {
+   "park": "zoomarine-roma",
+   "ride": null,
+   "shows": "Delfín saltando en la piscina del estadio durante la demostración.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoomarine-roma-3.jpg": {
+   "park": "zoomarine-roma",
+   "ride": null,
+   "shows": "Piscina alargada de los pinnípedos con rocas artificiales y público.",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoomarine-roma-portada.jpg": {
+   "park": "zoomarine-roma",
+   "ride": null,
+   "shows": "Panorámica de la piscina de los delfines con las carpas blancas del parque al fondo.",
    "width": 1600,
    "height": 900,
    "orientation": "horizontal",
