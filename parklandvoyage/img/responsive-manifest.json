@@ -1017,6 +1017,220 @@
         ]
       }
     },
+    "aqualandia-1.jpg": {
+      "sha256": "a6b1162bd630659be06b5744020d5635e68940a14675d665d7aa77a98f3e883b",
+      "original_width": 989,
+      "original_height": 737,
+      "widths": [
+        480,
+        768,
+        989
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualandia-1/a6b1162bd630-w480.avif",
+            "width": 480,
+            "bytes": 26916
+          },
+          {
+            "file": "responsive/aqualandia-1/a6b1162bd630-w768.avif",
+            "width": 768,
+            "bytes": 59976
+          },
+          {
+            "file": "responsive/aqualandia-1/a6b1162bd630-w989.avif",
+            "width": 989,
+            "bytes": 100177
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualandia-1/a6b1162bd630-w480.webp",
+            "width": 480,
+            "bytes": 38578
+          },
+          {
+            "file": "responsive/aqualandia-1/a6b1162bd630-w768.webp",
+            "width": 768,
+            "bytes": 87440
+          },
+          {
+            "file": "responsive/aqualandia-1/a6b1162bd630-w989.webp",
+            "width": 989,
+            "bytes": 143656
+          }
+        ]
+      }
+    },
+    "aqualandia-2.jpg": {
+      "sha256": "51c97a71bb2fe9eea7461ea8875e6b45dcbb9a16dfe626a291abc178fbaafdd5",
+      "original_width": 683,
+      "original_height": 512,
+      "widths": [
+        480,
+        683
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualandia-2/51c97a71bb2f-w480.avif",
+            "width": 480,
+            "bytes": 8375
+          },
+          {
+            "file": "responsive/aqualandia-2/51c97a71bb2f-w683.avif",
+            "width": 683,
+            "bytes": 15733
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualandia-2/51c97a71bb2f-w480.webp",
+            "width": 480,
+            "bytes": 18342
+          },
+          {
+            "file": "responsive/aqualandia-2/51c97a71bb2f-w683.webp",
+            "width": 683,
+            "bytes": 35022
+          }
+        ]
+      }
+    },
+    "aqualandia-3.jpg": {
+      "sha256": "58a2536ee096deaa4f446fe5b6a0db9888ba9b0f7a8a44e56d04d29b2dd54240",
+      "original_width": 683,
+      "original_height": 512,
+      "widths": [
+        480,
+        683
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualandia-3/58a2536ee096-w480.avif",
+            "width": 480,
+            "bytes": 13833
+          },
+          {
+            "file": "responsive/aqualandia-3/58a2536ee096-w683.avif",
+            "width": 683,
+            "bytes": 25930
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualandia-3/58a2536ee096-w480.webp",
+            "width": 480,
+            "bytes": 26734
+          },
+          {
+            "file": "responsive/aqualandia-3/58a2536ee096-w683.webp",
+            "width": 683,
+            "bytes": 48794
+          }
+        ]
+      }
+    },
+    "aqualandia-portada.jpg": {
+      "sha256": "6f8e77e7f929db9ca5ea4684443868ee5471fae2839920b13eb9d40bec1bc945",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aqualandia-portada/6f8e77e7f929-w480.avif",
+            "width": 480,
+            "bytes": 13819
+          },
+          {
+            "file": "responsive/aqualandia-portada/6f8e77e7f929-w768.avif",
+            "width": 768,
+            "bytes": 33019
+          },
+          {
+            "file": "responsive/aqualandia-portada/6f8e77e7f929-w1200.avif",
+            "width": 1200,
+            "bytes": 79196
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aqualandia-portada/6f8e77e7f929-w480.webp",
+            "width": 480,
+            "bytes": 20364
+          },
+          {
+            "file": "responsive/aqualandia-portada/6f8e77e7f929-w768.webp",
+            "width": 768,
+            "bytes": 49134
+          },
+          {
+            "file": "responsive/aqualandia-portada/6f8e77e7f929-w1200.webp",
+            "width": 1200,
+            "bytes": 119848
+          }
+        ]
+      }
+    },
     "aquascope-futuroscope-banner.jpg": {
       "sha256": "e7ca76e87ff037cef44a53333f9c2970ee170aa14ed5049e3c8c5ac96d42bf8f",
       "original_width": 1600,
@@ -1721,6 +1935,242 @@
             "file": "responsive/beto-carrero-world-v2/c21a241ecf13-w1200.webp",
             "width": 1200,
             "bytes": 165288
+          }
+        ]
+      }
+    },
+    "bioparc-fuengirola-1.jpg": {
+      "sha256": "52b611608e6c79ce6a9ea5f1f4b9563b46cace667521ba7d71d22d3e27dcc2f6",
+      "original_width": 1200,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/bioparc-fuengirola-1/52b611608e6c-w480.avif",
+            "width": 480,
+            "bytes": 21919
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-1/52b611608e6c-w768.avif",
+            "width": 768,
+            "bytes": 54588
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-1/52b611608e6c-w1200.avif",
+            "width": 1200,
+            "bytes": 123424
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/bioparc-fuengirola-1/52b611608e6c-w480.webp",
+            "width": 480,
+            "bytes": 32874
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-1/52b611608e6c-w768.webp",
+            "width": 768,
+            "bytes": 81260
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-1/52b611608e6c-w1200.webp",
+            "width": 1200,
+            "bytes": 184942
+          }
+        ]
+      }
+    },
+    "bioparc-fuengirola-2.jpg": {
+      "sha256": "ad6609819063464caac0503f01242dae65224907deff72b16a210d66ff535314",
+      "original_width": 1200,
+      "original_height": 869,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/bioparc-fuengirola-2/ad6609819063-w480.avif",
+            "width": 480,
+            "bytes": 26589
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-2/ad6609819063-w768.avif",
+            "width": 768,
+            "bytes": 80320
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-2/ad6609819063-w1200.avif",
+            "width": 1200,
+            "bytes": 207443
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/bioparc-fuengirola-2/ad6609819063-w480.webp",
+            "width": 480,
+            "bytes": 38434
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-2/ad6609819063-w768.webp",
+            "width": 768,
+            "bytes": 111884
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-2/ad6609819063-w1200.webp",
+            "width": 1200,
+            "bytes": 289394
+          }
+        ]
+      }
+    },
+    "bioparc-fuengirola-3.jpg": {
+      "sha256": "5e13ebff5c6637fe943d2c049d09c5b534f82ef3df1130842ff90c50bb238777",
+      "original_width": 1200,
+      "original_height": 870,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/bioparc-fuengirola-3/5e13ebff5c66-w480.avif",
+            "width": 480,
+            "bytes": 17833
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-3/5e13ebff5c66-w768.avif",
+            "width": 768,
+            "bytes": 41289
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-3/5e13ebff5c66-w1200.avif",
+            "width": 1200,
+            "bytes": 112295
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/bioparc-fuengirola-3/5e13ebff5c66-w480.webp",
+            "width": 480,
+            "bytes": 30542
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-3/5e13ebff5c66-w768.webp",
+            "width": 768,
+            "bytes": 76262
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-3/5e13ebff5c66-w1200.webp",
+            "width": 1200,
+            "bytes": 180792
+          }
+        ]
+      }
+    },
+    "bioparc-fuengirola-portada.jpg": {
+      "sha256": "58179f4941ed04de1ad8f1df9bc2c21cf741887cb2f522156cdd9ac6b76611cf",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/bioparc-fuengirola-portada/58179f4941ed-w480.avif",
+            "width": 480,
+            "bytes": 21183
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-portada/58179f4941ed-w768.avif",
+            "width": 768,
+            "bytes": 46447
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-portada/58179f4941ed-w1200.avif",
+            "width": 1200,
+            "bytes": 95472
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/bioparc-fuengirola-portada/58179f4941ed-w480.webp",
+            "width": 480,
+            "bytes": 31082
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-portada/58179f4941ed-w768.webp",
+            "width": 768,
+            "bytes": 69566
+          },
+          {
+            "file": "responsive/bioparc-fuengirola-portada/58179f4941ed-w1200.webp",
+            "width": 1200,
+            "bytes": 151328
           }
         ]
       }
@@ -2842,6 +3292,183 @@
             "file": "responsive/canadas-wonderland-v2/c96e3673ad7e-w1200.webp",
             "width": 1200,
             "bytes": 115828
+          }
+        ]
+      }
+    },
+    "caribe-aquatic-park-1.jpg": {
+      "sha256": "c13a71ac694ec75e71d81266b0508cde79cb4abf58b6c5c5c1c2e89e29f7fe8c",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/caribe-aquatic-park-1/c13a71ac694e-w480.avif",
+            "width": 480,
+            "bytes": 16843
+          },
+          {
+            "file": "responsive/caribe-aquatic-park-1/c13a71ac694e-w768.avif",
+            "width": 768,
+            "bytes": 41101
+          },
+          {
+            "file": "responsive/caribe-aquatic-park-1/c13a71ac694e-w1200.avif",
+            "width": 1200,
+            "bytes": 97896
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/caribe-aquatic-park-1/c13a71ac694e-w480.webp",
+            "width": 480,
+            "bytes": 26840
+          },
+          {
+            "file": "responsive/caribe-aquatic-park-1/c13a71ac694e-w768.webp",
+            "width": 768,
+            "bytes": 64746
+          },
+          {
+            "file": "responsive/caribe-aquatic-park-1/c13a71ac694e-w1200.webp",
+            "width": 1200,
+            "bytes": 155440
+          }
+        ]
+      }
+    },
+    "caribe-aquatic-park-2.jpg": {
+      "sha256": "6e62a253b5f45cc3f95c1149424924103ec34eef927b2c86fe36faf38cbd2328",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/caribe-aquatic-park-2/6e62a253b5f4-w480.avif",
+            "width": 480,
+            "bytes": 25588
+          },
+          {
+            "file": "responsive/caribe-aquatic-park-2/6e62a253b5f4-w768.avif",
+            "width": 768,
+            "bytes": 56362
+          },
+          {
+            "file": "responsive/caribe-aquatic-park-2/6e62a253b5f4-w1200.avif",
+            "width": 1200,
+            "bytes": 123113
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/caribe-aquatic-park-2/6e62a253b5f4-w480.webp",
+            "width": 480,
+            "bytes": 37340
+          },
+          {
+            "file": "responsive/caribe-aquatic-park-2/6e62a253b5f4-w768.webp",
+            "width": 768,
+            "bytes": 84356
+          },
+          {
+            "file": "responsive/caribe-aquatic-park-2/6e62a253b5f4-w1200.webp",
+            "width": 1200,
+            "bytes": 188648
+          }
+        ]
+      }
+    },
+    "caribe-aquatic-park-portada.jpg": {
+      "sha256": "a829171238ed3238349690c5e5fe079235f7fd1c8728a07d86a7388ca5134b5f",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/caribe-aquatic-park-portada/a829171238ed-w480.avif",
+            "width": 480,
+            "bytes": 24699
+          },
+          {
+            "file": "responsive/caribe-aquatic-park-portada/a829171238ed-w768.avif",
+            "width": 768,
+            "bytes": 54001
+          },
+          {
+            "file": "responsive/caribe-aquatic-park-portada/a829171238ed-w1200.avif",
+            "width": 1200,
+            "bytes": 114026
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/caribe-aquatic-park-portada/a829171238ed-w480.webp",
+            "width": 480,
+            "bytes": 35548
+          },
+          {
+            "file": "responsive/caribe-aquatic-park-portada/a829171238ed-w768.webp",
+            "width": 768,
+            "bytes": 80080
+          },
+          {
+            "file": "responsive/caribe-aquatic-park-portada/a829171238ed-w1200.webp",
+            "width": 1200,
+            "bytes": 174798
           }
         ]
       }
@@ -17172,6 +17799,242 @@
         ]
       }
     },
+    "mundomar-1.jpg": {
+      "sha256": "b086c77c48850a46e94a464696aedec2df9c3623a178067233b68ad56d6e727c",
+      "original_width": 1200,
+      "original_height": 897,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/mundomar-1/b086c77c4885-w480.avif",
+            "width": 480,
+            "bytes": 21854
+          },
+          {
+            "file": "responsive/mundomar-1/b086c77c4885-w768.avif",
+            "width": 768,
+            "bytes": 56602
+          },
+          {
+            "file": "responsive/mundomar-1/b086c77c4885-w1200.avif",
+            "width": 1200,
+            "bytes": 138691
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/mundomar-1/b086c77c4885-w480.webp",
+            "width": 480,
+            "bytes": 35456
+          },
+          {
+            "file": "responsive/mundomar-1/b086c77c4885-w768.webp",
+            "width": 768,
+            "bytes": 90682
+          },
+          {
+            "file": "responsive/mundomar-1/b086c77c4885-w1200.webp",
+            "width": 1200,
+            "bytes": 217796
+          }
+        ]
+      }
+    },
+    "mundomar-2.jpg": {
+      "sha256": "be80e2115f189910504817cee976c11e9b779ce4f3090bcaf4cf88cbee9c5438",
+      "original_width": 1200,
+      "original_height": 899,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/mundomar-2/be80e2115f18-w480.avif",
+            "width": 480,
+            "bytes": 24914
+          },
+          {
+            "file": "responsive/mundomar-2/be80e2115f18-w768.avif",
+            "width": 768,
+            "bytes": 55734
+          },
+          {
+            "file": "responsive/mundomar-2/be80e2115f18-w1200.avif",
+            "width": 1200,
+            "bytes": 126529
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/mundomar-2/be80e2115f18-w480.webp",
+            "width": 480,
+            "bytes": 38904
+          },
+          {
+            "file": "responsive/mundomar-2/be80e2115f18-w768.webp",
+            "width": 768,
+            "bytes": 90136
+          },
+          {
+            "file": "responsive/mundomar-2/be80e2115f18-w1200.webp",
+            "width": 1200,
+            "bytes": 203630
+          }
+        ]
+      }
+    },
+    "mundomar-3.jpg": {
+      "sha256": "a6d0c99836ac0bb957aa229a1647742fe60a81b74891af5a356ca349ba9adcec",
+      "original_width": 1200,
+      "original_height": 901,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/mundomar-3/a6d0c99836ac-w480.avif",
+            "width": 480,
+            "bytes": 23717
+          },
+          {
+            "file": "responsive/mundomar-3/a6d0c99836ac-w768.avif",
+            "width": 768,
+            "bytes": 60203
+          },
+          {
+            "file": "responsive/mundomar-3/a6d0c99836ac-w1200.avif",
+            "width": 1200,
+            "bytes": 144380
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/mundomar-3/a6d0c99836ac-w480.webp",
+            "width": 480,
+            "bytes": 41180
+          },
+          {
+            "file": "responsive/mundomar-3/a6d0c99836ac-w768.webp",
+            "width": 768,
+            "bytes": 102506
+          },
+          {
+            "file": "responsive/mundomar-3/a6d0c99836ac-w1200.webp",
+            "width": 1200,
+            "bytes": 236814
+          }
+        ]
+      }
+    },
+    "mundomar-portada.jpg": {
+      "sha256": "85efff48f12b0374bf76cf19e8cdb62fc3590c46700638e32b225aff0a4c0028",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/mundomar-portada/85efff48f12b-w480.avif",
+            "width": 480,
+            "bytes": 20645
+          },
+          {
+            "file": "responsive/mundomar-portada/85efff48f12b-w768.avif",
+            "width": 768,
+            "bytes": 50496
+          },
+          {
+            "file": "responsive/mundomar-portada/85efff48f12b-w1200.avif",
+            "width": 1200,
+            "bytes": 117115
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/mundomar-portada/85efff48f12b-w480.webp",
+            "width": 480,
+            "bytes": 32874
+          },
+          {
+            "file": "responsive/mundomar-portada/85efff48f12b-w768.webp",
+            "width": 768,
+            "bytes": 80642
+          },
+          {
+            "file": "responsive/mundomar-portada/85efff48f12b-w1200.webp",
+            "width": 1200,
+            "bytes": 191244
+          }
+        ]
+      }
+    },
     "nara-dreamland-abandonado-2014.jpg": {
       "sha256": "8eef6f70fb39e7549e2712e86121a78819995254af6775a92b871357e334e60a",
       "original_width": 1600,
@@ -23481,6 +24344,478 @@
             "file": "responsive/secretos-tuneles/5038a310e39f-w1200.webp",
             "width": 1200,
             "bytes": 103056
+          }
+        ]
+      }
+    },
+    "selwo-aventura-1.jpg": {
+      "sha256": "3d8610a916a2f69a7a82d1712d118ab97ba1c3b1648967647f91cacb11b9bd7f",
+      "original_width": 1200,
+      "original_height": 676,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/selwo-aventura-1/3d8610a916a2-w480.avif",
+            "width": 480,
+            "bytes": 24561
+          },
+          {
+            "file": "responsive/selwo-aventura-1/3d8610a916a2-w768.avif",
+            "width": 768,
+            "bytes": 63775
+          },
+          {
+            "file": "responsive/selwo-aventura-1/3d8610a916a2-w1200.avif",
+            "width": 1200,
+            "bytes": 160897
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/selwo-aventura-1/3d8610a916a2-w480.webp",
+            "width": 480,
+            "bytes": 34738
+          },
+          {
+            "file": "responsive/selwo-aventura-1/3d8610a916a2-w768.webp",
+            "width": 768,
+            "bytes": 88600
+          },
+          {
+            "file": "responsive/selwo-aventura-1/3d8610a916a2-w1200.webp",
+            "width": 1200,
+            "bytes": 221130
+          }
+        ]
+      }
+    },
+    "selwo-aventura-2.jpg": {
+      "sha256": "96ada5913e1fda9935adffae1559decf96a2e7217693843d86e91b31b550a443",
+      "original_width": 1200,
+      "original_height": 676,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/selwo-aventura-2/96ada5913e1f-w480.avif",
+            "width": 480,
+            "bytes": 32982
+          },
+          {
+            "file": "responsive/selwo-aventura-2/96ada5913e1f-w768.avif",
+            "width": 768,
+            "bytes": 90050
+          },
+          {
+            "file": "responsive/selwo-aventura-2/96ada5913e1f-w1200.avif",
+            "width": 1200,
+            "bytes": 223501
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/selwo-aventura-2/96ada5913e1f-w480.webp",
+            "width": 480,
+            "bytes": 44134
+          },
+          {
+            "file": "responsive/selwo-aventura-2/96ada5913e1f-w768.webp",
+            "width": 768,
+            "bytes": 117736
+          },
+          {
+            "file": "responsive/selwo-aventura-2/96ada5913e1f-w1200.webp",
+            "width": 1200,
+            "bytes": 299566
+          }
+        ]
+      }
+    },
+    "selwo-aventura-3.jpg": {
+      "sha256": "1e9454f476f3ae582a5e53a85c05405d4af5d01a6ee398c2310017167df8879d",
+      "original_width": 1200,
+      "original_height": 676,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/selwo-aventura-3/1e9454f476f3-w480.avif",
+            "width": 480,
+            "bytes": 19576
+          },
+          {
+            "file": "responsive/selwo-aventura-3/1e9454f476f3-w768.avif",
+            "width": 768,
+            "bytes": 49606
+          },
+          {
+            "file": "responsive/selwo-aventura-3/1e9454f476f3-w1200.avif",
+            "width": 1200,
+            "bytes": 121424
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/selwo-aventura-3/1e9454f476f3-w480.webp",
+            "width": 480,
+            "bytes": 28766
+          },
+          {
+            "file": "responsive/selwo-aventura-3/1e9454f476f3-w768.webp",
+            "width": 768,
+            "bytes": 72518
+          },
+          {
+            "file": "responsive/selwo-aventura-3/1e9454f476f3-w1200.webp",
+            "width": 1200,
+            "bytes": 176532
+          }
+        ]
+      }
+    },
+    "selwo-aventura-portada.jpg": {
+      "sha256": "56a356864d7fbd647c420ca34a18ed011e4fb1befb97eeb0216ed692433a0c6e",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/selwo-aventura-portada/56a356864d7f-w480.avif",
+            "width": 480,
+            "bytes": 26680
+          },
+          {
+            "file": "responsive/selwo-aventura-portada/56a356864d7f-w768.avif",
+            "width": 768,
+            "bytes": 75649
+          },
+          {
+            "file": "responsive/selwo-aventura-portada/56a356864d7f-w1200.avif",
+            "width": 1200,
+            "bytes": 208011
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/selwo-aventura-portada/56a356864d7f-w480.webp",
+            "width": 480,
+            "bytes": 36468
+          },
+          {
+            "file": "responsive/selwo-aventura-portada/56a356864d7f-w768.webp",
+            "width": 768,
+            "bytes": 99484
+          },
+          {
+            "file": "responsive/selwo-aventura-portada/56a356864d7f-w1200.webp",
+            "width": 1200,
+            "bytes": 267044
+          }
+        ]
+      }
+    },
+    "selwo-marina-1.jpg": {
+      "sha256": "a64a597dd04684286cbdadceddfe1be6e1a89810fa30ca1a2e66a15e0ec5fe18",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/selwo-marina-1/a64a597dd046-w480.avif",
+            "width": 480,
+            "bytes": 20838
+          },
+          {
+            "file": "responsive/selwo-marina-1/a64a597dd046-w768.avif",
+            "width": 768,
+            "bytes": 55068
+          },
+          {
+            "file": "responsive/selwo-marina-1/a64a597dd046-w1200.avif",
+            "width": 1200,
+            "bytes": 146746
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/selwo-marina-1/a64a597dd046-w480.webp",
+            "width": 480,
+            "bytes": 36812
+          },
+          {
+            "file": "responsive/selwo-marina-1/a64a597dd046-w768.webp",
+            "width": 768,
+            "bytes": 97166
+          },
+          {
+            "file": "responsive/selwo-marina-1/a64a597dd046-w1200.webp",
+            "width": 1200,
+            "bytes": 238856
+          }
+        ]
+      }
+    },
+    "selwo-marina-2.jpg": {
+      "sha256": "b9964278fd575afed714af2238ee495d9f7d1ca5a5dc5d71b1c99d474a92cb1f",
+      "original_width": 1200,
+      "original_height": 895,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/selwo-marina-2/b9964278fd57-w480.avif",
+            "width": 480,
+            "bytes": 27660
+          },
+          {
+            "file": "responsive/selwo-marina-2/b9964278fd57-w768.avif",
+            "width": 768,
+            "bytes": 66751
+          },
+          {
+            "file": "responsive/selwo-marina-2/b9964278fd57-w1200.avif",
+            "width": 1200,
+            "bytes": 143343
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/selwo-marina-2/b9964278fd57-w480.webp",
+            "width": 480,
+            "bytes": 41740
+          },
+          {
+            "file": "responsive/selwo-marina-2/b9964278fd57-w768.webp",
+            "width": 768,
+            "bytes": 99808
+          },
+          {
+            "file": "responsive/selwo-marina-2/b9964278fd57-w1200.webp",
+            "width": 1200,
+            "bytes": 218470
+          }
+        ]
+      }
+    },
+    "selwo-marina-3.jpg": {
+      "sha256": "c234a80a098c9591f6dd7063b95042493e4f4dda5a47c665175d0bcbcda10995",
+      "original_width": 1200,
+      "original_height": 930,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/selwo-marina-3/c234a80a098c-w480.avif",
+            "width": 480,
+            "bytes": 14903
+          },
+          {
+            "file": "responsive/selwo-marina-3/c234a80a098c-w768.avif",
+            "width": 768,
+            "bytes": 35872
+          },
+          {
+            "file": "responsive/selwo-marina-3/c234a80a098c-w1200.avif",
+            "width": 1200,
+            "bytes": 83325
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/selwo-marina-3/c234a80a098c-w480.webp",
+            "width": 480,
+            "bytes": 26502
+          },
+          {
+            "file": "responsive/selwo-marina-3/c234a80a098c-w768.webp",
+            "width": 768,
+            "bytes": 66768
+          },
+          {
+            "file": "responsive/selwo-marina-3/c234a80a098c-w1200.webp",
+            "width": 1200,
+            "bytes": 148074
+          }
+        ]
+      }
+    },
+    "selwo-marina-portada.jpg": {
+      "sha256": "6f7ed2f58648133e775b55d060dab4f97ebdc64b2a4ac2d524b93d2c377dd091",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/selwo-marina-portada/6f7ed2f58648-w480.avif",
+            "width": 480,
+            "bytes": 12337
+          },
+          {
+            "file": "responsive/selwo-marina-portada/6f7ed2f58648-w768.avif",
+            "width": 768,
+            "bytes": 22260
+          },
+          {
+            "file": "responsive/selwo-marina-portada/6f7ed2f58648-w1200.avif",
+            "width": 1200,
+            "bytes": 35837
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/selwo-marina-portada/6f7ed2f58648-w480.webp",
+            "width": 480,
+            "bytes": 19978
+          },
+          {
+            "file": "responsive/selwo-marina-portada/6f7ed2f58648-w768.webp",
+            "width": 768,
+            "bytes": 38328
+          },
+          {
+            "file": "responsive/selwo-marina-portada/6f7ed2f58648-w1200.webp",
+            "width": 1200,
+            "bytes": 69740
           }
         ]
       }
@@ -30329,6 +31664,242 @@
         ]
       }
     },
+    "terra-natura-benidorm-1.jpg": {
+      "sha256": "34993b07199d832077f08388bef06368c88670fb243e01ca38d623fdaab4d282",
+      "original_width": 1200,
+      "original_height": 817,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/terra-natura-benidorm-1/34993b07199d-w480.avif",
+            "width": 480,
+            "bytes": 8841
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-1/34993b07199d-w768.avif",
+            "width": 768,
+            "bytes": 18897
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-1/34993b07199d-w1200.avif",
+            "width": 1200,
+            "bytes": 41609
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/terra-natura-benidorm-1/34993b07199d-w480.webp",
+            "width": 480,
+            "bytes": 16350
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-1/34993b07199d-w768.webp",
+            "width": 768,
+            "bytes": 37350
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-1/34993b07199d-w1200.webp",
+            "width": 1200,
+            "bytes": 87766
+          }
+        ]
+      }
+    },
+    "terra-natura-benidorm-2.jpg": {
+      "sha256": "56130be6b463e3c2ceec225b1a4351150791cca52a11ecd2e58fd8d2aeb438f4",
+      "original_width": 1200,
+      "original_height": 807,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/terra-natura-benidorm-2/56130be6b463-w480.avif",
+            "width": 480,
+            "bytes": 20916
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-2/56130be6b463-w768.avif",
+            "width": 768,
+            "bytes": 51615
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-2/56130be6b463-w1200.avif",
+            "width": 1200,
+            "bytes": 118552
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/terra-natura-benidorm-2/56130be6b463-w480.webp",
+            "width": 480,
+            "bytes": 35472
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-2/56130be6b463-w768.webp",
+            "width": 768,
+            "bytes": 85068
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-2/56130be6b463-w1200.webp",
+            "width": 1200,
+            "bytes": 193418
+          }
+        ]
+      }
+    },
+    "terra-natura-benidorm-3.jpg": {
+      "sha256": "6fb5e16bfe666f80221fb027585d2a201fbfb0135fd7ca60a6deccfd54ae994b",
+      "original_width": 1200,
+      "original_height": 848,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/terra-natura-benidorm-3/6fb5e16bfe66-w480.avif",
+            "width": 480,
+            "bytes": 22697
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-3/6fb5e16bfe66-w768.avif",
+            "width": 768,
+            "bytes": 68609
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-3/6fb5e16bfe66-w1200.avif",
+            "width": 1200,
+            "bytes": 174973
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/terra-natura-benidorm-3/6fb5e16bfe66-w480.webp",
+            "width": 480,
+            "bytes": 36368
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-3/6fb5e16bfe66-w768.webp",
+            "width": 768,
+            "bytes": 100388
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-3/6fb5e16bfe66-w1200.webp",
+            "width": 1200,
+            "bytes": 254172
+          }
+        ]
+      }
+    },
+    "terra-natura-benidorm-portada.jpg": {
+      "sha256": "7390bddf608ed45943f2cc754535e889fba30145b8877adb545178a688d296db",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/terra-natura-benidorm-portada/7390bddf608e-w480.avif",
+            "width": 480,
+            "bytes": 21320
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-portada/7390bddf608e-w768.avif",
+            "width": 768,
+            "bytes": 64017
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-portada/7390bddf608e-w1200.avif",
+            "width": 1200,
+            "bytes": 183797
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/terra-natura-benidorm-portada/7390bddf608e-w480.webp",
+            "width": 480,
+            "bytes": 30322
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-portada/7390bddf608e-w768.webp",
+            "width": 768,
+            "bytes": 83812
+          },
+          {
+            "file": "responsive/terra-natura-benidorm-portada/7390bddf608e-w1200.webp",
+            "width": 1200,
+            "bytes": 235056
+          }
+        ]
+      }
+    },
     "thorpe-park-1.jpg": {
       "sha256": "154dff9b159965c990a77944ff9e91e268275d844b802f102d81f8bfeb04e501",
       "original_width": 1200,
@@ -34750,6 +36321,124 @@
             "file": "responsive/walt-disney-world-orlando/0c5ca5add2d4-w1200.webp",
             "width": 1200,
             "bytes": 162658
+          }
+        ]
+      }
+    },
+    "water-world-lloret-1.jpg": {
+      "sha256": "b86b56c3bbd012aa1f40ffc20108253a5b26f829037186fbd79695282fdc28ef",
+      "original_width": 1024,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1024
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/water-world-lloret-1/b86b56c3bbd0-w480.avif",
+            "width": 480,
+            "bytes": 10683
+          },
+          {
+            "file": "responsive/water-world-lloret-1/b86b56c3bbd0-w768.avif",
+            "width": 768,
+            "bytes": 22497
+          },
+          {
+            "file": "responsive/water-world-lloret-1/b86b56c3bbd0-w1024.avif",
+            "width": 1024,
+            "bytes": 43968
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/water-world-lloret-1/b86b56c3bbd0-w480.webp",
+            "width": 480,
+            "bytes": 19580
+          },
+          {
+            "file": "responsive/water-world-lloret-1/b86b56c3bbd0-w768.webp",
+            "width": 768,
+            "bytes": 42876
+          },
+          {
+            "file": "responsive/water-world-lloret-1/b86b56c3bbd0-w1024.webp",
+            "width": 1024,
+            "bytes": 78970
+          }
+        ]
+      }
+    },
+    "water-world-lloret-portada.jpg": {
+      "sha256": "fbcf9683292048aa44bc26073c6edf9b78eea2bdaf21966d3cb5ae87a75f99d1",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/water-world-lloret-portada/fbcf96832920-w480.avif",
+            "width": 480,
+            "bytes": 10025
+          },
+          {
+            "file": "responsive/water-world-lloret-portada/fbcf96832920-w768.avif",
+            "width": 768,
+            "bytes": 19683
+          },
+          {
+            "file": "responsive/water-world-lloret-portada/fbcf96832920-w1200.avif",
+            "width": 1200,
+            "bytes": 34088
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/water-world-lloret-portada/fbcf96832920-w480.webp",
+            "width": 480,
+            "bytes": 17520
+          },
+          {
+            "file": "responsive/water-world-lloret-portada/fbcf96832920-w768.webp",
+            "width": 768,
+            "bytes": 35430
+          },
+          {
+            "file": "responsive/water-world-lloret-portada/fbcf96832920-w1200.webp",
+            "width": 1200,
+            "bytes": 66282
           }
         ]
       }
