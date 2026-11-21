@@ -14235,6 +14235,409 @@
    "uses": [
     "guia"
    ]
+  },
+  "hansa-park-portada.jpg": {
+   "park": "hansa-park",
+   "ride": null,
+   "shows": "Vista aérea/panorámica de Sierksdorf y el parque con el KÄRNAN junto al mar",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hansa-park-1.jpg": {
+   "park": "hansa-park",
+   "ride": null,
+   "shows": "Torre HIGHLANDER vista en gran angular desde la cola",
+   "width": 1200,
+   "height": 676,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hansa-park-2.jpg": {
+   "park": "hansa-park",
+   "ride": null,
+   "shows": "Montaña rusa Der Schwur des KÄRNAN",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "hansa-park-3.jpg": {
+   "park": "hansa-park",
+   "ride": null,
+   "shows": "Blumenmeer-Bootsfahrt iluminada durante el Herbstzauber am Meer",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-deutschland-portada.jpg": {
+   "park": "legoland-deutschland",
+   "ride": null,
+   "shows": "Castillo de Neuschwanstein en MINILAND",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-deutschland-1.jpg": {
+   "park": "legoland-deutschland",
+   "ride": null,
+   "shows": "Berlín en MINILAND",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-deutschland-2.jpg": {
+   "park": "legoland-deutschland",
+   "ride": null,
+   "shows": "Käpt'n Nicks Piratenschlacht (batalla de agua)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-deutschland-3.jpg": {
+   "park": "legoland-deutschland",
+   "ride": null,
+   "shows": "Atracción acuática Dschungel X-pedition",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "movie-park-germany-portada.jpg": {
+   "park": "movie-park-germany",
+   "ride": null,
+   "shows": "Calle temática The Hollywood Street Set",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "movie-park-germany-1.jpg": {
+   "park": "movie-park-germany",
+   "ride": null,
+   "shows": "Star Trek: Operation Enterprise",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "movie-park-germany-2.jpg": {
+   "park": "movie-park-germany",
+   "ride": null,
+   "shows": "N.Y.C. Transformer (Streets of New York)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "movie-park-germany-3.jpg": {
+   "park": "movie-park-germany",
+   "ride": null,
+   "shows": "Avatar Air Glider (Nickelodeon Land)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-leipzig-portada.jpg": {
+   "park": "zoo-leipzig",
+   "ride": null,
+   "shows": "Interior de Gondwanaland: selva bajo la gran cubierta",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-leipzig-1.jpg": {
+   "park": "zoo-leipzig",
+   "ride": null,
+   "shows": "Vegetación y pasarela en Gondwanaland",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-leipzig-2.jpg": {
+   "park": "zoo-leipzig",
+   "ride": null,
+   "shows": "Recinto acuático con rocas y gradas (parece Feuerland / leones marinos; Commons no lo especifica)",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-leipzig-3.jpg": {
+   "park": "zoo-leipzig",
+   "ride": null,
+   "shows": "Hojas de platanera bajo la cubierta de Gondwanaland",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "mirabilandia-portada.jpg": {
+   "park": "mirabilandia",
+   "ride": null,
+   "shows": "Katun y la ambientación maya de Adventureland (vista general de la zona)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "mirabilandia-1.jpg": {
+   "park": "mirabilandia",
+   "ride": null,
+   "shows": "Panorámica con la zona de Katun (foto panorámica muy ancha)",
+   "width": 1200,
+   "height": 469,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "mirabilandia-2.jpg": {
+   "park": "mirabilandia",
+   "ride": null,
+   "shows": "Caída de Katun, la montaña rusa invertida",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "mirabilandia-3.jpg": {
+   "park": "mirabilandia",
+   "ride": null,
+   "shows": "iSpeed, la montaña rusa lanzada de Route 66",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "leolandia-portada.jpg": {
+   "park": "leolandia",
+   "ride": null,
+   "shows": "Vista panorámica del parque desde la noria (2023)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "leolandia-1.jpg": {
+   "park": "leolandia",
+   "ride": null,
+   "shows": "Minitalia: maqueta del Duomo de Milán",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "leolandia-2.jpg": {
+   "park": "leolandia",
+   "ride": null,
+   "shows": "Entrada del Mine Train en Cowboy Town",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "leolandia-3.jpg": {
+   "park": "leolandia",
+   "ride": null,
+   "shows": "Noria con góndolas de carreta del oeste (Cowboy Town)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cinecitta-world-portada.jpg": {
+   "park": "cinecitta-world",
+   "ride": null,
+   "shows": "Montaña rusa Altair en Spaceland",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cinecitta-world-1.jpg": {
+   "park": "cinecitta-world",
+   "ride": null,
+   "shows": "Portal de entrada del parque con animadores (formato cuadrado)",
+   "width": 1200,
+   "height": 1200,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cinecitta-world-2.jpg": {
+   "park": "cinecitta-world",
+   "ride": null,
+   "shows": "Aqua World, la zona acuática vecina (piscina Paradiso)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "rainbow-magicland-portada.jpg": {
+   "park": "rainbow-magicland",
+   "ride": null,
+   "shows": "Vista general del parque con la montaña rusa Shock en primer plano (2011)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "rainbow-magicland-1.jpg": {
+   "park": "rainbow-magicland",
+   "ride": null,
+   "shows": "Panorámica del parque desde la Isola Volante (2011)",
+   "width": 1200,
+   "height": 561,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "rainbow-magicland-2.jpg": {
+   "park": "rainbow-magicland",
+   "ride": null,
+   "shows": "Le Rapide, rápidos en balsa",
+   "width": 1200,
+   "height": 797,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "rainbow-magicland-3.jpg": {
+   "park": "rainbow-magicland",
+   "ride": null,
+   "shows": "Torre de caída Mystika (vertical)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }

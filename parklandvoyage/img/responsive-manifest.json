@@ -8783,6 +8783,183 @@
         ]
       }
     },
+    "cinecitta-world-1.jpg": {
+      "sha256": "c3f3a6591169e4b24f80508220506f5320dcba491115b585084755abeaa872b4",
+      "original_width": 1200,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/cinecitta-world-1/c3f3a6591169-w480.avif",
+            "width": 480,
+            "bytes": 26745
+          },
+          {
+            "file": "responsive/cinecitta-world-1/c3f3a6591169-w768.avif",
+            "width": 768,
+            "bytes": 54679
+          },
+          {
+            "file": "responsive/cinecitta-world-1/c3f3a6591169-w1200.avif",
+            "width": 1200,
+            "bytes": 129265
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/cinecitta-world-1/c3f3a6591169-w480.webp",
+            "width": 480,
+            "bytes": 41886
+          },
+          {
+            "file": "responsive/cinecitta-world-1/c3f3a6591169-w768.webp",
+            "width": 768,
+            "bytes": 94724
+          },
+          {
+            "file": "responsive/cinecitta-world-1/c3f3a6591169-w1200.webp",
+            "width": 1200,
+            "bytes": 223648
+          }
+        ]
+      }
+    },
+    "cinecitta-world-2.jpg": {
+      "sha256": "34f7897a60ae58ac4b172ab3df8e896daab9b19f861517251d8ede6977b0708b",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/cinecitta-world-2/34f7897a60ae-w480.avif",
+            "width": 480,
+            "bytes": 30782
+          },
+          {
+            "file": "responsive/cinecitta-world-2/34f7897a60ae-w768.avif",
+            "width": 768,
+            "bytes": 81099
+          },
+          {
+            "file": "responsive/cinecitta-world-2/34f7897a60ae-w1200.avif",
+            "width": 1200,
+            "bytes": 205696
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/cinecitta-world-2/34f7897a60ae-w480.webp",
+            "width": 480,
+            "bytes": 43428
+          },
+          {
+            "file": "responsive/cinecitta-world-2/34f7897a60ae-w768.webp",
+            "width": 768,
+            "bytes": 111644
+          },
+          {
+            "file": "responsive/cinecitta-world-2/34f7897a60ae-w1200.webp",
+            "width": 1200,
+            "bytes": 280302
+          }
+        ]
+      }
+    },
+    "cinecitta-world-portada.jpg": {
+      "sha256": "275445946cd8d64bd30cd5094fd07e7b03d0f3849f89506e68ee754c2ebdcb43",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/cinecitta-world-portada/275445946cd8-w480.avif",
+            "width": 480,
+            "bytes": 10181
+          },
+          {
+            "file": "responsive/cinecitta-world-portada/275445946cd8-w768.avif",
+            "width": 768,
+            "bytes": 20787
+          },
+          {
+            "file": "responsive/cinecitta-world-portada/275445946cd8-w1200.avif",
+            "width": 1200,
+            "bytes": 38758
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/cinecitta-world-portada/275445946cd8-w480.webp",
+            "width": 480,
+            "bytes": 17110
+          },
+          {
+            "file": "responsive/cinecitta-world-portada/275445946cd8-w768.webp",
+            "width": 768,
+            "bytes": 35650
+          },
+          {
+            "file": "responsive/cinecitta-world-portada/275445946cd8-w1200.webp",
+            "width": 1200,
+            "bytes": 71142
+          }
+        ]
+      }
+    },
     "club-33-disneyland-bar.jpg": {
       "sha256": "a7e8287918158ae667060ed4cca02df1dfc48acb398348153e5e43ae436cccd5",
       "original_width": 1600,
@@ -21232,6 +21409,242 @@
         ]
       }
     },
+    "hansa-park-1.jpg": {
+      "sha256": "ddb04742e1463a932cf6d30dd0ba79f3c971c816853111377fe254607bc209ad",
+      "original_width": 1200,
+      "original_height": 676,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hansa-park-1/ddb04742e146-w480.avif",
+            "width": 480,
+            "bytes": 10891
+          },
+          {
+            "file": "responsive/hansa-park-1/ddb04742e146-w768.avif",
+            "width": 768,
+            "bytes": 22100
+          },
+          {
+            "file": "responsive/hansa-park-1/ddb04742e146-w1200.avif",
+            "width": 1200,
+            "bytes": 47058
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hansa-park-1/ddb04742e146-w480.webp",
+            "width": 480,
+            "bytes": 18942
+          },
+          {
+            "file": "responsive/hansa-park-1/ddb04742e146-w768.webp",
+            "width": 768,
+            "bytes": 39866
+          },
+          {
+            "file": "responsive/hansa-park-1/ddb04742e146-w1200.webp",
+            "width": 1200,
+            "bytes": 84066
+          }
+        ]
+      }
+    },
+    "hansa-park-2.jpg": {
+      "sha256": "f88bb58f7cd6012cfb03dcbe6fe0c29f1b1a7e63124b2ec6e5a7f384a5c06e88",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hansa-park-2/f88bb58f7cd6-w480.avif",
+            "width": 480,
+            "bytes": 21205
+          },
+          {
+            "file": "responsive/hansa-park-2/f88bb58f7cd6-w768.avif",
+            "width": 768,
+            "bytes": 55199
+          },
+          {
+            "file": "responsive/hansa-park-2/f88bb58f7cd6-w1200.avif",
+            "width": 1200,
+            "bytes": 140397
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hansa-park-2/f88bb58f7cd6-w480.webp",
+            "width": 480,
+            "bytes": 30630
+          },
+          {
+            "file": "responsive/hansa-park-2/f88bb58f7cd6-w768.webp",
+            "width": 768,
+            "bytes": 76584
+          },
+          {
+            "file": "responsive/hansa-park-2/f88bb58f7cd6-w1200.webp",
+            "width": 1200,
+            "bytes": 193568
+          }
+        ]
+      }
+    },
+    "hansa-park-3.jpg": {
+      "sha256": "f316c0af66f2a7c29db37ed928ef184e8bfbbe1d4bc286e85600b7b8df5f0196",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hansa-park-3/f316c0af66f2-w480.avif",
+            "width": 480,
+            "bytes": 52017
+          },
+          {
+            "file": "responsive/hansa-park-3/f316c0af66f2-w768.avif",
+            "width": 768,
+            "bytes": 144847
+          },
+          {
+            "file": "responsive/hansa-park-3/f316c0af66f2-w1200.avif",
+            "width": 1200,
+            "bytes": 357297
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hansa-park-3/f316c0af66f2-w480.webp",
+            "width": 480,
+            "bytes": 68858
+          },
+          {
+            "file": "responsive/hansa-park-3/f316c0af66f2-w768.webp",
+            "width": 768,
+            "bytes": 185480
+          },
+          {
+            "file": "responsive/hansa-park-3/f316c0af66f2-w1200.webp",
+            "width": 1200,
+            "bytes": 476096
+          }
+        ]
+      }
+    },
+    "hansa-park-portada.jpg": {
+      "sha256": "5fc2c493bb3fa145e5aaa47d20be3bb17b10eadcb398139d0110b9468c75619c",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/hansa-park-portada/5fc2c493bb3f-w480.avif",
+            "width": 480,
+            "bytes": 11571
+          },
+          {
+            "file": "responsive/hansa-park-portada/5fc2c493bb3f-w768.avif",
+            "width": 768,
+            "bytes": 31192
+          },
+          {
+            "file": "responsive/hansa-park-portada/5fc2c493bb3f-w1200.avif",
+            "width": 1200,
+            "bytes": 82462
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/hansa-park-portada/5fc2c493bb3f-w480.webp",
+            "width": 480,
+            "bytes": 19228
+          },
+          {
+            "file": "responsive/hansa-park-portada/5fc2c493bb3f-w768.webp",
+            "width": 768,
+            "bytes": 51166
+          },
+          {
+            "file": "responsive/hansa-park-portada/5fc2c493bb3f-w1200.webp",
+            "width": 1200,
+            "bytes": 130840
+          }
+        ]
+      }
+    },
     "heide-park-1.jpg": {
       "sha256": "a85841c21f3b53853d44f3e079b4587436f39f29a10afa667b2c32a2590d68b1",
       "original_width": 1200,
@@ -27191,6 +27604,242 @@
         ]
       }
     },
+    "legoland-deutschland-1.jpg": {
+      "sha256": "3b5cbeb7a5234857059727c4d4ed9a8aa759743a3c932c593bf2892d95165d02",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-deutschland-1/3b5cbeb7a523-w480.avif",
+            "width": 480,
+            "bytes": 31413
+          },
+          {
+            "file": "responsive/legoland-deutschland-1/3b5cbeb7a523-w768.avif",
+            "width": 768,
+            "bytes": 85928
+          },
+          {
+            "file": "responsive/legoland-deutschland-1/3b5cbeb7a523-w1200.avif",
+            "width": 1200,
+            "bytes": 223138
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-deutschland-1/3b5cbeb7a523-w480.webp",
+            "width": 480,
+            "bytes": 44748
+          },
+          {
+            "file": "responsive/legoland-deutschland-1/3b5cbeb7a523-w768.webp",
+            "width": 768,
+            "bytes": 117516
+          },
+          {
+            "file": "responsive/legoland-deutschland-1/3b5cbeb7a523-w1200.webp",
+            "width": 1200,
+            "bytes": 305302
+          }
+        ]
+      }
+    },
+    "legoland-deutschland-2.jpg": {
+      "sha256": "025008f6b229be9e988533a478d1d1ad3151fca0a363e20724f7554bba002af9",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-deutschland-2/025008f6b229-w480.avif",
+            "width": 480,
+            "bytes": 24807
+          },
+          {
+            "file": "responsive/legoland-deutschland-2/025008f6b229-w768.avif",
+            "width": 768,
+            "bytes": 72802
+          },
+          {
+            "file": "responsive/legoland-deutschland-2/025008f6b229-w1200.avif",
+            "width": 1200,
+            "bytes": 207468
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-deutschland-2/025008f6b229-w480.webp",
+            "width": 480,
+            "bytes": 36152
+          },
+          {
+            "file": "responsive/legoland-deutschland-2/025008f6b229-w768.webp",
+            "width": 768,
+            "bytes": 99074
+          },
+          {
+            "file": "responsive/legoland-deutschland-2/025008f6b229-w1200.webp",
+            "width": 1200,
+            "bytes": 273246
+          }
+        ]
+      }
+    },
+    "legoland-deutschland-3.jpg": {
+      "sha256": "8a647456891c8785224c46217a754d6b37ae6fb5f7ee66543c5b32793a3b2356",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-deutschland-3/8a647456891c-w480.avif",
+            "width": 480,
+            "bytes": 20715
+          },
+          {
+            "file": "responsive/legoland-deutschland-3/8a647456891c-w768.avif",
+            "width": 768,
+            "bytes": 46746
+          },
+          {
+            "file": "responsive/legoland-deutschland-3/8a647456891c-w1200.avif",
+            "width": 1200,
+            "bytes": 110407
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-deutschland-3/8a647456891c-w480.webp",
+            "width": 480,
+            "bytes": 33034
+          },
+          {
+            "file": "responsive/legoland-deutschland-3/8a647456891c-w768.webp",
+            "width": 768,
+            "bytes": 74104
+          },
+          {
+            "file": "responsive/legoland-deutschland-3/8a647456891c-w1200.webp",
+            "width": 1200,
+            "bytes": 170696
+          }
+        ]
+      }
+    },
+    "legoland-deutschland-portada.jpg": {
+      "sha256": "e8c0732ffb4756f530c10811cf04bc76aa2b1f5772028b68f6f293377707eb9e",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-deutschland-portada/e8c0732ffb47-w480.avif",
+            "width": 480,
+            "bytes": 25783
+          },
+          {
+            "file": "responsive/legoland-deutschland-portada/e8c0732ffb47-w768.avif",
+            "width": 768,
+            "bytes": 67365
+          },
+          {
+            "file": "responsive/legoland-deutschland-portada/e8c0732ffb47-w1200.avif",
+            "width": 1200,
+            "bytes": 172975
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-deutschland-portada/e8c0732ffb47-w480.webp",
+            "width": 480,
+            "bytes": 37088
+          },
+          {
+            "file": "responsive/legoland-deutschland-portada/e8c0732ffb47-w768.webp",
+            "width": 768,
+            "bytes": 94934
+          },
+          {
+            "file": "responsive/legoland-deutschland-portada/e8c0732ffb47-w1200.webp",
+            "width": 1200,
+            "bytes": 240506
+          }
+        ]
+      }
+    },
     "legoland-japan-1.jpg": {
       "sha256": "6e2d8ff124af3a6ec7b7851495ac5b4d11ce138332ae3aa25db3a420548c116c",
       "original_width": 1200,
@@ -27423,6 +28072,242 @@
             "file": "responsive/legoland-japan-portada/ffacab257046-w1200.webp",
             "width": 1200,
             "bytes": 148514
+          }
+        ]
+      }
+    },
+    "leolandia-1.jpg": {
+      "sha256": "c9ee907441483e03a0137e48b9a9c9d6bf4313bcea7ccdf942f275611f030137",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/leolandia-1/c9ee90744148-w480.avif",
+            "width": 480,
+            "bytes": 40902
+          },
+          {
+            "file": "responsive/leolandia-1/c9ee90744148-w768.avif",
+            "width": 768,
+            "bytes": 115104
+          },
+          {
+            "file": "responsive/leolandia-1/c9ee90744148-w1200.avif",
+            "width": 1200,
+            "bytes": 278706
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/leolandia-1/c9ee90744148-w480.webp",
+            "width": 480,
+            "bytes": 55254
+          },
+          {
+            "file": "responsive/leolandia-1/c9ee90744148-w768.webp",
+            "width": 768,
+            "bytes": 149782
+          },
+          {
+            "file": "responsive/leolandia-1/c9ee90744148-w1200.webp",
+            "width": 1200,
+            "bytes": 371962
+          }
+        ]
+      }
+    },
+    "leolandia-2.jpg": {
+      "sha256": "00dece26d97ae5b19bab077104916bfa196afbc3e23be1084f2ebff7a50a70b5",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/leolandia-2/00dece26d97a-w480.avif",
+            "width": 480,
+            "bytes": 13190
+          },
+          {
+            "file": "responsive/leolandia-2/00dece26d97a-w768.avif",
+            "width": 768,
+            "bytes": 27903
+          },
+          {
+            "file": "responsive/leolandia-2/00dece26d97a-w1200.avif",
+            "width": 1200,
+            "bytes": 58284
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/leolandia-2/00dece26d97a-w480.webp",
+            "width": 480,
+            "bytes": 22270
+          },
+          {
+            "file": "responsive/leolandia-2/00dece26d97a-w768.webp",
+            "width": 768,
+            "bytes": 47760
+          },
+          {
+            "file": "responsive/leolandia-2/00dece26d97a-w1200.webp",
+            "width": 1200,
+            "bytes": 99626
+          }
+        ]
+      }
+    },
+    "leolandia-3.jpg": {
+      "sha256": "798812e2933583105c5d22f7750f954abca4f3259083208d32935dd259dfeffa",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/leolandia-3/798812e29335-w480.avif",
+            "width": 480,
+            "bytes": 13862
+          },
+          {
+            "file": "responsive/leolandia-3/798812e29335-w768.avif",
+            "width": 768,
+            "bytes": 21100
+          },
+          {
+            "file": "responsive/leolandia-3/798812e29335-w1200.avif",
+            "width": 1200,
+            "bytes": 31716
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/leolandia-3/798812e29335-w480.webp",
+            "width": 480,
+            "bytes": 23110
+          },
+          {
+            "file": "responsive/leolandia-3/798812e29335-w768.webp",
+            "width": 768,
+            "bytes": 38224
+          },
+          {
+            "file": "responsive/leolandia-3/798812e29335-w1200.webp",
+            "width": 1200,
+            "bytes": 65134
+          }
+        ]
+      }
+    },
+    "leolandia-portada.jpg": {
+      "sha256": "acc11850b7b351b92ba3ae1a7983f6bb2736a102e30cf384bbd0db993adc410e",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/leolandia-portada/acc11850b7b3-w480.avif",
+            "width": 480,
+            "bytes": 19715
+          },
+          {
+            "file": "responsive/leolandia-portada/acc11850b7b3-w768.avif",
+            "width": 768,
+            "bytes": 49702
+          },
+          {
+            "file": "responsive/leolandia-portada/acc11850b7b3-w1200.avif",
+            "width": 1200,
+            "bytes": 121033
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/leolandia-portada/acc11850b7b3-w480.webp",
+            "width": 480,
+            "bytes": 28528
+          },
+          {
+            "file": "responsive/leolandia-portada/acc11850b7b3-w768.webp",
+            "width": 768,
+            "bytes": 72110
+          },
+          {
+            "file": "responsive/leolandia-portada/acc11850b7b3-w1200.webp",
+            "width": 1200,
+            "bytes": 177516
           }
         ]
       }
@@ -29245,6 +30130,242 @@
         ]
       }
     },
+    "mirabilandia-1.jpg": {
+      "sha256": "8e55117d479114f60829b910de6c66c744c52dfd82eb29829520af1d504249c6",
+      "original_width": 1200,
+      "original_height": 469,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/mirabilandia-1/8e55117d4791-w480.avif",
+            "width": 480,
+            "bytes": 13988
+          },
+          {
+            "file": "responsive/mirabilandia-1/8e55117d4791-w768.avif",
+            "width": 768,
+            "bytes": 34342
+          },
+          {
+            "file": "responsive/mirabilandia-1/8e55117d4791-w1200.avif",
+            "width": 1200,
+            "bytes": 86970
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/mirabilandia-1/8e55117d4791-w480.webp",
+            "width": 480,
+            "bytes": 19248
+          },
+          {
+            "file": "responsive/mirabilandia-1/8e55117d4791-w768.webp",
+            "width": 768,
+            "bytes": 47014
+          },
+          {
+            "file": "responsive/mirabilandia-1/8e55117d4791-w1200.webp",
+            "width": 1200,
+            "bytes": 116772
+          }
+        ]
+      }
+    },
+    "mirabilandia-2.jpg": {
+      "sha256": "7f6a58b2397de4efc1eab8742acb6362ed6157d96181a2eafbe67ae9878c5fa8",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/mirabilandia-2/7f6a58b2397d-w480.avif",
+            "width": 480,
+            "bytes": 26955
+          },
+          {
+            "file": "responsive/mirabilandia-2/7f6a58b2397d-w768.avif",
+            "width": 768,
+            "bytes": 63147
+          },
+          {
+            "file": "responsive/mirabilandia-2/7f6a58b2397d-w1200.avif",
+            "width": 1200,
+            "bytes": 128162
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/mirabilandia-2/7f6a58b2397d-w480.webp",
+            "width": 480,
+            "bytes": 34760
+          },
+          {
+            "file": "responsive/mirabilandia-2/7f6a58b2397d-w768.webp",
+            "width": 768,
+            "bytes": 83106
+          },
+          {
+            "file": "responsive/mirabilandia-2/7f6a58b2397d-w1200.webp",
+            "width": 1200,
+            "bytes": 180996
+          }
+        ]
+      }
+    },
+    "mirabilandia-3.jpg": {
+      "sha256": "caedcba77d0398a8b3e5717014ef6f58e7764a01959879adcfacbd5b80c316b7",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/mirabilandia-3/caedcba77d03-w480.avif",
+            "width": 480,
+            "bytes": 14019
+          },
+          {
+            "file": "responsive/mirabilandia-3/caedcba77d03-w768.avif",
+            "width": 768,
+            "bytes": 32842
+          },
+          {
+            "file": "responsive/mirabilandia-3/caedcba77d03-w1200.avif",
+            "width": 1200,
+            "bytes": 69020
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/mirabilandia-3/caedcba77d03-w480.webp",
+            "width": 480,
+            "bytes": 20562
+          },
+          {
+            "file": "responsive/mirabilandia-3/caedcba77d03-w768.webp",
+            "width": 768,
+            "bytes": 49072
+          },
+          {
+            "file": "responsive/mirabilandia-3/caedcba77d03-w1200.webp",
+            "width": 1200,
+            "bytes": 110378
+          }
+        ]
+      }
+    },
+    "mirabilandia-portada.jpg": {
+      "sha256": "a699b00a9bf5f2b85e133bbbba19c6ec9bbbcf6ca87ae9ee426509aaeb5f2788",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/mirabilandia-portada/a699b00a9bf5-w480.avif",
+            "width": 480,
+            "bytes": 12216
+          },
+          {
+            "file": "responsive/mirabilandia-portada/a699b00a9bf5-w768.avif",
+            "width": 768,
+            "bytes": 30716
+          },
+          {
+            "file": "responsive/mirabilandia-portada/a699b00a9bf5-w1200.avif",
+            "width": 1200,
+            "bytes": 80728
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/mirabilandia-portada/a699b00a9bf5-w480.webp",
+            "width": 480,
+            "bytes": 19510
+          },
+          {
+            "file": "responsive/mirabilandia-portada/a699b00a9bf5-w768.webp",
+            "width": 768,
+            "bytes": 47644
+          },
+          {
+            "file": "responsive/mirabilandia-portada/a699b00a9bf5-w1200.webp",
+            "width": 1200,
+            "bytes": 120570
+          }
+        ]
+      }
+    },
     "montanas-rusas-altas.jpg": {
       "sha256": "e7f74d0369f26b53f6d5c30dc56e6e4ae296fb1248bda4433b2a9d0216de2752",
       "original_width": 1408,
@@ -29418,6 +30539,242 @@
             "file": "responsive/montanas-rusas-terrorificas/51d213504f07-w1200.webp",
             "width": 1200,
             "bytes": 115582
+          }
+        ]
+      }
+    },
+    "movie-park-germany-1.jpg": {
+      "sha256": "fed732575f142ad0fe5e945afe5d2dad3994566988ab0658809e63bb94bb7aac",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/movie-park-germany-1/fed732575f14-w480.avif",
+            "width": 480,
+            "bytes": 17785
+          },
+          {
+            "file": "responsive/movie-park-germany-1/fed732575f14-w768.avif",
+            "width": 768,
+            "bytes": 42402
+          },
+          {
+            "file": "responsive/movie-park-germany-1/fed732575f14-w1200.avif",
+            "width": 1200,
+            "bytes": 102201
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/movie-park-germany-1/fed732575f14-w480.webp",
+            "width": 480,
+            "bytes": 27244
+          },
+          {
+            "file": "responsive/movie-park-germany-1/fed732575f14-w768.webp",
+            "width": 768,
+            "bytes": 63796
+          },
+          {
+            "file": "responsive/movie-park-germany-1/fed732575f14-w1200.webp",
+            "width": 1200,
+            "bytes": 152634
+          }
+        ]
+      }
+    },
+    "movie-park-germany-2.jpg": {
+      "sha256": "25c1412489e01fabd7ef321fd29e80a59a338fa07f07765850c63adb7d5c476e",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/movie-park-germany-2/25c1412489e0-w480.avif",
+            "width": 480,
+            "bytes": 17882
+          },
+          {
+            "file": "responsive/movie-park-germany-2/25c1412489e0-w768.avif",
+            "width": 768,
+            "bytes": 40560
+          },
+          {
+            "file": "responsive/movie-park-germany-2/25c1412489e0-w1200.avif",
+            "width": 1200,
+            "bytes": 100182
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/movie-park-germany-2/25c1412489e0-w480.webp",
+            "width": 480,
+            "bytes": 28448
+          },
+          {
+            "file": "responsive/movie-park-germany-2/25c1412489e0-w768.webp",
+            "width": 768,
+            "bytes": 66388
+          },
+          {
+            "file": "responsive/movie-park-germany-2/25c1412489e0-w1200.webp",
+            "width": 1200,
+            "bytes": 157176
+          }
+        ]
+      }
+    },
+    "movie-park-germany-3.jpg": {
+      "sha256": "cb6868ec8b57315d79c043616643c3035b0bb7c999598a87843c1de60a5a10e7",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/movie-park-germany-3/cb6868ec8b57-w480.avif",
+            "width": 480,
+            "bytes": 14000
+          },
+          {
+            "file": "responsive/movie-park-germany-3/cb6868ec8b57-w768.avif",
+            "width": 768,
+            "bytes": 30652
+          },
+          {
+            "file": "responsive/movie-park-germany-3/cb6868ec8b57-w1200.avif",
+            "width": 1200,
+            "bytes": 70257
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/movie-park-germany-3/cb6868ec8b57-w480.webp",
+            "width": 480,
+            "bytes": 22674
+          },
+          {
+            "file": "responsive/movie-park-germany-3/cb6868ec8b57-w768.webp",
+            "width": 768,
+            "bytes": 50834
+          },
+          {
+            "file": "responsive/movie-park-germany-3/cb6868ec8b57-w1200.webp",
+            "width": 1200,
+            "bytes": 114592
+          }
+        ]
+      }
+    },
+    "movie-park-germany-portada.jpg": {
+      "sha256": "87adc6e1b0bd1b9cd052fdbdbd6b062849e14fa6cfecf18c08fe264211ed1bf2",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/movie-park-germany-portada/87adc6e1b0bd-w480.avif",
+            "width": 480,
+            "bytes": 24232
+          },
+          {
+            "file": "responsive/movie-park-germany-portada/87adc6e1b0bd-w768.avif",
+            "width": 768,
+            "bytes": 58813
+          },
+          {
+            "file": "responsive/movie-park-germany-portada/87adc6e1b0bd-w1200.avif",
+            "width": 1200,
+            "bytes": 138350
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/movie-park-germany-portada/87adc6e1b0bd-w480.webp",
+            "width": 480,
+            "bytes": 34028
+          },
+          {
+            "file": "responsive/movie-park-germany-portada/87adc6e1b0bd-w768.webp",
+            "width": 768,
+            "bytes": 81548
+          },
+          {
+            "file": "responsive/movie-park-germany-portada/87adc6e1b0bd-w1200.webp",
+            "width": 1200,
+            "bytes": 191034
           }
         ]
       }
@@ -39212,6 +40569,242 @@
             "file": "responsive/radiator-springs-racers-carrera/6125f1f438c0-w1200.webp",
             "width": 1200,
             "bytes": 165640
+          }
+        ]
+      }
+    },
+    "rainbow-magicland-1.jpg": {
+      "sha256": "6637d8d60937e34499ef8c9e0cd5aa72f5608718447c0d0840fc458f71669194",
+      "original_width": 1200,
+      "original_height": 561,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/rainbow-magicland-1/6637d8d60937-w480.avif",
+            "width": 480,
+            "bytes": 26183
+          },
+          {
+            "file": "responsive/rainbow-magicland-1/6637d8d60937-w768.avif",
+            "width": 768,
+            "bytes": 62007
+          },
+          {
+            "file": "responsive/rainbow-magicland-1/6637d8d60937-w1200.avif",
+            "width": 1200,
+            "bytes": 140313
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/rainbow-magicland-1/6637d8d60937-w480.webp",
+            "width": 480,
+            "bytes": 35568
+          },
+          {
+            "file": "responsive/rainbow-magicland-1/6637d8d60937-w768.webp",
+            "width": 768,
+            "bytes": 85708
+          },
+          {
+            "file": "responsive/rainbow-magicland-1/6637d8d60937-w1200.webp",
+            "width": 1200,
+            "bytes": 194994
+          }
+        ]
+      }
+    },
+    "rainbow-magicland-2.jpg": {
+      "sha256": "b0d9c317a1edf25b529f006d9e67c0c61d7f08d11ed06f9826996de4ca696d45",
+      "original_width": 1200,
+      "original_height": 797,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/rainbow-magicland-2/b0d9c317a1ed-w480.avif",
+            "width": 480,
+            "bytes": 25741
+          },
+          {
+            "file": "responsive/rainbow-magicland-2/b0d9c317a1ed-w768.avif",
+            "width": 768,
+            "bytes": 64395
+          },
+          {
+            "file": "responsive/rainbow-magicland-2/b0d9c317a1ed-w1200.avif",
+            "width": 1200,
+            "bytes": 151672
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/rainbow-magicland-2/b0d9c317a1ed-w480.webp",
+            "width": 480,
+            "bytes": 36526
+          },
+          {
+            "file": "responsive/rainbow-magicland-2/b0d9c317a1ed-w768.webp",
+            "width": 768,
+            "bytes": 90048
+          },
+          {
+            "file": "responsive/rainbow-magicland-2/b0d9c317a1ed-w1200.webp",
+            "width": 1200,
+            "bytes": 213302
+          }
+        ]
+      }
+    },
+    "rainbow-magicland-3.jpg": {
+      "sha256": "1fa5c24b8ef49c228ee36807ef2a351b17c4bb834d08f3ec945a163921986fec",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/rainbow-magicland-3/1fa5c24b8ef4-w480.avif",
+            "width": 480,
+            "bytes": 8272
+          },
+          {
+            "file": "responsive/rainbow-magicland-3/1fa5c24b8ef4-w768.avif",
+            "width": 768,
+            "bytes": 17483
+          },
+          {
+            "file": "responsive/rainbow-magicland-3/1fa5c24b8ef4-w1200.avif",
+            "width": 1200,
+            "bytes": 36315
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/rainbow-magicland-3/1fa5c24b8ef4-w480.webp",
+            "width": 480,
+            "bytes": 14718
+          },
+          {
+            "file": "responsive/rainbow-magicland-3/1fa5c24b8ef4-w768.webp",
+            "width": 768,
+            "bytes": 30966
+          },
+          {
+            "file": "responsive/rainbow-magicland-3/1fa5c24b8ef4-w1200.webp",
+            "width": 1200,
+            "bytes": 65368
+          }
+        ]
+      }
+    },
+    "rainbow-magicland-portada.jpg": {
+      "sha256": "ac9f4dbdd2d04a0f33c309134265ae6f05e1fc7d1ff883ca1a06e78c6719e698",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/rainbow-magicland-portada/ac9f4dbdd2d0-w480.avif",
+            "width": 480,
+            "bytes": 29613
+          },
+          {
+            "file": "responsive/rainbow-magicland-portada/ac9f4dbdd2d0-w768.avif",
+            "width": 768,
+            "bytes": 70909
+          },
+          {
+            "file": "responsive/rainbow-magicland-portada/ac9f4dbdd2d0-w1200.avif",
+            "width": 1200,
+            "bytes": 164800
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/rainbow-magicland-portada/ac9f4dbdd2d0-w480.webp",
+            "width": 480,
+            "bytes": 41856
+          },
+          {
+            "file": "responsive/rainbow-magicland-portada/ac9f4dbdd2d0-w768.webp",
+            "width": 768,
+            "bytes": 100624
+          },
+          {
+            "file": "responsive/rainbow-magicland-portada/ac9f4dbdd2d0-w1200.webp",
+            "width": 1200,
+            "bytes": 236238
           }
         ]
       }
@@ -60264,6 +61857,242 @@
             "file": "responsive/zoo-de-la-fleche-portada/53b1e09438ae-w1200.webp",
             "width": 1200,
             "bytes": 105310
+          }
+        ]
+      }
+    },
+    "zoo-leipzig-1.jpg": {
+      "sha256": "42ed77191f0b6249cff68614557f937c1386a28690ca74e31a77f8c4bc5e575e",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoo-leipzig-1/42ed77191f0b-w480.avif",
+            "width": 480,
+            "bytes": 42941
+          },
+          {
+            "file": "responsive/zoo-leipzig-1/42ed77191f0b-w768.avif",
+            "width": 768,
+            "bytes": 105734
+          },
+          {
+            "file": "responsive/zoo-leipzig-1/42ed77191f0b-w1200.avif",
+            "width": 1200,
+            "bytes": 238321
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoo-leipzig-1/42ed77191f0b-w480.webp",
+            "width": 480,
+            "bytes": 56916
+          },
+          {
+            "file": "responsive/zoo-leipzig-1/42ed77191f0b-w768.webp",
+            "width": 768,
+            "bytes": 141894
+          },
+          {
+            "file": "responsive/zoo-leipzig-1/42ed77191f0b-w1200.webp",
+            "width": 1200,
+            "bytes": 330290
+          }
+        ]
+      }
+    },
+    "zoo-leipzig-2.jpg": {
+      "sha256": "aae9b28819f70ecdcc86554ae52d64d1e65d1b362fbcba8ddf75bdd6286bd832",
+      "original_width": 1200,
+      "original_height": 801,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoo-leipzig-2/aae9b28819f7-w480.avif",
+            "width": 480,
+            "bytes": 20743
+          },
+          {
+            "file": "responsive/zoo-leipzig-2/aae9b28819f7-w768.avif",
+            "width": 768,
+            "bytes": 52853
+          },
+          {
+            "file": "responsive/zoo-leipzig-2/aae9b28819f7-w1200.avif",
+            "width": 1200,
+            "bytes": 138488
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoo-leipzig-2/aae9b28819f7-w480.webp",
+            "width": 480,
+            "bytes": 32422
+          },
+          {
+            "file": "responsive/zoo-leipzig-2/aae9b28819f7-w768.webp",
+            "width": 768,
+            "bytes": 83854
+          },
+          {
+            "file": "responsive/zoo-leipzig-2/aae9b28819f7-w1200.webp",
+            "width": 1200,
+            "bytes": 220080
+          }
+        ]
+      }
+    },
+    "zoo-leipzig-3.jpg": {
+      "sha256": "d41c9788e26cee2ec4b4e6c745825c252718382a8f5cee2817de63c76ae9c264",
+      "original_width": 1200,
+      "original_height": 801,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoo-leipzig-3/d41c9788e26c-w480.avif",
+            "width": 480,
+            "bytes": 15212
+          },
+          {
+            "file": "responsive/zoo-leipzig-3/d41c9788e26c-w768.avif",
+            "width": 768,
+            "bytes": 32412
+          },
+          {
+            "file": "responsive/zoo-leipzig-3/d41c9788e26c-w1200.avif",
+            "width": 1200,
+            "bytes": 72309
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoo-leipzig-3/d41c9788e26c-w480.webp",
+            "width": 480,
+            "bytes": 27582
+          },
+          {
+            "file": "responsive/zoo-leipzig-3/d41c9788e26c-w768.webp",
+            "width": 768,
+            "bytes": 62446
+          },
+          {
+            "file": "responsive/zoo-leipzig-3/d41c9788e26c-w1200.webp",
+            "width": 1200,
+            "bytes": 139074
+          }
+        ]
+      }
+    },
+    "zoo-leipzig-portada.jpg": {
+      "sha256": "0a8e6ec61ae88c570524e809b212ecb326b7986e35fd04c8be475a031d4833f2",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoo-leipzig-portada/0a8e6ec61ae8-w480.avif",
+            "width": 480,
+            "bytes": 29522
+          },
+          {
+            "file": "responsive/zoo-leipzig-portada/0a8e6ec61ae8-w768.avif",
+            "width": 768,
+            "bytes": 75304
+          },
+          {
+            "file": "responsive/zoo-leipzig-portada/0a8e6ec61ae8-w1200.avif",
+            "width": 1200,
+            "bytes": 186128
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoo-leipzig-portada/0a8e6ec61ae8-w480.webp",
+            "width": 480,
+            "bytes": 40202
+          },
+          {
+            "file": "responsive/zoo-leipzig-portada/0a8e6ec61ae8-w768.webp",
+            "width": 768,
+            "bytes": 102272
+          },
+          {
+            "file": "responsive/zoo-leipzig-portada/0a8e6ec61ae8-w1200.webp",
+            "width": 1200,
+            "bytes": 251970
           }
         ]
       }
