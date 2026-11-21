@@ -9535,5 +9535,261 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "original_date": "2026-01-15",
     "changes": "redimensionada a 1200 px, JPG"
+  },
+  "nigloland-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Alpina_blitz_et_la_grande_roue.jpg",
+    "author": "Aurkawl",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2020-08-16",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "nigloland-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Nigloland_Alpina_Blitz.jpg",
+    "author": "Rémih",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-11-12",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "nigloland-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Krampus_Exp%C3%A9dition_et_Alpina_Blitz_%C3%A0_Nigloland.jpg",
+    "author": "Freddo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2021-06-12",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "nigloland-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Village_Rock%27n%27Roll_%C3%A0_Nigloland.jpg",
+    "author": "Dunderklumpen",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2015-04-23",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "parc-spirou-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Parc_Spirou_pano_01.jpg",
+    "author": "Rémih",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2026-07-25",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "parc-spirou-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ky%C3%BBbi_Unchained_@_Parc_Spirou.jpg",
+    "author": "Rémih",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2026-07-25",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "parc-spirou-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Naruto_area_entrance_@_Parc_Spirou.jpg",
+    "author": "Rémih",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2026-07-25",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "parc-spirou-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Spirou_Racing_@_Parc_Spirou_01.jpg",
+    "author": "Rémih",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2026-07-25",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "la-mer-de-sable-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tiger_Express_-_Mer_de_Sable.jpg",
+    "author": "Freddo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-08-06",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "la-mer-de-sable-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Silver_Mountain_-_Mer_de_Sable.jpg",
+    "author": "Freddo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-08-06",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "la-mer-de-sable-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:El_Condor_-_Mer_de_Sable.jpg",
+    "author": "Freddo",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-08-06",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "la-mer-de-sable-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Cheyenne_River_(La_Mer_de_sable).jpg",
+    "author": "Tangopaso",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2012-07-29",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "vulcania-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Vulcania_-_panoramio_(1).jpg",
+    "author": "Sietze Kraak",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "Taken on 10 August 2010",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "vulcania-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Namazu.jpg",
+    "author": "Mathis Demoulinger",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2024-08-23",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "vulcania-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Vulcania_exterieur_6.jpg",
+    "author": "Camulogene77",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2017-07-22 12:35:26",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "vulcania-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Vulcania_faux_crat%C3%A8re.jpg",
+    "author": "Aurkawl",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-08-14 17:46:19",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "walibi-rhone-alpes-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Mahuka_(58993).jpg",
+    "author": "Célian",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "3 August 2026 (according to Exif data)",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "walibi-rhone-alpes-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Mahuka_-_Walibi.jpg",
+    "author": "L3ohome",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2026-07-29",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "walibi-rhone-alpes-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Mystic_-_Walibi_Rh%C3%B4ne-Alpes.jpg",
+    "author": "L3ohome",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2026-08-03 12:57:00",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "walibi-rhone-alpes-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Generator_%C3%A0_Walibi_Rh%C3%B4ne-Alpes.jpg",
+    "author": "Célian",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "3 August 2026 (according to Exif data)",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "aquarium-de-paris-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Meduser_in_Paris_aquarium_(Unsplash).jpg",
+    "author": "Mélanie Croce lionipan",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "2017-02-17",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "aquarium-de-paris-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aquarium_de_Paris_12-26_(32025288972).jpg",
+    "author": "KimonBerlin",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2016-12-26 14:26:51",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "aquarium-de-paris-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aquarium_de_Paris_Jun_2024_exterior.jpg",
+    "author": "DarkNight0917",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2024-06-16 15:56:19",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "aquarium-de-paris-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aquarium_de_Paris,_Paris_2010.jpg",
+    "author": "Daniel Stockman from Seattle, WA, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2010-04-26 10:54",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "thoiry-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Animals_in_Parc_de_Thoiry_48.jpg",
+    "author": "Donarreiskoffer",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-10-31",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "thoiry-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tunnel_lion_wow_thoiry.jpg",
+    "author": "Tchereil",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2009-09-06 (EXIF)",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "thoiry-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Animals_in_Parc_de_Thoiry_12.jpg",
+    "author": "Donarreiskoffer",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-10-31",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "thoiry-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Animals_in_Parc_de_Thoiry_38.jpg",
+    "author": "Donarreiskoffer",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-10-31",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "zoo-de-la-fleche-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:White_lions_at_La_Fl%C3%A8che_zoo.jpg",
+    "author": "H4stings",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2017-11-02",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "zoo-de-la-fleche-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Zoo_de_La_Fleche_20180601_01.jpg",
+    "author": "Georges Seguin (Okki)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-06-01",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "zoo-de-la-fleche-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Zoo_de_La_Fleche_20180601_62.jpg",
+    "author": "Georges Seguin (Okki)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-06-01",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "zoo-de-la-fleche-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ad%C3%A8s_zoo_de_la_fl%C3%A8che_(1).jpg",
+    "author": "Chandres",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2016-04-20",
+    "changes": "redimensionada a 1200 px, JPG"
   }
 }

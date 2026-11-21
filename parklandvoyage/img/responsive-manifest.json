@@ -2529,6 +2529,242 @@
         ]
       }
     },
+    "aquarium-de-paris-1.jpg": {
+      "sha256": "1db7ac95a344b6be43545b65c4160fdf7c29f168b2d631c54e65cfcda074bc19",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquarium-de-paris-1/1db7ac95a344-w480.avif",
+            "width": 480,
+            "bytes": 6840
+          },
+          {
+            "file": "responsive/aquarium-de-paris-1/1db7ac95a344-w768.avif",
+            "width": 768,
+            "bytes": 12329
+          },
+          {
+            "file": "responsive/aquarium-de-paris-1/1db7ac95a344-w1200.avif",
+            "width": 1200,
+            "bytes": 22225
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquarium-de-paris-1/1db7ac95a344-w480.webp",
+            "width": 480,
+            "bytes": 12824
+          },
+          {
+            "file": "responsive/aquarium-de-paris-1/1db7ac95a344-w768.webp",
+            "width": 768,
+            "bytes": 25538
+          },
+          {
+            "file": "responsive/aquarium-de-paris-1/1db7ac95a344-w1200.webp",
+            "width": 1200,
+            "bytes": 49284
+          }
+        ]
+      }
+    },
+    "aquarium-de-paris-2.jpg": {
+      "sha256": "cfadc0b88c8635e8128b76517928780a5f987276ce5475b859a6a446ffe85d95",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquarium-de-paris-2/cfadc0b88c86-w480.avif",
+            "width": 480,
+            "bytes": 22810
+          },
+          {
+            "file": "responsive/aquarium-de-paris-2/cfadc0b88c86-w768.avif",
+            "width": 768,
+            "bytes": 55974
+          },
+          {
+            "file": "responsive/aquarium-de-paris-2/cfadc0b88c86-w1200.avif",
+            "width": 1200,
+            "bytes": 134993
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquarium-de-paris-2/cfadc0b88c86-w480.webp",
+            "width": 480,
+            "bytes": 34518
+          },
+          {
+            "file": "responsive/aquarium-de-paris-2/cfadc0b88c86-w768.webp",
+            "width": 768,
+            "bytes": 86860
+          },
+          {
+            "file": "responsive/aquarium-de-paris-2/cfadc0b88c86-w1200.webp",
+            "width": 1200,
+            "bytes": 205012
+          }
+        ]
+      }
+    },
+    "aquarium-de-paris-3.jpg": {
+      "sha256": "ab9337fbaac3a7333cd78fa7c923257ea2d4a4e4ec13476900409ec54f50a97d",
+      "original_width": 1200,
+      "original_height": 799,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquarium-de-paris-3/ab9337fbaac3-w480.avif",
+            "width": 480,
+            "bytes": 12457
+          },
+          {
+            "file": "responsive/aquarium-de-paris-3/ab9337fbaac3-w768.avif",
+            "width": 768,
+            "bytes": 29012
+          },
+          {
+            "file": "responsive/aquarium-de-paris-3/ab9337fbaac3-w1200.avif",
+            "width": 1200,
+            "bytes": 72059
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquarium-de-paris-3/ab9337fbaac3-w480.webp",
+            "width": 480,
+            "bytes": 21172
+          },
+          {
+            "file": "responsive/aquarium-de-paris-3/ab9337fbaac3-w768.webp",
+            "width": 768,
+            "bytes": 50646
+          },
+          {
+            "file": "responsive/aquarium-de-paris-3/ab9337fbaac3-w1200.webp",
+            "width": 1200,
+            "bytes": 121956
+          }
+        ]
+      }
+    },
+    "aquarium-de-paris-portada.jpg": {
+      "sha256": "703be976d5cc14ac3d57ffdf4e75c5d83a15835850294d3eb135378cee2161e2",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquarium-de-paris-portada/703be976d5cc-w480.avif",
+            "width": 480,
+            "bytes": 5078
+          },
+          {
+            "file": "responsive/aquarium-de-paris-portada/703be976d5cc-w768.avif",
+            "width": 768,
+            "bytes": 7994
+          },
+          {
+            "file": "responsive/aquarium-de-paris-portada/703be976d5cc-w1200.avif",
+            "width": 1200,
+            "bytes": 12700
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquarium-de-paris-portada/703be976d5cc-w480.webp",
+            "width": 480,
+            "bytes": 9858
+          },
+          {
+            "file": "responsive/aquarium-de-paris-portada/703be976d5cc-w768.webp",
+            "width": 768,
+            "bytes": 17218
+          },
+          {
+            "file": "responsive/aquarium-de-paris-portada/703be976d5cc-w1200.webp",
+            "width": 1200,
+            "bytes": 30576
+          }
+        ]
+      }
+    },
     "aquascope-futuroscope-banner.jpg": {
       "sha256": "e7ca76e87ff037cef44a53333f9c2970ee170aa14ed5049e3c8c5ac96d42bf8f",
       "original_width": 1600,
@@ -26011,6 +26247,242 @@
         ]
       }
     },
+    "la-mer-de-sable-1.jpg": {
+      "sha256": "291916d3e65b6f06ffa6cd70d9dbb2051c8a05d62543bdd600daf19eb2409ed3",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/la-mer-de-sable-1/291916d3e65b-w480.avif",
+            "width": 480,
+            "bytes": 21764
+          },
+          {
+            "file": "responsive/la-mer-de-sable-1/291916d3e65b-w768.avif",
+            "width": 768,
+            "bytes": 46741
+          },
+          {
+            "file": "responsive/la-mer-de-sable-1/291916d3e65b-w1200.avif",
+            "width": 1200,
+            "bytes": 104870
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/la-mer-de-sable-1/291916d3e65b-w480.webp",
+            "width": 480,
+            "bytes": 32954
+          },
+          {
+            "file": "responsive/la-mer-de-sable-1/291916d3e65b-w768.webp",
+            "width": 768,
+            "bytes": 73430
+          },
+          {
+            "file": "responsive/la-mer-de-sable-1/291916d3e65b-w1200.webp",
+            "width": 1200,
+            "bytes": 164954
+          }
+        ]
+      }
+    },
+    "la-mer-de-sable-2.jpg": {
+      "sha256": "f1b9f30d4835de6bfd8c8560b51cfd563165d10f73ee2f81db7a6ad8e505c0e6",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/la-mer-de-sable-2/f1b9f30d4835-w480.avif",
+            "width": 480,
+            "bytes": 17186
+          },
+          {
+            "file": "responsive/la-mer-de-sable-2/f1b9f30d4835-w768.avif",
+            "width": 768,
+            "bytes": 39702
+          },
+          {
+            "file": "responsive/la-mer-de-sable-2/f1b9f30d4835-w1200.avif",
+            "width": 1200,
+            "bytes": 97364
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/la-mer-de-sable-2/f1b9f30d4835-w480.webp",
+            "width": 480,
+            "bytes": 26890
+          },
+          {
+            "file": "responsive/la-mer-de-sable-2/f1b9f30d4835-w768.webp",
+            "width": 768,
+            "bytes": 63134
+          },
+          {
+            "file": "responsive/la-mer-de-sable-2/f1b9f30d4835-w1200.webp",
+            "width": 1200,
+            "bytes": 151134
+          }
+        ]
+      }
+    },
+    "la-mer-de-sable-3.jpg": {
+      "sha256": "df1200e1c75eb21c4d7d2c0eb1a299a602bee7180213ff68a1fc06fa8246ae5d",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/la-mer-de-sable-3/df1200e1c75e-w480.avif",
+            "width": 480,
+            "bytes": 24192
+          },
+          {
+            "file": "responsive/la-mer-de-sable-3/df1200e1c75e-w768.avif",
+            "width": 768,
+            "bytes": 70912
+          },
+          {
+            "file": "responsive/la-mer-de-sable-3/df1200e1c75e-w1200.avif",
+            "width": 1200,
+            "bytes": 191390
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/la-mer-de-sable-3/df1200e1c75e-w480.webp",
+            "width": 480,
+            "bytes": 38968
+          },
+          {
+            "file": "responsive/la-mer-de-sable-3/df1200e1c75e-w768.webp",
+            "width": 768,
+            "bytes": 108466
+          },
+          {
+            "file": "responsive/la-mer-de-sable-3/df1200e1c75e-w1200.webp",
+            "width": 1200,
+            "bytes": 283426
+          }
+        ]
+      }
+    },
+    "la-mer-de-sable-portada.jpg": {
+      "sha256": "81e1599eab06f81b7fde038b17dff5baaa2870a355d4de8db11e0f417ea2d5ca",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/la-mer-de-sable-portada/81e1599eab06-w480.avif",
+            "width": 480,
+            "bytes": 17447
+          },
+          {
+            "file": "responsive/la-mer-de-sable-portada/81e1599eab06-w768.avif",
+            "width": 768,
+            "bytes": 35635
+          },
+          {
+            "file": "responsive/la-mer-de-sable-portada/81e1599eab06-w1200.avif",
+            "width": 1200,
+            "bytes": 73524
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/la-mer-de-sable-portada/81e1599eab06-w480.webp",
+            "width": 480,
+            "bytes": 25408
+          },
+          {
+            "file": "responsive/la-mer-de-sable-portada/81e1599eab06-w768.webp",
+            "width": 768,
+            "bytes": 56016
+          },
+          {
+            "file": "responsive/la-mer-de-sable-portada/81e1599eab06-w1200.webp",
+            "width": 1200,
+            "bytes": 119308
+          }
+        ]
+      }
+    },
     "legoland-billund-1.jpg": {
       "sha256": "42e1aef5e9d759cc367b9ab4b4cebb1ad38f29abe80d0adc750c16a6b629fc01",
       "original_width": 1200,
@@ -29658,6 +30130,242 @@
         ]
       }
     },
+    "nigloland-1.jpg": {
+      "sha256": "8b7154de1eb6d15a5001ee8e08ab55b52bdce01a74b60082508c2e163dfb4ccd",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nigloland-1/8b7154de1eb6-w480.avif",
+            "width": 480,
+            "bytes": 30963
+          },
+          {
+            "file": "responsive/nigloland-1/8b7154de1eb6-w768.avif",
+            "width": 768,
+            "bytes": 81223
+          },
+          {
+            "file": "responsive/nigloland-1/8b7154de1eb6-w1200.avif",
+            "width": 1200,
+            "bytes": 211851
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nigloland-1/8b7154de1eb6-w480.webp",
+            "width": 480,
+            "bytes": 41488
+          },
+          {
+            "file": "responsive/nigloland-1/8b7154de1eb6-w768.webp",
+            "width": 768,
+            "bytes": 105658
+          },
+          {
+            "file": "responsive/nigloland-1/8b7154de1eb6-w1200.webp",
+            "width": 1200,
+            "bytes": 267742
+          }
+        ]
+      }
+    },
+    "nigloland-2.jpg": {
+      "sha256": "f75b38ba1bba63df0e99a8abeb33acba1c7309bb755578eac014a7d1de983f63",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nigloland-2/f75b38ba1bba-w480.avif",
+            "width": 480,
+            "bytes": 24923
+          },
+          {
+            "file": "responsive/nigloland-2/f75b38ba1bba-w768.avif",
+            "width": 768,
+            "bytes": 59146
+          },
+          {
+            "file": "responsive/nigloland-2/f75b38ba1bba-w1200.avif",
+            "width": 1200,
+            "bytes": 138451
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nigloland-2/f75b38ba1bba-w480.webp",
+            "width": 480,
+            "bytes": 36666
+          },
+          {
+            "file": "responsive/nigloland-2/f75b38ba1bba-w768.webp",
+            "width": 768,
+            "bytes": 85556
+          },
+          {
+            "file": "responsive/nigloland-2/f75b38ba1bba-w1200.webp",
+            "width": 1200,
+            "bytes": 199522
+          }
+        ]
+      }
+    },
+    "nigloland-3.jpg": {
+      "sha256": "62774bcaff7056a57119cd3ea4f7b5a9611be368e3a477d767a6b0d6bb01c6be",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nigloland-3/62774bcaff70-w480.avif",
+            "width": 480,
+            "bytes": 22665
+          },
+          {
+            "file": "responsive/nigloland-3/62774bcaff70-w768.avif",
+            "width": 768,
+            "bytes": 51445
+          },
+          {
+            "file": "responsive/nigloland-3/62774bcaff70-w1200.avif",
+            "width": 1200,
+            "bytes": 122952
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nigloland-3/62774bcaff70-w480.webp",
+            "width": 480,
+            "bytes": 36710
+          },
+          {
+            "file": "responsive/nigloland-3/62774bcaff70-w768.webp",
+            "width": 768,
+            "bytes": 84752
+          },
+          {
+            "file": "responsive/nigloland-3/62774bcaff70-w1200.webp",
+            "width": 1200,
+            "bytes": 197944
+          }
+        ]
+      }
+    },
+    "nigloland-portada.jpg": {
+      "sha256": "5a67a928afde129e680a788c5bc0dcc00188d02cc47651fa940fac8f545fa4e0",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nigloland-portada/5a67a928afde-w480.avif",
+            "width": 480,
+            "bytes": 15508
+          },
+          {
+            "file": "responsive/nigloland-portada/5a67a928afde-w768.avif",
+            "width": 768,
+            "bytes": 40397
+          },
+          {
+            "file": "responsive/nigloland-portada/5a67a928afde-w1200.avif",
+            "width": 1200,
+            "bytes": 106762
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nigloland-portada/5a67a928afde-w480.webp",
+            "width": 480,
+            "bytes": 22814
+          },
+          {
+            "file": "responsive/nigloland-portada/5a67a928afde-w768.webp",
+            "width": 768,
+            "bytes": 58252
+          },
+          {
+            "file": "responsive/nigloland-portada/5a67a928afde-w1200.webp",
+            "width": 1200,
+            "bytes": 150004
+          }
+        ]
+      }
+    },
     "novedades-parques-europa-2026.jpg": {
       "sha256": "452462f08e159e773dc523a479eed1c76a1d5cb653c5ead3468716c9b51863db",
       "original_width": 1408,
@@ -32132,6 +32840,242 @@
             "file": "responsive/parc-asterix/9d6c40bdcd55-w1200.webp",
             "width": 1200,
             "bytes": 150276
+          }
+        ]
+      }
+    },
+    "parc-spirou-1.jpg": {
+      "sha256": "a2dad48f91fbfb8813d29b25ded0155cb542621c935ba204f08d491997cf2c34",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/parc-spirou-1/a2dad48f91fb-w480.avif",
+            "width": 480,
+            "bytes": 8484
+          },
+          {
+            "file": "responsive/parc-spirou-1/a2dad48f91fb-w768.avif",
+            "width": 768,
+            "bytes": 16560
+          },
+          {
+            "file": "responsive/parc-spirou-1/a2dad48f91fb-w1200.avif",
+            "width": 1200,
+            "bytes": 36545
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/parc-spirou-1/a2dad48f91fb-w480.webp",
+            "width": 480,
+            "bytes": 16110
+          },
+          {
+            "file": "responsive/parc-spirou-1/a2dad48f91fb-w768.webp",
+            "width": 768,
+            "bytes": 31158
+          },
+          {
+            "file": "responsive/parc-spirou-1/a2dad48f91fb-w1200.webp",
+            "width": 1200,
+            "bytes": 66912
+          }
+        ]
+      }
+    },
+    "parc-spirou-2.jpg": {
+      "sha256": "dd72fd53a4f543868f4dbd03bbd09e2fbcd8bc6b03ae7205ca6edeb30d5136bc",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/parc-spirou-2/dd72fd53a4f5-w480.avif",
+            "width": 480,
+            "bytes": 11584
+          },
+          {
+            "file": "responsive/parc-spirou-2/dd72fd53a4f5-w768.avif",
+            "width": 768,
+            "bytes": 25166
+          },
+          {
+            "file": "responsive/parc-spirou-2/dd72fd53a4f5-w1200.avif",
+            "width": 1200,
+            "bytes": 64435
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/parc-spirou-2/dd72fd53a4f5-w480.webp",
+            "width": 480,
+            "bytes": 22066
+          },
+          {
+            "file": "responsive/parc-spirou-2/dd72fd53a4f5-w768.webp",
+            "width": 768,
+            "bytes": 50860
+          },
+          {
+            "file": "responsive/parc-spirou-2/dd72fd53a4f5-w1200.webp",
+            "width": 1200,
+            "bytes": 121120
+          }
+        ]
+      }
+    },
+    "parc-spirou-3.jpg": {
+      "sha256": "4c2156c698a8a7e4263c73f195baa5e3521cda65174fa890a2654415c819d17e",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/parc-spirou-3/4c2156c698a8-w480.avif",
+            "width": 480,
+            "bytes": 20823
+          },
+          {
+            "file": "responsive/parc-spirou-3/4c2156c698a8-w768.avif",
+            "width": 768,
+            "bytes": 38656
+          },
+          {
+            "file": "responsive/parc-spirou-3/4c2156c698a8-w1200.avif",
+            "width": 1200,
+            "bytes": 75270
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/parc-spirou-3/4c2156c698a8-w480.webp",
+            "width": 480,
+            "bytes": 34150
+          },
+          {
+            "file": "responsive/parc-spirou-3/4c2156c698a8-w768.webp",
+            "width": 768,
+            "bytes": 68318
+          },
+          {
+            "file": "responsive/parc-spirou-3/4c2156c698a8-w1200.webp",
+            "width": 1200,
+            "bytes": 136880
+          }
+        ]
+      }
+    },
+    "parc-spirou-portada.jpg": {
+      "sha256": "21db20d5aca0d4d243b5fe1b6c6a6af964461149817c43f9ea600fdf8d2a94d9",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/parc-spirou-portada/21db20d5aca0-w480.avif",
+            "width": 480,
+            "bytes": 18263
+          },
+          {
+            "file": "responsive/parc-spirou-portada/21db20d5aca0-w768.avif",
+            "width": 768,
+            "bytes": 45998
+          },
+          {
+            "file": "responsive/parc-spirou-portada/21db20d5aca0-w1200.avif",
+            "width": 1200,
+            "bytes": 95761
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/parc-spirou-portada/21db20d5aca0-w480.webp",
+            "width": 480,
+            "bytes": 27378
+          },
+          {
+            "file": "responsive/parc-spirou-portada/21db20d5aca0-w768.webp",
+            "width": 768,
+            "bytes": 68850
+          },
+          {
+            "file": "responsive/parc-spirou-portada/21db20d5aca0-w1200.webp",
+            "width": 1200,
+            "bytes": 151470
           }
         ]
       }
@@ -48833,6 +49777,242 @@
         ]
       }
     },
+    "thoiry-1.jpg": {
+      "sha256": "44b3ad59197a5b37e68ee6518925219fd1ee6938b4862ac923b0b4a4bf5967ec",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/thoiry-1/44b3ad59197a-w480.avif",
+            "width": 480,
+            "bytes": 32273
+          },
+          {
+            "file": "responsive/thoiry-1/44b3ad59197a-w768.avif",
+            "width": 768,
+            "bytes": 81903
+          },
+          {
+            "file": "responsive/thoiry-1/44b3ad59197a-w1200.avif",
+            "width": 1200,
+            "bytes": 188050
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/thoiry-1/44b3ad59197a-w480.webp",
+            "width": 480,
+            "bytes": 45942
+          },
+          {
+            "file": "responsive/thoiry-1/44b3ad59197a-w768.webp",
+            "width": 768,
+            "bytes": 117162
+          },
+          {
+            "file": "responsive/thoiry-1/44b3ad59197a-w1200.webp",
+            "width": 1200,
+            "bytes": 273058
+          }
+        ]
+      }
+    },
+    "thoiry-2.jpg": {
+      "sha256": "d57f9bc73ed34aff2c65c7465be21dd5c0a4aa735149fa5cf379fdd12bdd5e9b",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/thoiry-2/d57f9bc73ed3-w480.avif",
+            "width": 480,
+            "bytes": 24556
+          },
+          {
+            "file": "responsive/thoiry-2/d57f9bc73ed3-w768.avif",
+            "width": 768,
+            "bytes": 48164
+          },
+          {
+            "file": "responsive/thoiry-2/d57f9bc73ed3-w1200.avif",
+            "width": 1200,
+            "bytes": 93109
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/thoiry-2/d57f9bc73ed3-w480.webp",
+            "width": 480,
+            "bytes": 38664
+          },
+          {
+            "file": "responsive/thoiry-2/d57f9bc73ed3-w768.webp",
+            "width": 768,
+            "bytes": 81356
+          },
+          {
+            "file": "responsive/thoiry-2/d57f9bc73ed3-w1200.webp",
+            "width": 1200,
+            "bytes": 157450
+          }
+        ]
+      }
+    },
+    "thoiry-3.jpg": {
+      "sha256": "627da4a6da2a02e2b14abed80e489132d000f1cdcd17b9766b85e9777b1cb091",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/thoiry-3/627da4a6da2a-w480.avif",
+            "width": 480,
+            "bytes": 28020
+          },
+          {
+            "file": "responsive/thoiry-3/627da4a6da2a-w768.avif",
+            "width": 768,
+            "bytes": 65003
+          },
+          {
+            "file": "responsive/thoiry-3/627da4a6da2a-w1200.avif",
+            "width": 1200,
+            "bytes": 147120
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/thoiry-3/627da4a6da2a-w480.webp",
+            "width": 480,
+            "bytes": 42990
+          },
+          {
+            "file": "responsive/thoiry-3/627da4a6da2a-w768.webp",
+            "width": 768,
+            "bytes": 100956
+          },
+          {
+            "file": "responsive/thoiry-3/627da4a6da2a-w1200.webp",
+            "width": 1200,
+            "bytes": 225754
+          }
+        ]
+      }
+    },
+    "thoiry-portada.jpg": {
+      "sha256": "e7d41f9c7e237aef65231f3d01fb235a46d65b2430966a753d1706f312298d19",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/thoiry-portada/e7d41f9c7e23-w480.avif",
+            "width": 480,
+            "bytes": 30228
+          },
+          {
+            "file": "responsive/thoiry-portada/e7d41f9c7e23-w768.avif",
+            "width": 768,
+            "bytes": 61073
+          },
+          {
+            "file": "responsive/thoiry-portada/e7d41f9c7e23-w1200.avif",
+            "width": 1200,
+            "bytes": 115419
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/thoiry-portada/e7d41f9c7e23-w480.webp",
+            "width": 480,
+            "bytes": 44766
+          },
+          {
+            "file": "responsive/thoiry-portada/e7d41f9c7e23-w768.webp",
+            "width": 768,
+            "bytes": 92424
+          },
+          {
+            "file": "responsive/thoiry-portada/e7d41f9c7e23-w1200.webp",
+            "width": 1200,
+            "bytes": 184500
+          }
+        ]
+      }
+    },
     "thorpe-park-1.jpg": {
       "sha256": "154dff9b159965c990a77944ff9e91e268275d844b802f102d81f8bfeb04e501",
       "original_width": 1200,
@@ -54261,6 +55441,478 @@
         ]
       }
     },
+    "vulcania-1.jpg": {
+      "sha256": "90ea827edd7158fef33e46616570ddff7da8a3c189ee6f97efb43b351d980210",
+      "original_width": 1200,
+      "original_height": 798,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/vulcania-1/90ea827edd71-w480.avif",
+            "width": 480,
+            "bytes": 14892
+          },
+          {
+            "file": "responsive/vulcania-1/90ea827edd71-w768.avif",
+            "width": 768,
+            "bytes": 27736
+          },
+          {
+            "file": "responsive/vulcania-1/90ea827edd71-w1200.avif",
+            "width": 1200,
+            "bytes": 56390
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/vulcania-1/90ea827edd71-w480.webp",
+            "width": 480,
+            "bytes": 23180
+          },
+          {
+            "file": "responsive/vulcania-1/90ea827edd71-w768.webp",
+            "width": 768,
+            "bytes": 47328
+          },
+          {
+            "file": "responsive/vulcania-1/90ea827edd71-w1200.webp",
+            "width": 1200,
+            "bytes": 97076
+          }
+        ]
+      }
+    },
+    "vulcania-2.jpg": {
+      "sha256": "7122faa5e6629232bcd8154818bee7c2246bc2a2506d22c6ff0a763c37f6a528",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/vulcania-2/7122faa5e662-w480.avif",
+            "width": 480,
+            "bytes": 6095
+          },
+          {
+            "file": "responsive/vulcania-2/7122faa5e662-w768.avif",
+            "width": 768,
+            "bytes": 13218
+          },
+          {
+            "file": "responsive/vulcania-2/7122faa5e662-w1200.avif",
+            "width": 1200,
+            "bytes": 36248
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/vulcania-2/7122faa5e662-w480.webp",
+            "width": 480,
+            "bytes": 12392
+          },
+          {
+            "file": "responsive/vulcania-2/7122faa5e662-w768.webp",
+            "width": 768,
+            "bytes": 28936
+          },
+          {
+            "file": "responsive/vulcania-2/7122faa5e662-w1200.webp",
+            "width": 1200,
+            "bytes": 72976
+          }
+        ]
+      }
+    },
+    "vulcania-3.jpg": {
+      "sha256": "e9dab1e9c4c0f582f73d4deac38f22441659181d061656cb08270c77103431bb",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/vulcania-3/e9dab1e9c4c0-w480.avif",
+            "width": 480,
+            "bytes": 12166
+          },
+          {
+            "file": "responsive/vulcania-3/e9dab1e9c4c0-w768.avif",
+            "width": 768,
+            "bytes": 32823
+          },
+          {
+            "file": "responsive/vulcania-3/e9dab1e9c4c0-w1200.avif",
+            "width": 1200,
+            "bytes": 97008
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/vulcania-3/e9dab1e9c4c0-w480.webp",
+            "width": 480,
+            "bytes": 20896
+          },
+          {
+            "file": "responsive/vulcania-3/e9dab1e9c4c0-w768.webp",
+            "width": 768,
+            "bytes": 55748
+          },
+          {
+            "file": "responsive/vulcania-3/e9dab1e9c4c0-w1200.webp",
+            "width": 1200,
+            "bytes": 150632
+          }
+        ]
+      }
+    },
+    "vulcania-portada.jpg": {
+      "sha256": "25a50cf312d58b970f8ddccdf02eac277e3df744b47a642f5ee78ce65d1ce824",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/vulcania-portada/25a50cf312d5-w480.avif",
+            "width": 480,
+            "bytes": 14358
+          },
+          {
+            "file": "responsive/vulcania-portada/25a50cf312d5-w768.avif",
+            "width": 768,
+            "bytes": 38346
+          },
+          {
+            "file": "responsive/vulcania-portada/25a50cf312d5-w1200.avif",
+            "width": 1200,
+            "bytes": 99294
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/vulcania-portada/25a50cf312d5-w480.webp",
+            "width": 480,
+            "bytes": 22244
+          },
+          {
+            "file": "responsive/vulcania-portada/25a50cf312d5-w768.webp",
+            "width": 768,
+            "bytes": 57064
+          },
+          {
+            "file": "responsive/vulcania-portada/25a50cf312d5-w1200.webp",
+            "width": 1200,
+            "bytes": 146080
+          }
+        ]
+      }
+    },
+    "walibi-rhone-alpes-1.jpg": {
+      "sha256": "ed412ce47aed8d07a04b1ca2ce06048bed179643ff6b739d2c251f8606e27a5f",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walibi-rhone-alpes-1/ed412ce47aed-w480.avif",
+            "width": 480,
+            "bytes": 19530
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-1/ed412ce47aed-w768.avif",
+            "width": 768,
+            "bytes": 44885
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-1/ed412ce47aed-w1200.avif",
+            "width": 1200,
+            "bytes": 98987
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walibi-rhone-alpes-1/ed412ce47aed-w480.webp",
+            "width": 480,
+            "bytes": 26696
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-1/ed412ce47aed-w768.webp",
+            "width": 768,
+            "bytes": 63524
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-1/ed412ce47aed-w1200.webp",
+            "width": 1200,
+            "bytes": 141226
+          }
+        ]
+      }
+    },
+    "walibi-rhone-alpes-2.jpg": {
+      "sha256": "33b10469123b7a71c45a07850f0d634cd97fd76be6f70d495ea7eeacb937d9c2",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walibi-rhone-alpes-2/33b10469123b-w480.avif",
+            "width": 480,
+            "bytes": 12638
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-2/33b10469123b-w768.avif",
+            "width": 768,
+            "bytes": 24166
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-2/33b10469123b-w1200.avif",
+            "width": 1200,
+            "bytes": 49465
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walibi-rhone-alpes-2/33b10469123b-w480.webp",
+            "width": 480,
+            "bytes": 20638
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-2/33b10469123b-w768.webp",
+            "width": 768,
+            "bytes": 41504
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-2/33b10469123b-w1200.webp",
+            "width": 1200,
+            "bytes": 87954
+          }
+        ]
+      }
+    },
+    "walibi-rhone-alpes-3.jpg": {
+      "sha256": "09ac89769c6530bf038dfad15c0b584501f8f0bd8de14d133d736527a2d6d93d",
+      "original_width": 1200,
+      "original_height": 904,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walibi-rhone-alpes-3/09ac89769c65-w480.avif",
+            "width": 480,
+            "bytes": 27928
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-3/09ac89769c65-w768.avif",
+            "width": 768,
+            "bytes": 68304
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-3/09ac89769c65-w1200.avif",
+            "width": 1200,
+            "bytes": 167839
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walibi-rhone-alpes-3/09ac89769c65-w480.webp",
+            "width": 480,
+            "bytes": 38298
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-3/09ac89769c65-w768.webp",
+            "width": 768,
+            "bytes": 93966
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-3/09ac89769c65-w1200.webp",
+            "width": 1200,
+            "bytes": 228490
+          }
+        ]
+      }
+    },
+    "walibi-rhone-alpes-portada.jpg": {
+      "sha256": "61bc28c10be27b2d6e361b6c72baf5552e8634f766b2835e95ec55cdf3aafd54",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walibi-rhone-alpes-portada/61bc28c10be2-w480.avif",
+            "width": 480,
+            "bytes": 17166
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-portada/61bc28c10be2-w768.avif",
+            "width": 768,
+            "bytes": 43066
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-portada/61bc28c10be2-w1200.avif",
+            "width": 1200,
+            "bytes": 107732
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walibi-rhone-alpes-portada/61bc28c10be2-w480.webp",
+            "width": 480,
+            "bytes": 25672
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-portada/61bc28c10be2-w768.webp",
+            "width": 768,
+            "bytes": 62960
+          },
+          {
+            "file": "responsive/walibi-rhone-alpes-portada/61bc28c10be2-w1200.webp",
+            "width": 1200,
+            "bytes": 153764
+          }
+        ]
+      }
+    },
     "walt-disney-world-cinderella-castle-1.jpg": {
       "sha256": "326aef2bc5797ba13aece437ea8eae330baac2e4470627cc038c3d717dc61507",
       "original_width": 1600,
@@ -56724,6 +58376,242 @@
             "file": "responsive/zoo-barcelona-portada/d1d73ac71353-w1200.webp",
             "width": 1200,
             "bytes": 173334
+          }
+        ]
+      }
+    },
+    "zoo-de-la-fleche-1.jpg": {
+      "sha256": "664d9eae019773c271aae46c5f4d7f30e8951caeaeda4f04f4f51cfad742cb56",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoo-de-la-fleche-1/664d9eae0197-w480.avif",
+            "width": 480,
+            "bytes": 18961
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-1/664d9eae0197-w768.avif",
+            "width": 768,
+            "bytes": 55084
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-1/664d9eae0197-w1200.avif",
+            "width": 1200,
+            "bytes": 151757
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoo-de-la-fleche-1/664d9eae0197-w480.webp",
+            "width": 480,
+            "bytes": 31420
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-1/664d9eae0197-w768.webp",
+            "width": 768,
+            "bytes": 84694
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-1/664d9eae0197-w1200.webp",
+            "width": 1200,
+            "bytes": 221812
+          }
+        ]
+      }
+    },
+    "zoo-de-la-fleche-2.jpg": {
+      "sha256": "1e545df491e8bccb2eb2092b8ba742121a416a28e56ecaea4691bf0d78782a8b",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoo-de-la-fleche-2/1e545df491e8-w480.avif",
+            "width": 480,
+            "bytes": 11158
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-2/1e545df491e8-w768.avif",
+            "width": 768,
+            "bytes": 39956
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-2/1e545df491e8-w1200.avif",
+            "width": 1200,
+            "bytes": 127250
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoo-de-la-fleche-2/1e545df491e8-w480.webp",
+            "width": 480,
+            "bytes": 22650
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-2/1e545df491e8-w768.webp",
+            "width": 768,
+            "bytes": 68588
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-2/1e545df491e8-w1200.webp",
+            "width": 1200,
+            "bytes": 194358
+          }
+        ]
+      }
+    },
+    "zoo-de-la-fleche-3.jpg": {
+      "sha256": "3637ebb0e928b3f14f74cfbd735a6a3fddaff1b13e7376134aaaa600aff52d2d",
+      "original_width": 1200,
+      "original_height": 799,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoo-de-la-fleche-3/3637ebb0e928-w480.avif",
+            "width": 480,
+            "bytes": 21150
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-3/3637ebb0e928-w768.avif",
+            "width": 768,
+            "bytes": 52055
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-3/3637ebb0e928-w1200.avif",
+            "width": 1200,
+            "bytes": 125945
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoo-de-la-fleche-3/3637ebb0e928-w480.webp",
+            "width": 480,
+            "bytes": 34820
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-3/3637ebb0e928-w768.webp",
+            "width": 768,
+            "bytes": 85228
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-3/3637ebb0e928-w1200.webp",
+            "width": 1200,
+            "bytes": 202014
+          }
+        ]
+      }
+    },
+    "zoo-de-la-fleche-portada.jpg": {
+      "sha256": "53b1e09438ae1fa2f954f15a4a398f6ed0351fe5a892cb08df8cd6f957cc8508",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoo-de-la-fleche-portada/53b1e09438ae-w480.avif",
+            "width": 480,
+            "bytes": 13141
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-portada/53b1e09438ae-w768.avif",
+            "width": 768,
+            "bytes": 29274
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-portada/53b1e09438ae-w1200.avif",
+            "width": 1200,
+            "bytes": 59572
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoo-de-la-fleche-portada/53b1e09438ae-w480.webp",
+            "width": 480,
+            "bytes": 21898
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-portada/53b1e09438ae-w768.webp",
+            "width": 768,
+            "bytes": 49144
+          },
+          {
+            "file": "responsive/zoo-de-la-fleche-portada/53b1e09438ae-w1200.webp",
+            "width": 1200,
+            "bytes": 105310
           }
         ]
       }

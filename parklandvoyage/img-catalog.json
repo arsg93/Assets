@@ -13455,6 +13455,422 @@
    "uses": [
     "guia"
    ]
+  },
+  "nigloland-portada.jpg": {
+   "park": "nigloland",
+   "ride": null,
+   "shows": "La montaña rusa Alpina Blitz y la noria (2020).",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nigloland-1.jpg": {
+   "park": "nigloland",
+   "ride": null,
+   "shows": "Alpina Blitz (noviembre de 2022).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nigloland-2.jpg": {
+   "park": "nigloland",
+   "ride": null,
+   "shows": "Krampus Expédition con Alpina Blitz al fondo (2021).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nigloland-3.jpg": {
+   "park": "nigloland",
+   "ride": null,
+   "shows": "El Village Rock’n Roll (2015).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parc-spirou-portada.jpg": {
+   "park": "parc-spirou",
+   "ride": null,
+   "shows": "Panorámica del parque (julio de 2026).",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parc-spirou-1.jpg": {
+   "park": "parc-spirou",
+   "ride": null,
+   "shows": "La montaña rusa Kyûbi Unchained, nueva en 2026 (julio de 2026).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parc-spirou-2.jpg": {
+   "park": "parc-spirou",
+   "ride": null,
+   "shows": "Entrada de NARUTO – Konoha Land (julio de 2026).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parc-spirou-3.jpg": {
+   "park": "parc-spirou",
+   "ride": null,
+   "shows": "Spirou Racing (julio de 2026).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "la-mer-de-sable-portada.jpg": {
+   "park": "la-mer-de-sable",
+   "ride": null,
+   "shows": "La montaña rusa Tiger Express (2022).",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "la-mer-de-sable-1.jpg": {
+   "park": "la-mer-de-sable",
+   "ride": null,
+   "shows": "Silver Mountain (2022).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "la-mer-de-sable-2.jpg": {
+   "park": "la-mer-de-sable",
+   "ride": null,
+   "shows": "Sillas voladoras El Condor (2022).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "la-mer-de-sable-3.jpg": {
+   "park": "la-mer-de-sable",
+   "ride": null,
+   "shows": "Llegada de Cheyenne River (2012).",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vulcania-portada.jpg": {
+   "park": "vulcania",
+   "ride": null,
+   "shows": "El cono de Vulcania (obra de Hans Hollein) con los puys de la Chaîne des Puys detrás",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vulcania-1.jpg": {
+   "park": "vulcania",
+   "ride": null,
+   "shows": "Primera bajada de la montaña rusa Namazu con visitantes",
+   "width": 1200,
+   "height": 798,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vulcania-2.jpg": {
+   "park": "vulcania",
+   "ride": null,
+   "shows": "El géiser exterior en su altura máxima",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vulcania-3.jpg": {
+   "park": "vulcania",
+   "ride": null,
+   "shows": "El cráter artificial con humo, visto desde arriba",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "walibi-rhone-alpes-portada.jpg": {
+   "park": "walibi-rhone-alpes",
+   "ride": null,
+   "shows": "Mahuka pasando por su arco con la torre Le Totem al fondo (agosto 2026)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "walibi-rhone-alpes-1.jpg": {
+   "park": "walibi-rhone-alpes",
+   "ride": null,
+   "shows": "Tren de Mahuka en lo alto del arco (julio 2026)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "walibi-rhone-alpes-2.jpg": {
+   "park": "walibi-rhone-alpes",
+   "ride": null,
+   "shows": "Mystic en su heartline roll (agosto 2026)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "walibi-rhone-alpes-3.jpg": {
+   "park": "walibi-rhone-alpes",
+   "ride": null,
+   "shows": "Vista del circuito de Generator (agosto 2026)",
+   "width": 1200,
+   "height": 904,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquarium-de-paris-portada.jpg": {
+   "park": "aquarium-de-paris",
+   "ride": null,
+   "shows": "Medusas del Médusarium del Aquarium de Paris",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquarium-de-paris-1.jpg": {
+   "park": "aquarium-de-paris",
+   "ride": null,
+   "shows": "Banco de medusas luna (Aurelia) en un bassin del Médusarium (diciembre 2016)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquarium-de-paris-2.jpg": {
+   "park": "aquarium-de-paris",
+   "ride": null,
+   "shows": "Entrada exterior del acuario en los jardines del Trocadéro (junio 2024)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquarium-de-paris-3.jpg": {
+   "park": "aquarium-de-paris",
+   "ride": null,
+   "shows": "Marquesina de entrada «Aquarium de Paris» (2010)",
+   "width": 1200,
+   "height": 799,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "thoiry-portada.jpg": {
+   "park": "thoiry",
+   "ride": null,
+   "shows": "Cebras de Chapman en la reserva",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "thoiry-1.jpg": {
+   "park": "thoiry",
+   "ride": null,
+   "shows": "Leones sobre el túnel de cristal con visitantes debajo (Tunnel des lions)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "thoiry-2.jpg": {
+   "park": "thoiry",
+   "ride": null,
+   "shows": "Leones",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "thoiry-3.jpg": {
+   "park": "thoiry",
+   "ride": null,
+   "shows": "Tigre de Siberia",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-de-la-fleche-portada.jpg": {
+   "park": "zoo-de-la-fleche",
+   "ride": null,
+   "shows": "Leones blancos (cachorro en primer plano)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-de-la-fleche-1.jpg": {
+   "park": "zoo-de-la-fleche",
+   "ride": null,
+   "shows": "Entrada del zoo",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-de-la-fleche-2.jpg": {
+   "park": "zoo-de-la-fleche",
+   "ride": null,
+   "shows": "La Plaine asiatique (antílopes cervicapra, ciervos axis y nilgós)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-de-la-fleche-3.jpg": {
+   "park": "zoo-de-la-fleche",
+   "ride": null,
+   "shows": "Tigre blanco macho (Adès)",
+   "width": 1200,
+   "height": 799,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }
