@@ -13871,6 +13871,370 @@
    "uses": [
     "guia"
    ]
+  },
+  "walibi-belgium-portada.jpg": {
+   "park": "walibi-belgium",
+   "ride": null,
+   "shows": "Kondaa, el hyper coaster de Exotic World, con un tren en lo alto del primer gran elemento bajo cielo azul",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "walibi-belgium-1.jpg": {
+   "park": "walibi-belgium",
+   "ride": null,
+   "shows": "Vías azules de Mecalodon sobre los muelles de madera de Dock World (2025)",
+   "width": 1200,
+   "height": 766,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "walibi-belgium-2.jpg": {
+   "park": "walibi-belgium",
+   "ride": null,
+   "shows": "Entrada de Walibi Belgium decorada para los 50 años del parque (2025)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "walibi-belgium-3.jpg": {
+   "park": "walibi-belgium",
+   "ride": null,
+   "shows": "Pulsar, el PowerSplash de Mack Rides, visto desde el otro lado del lago",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "plopsaland-portada.jpg": {
+   "park": "plopsaland",
+   "ride": null,
+   "shows": "Vía de The Ride to Happiness by Tomorrowland ante las fachadas temáticas de la zona Tomorrowland",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "plopsaland-1.jpg": {
+   "park": "plopsaland",
+   "ride": null,
+   "shows": "The Ride to Happiness by Tomorrowland (otra vista)",
+   "width": 1200,
+   "height": 794,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "plopsaland-2.jpg": {
+   "park": "plopsaland",
+   "ride": null,
+   "shows": "Tiendas y restaurantes vikingos de Wickieland (zona de Vic le Viking)",
+   "width": 1200,
+   "height": 798,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "plopsaland-3.jpg": {
+   "park": "plopsaland",
+   "ride": null,
+   "shows": "Entrada de Plopsaland con el gran cartel y la torre del reloj (2021, antes de la renovación de Plopsaland Plaza)",
+   "width": 1200,
+   "height": 752,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bellewaerde-portada.jpg": {
+   "park": "bellewaerde",
+   "ride": null,
+   "shows": "Templo maya de Huracan y la plaza de la zona Mexico con visitantes",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bellewaerde-1.jpg": {
+   "park": "bellewaerde",
+   "ride": null,
+   "shows": "Zona Canada con Screaming Eagle, el Bateau Pirate y Peter Pan entre árboles (antes de la renovación de 2026)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bellewaerde-2.jpg": {
+   "park": "bellewaerde",
+   "ride": null,
+   "shows": "Plaza de México con El Toro al fondo",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bellewaerde-3.jpg": {
+   "park": "bellewaerde",
+   "ride": null,
+   "shows": "Estación del Dawson Duel al atardecer",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "walibi-holland-portada.jpg": {
+   "park": "walibi-holland",
+   "ride": null,
+   "shows": "Las dos vías de la montaña rusa YOY (CHILL y THRILL) vistas desde arriba",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "walibi-holland-1.jpg": {
+   "park": "walibi-holland",
+   "ride": null,
+   "shows": "Montaña rusa híbrida UNTAMED en la zona Wilderness",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "walibi-holland-2.jpg": {
+   "park": "walibi-holland",
+   "ride": null,
+   "shows": "Merlin's Magic Castle visto desde arriba",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "walibi-holland-3.jpg": {
+   "park": "walibi-holland",
+   "ride": null,
+   "shows": "Montaña rusa Goliath",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "toverland-portada.jpg": {
+   "park": "toverland",
+   "ride": null,
+   "shows": "Montaña rusa de alas Fēnix (Avalon)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "toverland-1.jpg": {
+   "park": "toverland",
+   "ride": null,
+   "shows": "Zona temática Avalon",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "toverland-2.jpg": {
+   "park": "toverland",
+   "ride": null,
+   "shows": "Troncos Expedition Zork (Wunderwald)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "toverland-3.jpg": {
+   "park": "toverland",
+   "ride": null,
+   "shows": "Caballo de Troya, decorado de la zona Ithaka",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "slagharen-portada.jpg": {
+   "park": "slagharen",
+   "ride": null,
+   "shows": "Vista general del parque desde lo alto: zona de juegos de agua con toboganes en primer plano y la montaña rusa Gold Rush al fondo (abril 2025)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "slagharen-1.jpg": {
+   "park": "slagharen",
+   "ride": null,
+   "shows": "Entrada del parque en 2026 (edificio del Oeste y vía de Gold Rush)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "slagharen-2.jpg": {
+   "park": "slagharen",
+   "ride": null,
+   "shows": "Montaña rusa Gold Rush vista desde una plaza con terrazas",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "slagharen-3.jpg": {
+   "park": "slagharen",
+   "ride": null,
+   "shows": "Main Street con la noria Big Wheel al fondo",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "burgers-zoo-portada.jpg": {
+   "park": "burgers-zoo",
+   "ride": null,
+   "shows": "Gran acuario de arrecife de coral de Burgers' Ocean",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "burgers-zoo-1.jpg": {
+   "park": "burgers-zoo",
+   "ride": null,
+   "shows": "Cebras de Grant y jirafas de Rothschild en Burgers' Safari",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "burgers-zoo-2.jpg": {
+   "park": "burgers-zoo",
+   "ride": null,
+   "shows": "Interior de Burgers' Mangrove: estanque bajo la cúpula y pasarelas",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "burgers-zoo-3.jpg": {
+   "park": "burgers-zoo",
+   "ride": null,
+   "shows": "Sendero por la selva tropical cubierta de Burgers' Bush",
+   "width": 1200,
+   "height": 769,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }

@@ -3886,6 +3886,242 @@
         ]
       }
     },
+    "bellewaerde-1.jpg": {
+      "sha256": "0f939a937a549eb9f2e2683ed8b93001ce4dc090b542a6ffe090e59fb1a0f744",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/bellewaerde-1/0f939a937a54-w480.avif",
+            "width": 480,
+            "bytes": 30543
+          },
+          {
+            "file": "responsive/bellewaerde-1/0f939a937a54-w768.avif",
+            "width": 768,
+            "bytes": 63762
+          },
+          {
+            "file": "responsive/bellewaerde-1/0f939a937a54-w1200.avif",
+            "width": 1200,
+            "bytes": 109890
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/bellewaerde-1/0f939a937a54-w480.webp",
+            "width": 480,
+            "bytes": 44450
+          },
+          {
+            "file": "responsive/bellewaerde-1/0f939a937a54-w768.webp",
+            "width": 768,
+            "bytes": 98876
+          },
+          {
+            "file": "responsive/bellewaerde-1/0f939a937a54-w1200.webp",
+            "width": 1200,
+            "bytes": 176114
+          }
+        ]
+      }
+    },
+    "bellewaerde-2.jpg": {
+      "sha256": "c45720a5b6999571b8d4986cda168dc63a43e3a2431dc945d29d25d6ee5ce4a8",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/bellewaerde-2/c45720a5b699-w480.avif",
+            "width": 480,
+            "bytes": 15661
+          },
+          {
+            "file": "responsive/bellewaerde-2/c45720a5b699-w768.avif",
+            "width": 768,
+            "bytes": 44533
+          },
+          {
+            "file": "responsive/bellewaerde-2/c45720a5b699-w1200.avif",
+            "width": 1200,
+            "bytes": 118581
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/bellewaerde-2/c45720a5b699-w480.webp",
+            "width": 480,
+            "bytes": 26954
+          },
+          {
+            "file": "responsive/bellewaerde-2/c45720a5b699-w768.webp",
+            "width": 768,
+            "bytes": 72788
+          },
+          {
+            "file": "responsive/bellewaerde-2/c45720a5b699-w1200.webp",
+            "width": 1200,
+            "bytes": 182490
+          }
+        ]
+      }
+    },
+    "bellewaerde-3.jpg": {
+      "sha256": "0f9c1fe5b8356cb169da19302fc068aa13550ddb150815afc66148d36e6c610d",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/bellewaerde-3/0f9c1fe5b835-w480.avif",
+            "width": 480,
+            "bytes": 9791
+          },
+          {
+            "file": "responsive/bellewaerde-3/0f9c1fe5b835-w768.avif",
+            "width": 768,
+            "bytes": 25274
+          },
+          {
+            "file": "responsive/bellewaerde-3/0f9c1fe5b835-w1200.avif",
+            "width": 1200,
+            "bytes": 59137
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/bellewaerde-3/0f9c1fe5b835-w480.webp",
+            "width": 480,
+            "bytes": 18952
+          },
+          {
+            "file": "responsive/bellewaerde-3/0f9c1fe5b835-w768.webp",
+            "width": 768,
+            "bytes": 46990
+          },
+          {
+            "file": "responsive/bellewaerde-3/0f9c1fe5b835-w1200.webp",
+            "width": 1200,
+            "bytes": 102678
+          }
+        ]
+      }
+    },
+    "bellewaerde-portada.jpg": {
+      "sha256": "16714ec00dbd7359d07a5f350eca947df8716e155e85cd365ac01f2a6650c187",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/bellewaerde-portada/16714ec00dbd-w480.avif",
+            "width": 480,
+            "bytes": 16029
+          },
+          {
+            "file": "responsive/bellewaerde-portada/16714ec00dbd-w768.avif",
+            "width": 768,
+            "bytes": 34847
+          },
+          {
+            "file": "responsive/bellewaerde-portada/16714ec00dbd-w1200.avif",
+            "width": 1200,
+            "bytes": 75051
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/bellewaerde-portada/16714ec00dbd-w480.webp",
+            "width": 480,
+            "bytes": 23896
+          },
+          {
+            "file": "responsive/bellewaerde-portada/16714ec00dbd-w768.webp",
+            "width": 768,
+            "bytes": 54126
+          },
+          {
+            "file": "responsive/bellewaerde-portada/16714ec00dbd-w1200.webp",
+            "width": 1200,
+            "bytes": 120086
+          }
+        ]
+      }
+    },
     "beto-carrero-world-extreme-show.jpg": {
       "sha256": "ef80c750ab4953b2958934e7ce0ecde8e75d8ccad8cb9978b43d23e70d67f8b4",
       "original_width": 1200,
@@ -5534,6 +5770,242 @@
             "file": "responsive/boda-disneyland/a63d38d4a8ec-w1200.webp",
             "width": 1200,
             "bytes": 156982
+          }
+        ]
+      }
+    },
+    "burgers-zoo-1.jpg": {
+      "sha256": "7690dfa3fe11bd3dff78438834e8cb5ac4b3d88fb566cc212162a438aa23d80a",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/burgers-zoo-1/7690dfa3fe11-w480.avif",
+            "width": 480,
+            "bytes": 24341
+          },
+          {
+            "file": "responsive/burgers-zoo-1/7690dfa3fe11-w768.avif",
+            "width": 768,
+            "bytes": 58247
+          },
+          {
+            "file": "responsive/burgers-zoo-1/7690dfa3fe11-w1200.avif",
+            "width": 1200,
+            "bytes": 138814
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/burgers-zoo-1/7690dfa3fe11-w480.webp",
+            "width": 480,
+            "bytes": 37970
+          },
+          {
+            "file": "responsive/burgers-zoo-1/7690dfa3fe11-w768.webp",
+            "width": 768,
+            "bytes": 91800
+          },
+          {
+            "file": "responsive/burgers-zoo-1/7690dfa3fe11-w1200.webp",
+            "width": 1200,
+            "bytes": 210844
+          }
+        ]
+      }
+    },
+    "burgers-zoo-2.jpg": {
+      "sha256": "315e8483e3d5d4fa1c5368d39c57da6b947b4edffa1faa95b881e649ce615f31",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/burgers-zoo-2/315e8483e3d5-w480.avif",
+            "width": 480,
+            "bytes": 26885
+          },
+          {
+            "file": "responsive/burgers-zoo-2/315e8483e3d5-w768.avif",
+            "width": 768,
+            "bytes": 73024
+          },
+          {
+            "file": "responsive/burgers-zoo-2/315e8483e3d5-w1200.avif",
+            "width": 1200,
+            "bytes": 178487
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/burgers-zoo-2/315e8483e3d5-w480.webp",
+            "width": 480,
+            "bytes": 38374
+          },
+          {
+            "file": "responsive/burgers-zoo-2/315e8483e3d5-w768.webp",
+            "width": 768,
+            "bytes": 102240
+          },
+          {
+            "file": "responsive/burgers-zoo-2/315e8483e3d5-w1200.webp",
+            "width": 1200,
+            "bytes": 253268
+          }
+        ]
+      }
+    },
+    "burgers-zoo-3.jpg": {
+      "sha256": "2a5c3cca065067dc9a84d4262354f2371d1805985d7d01a7d25d6445abba7c36",
+      "original_width": 1200,
+      "original_height": 769,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/burgers-zoo-3/2a5c3cca0650-w480.avif",
+            "width": 480,
+            "bytes": 45407
+          },
+          {
+            "file": "responsive/burgers-zoo-3/2a5c3cca0650-w768.avif",
+            "width": 768,
+            "bytes": 119420
+          },
+          {
+            "file": "responsive/burgers-zoo-3/2a5c3cca0650-w1200.avif",
+            "width": 1200,
+            "bytes": 295872
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/burgers-zoo-3/2a5c3cca0650-w480.webp",
+            "width": 480,
+            "bytes": 58414
+          },
+          {
+            "file": "responsive/burgers-zoo-3/2a5c3cca0650-w768.webp",
+            "width": 768,
+            "bytes": 153998
+          },
+          {
+            "file": "responsive/burgers-zoo-3/2a5c3cca0650-w1200.webp",
+            "width": 1200,
+            "bytes": 394560
+          }
+        ]
+      }
+    },
+    "burgers-zoo-portada.jpg": {
+      "sha256": "0caad9eb1effcb7de5f17bc5f4b0ad2bdc8531015cff5cc5a9c70379b5d48797",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/burgers-zoo-portada/0caad9eb1eff-w480.avif",
+            "width": 480,
+            "bytes": 24014
+          },
+          {
+            "file": "responsive/burgers-zoo-portada/0caad9eb1eff-w768.avif",
+            "width": 768,
+            "bytes": 58625
+          },
+          {
+            "file": "responsive/burgers-zoo-portada/0caad9eb1eff-w1200.avif",
+            "width": 1200,
+            "bytes": 136354
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/burgers-zoo-portada/0caad9eb1eff-w480.webp",
+            "width": 480,
+            "bytes": 33006
+          },
+          {
+            "file": "responsive/burgers-zoo-portada/0caad9eb1eff-w768.webp",
+            "width": 768,
+            "bytes": 81068
+          },
+          {
+            "file": "responsive/burgers-zoo-portada/0caad9eb1eff-w1200.webp",
+            "width": 1200,
+            "bytes": 195684
           }
         ]
       }
@@ -35145,6 +35617,242 @@
         ]
       }
     },
+    "plopsaland-1.jpg": {
+      "sha256": "54dcd2131b0a940e5cd47c9951dd56e1b1ef6db6ab22d165e45ae405c4f2ba79",
+      "original_width": 1200,
+      "original_height": 794,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/plopsaland-1/54dcd2131b0a-w480.avif",
+            "width": 480,
+            "bytes": 24517
+          },
+          {
+            "file": "responsive/plopsaland-1/54dcd2131b0a-w768.avif",
+            "width": 768,
+            "bytes": 47231
+          },
+          {
+            "file": "responsive/plopsaland-1/54dcd2131b0a-w1200.avif",
+            "width": 1200,
+            "bytes": 88619
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/plopsaland-1/54dcd2131b0a-w480.webp",
+            "width": 480,
+            "bytes": 38080
+          },
+          {
+            "file": "responsive/plopsaland-1/54dcd2131b0a-w768.webp",
+            "width": 768,
+            "bytes": 77720
+          },
+          {
+            "file": "responsive/plopsaland-1/54dcd2131b0a-w1200.webp",
+            "width": 1200,
+            "bytes": 150718
+          }
+        ]
+      }
+    },
+    "plopsaland-2.jpg": {
+      "sha256": "e6563610dbcd7d7c5b9c2988eedd6b8ea0a2826b4a9ae52eabddaf76b18f9fcc",
+      "original_width": 1200,
+      "original_height": 798,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/plopsaland-2/e6563610dbcd-w480.avif",
+            "width": 480,
+            "bytes": 23299
+          },
+          {
+            "file": "responsive/plopsaland-2/e6563610dbcd-w768.avif",
+            "width": 768,
+            "bytes": 52636
+          },
+          {
+            "file": "responsive/plopsaland-2/e6563610dbcd-w1200.avif",
+            "width": 1200,
+            "bytes": 121867
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/plopsaland-2/e6563610dbcd-w480.webp",
+            "width": 480,
+            "bytes": 34096
+          },
+          {
+            "file": "responsive/plopsaland-2/e6563610dbcd-w768.webp",
+            "width": 768,
+            "bytes": 79856
+          },
+          {
+            "file": "responsive/plopsaland-2/e6563610dbcd-w1200.webp",
+            "width": 1200,
+            "bytes": 182596
+          }
+        ]
+      }
+    },
+    "plopsaland-3.jpg": {
+      "sha256": "5395f0e708bd628caa44fbf587718586834c950586058b768524ea763a799452",
+      "original_width": 1200,
+      "original_height": 752,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/plopsaland-3/5395f0e708bd-w480.avif",
+            "width": 480,
+            "bytes": 16421
+          },
+          {
+            "file": "responsive/plopsaland-3/5395f0e708bd-w768.avif",
+            "width": 768,
+            "bytes": 35466
+          },
+          {
+            "file": "responsive/plopsaland-3/5395f0e708bd-w1200.avif",
+            "width": 1200,
+            "bytes": 75124
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/plopsaland-3/5395f0e708bd-w480.webp",
+            "width": 480,
+            "bytes": 24330
+          },
+          {
+            "file": "responsive/plopsaland-3/5395f0e708bd-w768.webp",
+            "width": 768,
+            "bytes": 54330
+          },
+          {
+            "file": "responsive/plopsaland-3/5395f0e708bd-w1200.webp",
+            "width": 1200,
+            "bytes": 117702
+          }
+        ]
+      }
+    },
+    "plopsaland-portada.jpg": {
+      "sha256": "9bb3947600e4dd5c0d6eb40bf8b1d81775cbe64db91fb5f3318ea1ae5d396083",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/plopsaland-portada/9bb3947600e4-w480.avif",
+            "width": 480,
+            "bytes": 29808
+          },
+          {
+            "file": "responsive/plopsaland-portada/9bb3947600e4-w768.avif",
+            "width": 768,
+            "bytes": 69388
+          },
+          {
+            "file": "responsive/plopsaland-portada/9bb3947600e4-w1200.avif",
+            "width": 1200,
+            "bytes": 152461
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/plopsaland-portada/9bb3947600e4-w480.webp",
+            "width": 480,
+            "bytes": 40910
+          },
+          {
+            "file": "responsive/plopsaland-portada/9bb3947600e4-w768.webp",
+            "width": 768,
+            "bytes": 96604
+          },
+          {
+            "file": "responsive/plopsaland-portada/9bb3947600e4-w1200.webp",
+            "width": 1200,
+            "bytes": 215788
+          }
+        ]
+      }
+    },
     "port-aventura-world-2.jpg": {
       "sha256": "7e1fc2a51a43d4cf49e3f114ac979268c37f85fc1da50797bc0f88febb98a929",
       "original_width": 1376,
@@ -43582,6 +44290,242 @@
         ]
       }
     },
+    "slagharen-1.jpg": {
+      "sha256": "aa6149179efe18f5b7bf0249cf77a9f5f64eeb7bf4f15b7a731b362d9bb00bc7",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/slagharen-1/aa6149179efe-w480.avif",
+            "width": 480,
+            "bytes": 12227
+          },
+          {
+            "file": "responsive/slagharen-1/aa6149179efe-w768.avif",
+            "width": 768,
+            "bytes": 33690
+          },
+          {
+            "file": "responsive/slagharen-1/aa6149179efe-w1200.avif",
+            "width": 1200,
+            "bytes": 102429
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/slagharen-1/aa6149179efe-w480.webp",
+            "width": 480,
+            "bytes": 21502
+          },
+          {
+            "file": "responsive/slagharen-1/aa6149179efe-w768.webp",
+            "width": 768,
+            "bytes": 58868
+          },
+          {
+            "file": "responsive/slagharen-1/aa6149179efe-w1200.webp",
+            "width": 1200,
+            "bytes": 160620
+          }
+        ]
+      }
+    },
+    "slagharen-2.jpg": {
+      "sha256": "0cfc34c5f7a0114635dfb31683e899d1a329822f0a1b1a953caf8e08559236ef",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/slagharen-2/0cfc34c5f7a0-w480.avif",
+            "width": 480,
+            "bytes": 13984
+          },
+          {
+            "file": "responsive/slagharen-2/0cfc34c5f7a0-w768.avif",
+            "width": 768,
+            "bytes": 31641
+          },
+          {
+            "file": "responsive/slagharen-2/0cfc34c5f7a0-w1200.avif",
+            "width": 1200,
+            "bytes": 73008
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/slagharen-2/0cfc34c5f7a0-w480.webp",
+            "width": 480,
+            "bytes": 24290
+          },
+          {
+            "file": "responsive/slagharen-2/0cfc34c5f7a0-w768.webp",
+            "width": 768,
+            "bytes": 56434
+          },
+          {
+            "file": "responsive/slagharen-2/0cfc34c5f7a0-w1200.webp",
+            "width": 1200,
+            "bytes": 126888
+          }
+        ]
+      }
+    },
+    "slagharen-3.jpg": {
+      "sha256": "6b176cbb99e84c4efe68d60a10a5bf8f4a582d5177888f6286bc684d305a5a2c",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/slagharen-3/6b176cbb99e8-w480.avif",
+            "width": 480,
+            "bytes": 24563
+          },
+          {
+            "file": "responsive/slagharen-3/6b176cbb99e8-w768.avif",
+            "width": 768,
+            "bytes": 59493
+          },
+          {
+            "file": "responsive/slagharen-3/6b176cbb99e8-w1200.avif",
+            "width": 1200,
+            "bytes": 139584
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/slagharen-3/6b176cbb99e8-w480.webp",
+            "width": 480,
+            "bytes": 38328
+          },
+          {
+            "file": "responsive/slagharen-3/6b176cbb99e8-w768.webp",
+            "width": 768,
+            "bytes": 93334
+          },
+          {
+            "file": "responsive/slagharen-3/6b176cbb99e8-w1200.webp",
+            "width": 1200,
+            "bytes": 214142
+          }
+        ]
+      }
+    },
+    "slagharen-portada.jpg": {
+      "sha256": "50ea238eb48aeb908b6500f11da544b6c24219c0f2bb1ddfe78c0792f12aa6c4",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/slagharen-portada/50ea238eb48a-w480.avif",
+            "width": 480,
+            "bytes": 16903
+          },
+          {
+            "file": "responsive/slagharen-portada/50ea238eb48a-w768.avif",
+            "width": 768,
+            "bytes": 41399
+          },
+          {
+            "file": "responsive/slagharen-portada/50ea238eb48a-w1200.avif",
+            "width": 1200,
+            "bytes": 101055
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/slagharen-portada/50ea238eb48a-w480.webp",
+            "width": 480,
+            "bytes": 24072
+          },
+          {
+            "file": "responsive/slagharen-portada/50ea238eb48a-w768.webp",
+            "width": 768,
+            "bytes": 58692
+          },
+          {
+            "file": "responsive/slagharen-portada/50ea238eb48a-w1200.webp",
+            "width": 1200,
+            "bytes": 145294
+          }
+        ]
+      }
+    },
     "sobrevalorado-dca.jpg": {
       "sha256": "9615442c321d74c27511ff1da5f212dcd59006a276a3fe45199596f17f228f14",
       "original_width": 1024,
@@ -51606,6 +52550,242 @@
         ]
       }
     },
+    "toverland-1.jpg": {
+      "sha256": "0238a5bc7e73226bab6516c1abfbd92ebcf6ba4d702137064564db571843d2b6",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/toverland-1/0238a5bc7e73-w480.avif",
+            "width": 480,
+            "bytes": 24207
+          },
+          {
+            "file": "responsive/toverland-1/0238a5bc7e73-w768.avif",
+            "width": 768,
+            "bytes": 62938
+          },
+          {
+            "file": "responsive/toverland-1/0238a5bc7e73-w1200.avif",
+            "width": 1200,
+            "bytes": 153910
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/toverland-1/0238a5bc7e73-w480.webp",
+            "width": 480,
+            "bytes": 35620
+          },
+          {
+            "file": "responsive/toverland-1/0238a5bc7e73-w768.webp",
+            "width": 768,
+            "bytes": 88894
+          },
+          {
+            "file": "responsive/toverland-1/0238a5bc7e73-w1200.webp",
+            "width": 1200,
+            "bytes": 217692
+          }
+        ]
+      }
+    },
+    "toverland-2.jpg": {
+      "sha256": "d1421c0c0f4cc00acf56ee6ca7f2432dae983c2b479cbc5ff488402e251076a1",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/toverland-2/d1421c0c0f4c-w480.avif",
+            "width": 480,
+            "bytes": 29625
+          },
+          {
+            "file": "responsive/toverland-2/d1421c0c0f4c-w768.avif",
+            "width": 768,
+            "bytes": 73510
+          },
+          {
+            "file": "responsive/toverland-2/d1421c0c0f4c-w1200.avif",
+            "width": 1200,
+            "bytes": 175074
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/toverland-2/d1421c0c0f4c-w480.webp",
+            "width": 480,
+            "bytes": 40998
+          },
+          {
+            "file": "responsive/toverland-2/d1421c0c0f4c-w768.webp",
+            "width": 768,
+            "bytes": 98260
+          },
+          {
+            "file": "responsive/toverland-2/d1421c0c0f4c-w1200.webp",
+            "width": 1200,
+            "bytes": 239920
+          }
+        ]
+      }
+    },
+    "toverland-3.jpg": {
+      "sha256": "9cd4e31af3b6fb7e125b46154c2a9c6907f939210f21a6c58d25554c4a11e5f1",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/toverland-3/9cd4e31af3b6-w480.avif",
+            "width": 480,
+            "bytes": 26639
+          },
+          {
+            "file": "responsive/toverland-3/9cd4e31af3b6-w768.avif",
+            "width": 768,
+            "bytes": 74047
+          },
+          {
+            "file": "responsive/toverland-3/9cd4e31af3b6-w1200.avif",
+            "width": 1200,
+            "bytes": 200008
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/toverland-3/9cd4e31af3b6-w480.webp",
+            "width": 480,
+            "bytes": 36936
+          },
+          {
+            "file": "responsive/toverland-3/9cd4e31af3b6-w768.webp",
+            "width": 768,
+            "bytes": 96280
+          },
+          {
+            "file": "responsive/toverland-3/9cd4e31af3b6-w1200.webp",
+            "width": 1200,
+            "bytes": 255558
+          }
+        ]
+      }
+    },
+    "toverland-portada.jpg": {
+      "sha256": "66896c7bc0051ef97c1e4daec57293c9517a6d90c0eac926bee8f2542cf7430d",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/toverland-portada/66896c7bc005-w480.avif",
+            "width": 480,
+            "bytes": 18961
+          },
+          {
+            "file": "responsive/toverland-portada/66896c7bc005-w768.avif",
+            "width": 768,
+            "bytes": 51208
+          },
+          {
+            "file": "responsive/toverland-portada/66896c7bc005-w1200.avif",
+            "width": 1200,
+            "bytes": 137331
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/toverland-portada/66896c7bc005-w480.webp",
+            "width": 480,
+            "bytes": 27756
+          },
+          {
+            "file": "responsive/toverland-portada/66896c7bc005-w768.webp",
+            "width": 768,
+            "bytes": 71120
+          },
+          {
+            "file": "responsive/toverland-portada/66896c7bc005-w1200.webp",
+            "width": 1200,
+            "bytes": 182730
+          }
+        ]
+      }
+    },
     "tropical-islands-1.jpg": {
       "sha256": "f295b8384136130394ca847c6f572ea436b00a20f3f3384da24766e0d8b8a71c",
       "original_width": 1200,
@@ -55673,6 +56853,478 @@
             "file": "responsive/vulcania-portada/25a50cf312d5-w1200.webp",
             "width": 1200,
             "bytes": 146080
+          }
+        ]
+      }
+    },
+    "walibi-belgium-1.jpg": {
+      "sha256": "f66446eb483c9dc0e92a4ec1aad6b1b1d8685421e6a2e7f8def4dd9b430c80a4",
+      "original_width": 1200,
+      "original_height": 766,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walibi-belgium-1/f66446eb483c-w480.avif",
+            "width": 480,
+            "bytes": 28024
+          },
+          {
+            "file": "responsive/walibi-belgium-1/f66446eb483c-w768.avif",
+            "width": 768,
+            "bytes": 64673
+          },
+          {
+            "file": "responsive/walibi-belgium-1/f66446eb483c-w1200.avif",
+            "width": 1200,
+            "bytes": 137667
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walibi-belgium-1/f66446eb483c-w480.webp",
+            "width": 480,
+            "bytes": 40270
+          },
+          {
+            "file": "responsive/walibi-belgium-1/f66446eb483c-w768.webp",
+            "width": 768,
+            "bytes": 94824
+          },
+          {
+            "file": "responsive/walibi-belgium-1/f66446eb483c-w1200.webp",
+            "width": 1200,
+            "bytes": 202162
+          }
+        ]
+      }
+    },
+    "walibi-belgium-2.jpg": {
+      "sha256": "df20cb1958409c37f456598a01bc3db3957b44c1609ba369b1724baddcb08b59",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walibi-belgium-2/df20cb195840-w480.avif",
+            "width": 480,
+            "bytes": 20740
+          },
+          {
+            "file": "responsive/walibi-belgium-2/df20cb195840-w768.avif",
+            "width": 768,
+            "bytes": 48128
+          },
+          {
+            "file": "responsive/walibi-belgium-2/df20cb195840-w1200.avif",
+            "width": 1200,
+            "bytes": 122688
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walibi-belgium-2/df20cb195840-w480.webp",
+            "width": 480,
+            "bytes": 32106
+          },
+          {
+            "file": "responsive/walibi-belgium-2/df20cb195840-w768.webp",
+            "width": 768,
+            "bytes": 78066
+          },
+          {
+            "file": "responsive/walibi-belgium-2/df20cb195840-w1200.webp",
+            "width": 1200,
+            "bytes": 193866
+          }
+        ]
+      }
+    },
+    "walibi-belgium-3.jpg": {
+      "sha256": "09a8cf068c9d8ed308b86a97a00c8db97d58db474c41b6b84bdca48a31028cc6",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walibi-belgium-3/09a8cf068c9d-w480.avif",
+            "width": 480,
+            "bytes": 10154
+          },
+          {
+            "file": "responsive/walibi-belgium-3/09a8cf068c9d-w768.avif",
+            "width": 768,
+            "bytes": 25738
+          },
+          {
+            "file": "responsive/walibi-belgium-3/09a8cf068c9d-w1200.avif",
+            "width": 1200,
+            "bytes": 64137
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walibi-belgium-3/09a8cf068c9d-w480.webp",
+            "width": 480,
+            "bytes": 17274
+          },
+          {
+            "file": "responsive/walibi-belgium-3/09a8cf068c9d-w768.webp",
+            "width": 768,
+            "bytes": 42444
+          },
+          {
+            "file": "responsive/walibi-belgium-3/09a8cf068c9d-w1200.webp",
+            "width": 1200,
+            "bytes": 101596
+          }
+        ]
+      }
+    },
+    "walibi-belgium-portada.jpg": {
+      "sha256": "02b6cffd64ac247071bd92569ea166df5770485c8e62b0a709df85cd28efe010",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walibi-belgium-portada/02b6cffd64ac-w480.avif",
+            "width": 480,
+            "bytes": 7613
+          },
+          {
+            "file": "responsive/walibi-belgium-portada/02b6cffd64ac-w768.avif",
+            "width": 768,
+            "bytes": 16925
+          },
+          {
+            "file": "responsive/walibi-belgium-portada/02b6cffd64ac-w1200.avif",
+            "width": 1200,
+            "bytes": 36486
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walibi-belgium-portada/02b6cffd64ac-w480.webp",
+            "width": 480,
+            "bytes": 12778
+          },
+          {
+            "file": "responsive/walibi-belgium-portada/02b6cffd64ac-w768.webp",
+            "width": 768,
+            "bytes": 28604
+          },
+          {
+            "file": "responsive/walibi-belgium-portada/02b6cffd64ac-w1200.webp",
+            "width": 1200,
+            "bytes": 62578
+          }
+        ]
+      }
+    },
+    "walibi-holland-1.jpg": {
+      "sha256": "c0a0b1486c15c9cd191aa34ac623a328145c761e9e923e472e7a663914750433",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walibi-holland-1/c0a0b1486c15-w480.avif",
+            "width": 480,
+            "bytes": 26303
+          },
+          {
+            "file": "responsive/walibi-holland-1/c0a0b1486c15-w768.avif",
+            "width": 768,
+            "bytes": 70424
+          },
+          {
+            "file": "responsive/walibi-holland-1/c0a0b1486c15-w1200.avif",
+            "width": 1200,
+            "bytes": 176124
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walibi-holland-1/c0a0b1486c15-w480.webp",
+            "width": 480,
+            "bytes": 36996
+          },
+          {
+            "file": "responsive/walibi-holland-1/c0a0b1486c15-w768.webp",
+            "width": 768,
+            "bytes": 95660
+          },
+          {
+            "file": "responsive/walibi-holland-1/c0a0b1486c15-w1200.webp",
+            "width": 1200,
+            "bytes": 236448
+          }
+        ]
+      }
+    },
+    "walibi-holland-2.jpg": {
+      "sha256": "02e48e0ba944de6f10bc899180c488e2b49a1c1321430c34e3edac3fefed7b56",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walibi-holland-2/02e48e0ba944-w480.avif",
+            "width": 480,
+            "bytes": 53274
+          },
+          {
+            "file": "responsive/walibi-holland-2/02e48e0ba944-w768.avif",
+            "width": 768,
+            "bytes": 148117
+          },
+          {
+            "file": "responsive/walibi-holland-2/02e48e0ba944-w1200.avif",
+            "width": 1200,
+            "bytes": 360063
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walibi-holland-2/02e48e0ba944-w480.webp",
+            "width": 480,
+            "bytes": 68426
+          },
+          {
+            "file": "responsive/walibi-holland-2/02e48e0ba944-w768.webp",
+            "width": 768,
+            "bytes": 187762
+          },
+          {
+            "file": "responsive/walibi-holland-2/02e48e0ba944-w1200.webp",
+            "width": 1200,
+            "bytes": 469190
+          }
+        ]
+      }
+    },
+    "walibi-holland-3.jpg": {
+      "sha256": "32465ec40d40f1c7b34a9fac63a534483e521de4340966a22f94459212540f4c",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walibi-holland-3/32465ec40d40-w480.avif",
+            "width": 480,
+            "bytes": 21050
+          },
+          {
+            "file": "responsive/walibi-holland-3/32465ec40d40-w768.avif",
+            "width": 768,
+            "bytes": 54540
+          },
+          {
+            "file": "responsive/walibi-holland-3/32465ec40d40-w1200.avif",
+            "width": 1200,
+            "bytes": 141619
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walibi-holland-3/32465ec40d40-w480.webp",
+            "width": 480,
+            "bytes": 34466
+          },
+          {
+            "file": "responsive/walibi-holland-3/32465ec40d40-w768.webp",
+            "width": 768,
+            "bytes": 84886
+          },
+          {
+            "file": "responsive/walibi-holland-3/32465ec40d40-w1200.webp",
+            "width": 1200,
+            "bytes": 211942
+          }
+        ]
+      }
+    },
+    "walibi-holland-portada.jpg": {
+      "sha256": "0e19cd18c96558d9b77a8343674fd8da7051ff0412b9b7f368e685a7fa745b38",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/walibi-holland-portada/0e19cd18c965-w480.avif",
+            "width": 480,
+            "bytes": 34096
+          },
+          {
+            "file": "responsive/walibi-holland-portada/0e19cd18c965-w768.avif",
+            "width": 768,
+            "bytes": 89124
+          },
+          {
+            "file": "responsive/walibi-holland-portada/0e19cd18c965-w1200.avif",
+            "width": 1200,
+            "bytes": 210688
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/walibi-holland-portada/0e19cd18c965-w480.webp",
+            "width": 480,
+            "bytes": 43430
+          },
+          {
+            "file": "responsive/walibi-holland-portada/0e19cd18c965-w768.webp",
+            "width": 768,
+            "bytes": 112086
+          },
+          {
+            "file": "responsive/walibi-holland-portada/0e19cd18c965-w1200.webp",
+            "width": 1200,
+            "bytes": 272980
           }
         ]
       }
