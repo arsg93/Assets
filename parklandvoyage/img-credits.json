@@ -9303,5 +9303,237 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "original_date": "2018-09-13",
     "changes": "redimensionada a 1200 px, JPG"
+  },
+  "zoo-barcelona-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Barcelona_Zoo_entrance,_Barcelona,_Catalonia,_Spain-14May2011.jpg",
+    "author": "Mathieu Marquer from Paris, FRANCE",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2011-05-14",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "zoo-barcelona-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Casa_dels_Lleons_del_Zoo_de_Barcelona.jpg",
+    "author": "Vigoga 97",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2025-12-18",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "zoo-barcelona-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:126_Zoo_de_Barcelona,_elefant_afric%C3%A0_(Loxodonta_africana).jpg",
+    "author": "Enric",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2015-01-24",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "zoo-barcelona-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:195_Zoo_de_Barcelona,_drag%C3%B3_de_Komodo_(Varanus_komodoensis).jpg",
+    "author": "Enric",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2015-01-24",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "aquarium-barcelona-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aquarium_Barcelona_1.jpg",
+    "author": "Robertgombos",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-05-29",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "aquarium-barcelona-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:148_L%27Aqu%C3%A0rium,_moll_d%27Espanya_del_Port_Vell_(Barcelona),_des_del_passeig_d%27%C3%8Dtaca.jpg",
+    "author": "Enric",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2025-12-29",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "aquarium-barcelona-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tunnelaquarium_14-05-2009_15-54-09.JPG",
+    "author": "Paul Hermans",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2009-05-14",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "aquarium-barcelona-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aquarium_Barcelona.jpg",
+    "author": "Robertgombos",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2017-11-18",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "illa-fantasia-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Laberint_pirata.jpg",
+    "author": "Illa Fantasia",
+    "license": "CC0",
+    "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "original_date": "sin fecha",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "illa-fantasia-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Slides.jpg",
+    "author": "Illa Fantasia",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2011-05-01",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "illa-fantasia-2.jpg": {
+    "source": "https://www.flickr.com/photos/73293249@N00/3856629601",
+    "author": "Olivier Bruchez",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_date": "sin fecha (Flickr, vía Openverse)",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "illa-fantasia-3.jpg": {
+    "source": "https://www.flickr.com/photos/73293249@N00/3857422280",
+    "author": "Olivier Bruchez",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "original_date": "sin fecha (Flickr, vía Openverse)",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "aquopolis-madrid-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aquopolis_2.jpg",
+    "author": "Ayto villacanada (Ayuntamiento de Villanueva de la Cañada)",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-06-27",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "dinopolis-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tierra_magna-_Dinopolis.jpg",
+    "author": "N.Cayla",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-06-21",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "dinopolis-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dinosaurios_luchando_Din%C3%B3polis.jpg",
+    "author": "Albertovalle97",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-03-30",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "dinopolis-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Turiasaurus_skeleton_in_Din%C3%B3polis.jpg",
+    "author": "Ricardo Cabello Torres (brqx)",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "original_date": "2019-09-06",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "dinopolis-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aragosaurus_ischiaticus_y_Torvosaurus_en_Din%C3%B3polis.jpg",
+    "author": "Willtron",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2026-06-04",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "sendaviva-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Senda_Viva.jpg",
+    "author": "Utolotu",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "original_date": "2025-08-03",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "sendaviva-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Viaje_al_Parque_en_Navarra_de_SENDAVIVA_(2).jpg",
+    "author": "Artistosteles",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2013-06-23",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "sendaviva-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:2016_10_08_alimoche_Neophron_percnopterus_Sendaviva.jpg",
+    "author": "Javier Mediavilla Ezquibela (Javierme)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2016-10-08",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "sendaviva-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Sendaviva_Arguedas_oso_01.jpg",
+    "author": "Javier Mediavilla Ezquibela (Javierme)",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2016-10-08",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "cabarceno-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Parque_de_la_naturaleza_de_Cabárceno_-_panoramio.jpg",
+    "author": "Ignacio Pérez Anguio",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2012-09-23",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "cabarceno-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Paisaje_de_Cabárceno.jpg",
+    "author": "José Luis Filpo Cabana",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "2012-01",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "cabarceno-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Elefantes_en_el_Parque_de_la_naturaleza_de_Cabárceno_-_2013-Aug-12_-_by_Stromare.jpg",
+    "author": "Stromare",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2013-08-12",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "cabarceno-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Osos_en_el_Parque_de_la_naturaleza_de_Cabárceno_(6)_-_2013-Aug-12_-_by_Stromare.jpg",
+    "author": "Stromare",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2013-08-12",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "oasis-park-fuerteventura-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Oasis_Park_botanical_garden_-_Fuerteventura_-_04.jpg",
+    "author": "Norbert Nagel, Mörfelden-Walldorf, Germany",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2011-07-19",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "oasis-park-fuerteventura-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Oasis_Park_botanical_garden_-_Fuerteventura_-_01.jpg",
+    "author": "Norbert Nagel, Mörfelden-Walldorf, Germany",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2011-07-19",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "oasis-park-fuerteventura-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Group_of_giraffes_feeding_-_Oasis_Wildlife_Fuerteventura,_Canary_Islands,_Spain.jpg",
+    "author": "Sebastiaan Broekhoven",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2026-01-15",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "oasis-park-fuerteventura-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Crocodiles_resting_in_an_enclosure_-_Oasis_Wildlife_Fuerteventura,_Canary_Islands,_Spain.jpg",
+    "author": "Sebastiaan Broekhoven",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2026-01-15",
+    "changes": "redimensionada a 1200 px, JPG"
   }
 }

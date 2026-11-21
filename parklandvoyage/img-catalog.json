@@ -13078,6 +13078,383 @@
    "uses": [
     "guia"
    ]
+  },
+  "zoo-barcelona-portada.jpg": {
+   "park": "zoo-barcelona",
+   "ride": null,
+   "shows": "Entrada del Zoo de Barcelona en el Parc de la Ciutadella",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-barcelona-1.jpg": {
+   "park": "zoo-barcelona",
+   "ride": null,
+   "shows": "Casa dels Lleons, edificio de dirección del zoo (reciente)",
+   "width": 1200,
+   "height": 946,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-barcelona-2.jpg": {
+   "park": "zoo-barcelona",
+   "ride": null,
+   "shows": "Elefante africano en el zoo",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-barcelona-3.jpg": {
+   "park": "zoo-barcelona",
+   "ride": null,
+   "shows": "Dragón de Komodo (Tierra de Dragones)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquarium-barcelona-portada.jpg": {
+   "park": "aquarium-barcelona",
+   "ride": null,
+   "shows": "Morena y doradas en un gran tanque mediterráneo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquarium-barcelona-1.jpg": {
+   "park": "aquarium-barcelona",
+   "ride": null,
+   "shows": "Edificio renovado de L'Aquàrium en el Moll d'Espanya desde el passeig d'Ítaca",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquarium-barcelona-2.jpg": {
+   "park": "aquarium-barcelona",
+   "ride": null,
+   "shows": "Túnel del Oceanario",
+   "width": 1200,
+   "height": 803,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquarium-barcelona-3.jpg": {
+   "park": "aquarium-barcelona",
+   "ride": null,
+   "shows": "Medusas fluorescentes",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "illa-fantasia-portada.jpg": {
+   "park": "illa-fantasia",
+   "ride": null,
+   "shows": "Zona infantil pirata (Galleon) con cubo gigante de agua",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "illa-fantasia-1.jpg": {
+   "park": "illa-fantasia",
+   "ride": null,
+   "shows": "Toboganes de colores sobre la piscina de llegada",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "illa-fantasia-2.jpg": {
+   "park": "illa-fantasia",
+   "ride": null,
+   "shows": "Gran piscina con toboganes al fondo",
+   "width": 1024,
+   "height": 768,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "flickr",
+   "uses": [
+    "guia"
+   ]
+  },
+  "illa-fantasia-3.jpg": {
+   "park": "illa-fantasia",
+   "ride": null,
+   "shows": "Cubo gigante vertiendo agua en la zona pirata",
+   "width": 1024,
+   "height": 768,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "flickr",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquopolis-madrid-portada.jpg": {
+   "park": "aquopolis-madrid",
+   "ride": null,
+   "shows": "Zona infantil de juegos de agua con toboganes de colores y tumbonas en primer plano, Aquopolis Villanueva de la Cañada",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dinopolis-portada.jpg": {
+   "park": "dinopolis",
+   "ride": null,
+   "shows": "Tierra Magna: esculturas de Dacentrurus armatus con el edificio de Dinópolis al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dinopolis-1.jpg": {
+   "park": "dinopolis",
+   "ride": null,
+   "shows": "Escultura de dinosaurios peleando, vista desde abajo",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dinopolis-2.jpg": {
+   "park": "dinopolis",
+   "ride": null,
+   "shows": "Esqueleto de Turiasaurus riodevensis en el museo",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dinopolis-3.jpg": {
+   "park": "dinopolis",
+   "ride": null,
+   "shows": "Modelos de Aragosaurus ischiaticus y Torvosaurus en Dinópolis",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sendaviva-portada.jpg": {
+   "park": "sendaviva",
+   "ride": null,
+   "shows": "Entrada principal de Sendaviva con el rótulo verde sobre rocas artificiales",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sendaviva-1.jpg": {
+   "park": "sendaviva",
+   "ride": null,
+   "shows": "Muflones comiendo heno en la senda de herbívoros",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sendaviva-2.jpg": {
+   "park": "sendaviva",
+   "ride": null,
+   "shows": "Alimoche rompiendo un huevo falso durante la exhibición de rapaces",
+   "width": 1200,
+   "height": 668,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sendaviva-3.jpg": {
+   "park": "sendaviva",
+   "ride": null,
+   "shows": "Oso en Sendaviva",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cabarceno-portada.jpg": {
+   "park": "cabarceno",
+   "ride": null,
+   "shows": "Panorámica del parque y el valle (muy apaisada, recortar para portada)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cabarceno-1.jpg": {
+   "park": "cabarceno",
+   "ride": null,
+   "shows": "Paisaje kárstico de la antigua mina con sendero y paredes rocosas ocres del parque",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cabarceno-2.jpg": {
+   "park": "cabarceno",
+   "ride": null,
+   "shows": "Elefantes africanos en su recinto",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cabarceno-3.jpg": {
+   "park": "cabarceno",
+   "ride": null,
+   "shows": "Osos pardos en su recinto",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "oasis-park-fuerteventura-portada.jpg": {
+   "park": "oasis-park-fuerteventura",
+   "ride": null,
+   "shows": "Jardín botánico: palmeras canarias y cactus columnares con cielo azul",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "oasis-park-fuerteventura-1.jpg": {
+   "park": "oasis-park-fuerteventura",
+   "ride": null,
+   "shows": "Jardín de cactus y agaves con palmeras (cielo nublado)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "oasis-park-fuerteventura-2.jpg": {
+   "park": "oasis-park-fuerteventura",
+   "ride": null,
+   "shows": "Grupo de jirafas comiendo (vertical)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "oasis-park-fuerteventura-3.jpg": {
+   "park": "oasis-park-fuerteventura",
+   "ride": null,
+   "shows": "Cocodrilos descansando en su recinto",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }

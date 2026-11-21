@@ -2293,6 +2293,242 @@
         ]
       }
     },
+    "aquarium-barcelona-1.jpg": {
+      "sha256": "22dccde6bb443f39792f790b28934c363c548a9811af8c03fb04a3ed81625aa8",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquarium-barcelona-1/22dccde6bb44-w480.avif",
+            "width": 480,
+            "bytes": 13537
+          },
+          {
+            "file": "responsive/aquarium-barcelona-1/22dccde6bb44-w768.avif",
+            "width": 768,
+            "bytes": 29266
+          },
+          {
+            "file": "responsive/aquarium-barcelona-1/22dccde6bb44-w1200.avif",
+            "width": 1200,
+            "bytes": 71095
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquarium-barcelona-1/22dccde6bb44-w480.webp",
+            "width": 480,
+            "bytes": 22906
+          },
+          {
+            "file": "responsive/aquarium-barcelona-1/22dccde6bb44-w768.webp",
+            "width": 768,
+            "bytes": 50698
+          },
+          {
+            "file": "responsive/aquarium-barcelona-1/22dccde6bb44-w1200.webp",
+            "width": 1200,
+            "bytes": 132168
+          }
+        ]
+      }
+    },
+    "aquarium-barcelona-2.jpg": {
+      "sha256": "b446279e264397db322302f0c0470284ca5d51a41850a2d59088c2bd03a501ce",
+      "original_width": 1200,
+      "original_height": 803,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquarium-barcelona-2/b446279e2643-w480.avif",
+            "width": 480,
+            "bytes": 14992
+          },
+          {
+            "file": "responsive/aquarium-barcelona-2/b446279e2643-w768.avif",
+            "width": 768,
+            "bytes": 28779
+          },
+          {
+            "file": "responsive/aquarium-barcelona-2/b446279e2643-w1200.avif",
+            "width": 1200,
+            "bytes": 56338
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquarium-barcelona-2/b446279e2643-w480.webp",
+            "width": 480,
+            "bytes": 25940
+          },
+          {
+            "file": "responsive/aquarium-barcelona-2/b446279e2643-w768.webp",
+            "width": 768,
+            "bytes": 52886
+          },
+          {
+            "file": "responsive/aquarium-barcelona-2/b446279e2643-w1200.webp",
+            "width": 1200,
+            "bytes": 106716
+          }
+        ]
+      }
+    },
+    "aquarium-barcelona-3.jpg": {
+      "sha256": "a143eb90f0a127edf4aa0a4bbd31852ff46450cf1cb4a9a4cb14a0c86d93028e",
+      "original_width": 1200,
+      "original_height": 801,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquarium-barcelona-3/a143eb90f0a1-w480.avif",
+            "width": 480,
+            "bytes": 6253
+          },
+          {
+            "file": "responsive/aquarium-barcelona-3/a143eb90f0a1-w768.avif",
+            "width": 768,
+            "bytes": 11936
+          },
+          {
+            "file": "responsive/aquarium-barcelona-3/a143eb90f0a1-w1200.avif",
+            "width": 1200,
+            "bytes": 22060
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquarium-barcelona-3/a143eb90f0a1-w480.webp",
+            "width": 480,
+            "bytes": 11504
+          },
+          {
+            "file": "responsive/aquarium-barcelona-3/a143eb90f0a1-w768.webp",
+            "width": 768,
+            "bytes": 23010
+          },
+          {
+            "file": "responsive/aquarium-barcelona-3/a143eb90f0a1-w1200.webp",
+            "width": 1200,
+            "bytes": 44906
+          }
+        ]
+      }
+    },
+    "aquarium-barcelona-portada.jpg": {
+      "sha256": "31c3b22c67107ed1961ed3bfa5be1fba965b0cc5f85027d51f8e2e83a9b9142d",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquarium-barcelona-portada/31c3b22c6710-w480.avif",
+            "width": 480,
+            "bytes": 9155
+          },
+          {
+            "file": "responsive/aquarium-barcelona-portada/31c3b22c6710-w768.avif",
+            "width": 768,
+            "bytes": 19667
+          },
+          {
+            "file": "responsive/aquarium-barcelona-portada/31c3b22c6710-w1200.avif",
+            "width": 1200,
+            "bytes": 39502
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquarium-barcelona-portada/31c3b22c6710-w480.webp",
+            "width": 480,
+            "bytes": 16474
+          },
+          {
+            "file": "responsive/aquarium-barcelona-portada/31c3b22c6710-w768.webp",
+            "width": 768,
+            "bytes": 36830
+          },
+          {
+            "file": "responsive/aquarium-barcelona-portada/31c3b22c6710-w1200.webp",
+            "width": 1200,
+            "bytes": 75860
+          }
+        ]
+      }
+    },
     "aquascope-futuroscope-banner.jpg": {
       "sha256": "e7ca76e87ff037cef44a53333f9c2970ee170aa14ed5049e3c8c5ac96d42bf8f",
       "original_width": 1600,
@@ -2348,6 +2584,65 @@
             "file": "responsive/aquascope-futuroscope-banner/e7ca76e87ff0-w1200.webp",
             "width": 1200,
             "bytes": 31588
+          }
+        ]
+      }
+    },
+    "aquopolis-madrid-portada.jpg": {
+      "sha256": "7e27b240494506e2cf5e326e6642a2794ffde7098cf62886508f0f32f2d2091b",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquopolis-madrid-portada/7e27b2404945-w480.avif",
+            "width": 480,
+            "bytes": 15178
+          },
+          {
+            "file": "responsive/aquopolis-madrid-portada/7e27b2404945-w768.avif",
+            "width": 768,
+            "bytes": 35848
+          },
+          {
+            "file": "responsive/aquopolis-madrid-portada/7e27b2404945-w1200.avif",
+            "width": 1200,
+            "bytes": 87036
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquopolis-madrid-portada/7e27b2404945-w480.webp",
+            "width": 480,
+            "bytes": 23460
+          },
+          {
+            "file": "responsive/aquopolis-madrid-portada/7e27b2404945-w768.webp",
+            "width": 768,
+            "bytes": 56314
+          },
+          {
+            "file": "responsive/aquopolis-madrid-portada/7e27b2404945-w1200.webp",
+            "width": 1200,
+            "bytes": 137692
           }
         ]
       }
@@ -5888,6 +6183,242 @@
             "file": "responsive/busch-gardens-timbuktu-1/c9f8f55505bb-w1200.webp",
             "width": 1200,
             "bytes": 161062
+          }
+        ]
+      }
+    },
+    "cabarceno-1.jpg": {
+      "sha256": "7894dcac44f45bd1905e6da82fa3cfeb16047f0dd98c5f26b9c9b3cff15548db",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/cabarceno-1/7894dcac44f4-w480.avif",
+            "width": 480,
+            "bytes": 31879
+          },
+          {
+            "file": "responsive/cabarceno-1/7894dcac44f4-w768.avif",
+            "width": 768,
+            "bytes": 93528
+          },
+          {
+            "file": "responsive/cabarceno-1/7894dcac44f4-w1200.avif",
+            "width": 1200,
+            "bytes": 248725
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/cabarceno-1/7894dcac44f4-w480.webp",
+            "width": 480,
+            "bytes": 45004
+          },
+          {
+            "file": "responsive/cabarceno-1/7894dcac44f4-w768.webp",
+            "width": 768,
+            "bytes": 124422
+          },
+          {
+            "file": "responsive/cabarceno-1/7894dcac44f4-w1200.webp",
+            "width": 1200,
+            "bytes": 337938
+          }
+        ]
+      }
+    },
+    "cabarceno-2.jpg": {
+      "sha256": "804eafa1d27de7f47bd27f7f74651e4c5239ad631db3bcc11ccb031a38b1f408",
+      "original_width": 1200,
+      "original_height": 801,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/cabarceno-2/804eafa1d27d-w480.avif",
+            "width": 480,
+            "bytes": 6420
+          },
+          {
+            "file": "responsive/cabarceno-2/804eafa1d27d-w768.avif",
+            "width": 768,
+            "bytes": 17581
+          },
+          {
+            "file": "responsive/cabarceno-2/804eafa1d27d-w1200.avif",
+            "width": 1200,
+            "bytes": 51660
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/cabarceno-2/804eafa1d27d-w480.webp",
+            "width": 480,
+            "bytes": 15604
+          },
+          {
+            "file": "responsive/cabarceno-2/804eafa1d27d-w768.webp",
+            "width": 768,
+            "bytes": 43688
+          },
+          {
+            "file": "responsive/cabarceno-2/804eafa1d27d-w1200.webp",
+            "width": 1200,
+            "bytes": 103520
+          }
+        ]
+      }
+    },
+    "cabarceno-3.jpg": {
+      "sha256": "a41bccfce84d0643fe7b4b729574b81f82aa7b2c72ccb4289bfe12be6f133d72",
+      "original_width": 1200,
+      "original_height": 801,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/cabarceno-3/a41bccfce84d-w480.avif",
+            "width": 480,
+            "bytes": 14798
+          },
+          {
+            "file": "responsive/cabarceno-3/a41bccfce84d-w768.avif",
+            "width": 768,
+            "bytes": 40791
+          },
+          {
+            "file": "responsive/cabarceno-3/a41bccfce84d-w1200.avif",
+            "width": 1200,
+            "bytes": 107281
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/cabarceno-3/a41bccfce84d-w480.webp",
+            "width": 480,
+            "bytes": 27460
+          },
+          {
+            "file": "responsive/cabarceno-3/a41bccfce84d-w768.webp",
+            "width": 768,
+            "bytes": 71592
+          },
+          {
+            "file": "responsive/cabarceno-3/a41bccfce84d-w1200.webp",
+            "width": 1200,
+            "bytes": 171306
+          }
+        ]
+      }
+    },
+    "cabarceno-portada.jpg": {
+      "sha256": "e98f3071e4c1337e76240c2796cc8aa4f173ea8350d1a41f46b75c495329d864",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/cabarceno-portada/e98f3071e4c1-w480.avif",
+            "width": 480,
+            "bytes": 8114
+          },
+          {
+            "file": "responsive/cabarceno-portada/e98f3071e4c1-w768.avif",
+            "width": 768,
+            "bytes": 26060
+          },
+          {
+            "file": "responsive/cabarceno-portada/e98f3071e4c1-w1200.avif",
+            "width": 1200,
+            "bytes": 62240
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/cabarceno-portada/e98f3071e4c1-w480.webp",
+            "width": 480,
+            "bytes": 15012
+          },
+          {
+            "file": "responsive/cabarceno-portada/e98f3071e4c1-w768.webp",
+            "width": 768,
+            "bytes": 44126
+          },
+          {
+            "file": "responsive/cabarceno-portada/e98f3071e4c1-w1200.webp",
+            "width": 1200,
+            "bytes": 106916
           }
         ]
       }
@@ -9605,6 +10136,242 @@
             "file": "responsive/diagon-alley-dragon-gringotts/8dae16ef2069-w1200.webp",
             "width": 1200,
             "bytes": 66208
+          }
+        ]
+      }
+    },
+    "dinopolis-1.jpg": {
+      "sha256": "4c21edf38186318b43323a64604df58c2ff9ae6d1e95f8d0f5fa325d336a29bd",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dinopolis-1/4c21edf38186-w480.avif",
+            "width": 480,
+            "bytes": 12674
+          },
+          {
+            "file": "responsive/dinopolis-1/4c21edf38186-w768.avif",
+            "width": 768,
+            "bytes": 26532
+          },
+          {
+            "file": "responsive/dinopolis-1/4c21edf38186-w1200.avif",
+            "width": 1200,
+            "bytes": 55987
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dinopolis-1/4c21edf38186-w480.webp",
+            "width": 480,
+            "bytes": 21724
+          },
+          {
+            "file": "responsive/dinopolis-1/4c21edf38186-w768.webp",
+            "width": 768,
+            "bytes": 45398
+          },
+          {
+            "file": "responsive/dinopolis-1/4c21edf38186-w1200.webp",
+            "width": 1200,
+            "bytes": 93858
+          }
+        ]
+      }
+    },
+    "dinopolis-2.jpg": {
+      "sha256": "0468bf5e88db38438d0ef8903f2970eefe7b57fc8ff5361a4e983da6d3c5a08a",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dinopolis-2/0468bf5e88db-w480.avif",
+            "width": 480,
+            "bytes": 16053
+          },
+          {
+            "file": "responsive/dinopolis-2/0468bf5e88db-w768.avif",
+            "width": 768,
+            "bytes": 37650
+          },
+          {
+            "file": "responsive/dinopolis-2/0468bf5e88db-w1200.avif",
+            "width": 1200,
+            "bytes": 79076
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dinopolis-2/0468bf5e88db-w480.webp",
+            "width": 480,
+            "bytes": 26192
+          },
+          {
+            "file": "responsive/dinopolis-2/0468bf5e88db-w768.webp",
+            "width": 768,
+            "bytes": 61164
+          },
+          {
+            "file": "responsive/dinopolis-2/0468bf5e88db-w1200.webp",
+            "width": 1200,
+            "bytes": 131030
+          }
+        ]
+      }
+    },
+    "dinopolis-3.jpg": {
+      "sha256": "07acdb352eada588c584b241a0ff08a9bc9603878a50d54c9488adacc6e64d49",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dinopolis-3/07acdb352ead-w480.avif",
+            "width": 480,
+            "bytes": 17243
+          },
+          {
+            "file": "responsive/dinopolis-3/07acdb352ead-w768.avif",
+            "width": 768,
+            "bytes": 54157
+          },
+          {
+            "file": "responsive/dinopolis-3/07acdb352ead-w1200.avif",
+            "width": 1200,
+            "bytes": 164017
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dinopolis-3/07acdb352ead-w480.webp",
+            "width": 480,
+            "bytes": 28346
+          },
+          {
+            "file": "responsive/dinopolis-3/07acdb352ead-w768.webp",
+            "width": 768,
+            "bytes": 78130
+          },
+          {
+            "file": "responsive/dinopolis-3/07acdb352ead-w1200.webp",
+            "width": 1200,
+            "bytes": 219772
+          }
+        ]
+      }
+    },
+    "dinopolis-portada.jpg": {
+      "sha256": "8fe6557ca12cc9970fba9a38dd6c671dbc3b6da7976e428a62a4659d5626d4d8",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dinopolis-portada/8fe6557ca12c-w480.avif",
+            "width": 480,
+            "bytes": 20650
+          },
+          {
+            "file": "responsive/dinopolis-portada/8fe6557ca12c-w768.avif",
+            "width": 768,
+            "bytes": 52584
+          },
+          {
+            "file": "responsive/dinopolis-portada/8fe6557ca12c-w1200.avif",
+            "width": 1200,
+            "bytes": 131544
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dinopolis-portada/8fe6557ca12c-w480.webp",
+            "width": 480,
+            "bytes": 30424
+          },
+          {
+            "file": "responsive/dinopolis-portada/8fe6557ca12c-w768.webp",
+            "width": 768,
+            "bytes": 75440
+          },
+          {
+            "file": "responsive/dinopolis-portada/8fe6557ca12c-w1200.webp",
+            "width": 1200,
+            "bytes": 188402
           }
         ]
       }
@@ -22412,6 +23179,242 @@
         ]
       }
     },
+    "illa-fantasia-1.jpg": {
+      "sha256": "121956b33a4c81290c721f8ded4bfca3bd5570b1c5fd8ba6c4b6ba496a7162b8",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/illa-fantasia-1/121956b33a4c-w480.avif",
+            "width": 480,
+            "bytes": 10829
+          },
+          {
+            "file": "responsive/illa-fantasia-1/121956b33a4c-w768.avif",
+            "width": 768,
+            "bytes": 20507
+          },
+          {
+            "file": "responsive/illa-fantasia-1/121956b33a4c-w1200.avif",
+            "width": 1200,
+            "bytes": 39782
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/illa-fantasia-1/121956b33a4c-w480.webp",
+            "width": 480,
+            "bytes": 19994
+          },
+          {
+            "file": "responsive/illa-fantasia-1/121956b33a4c-w768.webp",
+            "width": 768,
+            "bytes": 40070
+          },
+          {
+            "file": "responsive/illa-fantasia-1/121956b33a4c-w1200.webp",
+            "width": 1200,
+            "bytes": 79358
+          }
+        ]
+      }
+    },
+    "illa-fantasia-2.jpg": {
+      "sha256": "1f3175112ad51c1942d9deaa1d0c5f0f1395fdb74ae7c3cc4f2929d8a676f275",
+      "original_width": 1024,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1024
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/illa-fantasia-2/1f3175112ad5-w480.avif",
+            "width": 480,
+            "bytes": 16533
+          },
+          {
+            "file": "responsive/illa-fantasia-2/1f3175112ad5-w768.avif",
+            "width": 768,
+            "bytes": 36783
+          },
+          {
+            "file": "responsive/illa-fantasia-2/1f3175112ad5-w1024.avif",
+            "width": 1024,
+            "bytes": 71366
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/illa-fantasia-2/1f3175112ad5-w480.webp",
+            "width": 480,
+            "bytes": 26836
+          },
+          {
+            "file": "responsive/illa-fantasia-2/1f3175112ad5-w768.webp",
+            "width": 768,
+            "bytes": 62304
+          },
+          {
+            "file": "responsive/illa-fantasia-2/1f3175112ad5-w1024.webp",
+            "width": 1024,
+            "bytes": 114768
+          }
+        ]
+      }
+    },
+    "illa-fantasia-3.jpg": {
+      "sha256": "b5e5d25d6fdca39a3810a34bdc5e1caf43ec14dfb860d5c952f94d6cca65bb46",
+      "original_width": 1024,
+      "original_height": 768,
+      "widths": [
+        480,
+        768,
+        1024
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/illa-fantasia-3/b5e5d25d6fdc-w480.avif",
+            "width": 480,
+            "bytes": 21170
+          },
+          {
+            "file": "responsive/illa-fantasia-3/b5e5d25d6fdc-w768.avif",
+            "width": 768,
+            "bytes": 51393
+          },
+          {
+            "file": "responsive/illa-fantasia-3/b5e5d25d6fdc-w1024.avif",
+            "width": 1024,
+            "bytes": 101466
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/illa-fantasia-3/b5e5d25d6fdc-w480.webp",
+            "width": 480,
+            "bytes": 33744
+          },
+          {
+            "file": "responsive/illa-fantasia-3/b5e5d25d6fdc-w768.webp",
+            "width": 768,
+            "bytes": 81182
+          },
+          {
+            "file": "responsive/illa-fantasia-3/b5e5d25d6fdc-w1024.webp",
+            "width": 1024,
+            "bytes": 152490
+          }
+        ]
+      }
+    },
+    "illa-fantasia-portada.jpg": {
+      "sha256": "8170e580db1387859b850045e3870024fbb8a6e1220485a91e1c56a68de6222a",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/illa-fantasia-portada/8170e580db13-w480.avif",
+            "width": 480,
+            "bytes": 21158
+          },
+          {
+            "file": "responsive/illa-fantasia-portada/8170e580db13-w768.avif",
+            "width": 768,
+            "bytes": 45265
+          },
+          {
+            "file": "responsive/illa-fantasia-portada/8170e580db13-w1200.avif",
+            "width": 1200,
+            "bytes": 92721
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/illa-fantasia-portada/8170e580db13-w480.webp",
+            "width": 480,
+            "bytes": 30852
+          },
+          {
+            "file": "responsive/illa-fantasia-portada/8170e580db13-w768.webp",
+            "width": 768,
+            "bytes": 70026
+          },
+          {
+            "file": "responsive/illa-fantasia-portada/8170e580db13-w1200.webp",
+            "width": 1200,
+            "bytes": 151352
+          }
+        ]
+      }
+    },
     "im-jaguar.jpg": {
       "sha256": "7177b26ac3d845c4c7a473e86c18686e85224522f2c75b33194ee7e83b006822",
       "original_width": 800,
@@ -28710,6 +29713,242 @@
             "file": "responsive/novedades-parques-europa-2026/452462f08e15-w1200.webp",
             "width": 1200,
             "bytes": 170086
+          }
+        ]
+      }
+    },
+    "oasis-park-fuerteventura-1.jpg": {
+      "sha256": "47c6e8270a3c025849d93087dc47724141300f1b38cd7638e5495699d1d6c35a",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/oasis-park-fuerteventura-1/47c6e8270a3c-w480.avif",
+            "width": 480,
+            "bytes": 22655
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-1/47c6e8270a3c-w768.avif",
+            "width": 768,
+            "bytes": 56778
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-1/47c6e8270a3c-w1200.avif",
+            "width": 1200,
+            "bytes": 145758
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/oasis-park-fuerteventura-1/47c6e8270a3c-w480.webp",
+            "width": 480,
+            "bytes": 33064
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-1/47c6e8270a3c-w768.webp",
+            "width": 768,
+            "bytes": 81148
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-1/47c6e8270a3c-w1200.webp",
+            "width": 1200,
+            "bytes": 205816
+          }
+        ]
+      }
+    },
+    "oasis-park-fuerteventura-2.jpg": {
+      "sha256": "5877336d620fe016389cce6dc6394ffd07d6c1b5c0d1a0efec67ca7574e17742",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/oasis-park-fuerteventura-2/5877336d620f-w480.avif",
+            "width": 480,
+            "bytes": 46127
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-2/5877336d620f-w768.avif",
+            "width": 768,
+            "bytes": 113408
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-2/5877336d620f-w1200.avif",
+            "width": 1200,
+            "bytes": 230632
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/oasis-park-fuerteventura-2/5877336d620f-w480.webp",
+            "width": 480,
+            "bytes": 61944
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-2/5877336d620f-w768.webp",
+            "width": 768,
+            "bytes": 153954
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-2/5877336d620f-w1200.webp",
+            "width": 1200,
+            "bytes": 335734
+          }
+        ]
+      }
+    },
+    "oasis-park-fuerteventura-3.jpg": {
+      "sha256": "d9e78fa8ac3ebe614c3aa7cc4db4ca196bb288cd71efcbfdeb6fcbee112963b4",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/oasis-park-fuerteventura-3/d9e78fa8ac3e-w480.avif",
+            "width": 480,
+            "bytes": 42442
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-3/d9e78fa8ac3e-w768.avif",
+            "width": 768,
+            "bytes": 115406
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-3/d9e78fa8ac3e-w1200.avif",
+            "width": 1200,
+            "bytes": 283391
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/oasis-park-fuerteventura-3/d9e78fa8ac3e-w480.webp",
+            "width": 480,
+            "bytes": 58348
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-3/d9e78fa8ac3e-w768.webp",
+            "width": 768,
+            "bytes": 155522
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-3/d9e78fa8ac3e-w1200.webp",
+            "width": 1200,
+            "bytes": 390276
+          }
+        ]
+      }
+    },
+    "oasis-park-fuerteventura-portada.jpg": {
+      "sha256": "8d5197b2987d211ffd72fcdc51afa37c9a59a8f5dc2a05f8fb62377a4a20280e",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/oasis-park-fuerteventura-portada/8d5197b2987d-w480.avif",
+            "width": 480,
+            "bytes": 19365
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-portada/8d5197b2987d-w768.avif",
+            "width": 768,
+            "bytes": 48298
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-portada/8d5197b2987d-w1200.avif",
+            "width": 1200,
+            "bytes": 122099
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/oasis-park-fuerteventura-portada/8d5197b2987d-w480.webp",
+            "width": 480,
+            "bytes": 27458
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-portada/8d5197b2987d-w768.webp",
+            "width": 768,
+            "bytes": 67068
+          },
+          {
+            "file": "responsive/oasis-park-fuerteventura-portada/8d5197b2987d-w1200.webp",
+            "width": 1200,
+            "bytes": 164126
           }
         ]
       }
@@ -38268,6 +39507,242 @@
             "file": "responsive/selwo-marina-portada/6f7ed2f58648-w1200.webp",
             "width": 1200,
             "bytes": 69740
+          }
+        ]
+      }
+    },
+    "sendaviva-1.jpg": {
+      "sha256": "bb32c22a13cfbdec4bc781ae822c64e02a589ba51b383971ebbd2298dfa5da98",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sendaviva-1/bb32c22a13cf-w480.avif",
+            "width": 480,
+            "bytes": 19872
+          },
+          {
+            "file": "responsive/sendaviva-1/bb32c22a13cf-w768.avif",
+            "width": 768,
+            "bytes": 40355
+          },
+          {
+            "file": "responsive/sendaviva-1/bb32c22a13cf-w1200.avif",
+            "width": 1200,
+            "bytes": 77462
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sendaviva-1/bb32c22a13cf-w480.webp",
+            "width": 480,
+            "bytes": 31894
+          },
+          {
+            "file": "responsive/sendaviva-1/bb32c22a13cf-w768.webp",
+            "width": 768,
+            "bytes": 67620
+          },
+          {
+            "file": "responsive/sendaviva-1/bb32c22a13cf-w1200.webp",
+            "width": 1200,
+            "bytes": 130336
+          }
+        ]
+      }
+    },
+    "sendaviva-2.jpg": {
+      "sha256": "f048c5c5dabdd886f3b0cfdd6f9f88eb14e6e79d80a58828ab678e4e30e6eb47",
+      "original_width": 1200,
+      "original_height": 668,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sendaviva-2/f048c5c5dabd-w480.avif",
+            "width": 480,
+            "bytes": 24592
+          },
+          {
+            "file": "responsive/sendaviva-2/f048c5c5dabd-w768.avif",
+            "width": 768,
+            "bytes": 59966
+          },
+          {
+            "file": "responsive/sendaviva-2/f048c5c5dabd-w1200.avif",
+            "width": 1200,
+            "bytes": 137821
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sendaviva-2/f048c5c5dabd-w480.webp",
+            "width": 480,
+            "bytes": 36012
+          },
+          {
+            "file": "responsive/sendaviva-2/f048c5c5dabd-w768.webp",
+            "width": 768,
+            "bytes": 87178
+          },
+          {
+            "file": "responsive/sendaviva-2/f048c5c5dabd-w1200.webp",
+            "width": 1200,
+            "bytes": 204428
+          }
+        ]
+      }
+    },
+    "sendaviva-3.jpg": {
+      "sha256": "cc6c10f6f1115e7d834ebb5a20f8ae754378132961b7517b6f9fead4a6979868",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sendaviva-3/cc6c10f6f111-w480.avif",
+            "width": 480,
+            "bytes": 18056
+          },
+          {
+            "file": "responsive/sendaviva-3/cc6c10f6f111-w768.avif",
+            "width": 768,
+            "bytes": 38464
+          },
+          {
+            "file": "responsive/sendaviva-3/cc6c10f6f111-w1200.avif",
+            "width": 1200,
+            "bytes": 87144
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sendaviva-3/cc6c10f6f111-w480.webp",
+            "width": 480,
+            "bytes": 30946
+          },
+          {
+            "file": "responsive/sendaviva-3/cc6c10f6f111-w768.webp",
+            "width": 768,
+            "bytes": 68946
+          },
+          {
+            "file": "responsive/sendaviva-3/cc6c10f6f111-w1200.webp",
+            "width": 1200,
+            "bytes": 150748
+          }
+        ]
+      }
+    },
+    "sendaviva-portada.jpg": {
+      "sha256": "7f127300982d4c0e960d9e8da963a781a37311948fdc05c39148764d44e02e01",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sendaviva-portada/7f127300982d-w480.avif",
+            "width": 480,
+            "bytes": 7750
+          },
+          {
+            "file": "responsive/sendaviva-portada/7f127300982d-w768.avif",
+            "width": 768,
+            "bytes": 22918
+          },
+          {
+            "file": "responsive/sendaviva-portada/7f127300982d-w1200.avif",
+            "width": 1200,
+            "bytes": 75510
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sendaviva-portada/7f127300982d-w480.webp",
+            "width": 480,
+            "bytes": 14652
+          },
+          {
+            "file": "responsive/sendaviva-portada/7f127300982d-w768.webp",
+            "width": 768,
+            "bytes": 41176
+          },
+          {
+            "file": "responsive/sendaviva-portada/7f127300982d-w1200.webp",
+            "width": 1200,
+            "bytes": 122304
           }
         ]
       }
@@ -55013,6 +56488,242 @@
             "file": "responsive/zoo-aquarium-madrid-portada/147a4df34d42-w1200.webp",
             "width": 1200,
             "bytes": 242886
+          }
+        ]
+      }
+    },
+    "zoo-barcelona-1.jpg": {
+      "sha256": "ca71b5afc504dfb1b632e213c31ac55cb5964a11a6baf887623ec0aaf58a0e39",
+      "original_width": 1200,
+      "original_height": 946,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoo-barcelona-1/ca71b5afc504-w480.avif",
+            "width": 480,
+            "bytes": 39290
+          },
+          {
+            "file": "responsive/zoo-barcelona-1/ca71b5afc504-w768.avif",
+            "width": 768,
+            "bytes": 104026
+          },
+          {
+            "file": "responsive/zoo-barcelona-1/ca71b5afc504-w1200.avif",
+            "width": 1200,
+            "bytes": 264262
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoo-barcelona-1/ca71b5afc504-w480.webp",
+            "width": 480,
+            "bytes": 54844
+          },
+          {
+            "file": "responsive/zoo-barcelona-1/ca71b5afc504-w768.webp",
+            "width": 768,
+            "bytes": 145846
+          },
+          {
+            "file": "responsive/zoo-barcelona-1/ca71b5afc504-w1200.webp",
+            "width": 1200,
+            "bytes": 367024
+          }
+        ]
+      }
+    },
+    "zoo-barcelona-2.jpg": {
+      "sha256": "a3628a74394c0e2fd68f08ddd86215b1f115c2900943a9c170f0785c7aab33cd",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoo-barcelona-2/a3628a74394c-w480.avif",
+            "width": 480,
+            "bytes": 24778
+          },
+          {
+            "file": "responsive/zoo-barcelona-2/a3628a74394c-w768.avif",
+            "width": 768,
+            "bytes": 67378
+          },
+          {
+            "file": "responsive/zoo-barcelona-2/a3628a74394c-w1200.avif",
+            "width": 1200,
+            "bytes": 167881
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoo-barcelona-2/a3628a74394c-w480.webp",
+            "width": 480,
+            "bytes": 38766
+          },
+          {
+            "file": "responsive/zoo-barcelona-2/a3628a74394c-w768.webp",
+            "width": 768,
+            "bytes": 99376
+          },
+          {
+            "file": "responsive/zoo-barcelona-2/a3628a74394c-w1200.webp",
+            "width": 1200,
+            "bytes": 246590
+          }
+        ]
+      }
+    },
+    "zoo-barcelona-3.jpg": {
+      "sha256": "cea206beab48b206da0f2186b4062b19fc29f38f2800ff7f3e1154c9540f977d",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoo-barcelona-3/cea206beab48-w480.avif",
+            "width": 480,
+            "bytes": 26411
+          },
+          {
+            "file": "responsive/zoo-barcelona-3/cea206beab48-w768.avif",
+            "width": 768,
+            "bytes": 55661
+          },
+          {
+            "file": "responsive/zoo-barcelona-3/cea206beab48-w1200.avif",
+            "width": 1200,
+            "bytes": 120451
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoo-barcelona-3/cea206beab48-w480.webp",
+            "width": 480,
+            "bytes": 42344
+          },
+          {
+            "file": "responsive/zoo-barcelona-3/cea206beab48-w768.webp",
+            "width": 768,
+            "bytes": 92650
+          },
+          {
+            "file": "responsive/zoo-barcelona-3/cea206beab48-w1200.webp",
+            "width": 1200,
+            "bytes": 198864
+          }
+        ]
+      }
+    },
+    "zoo-barcelona-portada.jpg": {
+      "sha256": "d1d73ac713539c4a903a64a82affece263ffcf790299d31ef631a0e4750b6a72",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoo-barcelona-portada/d1d73ac71353-w480.avif",
+            "width": 480,
+            "bytes": 23496
+          },
+          {
+            "file": "responsive/zoo-barcelona-portada/d1d73ac71353-w768.avif",
+            "width": 768,
+            "bytes": 53692
+          },
+          {
+            "file": "responsive/zoo-barcelona-portada/d1d73ac71353-w1200.avif",
+            "width": 1200,
+            "bytes": 117613
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoo-barcelona-portada/d1d73ac71353-w480.webp",
+            "width": 480,
+            "bytes": 33512
+          },
+          {
+            "file": "responsive/zoo-barcelona-portada/d1d73ac71353-w768.webp",
+            "width": 768,
+            "bytes": 76988
+          },
+          {
+            "file": "responsive/zoo-barcelona-portada/d1d73ac71353-w1200.webp",
+            "width": 1200,
+            "bytes": 173334
           }
         ]
       }
