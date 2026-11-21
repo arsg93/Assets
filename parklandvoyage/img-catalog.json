@@ -14638,6 +14638,422 @@
    "uses": [
     "guia"
    ]
+  },
+  "warner-bros-studio-tour-london-portada.jpg": {
+   "park": "warner-bros-studio-tour-london",
+   "ride": null,
+   "shows": "Entrada principal del edificio del Studio Tour (julio 2025)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-studio-tour-london-1.jpg": {
+   "park": "warner-bros-studio-tour-london",
+   "ride": null,
+   "shows": "Autobús Noctámbulo en el backlot (vertical, 2025)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-studio-tour-london-2.jpg": {
+   "park": "warner-bros-studio-tour-london",
+   "ride": null,
+   "shows": "Puente de Hogwarts en el backlot (2013)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-studio-tour-london-3.jpg": {
+   "park": "warner-bros-studio-tour-london",
+   "ride": null,
+   "shows": "Decorado del Callejón Diagon (2013)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-windsor-portada.jpg": {
+   "park": "legoland-windsor",
+   "ride": null,
+   "shows": "Miniland: Londres en miniatura (mayo 2023)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-windsor-1.jpg": {
+   "park": "legoland-windsor",
+   "ride": null,
+   "shows": "DUPLO Dino Coaster en DUPLO Valley (junio 2023)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-windsor-2.jpg": {
+   "park": "legoland-windsor",
+   "ride": null,
+   "shows": "Miniland: Nueva York (vertical, mayo 2023)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-windsor-3.jpg": {
+   "park": "legoland-windsor",
+   "ride": null,
+   "shows": "Miniland: Ópera de Sídney (2018)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "london-zoo-portada.jpg": {
+   "park": "london-zoo",
+   "ride": null,
+   "shows": "Snowdon Aviary (hoy Monkey Valley), edificio emblemático del zoo (2013)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "london-zoo-1.jpg": {
+   "park": "london-zoo",
+   "ride": null,
+   "shows": "Gorila con cría en Gorilla Kingdom (2016)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "london-zoo-2.jpg": {
+   "park": "london-zoo",
+   "ride": null,
+   "shows": "Pingüino de penacho amarillo, Penguin Beach (2016)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "london-zoo-3.jpg": {
+   "park": "london-zoo",
+   "ride": null,
+   "shows": "Blackburn Pavilion (casa de aves tropicales, 2014)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chessington-portada.jpg": {
+   "park": "chessington",
+   "ride": null,
+   "shows": "Portal de World of Jumanji con Mandrill Mayhem (mayo 2023)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chessington-1.jpg": {
+   "park": "chessington",
+   "ride": null,
+   "shows": "Mamba Strike, World of Jumanji (2023)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chessington-2.jpg": {
+   "park": "chessington",
+   "ride": null,
+   "shows": "Primera bajada de Dragon's Fury (2015)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chessington-3.jpg": {
+   "park": "chessington",
+   "ride": null,
+   "shows": "The Gruffalo River Ride Adventure (2020)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chester-zoo-portada.jpg": {
+   "park": "chester-zoo",
+   "ride": null,
+   "shows": "Barcas tradicionales indonesias junto al agua en la zona Islands (2023)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chester-zoo-1.jpg": {
+   "park": "chester-zoo",
+   "ride": null,
+   "shows": "Vista de Islands con barcas y lagos (2016)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chester-zoo-2.jpg": {
+   "park": "chester-zoo",
+   "ride": null,
+   "shows": "Dragón de Komodo en Chester Zoo (2023)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chester-zoo-3.jpg": {
+   "park": "chester-zoo",
+   "ride": null,
+   "shows": "Pingüinos de Humboldt en su piscina (2023)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "blackpool-pleasure-beach-portada.jpg": {
+   "park": "blackpool-pleasure-beach",
+   "ride": null,
+   "shows": "The Big One y el parque vistos desde la playa de South Beach (2020)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "blackpool-pleasure-beach-1.jpg": {
+   "park": "blackpool-pleasure-beach",
+   "ride": null,
+   "shows": "Tren de The Big One con pasajeros (2022)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "blackpool-pleasure-beach-2.jpg": {
+   "park": "blackpool-pleasure-beach",
+   "ride": null,
+   "shows": "ICON en su inversión Junior Immelman (2020)",
+   "width": 1200,
+   "height": 673,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "blackpool-pleasure-beach-3.jpg": {
+   "park": "blackpool-pleasure-beach",
+   "ride": null,
+   "shows": "Estación de Avalanche (2013)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "paultons-park-portada.jpg": {
+   "park": "paultons-park",
+   "ride": null,
+   "shows": "Vista general de Peppa Pig World con la noria de globos (2022)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "paultons-park-1.jpg": {
+   "park": "paultons-park",
+   "ride": null,
+   "shows": "Peppa's Big Balloon Ride en Peppa Pig World (2019)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "paultons-park-2.jpg": {
+   "park": "paultons-park",
+   "ride": null,
+   "shows": "Subida de Storm Chaser en Tornado Springs (2021)",
+   "width": 1200,
+   "height": 704,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "paultons-park-3.jpg": {
+   "park": "paultons-park",
+   "ride": null,
+   "shows": "Velociraptor en Lost Kingdom (2019)",
+   "width": 1200,
+   "height": 879,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "drayton-manor-portada.jpg": {
+   "park": "drayton-manor",
+   "ride": null,
+   "shows": "Estación Knapford con Thomas en Thomas Land (2024)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "drayton-manor-1.jpg": {
+   "park": "drayton-manor",
+   "ride": null,
+   "shows": "Gold Rush en Frontier Falls (2024)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "drayton-manor-2.jpg": {
+   "park": "drayton-manor",
+   "ride": null,
+   "shows": "Loki en Vikings (2024)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "drayton-manor-3.jpg": {
+   "park": "drayton-manor",
+   "ride": null,
+   "shows": "Shockwave, hoy The Wave: caída y looping (2010)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }
