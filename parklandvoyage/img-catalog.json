@@ -16354,6 +16354,448 @@
    "uses": [
     "guia"
    ]
+  },
+  "universal-studios-beijing-portada.jpg": {
+   "park": "universal-studios-beijing",
+   "ride": null,
+   "shows": "Plaza de entrada de Universal Studios Beijing con el edificio del Universal Grand Hotel al fondo, en 2021",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "universal-studios-beijing-1.jpg": {
+   "park": "universal-studios-beijing",
+   "ride": null,
+   "shows": "Carriles y tren de la montaña rusa Flight of the Hippogriff, entre rocas y pinos, en 2024",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "universal-studios-beijing-2.jpg": {
+   "park": "universal-studios-beijing",
+   "ride": null,
+   "shows": "Acceso a la zona WaterWorld, con decorado postapocalíptico y visitantes a lo lejos, en 2024",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sunway-lagoon-portada.jpg": {
+   "park": "sunway-lagoon",
+   "ride": null,
+   "shows": "Vista elevada del parque acuático de Sunway Lagoon con toboganes y piscinas, y los edificios de Subang Jaya al fondo, en 2022",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sunway-lagoon-1.jpg": {
+   "park": "sunway-lagoon",
+   "ride": null,
+   "shows": "Entrada del Surf Beach (piscina de olas) con la fachada de roca y el letrero de Sunway Lagoon, en 2017",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sunway-lagoon-2.jpg": {
+   "park": "sunway-lagoon",
+   "ride": null,
+   "shows": "Vista al anochecer de los toboganes y piscinas del parque con la ciudad iluminada detrás, en 2022",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sunway-lagoon-3.jpg": {
+   "park": "sunway-lagoon",
+   "ride": null,
+   "shows": "Atracción Pirate Ship (barco pirata pendular) vista desde el paseo en altura entre árboles; foto vertical",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-malaysia-portada.jpg": {
+   "park": "legoland-malaysia",
+   "ride": null,
+   "shows": "Parque acuático de Legoland Malaysia con toboganes, piscina y el hotel del resort al fondo, en 2015",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-malaysia-1.jpg": {
+   "park": "legoland-malaysia",
+   "ride": null,
+   "shows": "Miniland: maqueta de LEGO de una barca real tailandesa dorada y roja sobre el agua, en diciembre de 2024",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-malaysia-2.jpg": {
+   "park": "legoland-malaysia",
+   "ride": null,
+   "shows": "Pórtico de entrada de Legoland Malaysia con torres de LEGO de colores, en 2013",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-malaysia-3.jpg": {
+   "park": "legoland-malaysia",
+   "ride": null,
+   "shows": "Hotel de Legoland Malaysia visto desde una pradera, en 2023",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-sydney-portada.jpg": {
+   "park": "sea-life-sydney",
+   "ride": null,
+   "shows": "Exterior del edificio del acuario en Darling Harbour, con embarcaciones amarradas y rascacielos de Sídney, en 2017",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-sydney-1.jpg": {
+   "park": "sea-life-sydney",
+   "ride": null,
+   "shows": "Chucho águila ocelado (Aetobatus ocellatus) nadando en un tanque de SEA LIFE Sydney, en 2016",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-movie-world-portada.jpg": {
+   "park": "warner-bros-movie-world",
+   "ride": null,
+   "shows": "Gran pórtico de entrada de Warner Bros. Movie World con el logo WB y la torre de Superman Escape al fondo, en 2012",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-movie-world-1.jpg": {
+   "park": "warner-bros-movie-world",
+   "ride": null,
+   "shows": "Panorámica del bucle sin inversión del DC Rivals HyperCoaster, con cielo azul, en 2018",
+   "width": 1200,
+   "height": 496,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-movie-world-2.jpg": {
+   "park": "warner-bros-movie-world",
+   "ride": null,
+   "shows": "Parte alta de la colina de lanzamiento del DC Rivals HyperCoaster bajo cielo nublado, junto a otra montaña rusa, en 2018",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dreamworld-portada.jpg": {
+   "park": "dreamworld",
+   "ride": null,
+   "shows": "Steel Taipan: tren pasando por una inversión del recorrido naranja, junto a torres de atracciones, en 2025",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dreamworld-1.jpg": {
+   "park": "dreamworld",
+   "ride": null,
+   "shows": "Atracción Vortex (columpio gigante azul) con zona de agua y una montaña rusa de madera al fondo, en 2021",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dreamworld-2.jpg": {
+   "park": "dreamworld",
+   "ride": null,
+   "shows": "Edificio de entrada de Dreamworld con el globo del logo, el reloj y la torre al fondo, en 2007",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "gatorland-portada.jpg": {
+   "park": "gatorland",
+   "ride": null,
+   "shows": "Marisma de cría de Gatorland con una torre de observación de madera junto al agua, en 2008",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "gatorland-1.jpg": {
+   "park": "gatorland",
+   "ride": null,
+   "shows": "Locomotora roja del Gatorland Express (tren de vapor del parque) bajo la sombra de los árboles, en 2017",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "gatorland-2.jpg": {
+   "park": "gatorland",
+   "ride": null,
+   "shows": "Caimán leucístico blanco con la boca abierta sobre una plataforma de madera, en 2009",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kennywood-portada.jpg": {
+   "park": "kennywood",
+   "ride": null,
+   "shows": "Arco de entrada de Kennywood con el letrero y la estación del parque al fondo, en 2005",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kennywood-1.jpg": {
+   "park": "kennywood",
+   "ride": null,
+   "shows": "Montaña rusa Steel Curtain al fondo y la zona infantil Thomas Town con la locomotora Thomas, en 2019",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kennywood-2.jpg": {
+   "park": "kennywood",
+   "ride": null,
+   "shows": "Plaza interior tras la entrada del parque, con edificios de tejados oscuros y visitantes, en 2019",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kennywood-3.jpg": {
+   "park": "kennywood",
+   "ride": null,
+   "shows": "Estructura de acero y vía de Phantom's Revenge tras el repintado de 2021, vista desde abajo",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "temaiken-portada.jpg": {
+   "park": "temaiken",
+   "ride": null,
+   "shows": "Vista aérea de las grandes mallas de los aviarios de Temaikén y su laguna, en 2011",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "temaiken-1.jpg": {
+   "park": "temaiken",
+   "ride": null,
+   "shows": "Grupo de guanacos descansando sobre la hierba en Temaikén, en 2014",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "temaiken-2.jpg": {
+   "park": "temaiken",
+   "ride": null,
+   "shows": "Laguna con palmeras, césped y zona de descanso con sombrillas en Temaikén, en 2008",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "temaiken-3.jpg": {
+   "park": "temaiken",
+   "ride": null,
+   "shows": "Flamenco rosa bebiendo en el agua de su recinto en Temaikén, en 2007",
+   "width": 1200,
+   "height": 858,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "busch-gardens-williamsburg-portada.jpg": {
+   "park": "busch-gardens-williamsburg",
+   "ride": null,
+   "shows": "Pórtico de la entrada principal de Busch Gardens Williamsburg sobre la carretera de acceso, en 2014",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "busch-gardens-williamsburg-1.jpg": {
+   "park": "busch-gardens-williamsburg",
+   "ride": null,
+   "shows": "Paseo de Busch Gardens hacia la zona de Pantheon, con la montaña rusa al fondo y visitantes a distancia, en 2023",
+   "width": 1200,
+   "height": 904,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "busch-gardens-williamsburg-2.jpg": {
+   "park": "busch-gardens-williamsburg",
+   "ride": null,
+   "shows": "Segunda subida de la montaña rusa Loch Ness Monster entre árboles, en 2023",
+   "width": 1200,
+   "height": 904,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "busch-gardens-williamsburg-3.jpg": {
+   "park": "busch-gardens-williamsburg",
+   "ride": null,
+   "shows": "Última caída de la montaña rusa Verbolten entre árboles, en 2019",
+   "width": 1200,
+   "height": 1146,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }
