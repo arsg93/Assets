@@ -36797,6 +36797,301 @@
         ]
       }
     },
+    "navidad-disneyland-paris.jpg": {
+      "sha256": "3616ccca7252be271f564689bdf49a3e82e840daca791d81bba0e90958e55e47",
+      "original_width": 1536,
+      "original_height": 864,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/navidad-disneyland-paris/3616ccca7252-w480.avif",
+            "width": 480,
+            "bytes": 12066
+          },
+          {
+            "file": "responsive/navidad-disneyland-paris/3616ccca7252-w768.avif",
+            "width": 768,
+            "bytes": 24046
+          },
+          {
+            "file": "responsive/navidad-disneyland-paris/3616ccca7252-w1200.avif",
+            "width": 1200,
+            "bytes": 47843
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/navidad-disneyland-paris/3616ccca7252-w480.webp",
+            "width": 480,
+            "bytes": 18854
+          },
+          {
+            "file": "responsive/navidad-disneyland-paris/3616ccca7252-w768.webp",
+            "width": 768,
+            "bytes": 40194
+          },
+          {
+            "file": "responsive/navidad-disneyland-paris/3616ccca7252-w1200.webp",
+            "width": 1200,
+            "bytes": 93112
+          }
+        ]
+      }
+    },
+    "navidad-efteling.jpg": {
+      "sha256": "eff7cca5767d3b88b6c804f151c7c8fba902d4e95a15b523c98574e49cefcff5",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/navidad-efteling/eff7cca5767d-w480.avif",
+            "width": 480,
+            "bytes": 16804
+          },
+          {
+            "file": "responsive/navidad-efteling/eff7cca5767d-w768.avif",
+            "width": 768,
+            "bytes": 29793
+          },
+          {
+            "file": "responsive/navidad-efteling/eff7cca5767d-w1200.avif",
+            "width": 1200,
+            "bytes": 48964
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/navidad-efteling/eff7cca5767d-w480.webp",
+            "width": 480,
+            "bytes": 25946
+          },
+          {
+            "file": "responsive/navidad-efteling/eff7cca5767d-w768.webp",
+            "width": 768,
+            "bytes": 50018
+          },
+          {
+            "file": "responsive/navidad-efteling/eff7cca5767d-w1200.webp",
+            "width": 1200,
+            "bytes": 89434
+          }
+        ]
+      }
+    },
+    "navidad-europa-park.jpg": {
+      "sha256": "eb7bf7f44efaa52c22b5ae52437e09869a90176f8309169a23f83df78a467dcc",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/navidad-europa-park/eb7bf7f44efa-w480.avif",
+            "width": 480,
+            "bytes": 11868
+          },
+          {
+            "file": "responsive/navidad-europa-park/eb7bf7f44efa-w768.avif",
+            "width": 768,
+            "bytes": 24106
+          },
+          {
+            "file": "responsive/navidad-europa-park/eb7bf7f44efa-w1200.avif",
+            "width": 1200,
+            "bytes": 45589
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/navidad-europa-park/eb7bf7f44efa-w480.webp",
+            "width": 480,
+            "bytes": 21050
+          },
+          {
+            "file": "responsive/navidad-europa-park/eb7bf7f44efa-w768.webp",
+            "width": 768,
+            "bytes": 44570
+          },
+          {
+            "file": "responsive/navidad-europa-park/eb7bf7f44efa-w1200.webp",
+            "width": 1200,
+            "bytes": 90256
+          }
+        ]
+      }
+    },
+    "navidad-gardaland.jpg": {
+      "sha256": "3a76c862b2fca87df33a4dd7659d6e72a36533a1a47ba5899442d6d384e3c2e7",
+      "original_width": 1600,
+      "original_height": 1200,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/navidad-gardaland/3a76c862b2fc-w480.avif",
+            "width": 480,
+            "bytes": 11752
+          },
+          {
+            "file": "responsive/navidad-gardaland/3a76c862b2fc-w768.avif",
+            "width": 768,
+            "bytes": 23468
+          },
+          {
+            "file": "responsive/navidad-gardaland/3a76c862b2fc-w1200.avif",
+            "width": 1200,
+            "bytes": 45055
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/navidad-gardaland/3a76c862b2fc-w480.webp",
+            "width": 480,
+            "bytes": 19148
+          },
+          {
+            "file": "responsive/navidad-gardaland/3a76c862b2fc-w768.webp",
+            "width": 768,
+            "bytes": 39098
+          },
+          {
+            "file": "responsive/navidad-gardaland/3a76c862b2fc-w1200.webp",
+            "width": 1200,
+            "bytes": 81036
+          }
+        ]
+      }
+    },
+    "navidad-hersheypark.jpg": {
+      "sha256": "12400ff371505799d2e148d59460ac8c81af4f0907ff19cf5ebbc1ce8bce5374",
+      "original_width": 1600,
+      "original_height": 1160,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/navidad-hersheypark/12400ff37150-w480.avif",
+            "width": 480,
+            "bytes": 15971
+          },
+          {
+            "file": "responsive/navidad-hersheypark/12400ff37150-w768.avif",
+            "width": 768,
+            "bytes": 31041
+          },
+          {
+            "file": "responsive/navidad-hersheypark/12400ff37150-w1200.avif",
+            "width": 1200,
+            "bytes": 60903
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/navidad-hersheypark/12400ff37150-w480.webp",
+            "width": 480,
+            "bytes": 26622
+          },
+          {
+            "file": "responsive/navidad-hersheypark/12400ff37150-w768.webp",
+            "width": 768,
+            "bytes": 55902
+          },
+          {
+            "file": "responsive/navidad-hersheypark/12400ff37150-w1200.webp",
+            "width": 1200,
+            "bytes": 131044
+          }
+        ]
+      }
+    },
     "nigloland-1.jpg": {
       "sha256": "8b7154de1eb6d15a5001ee8e08ab55b52bdce01a74b60082508c2e163dfb4ccd",
       "original_width": 1200,
