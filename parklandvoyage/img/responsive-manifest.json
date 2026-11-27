@@ -3001,6 +3001,242 @@
         ]
       }
     },
+    "aquarium-of-the-pacific-1.jpg": {
+      "sha256": "3d5a254ecd4517f23f5670fe08573390ba8a955c0b0dd63e6b1fda2f0f406f3b",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquarium-of-the-pacific-1/3d5a254ecd45-w480.avif",
+            "width": 480,
+            "bytes": 11668
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-1/3d5a254ecd45-w768.avif",
+            "width": 768,
+            "bytes": 33291
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-1/3d5a254ecd45-w1200.avif",
+            "width": 1200,
+            "bytes": 91137
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquarium-of-the-pacific-1/3d5a254ecd45-w480.webp",
+            "width": 480,
+            "bytes": 22592
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-1/3d5a254ecd45-w768.webp",
+            "width": 768,
+            "bytes": 58954
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-1/3d5a254ecd45-w1200.webp",
+            "width": 1200,
+            "bytes": 147728
+          }
+        ]
+      }
+    },
+    "aquarium-of-the-pacific-2.jpg": {
+      "sha256": "6af856541e7dbf6c9a93a24e73f0c979a29b69fe79b07dd6a0faac4bb2fc3d3c",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquarium-of-the-pacific-2/6af856541e7d-w480.avif",
+            "width": 480,
+            "bytes": 5646
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-2/6af856541e7d-w768.avif",
+            "width": 768,
+            "bytes": 10154
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-2/6af856541e7d-w1200.avif",
+            "width": 1200,
+            "bytes": 17204
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquarium-of-the-pacific-2/6af856541e7d-w480.webp",
+            "width": 480,
+            "bytes": 10292
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-2/6af856541e7d-w768.webp",
+            "width": 768,
+            "bytes": 19440
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-2/6af856541e7d-w1200.webp",
+            "width": 1200,
+            "bytes": 33462
+          }
+        ]
+      }
+    },
+    "aquarium-of-the-pacific-3.jpg": {
+      "sha256": "6756356d9b88de8c2f6e82a381bb5213b5ae060a69a94982b3adb42df77cdfb0",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquarium-of-the-pacific-3/6756356d9b88-w480.avif",
+            "width": 480,
+            "bytes": 53264
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-3/6756356d9b88-w768.avif",
+            "width": 768,
+            "bytes": 116849
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-3/6756356d9b88-w1200.avif",
+            "width": 1200,
+            "bytes": 232929
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquarium-of-the-pacific-3/6756356d9b88-w480.webp",
+            "width": 480,
+            "bytes": 70198
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-3/6756356d9b88-w768.webp",
+            "width": 768,
+            "bytes": 163064
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-3/6756356d9b88-w1200.webp",
+            "width": 1200,
+            "bytes": 332416
+          }
+        ]
+      }
+    },
+    "aquarium-of-the-pacific-portada.jpg": {
+      "sha256": "204b50cca07fe58615ff826c87be5525fca8e2460cab46c83bb6218a05700561",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquarium-of-the-pacific-portada/204b50cca07f-w480.avif",
+            "width": 480,
+            "bytes": 13308
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-portada/204b50cca07f-w768.avif",
+            "width": 768,
+            "bytes": 28882
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-portada/204b50cca07f-w1200.avif",
+            "width": 1200,
+            "bytes": 64402
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquarium-of-the-pacific-portada/204b50cca07f-w480.webp",
+            "width": 480,
+            "bytes": 21798
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-portada/204b50cca07f-w768.webp",
+            "width": 768,
+            "bytes": 49014
+          },
+          {
+            "file": "responsive/aquarium-of-the-pacific-portada/204b50cca07f-w1200.webp",
+            "width": 1200,
+            "bytes": 110528
+          }
+        ]
+      }
+    },
     "aquascope-futuroscope-banner.jpg": {
       "sha256": "e7ca76e87ff037cef44a53333f9c2970ee170aa14ed5049e3c8c5ac96d42bf8f",
       "original_width": 1600,
@@ -3528,6 +3764,183 @@
             "file": "responsive/at-the-smiler/cde9bb5051ca-w800.webp",
             "width": 800,
             "bytes": 104920
+          }
+        ]
+      }
+    },
+    "atlantis-aquaventure-1.jpg": {
+      "sha256": "d3c28fc82262c817a32517b1bbb939ca03b14616b6c8bcf6664b0c2d7598f8a0",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/atlantis-aquaventure-1/d3c28fc82262-w480.avif",
+            "width": 480,
+            "bytes": 12883
+          },
+          {
+            "file": "responsive/atlantis-aquaventure-1/d3c28fc82262-w768.avif",
+            "width": 768,
+            "bytes": 34141
+          },
+          {
+            "file": "responsive/atlantis-aquaventure-1/d3c28fc82262-w1200.avif",
+            "width": 1200,
+            "bytes": 84957
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/atlantis-aquaventure-1/d3c28fc82262-w480.webp",
+            "width": 480,
+            "bytes": 22452
+          },
+          {
+            "file": "responsive/atlantis-aquaventure-1/d3c28fc82262-w768.webp",
+            "width": 768,
+            "bytes": 57224
+          },
+          {
+            "file": "responsive/atlantis-aquaventure-1/d3c28fc82262-w1200.webp",
+            "width": 1200,
+            "bytes": 136304
+          }
+        ]
+      }
+    },
+    "atlantis-aquaventure-2.jpg": {
+      "sha256": "bafc5f9e3399d8bc63ebfbc4fd38f51f3140bc9d1f002458113401b47fffd741",
+      "original_width": 1024,
+      "original_height": 721,
+      "widths": [
+        480,
+        768,
+        1024
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/atlantis-aquaventure-2/bafc5f9e3399-w480.avif",
+            "width": 480,
+            "bytes": 27986
+          },
+          {
+            "file": "responsive/atlantis-aquaventure-2/bafc5f9e3399-w768.avif",
+            "width": 768,
+            "bytes": 73787
+          },
+          {
+            "file": "responsive/atlantis-aquaventure-2/bafc5f9e3399-w1024.avif",
+            "width": 1024,
+            "bytes": 145330
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/atlantis-aquaventure-2/bafc5f9e3399-w480.webp",
+            "width": 480,
+            "bytes": 39616
+          },
+          {
+            "file": "responsive/atlantis-aquaventure-2/bafc5f9e3399-w768.webp",
+            "width": 768,
+            "bytes": 102182
+          },
+          {
+            "file": "responsive/atlantis-aquaventure-2/bafc5f9e3399-w1024.webp",
+            "width": 1024,
+            "bytes": 196302
+          }
+        ]
+      }
+    },
+    "atlantis-aquaventure-portada.jpg": {
+      "sha256": "7c0a80aa5902cd0a35c83ce5672d5d4fe5749a89aba4d3d46c5116688326ebe6",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/atlantis-aquaventure-portada/7c0a80aa5902-w480.avif",
+            "width": 480,
+            "bytes": 15752
+          },
+          {
+            "file": "responsive/atlantis-aquaventure-portada/7c0a80aa5902-w768.avif",
+            "width": 768,
+            "bytes": 31997
+          },
+          {
+            "file": "responsive/atlantis-aquaventure-portada/7c0a80aa5902-w1200.avif",
+            "width": 1200,
+            "bytes": 54354
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/atlantis-aquaventure-portada/7c0a80aa5902-w480.webp",
+            "width": 480,
+            "bytes": 23912
+          },
+          {
+            "file": "responsive/atlantis-aquaventure-portada/7c0a80aa5902-w768.webp",
+            "width": 768,
+            "bytes": 51294
+          },
+          {
+            "file": "responsive/atlantis-aquaventure-portada/7c0a80aa5902-w1200.webp",
+            "width": 1200,
+            "bytes": 96708
           }
         ]
       }
@@ -6242,6 +6655,242 @@
             "file": "responsive/boda-disneyland/a63d38d4a8ec-w1200.webp",
             "width": 1200,
             "bytes": 156982
+          }
+        ]
+      }
+    },
+    "bronx-zoo-1.jpg": {
+      "sha256": "e33bc57c9e30993e45bce08b03dc6d7117c71a37ad6367391d6fabcb44e3ed2f",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/bronx-zoo-1/e33bc57c9e30-w480.avif",
+            "width": 480,
+            "bytes": 40896
+          },
+          {
+            "file": "responsive/bronx-zoo-1/e33bc57c9e30-w768.avif",
+            "width": 768,
+            "bytes": 107185
+          },
+          {
+            "file": "responsive/bronx-zoo-1/e33bc57c9e30-w1200.avif",
+            "width": 1200,
+            "bytes": 234308
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/bronx-zoo-1/e33bc57c9e30-w480.webp",
+            "width": 480,
+            "bytes": 57128
+          },
+          {
+            "file": "responsive/bronx-zoo-1/e33bc57c9e30-w768.webp",
+            "width": 768,
+            "bytes": 149016
+          },
+          {
+            "file": "responsive/bronx-zoo-1/e33bc57c9e30-w1200.webp",
+            "width": 1200,
+            "bytes": 337148
+          }
+        ]
+      }
+    },
+    "bronx-zoo-2.jpg": {
+      "sha256": "041359d1ab27973b376315b25fadffb633206e99fce927b750ab5aed5c8ac3b4",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/bronx-zoo-2/041359d1ab27-w480.avif",
+            "width": 480,
+            "bytes": 41420
+          },
+          {
+            "file": "responsive/bronx-zoo-2/041359d1ab27-w768.avif",
+            "width": 768,
+            "bytes": 109299
+          },
+          {
+            "file": "responsive/bronx-zoo-2/041359d1ab27-w1200.avif",
+            "width": 1200,
+            "bytes": 225254
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/bronx-zoo-2/041359d1ab27-w480.webp",
+            "width": 480,
+            "bytes": 56734
+          },
+          {
+            "file": "responsive/bronx-zoo-2/041359d1ab27-w768.webp",
+            "width": 768,
+            "bytes": 151068
+          },
+          {
+            "file": "responsive/bronx-zoo-2/041359d1ab27-w1200.webp",
+            "width": 1200,
+            "bytes": 325202
+          }
+        ]
+      }
+    },
+    "bronx-zoo-3.jpg": {
+      "sha256": "458162282edf1a2e1edf50a8d7c68b4ea44afc8e85d2a76a52ec6f9f8e9ed741",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/bronx-zoo-3/458162282edf-w480.avif",
+            "width": 480,
+            "bytes": 17918
+          },
+          {
+            "file": "responsive/bronx-zoo-3/458162282edf-w768.avif",
+            "width": 768,
+            "bytes": 41567
+          },
+          {
+            "file": "responsive/bronx-zoo-3/458162282edf-w1200.avif",
+            "width": 1200,
+            "bytes": 90751
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/bronx-zoo-3/458162282edf-w480.webp",
+            "width": 480,
+            "bytes": 30872
+          },
+          {
+            "file": "responsive/bronx-zoo-3/458162282edf-w768.webp",
+            "width": 768,
+            "bytes": 72922
+          },
+          {
+            "file": "responsive/bronx-zoo-3/458162282edf-w1200.webp",
+            "width": 1200,
+            "bytes": 156466
+          }
+        ]
+      }
+    },
+    "bronx-zoo-portada.jpg": {
+      "sha256": "79a0ede63162a215c80d60f4c49fed357f4616f4acd8c302a7d4512ba05b451d",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/bronx-zoo-portada/79a0ede63162-w480.avif",
+            "width": 480,
+            "bytes": 15582
+          },
+          {
+            "file": "responsive/bronx-zoo-portada/79a0ede63162-w768.avif",
+            "width": 768,
+            "bytes": 37585
+          },
+          {
+            "file": "responsive/bronx-zoo-portada/79a0ede63162-w1200.avif",
+            "width": 1200,
+            "bytes": 88842
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/bronx-zoo-portada/79a0ede63162-w480.webp",
+            "width": 480,
+            "bytes": 24646
+          },
+          {
+            "file": "responsive/bronx-zoo-portada/79a0ede63162-w768.webp",
+            "width": 768,
+            "bytes": 60914
+          },
+          {
+            "file": "responsive/bronx-zoo-portada/79a0ede63162-w1200.webp",
+            "width": 1200,
+            "bytes": 143040
           }
         ]
       }
@@ -16158,6 +16807,242 @@
         ]
       }
     },
+    "dubai-aquarium-1.jpg": {
+      "sha256": "064ad5c375fe3196253d1606a350153705e00bdb5fc90ae0719e0341f186936c",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dubai-aquarium-1/064ad5c375fe-w480.avif",
+            "width": 480,
+            "bytes": 12563
+          },
+          {
+            "file": "responsive/dubai-aquarium-1/064ad5c375fe-w768.avif",
+            "width": 768,
+            "bytes": 23118
+          },
+          {
+            "file": "responsive/dubai-aquarium-1/064ad5c375fe-w1200.avif",
+            "width": 1200,
+            "bytes": 42234
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dubai-aquarium-1/064ad5c375fe-w480.webp",
+            "width": 480,
+            "bytes": 23618
+          },
+          {
+            "file": "responsive/dubai-aquarium-1/064ad5c375fe-w768.webp",
+            "width": 768,
+            "bytes": 47176
+          },
+          {
+            "file": "responsive/dubai-aquarium-1/064ad5c375fe-w1200.webp",
+            "width": 1200,
+            "bytes": 94788
+          }
+        ]
+      }
+    },
+    "dubai-aquarium-2.jpg": {
+      "sha256": "d38e7776a6ffe3371ec7f538b30dae2f807512300aa349d9a2916fb1eb05811e",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dubai-aquarium-2/d38e7776a6ff-w480.avif",
+            "width": 480,
+            "bytes": 10452
+          },
+          {
+            "file": "responsive/dubai-aquarium-2/d38e7776a6ff-w768.avif",
+            "width": 768,
+            "bytes": 18588
+          },
+          {
+            "file": "responsive/dubai-aquarium-2/d38e7776a6ff-w1200.avif",
+            "width": 1200,
+            "bytes": 32955
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dubai-aquarium-2/d38e7776a6ff-w480.webp",
+            "width": 480,
+            "bytes": 20228
+          },
+          {
+            "file": "responsive/dubai-aquarium-2/d38e7776a6ff-w768.webp",
+            "width": 768,
+            "bytes": 38328
+          },
+          {
+            "file": "responsive/dubai-aquarium-2/d38e7776a6ff-w1200.webp",
+            "width": 1200,
+            "bytes": 76384
+          }
+        ]
+      }
+    },
+    "dubai-aquarium-3.jpg": {
+      "sha256": "0370e67d34d59e83d2818f625e939493c147acd4da3dabd5013cfe242a1581e1",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dubai-aquarium-3/0370e67d34d5-w480.avif",
+            "width": 480,
+            "bytes": 8566
+          },
+          {
+            "file": "responsive/dubai-aquarium-3/0370e67d34d5-w768.avif",
+            "width": 768,
+            "bytes": 16627
+          },
+          {
+            "file": "responsive/dubai-aquarium-3/0370e67d34d5-w1200.avif",
+            "width": 1200,
+            "bytes": 31241
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dubai-aquarium-3/0370e67d34d5-w480.webp",
+            "width": 480,
+            "bytes": 18314
+          },
+          {
+            "file": "responsive/dubai-aquarium-3/0370e67d34d5-w768.webp",
+            "width": 768,
+            "bytes": 36860
+          },
+          {
+            "file": "responsive/dubai-aquarium-3/0370e67d34d5-w1200.webp",
+            "width": 1200,
+            "bytes": 75190
+          }
+        ]
+      }
+    },
+    "dubai-aquarium-portada.jpg": {
+      "sha256": "db0c31c9b973fac9cfe6828cfaba2b35638271dfc303e8e08932a0c9d2933278",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dubai-aquarium-portada/db0c31c9b973-w480.avif",
+            "width": 480,
+            "bytes": 6161
+          },
+          {
+            "file": "responsive/dubai-aquarium-portada/db0c31c9b973-w768.avif",
+            "width": 768,
+            "bytes": 11455
+          },
+          {
+            "file": "responsive/dubai-aquarium-portada/db0c31c9b973-w1200.avif",
+            "width": 1200,
+            "bytes": 20358
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dubai-aquarium-portada/db0c31c9b973-w480.webp",
+            "width": 480,
+            "bytes": 11640
+          },
+          {
+            "file": "responsive/dubai-aquarium-portada/db0c31c9b973-w768.webp",
+            "width": 768,
+            "bytes": 22994
+          },
+          {
+            "file": "responsive/dubai-aquarium-portada/db0c31c9b973-w1200.webp",
+            "width": 1200,
+            "bytes": 44796
+          }
+        ]
+      }
+    },
     "eft-python.jpg": {
       "sha256": "e3c0c25f9e58cf6fbdeb059b78cedff933c6c4386857d2f2e8f800c7cdcecd3f",
       "original_width": 800,
@@ -20170,6 +21055,183 @@
         ]
       }
     },
+    "ferrari-world-1.jpg": {
+      "sha256": "fd5c94f410accd0e5ad2d6ae875b138a57cf64f9efd4998d3c8f2d4ba6f944ac",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ferrari-world-1/fd5c94f410ac-w480.avif",
+            "width": 480,
+            "bytes": 7508
+          },
+          {
+            "file": "responsive/ferrari-world-1/fd5c94f410ac-w768.avif",
+            "width": 768,
+            "bytes": 16898
+          },
+          {
+            "file": "responsive/ferrari-world-1/fd5c94f410ac-w1200.avif",
+            "width": 1200,
+            "bytes": 39138
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ferrari-world-1/fd5c94f410ac-w480.webp",
+            "width": 480,
+            "bytes": 13088
+          },
+          {
+            "file": "responsive/ferrari-world-1/fd5c94f410ac-w768.webp",
+            "width": 768,
+            "bytes": 29534
+          },
+          {
+            "file": "responsive/ferrari-world-1/fd5c94f410ac-w1200.webp",
+            "width": 1200,
+            "bytes": 66772
+          }
+        ]
+      }
+    },
+    "ferrari-world-2.jpg": {
+      "sha256": "0f4d1103ceb15cf9410b7c2030ee5989d9fff7665266b2988cd160e57f7d7675",
+      "original_width": 1200,
+      "original_height": 802,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ferrari-world-2/0f4d1103ceb1-w480.avif",
+            "width": 480,
+            "bytes": 15862
+          },
+          {
+            "file": "responsive/ferrari-world-2/0f4d1103ceb1-w768.avif",
+            "width": 768,
+            "bytes": 29275
+          },
+          {
+            "file": "responsive/ferrari-world-2/0f4d1103ceb1-w1200.avif",
+            "width": 1200,
+            "bytes": 55158
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ferrari-world-2/0f4d1103ceb1-w480.webp",
+            "width": 480,
+            "bytes": 27350
+          },
+          {
+            "file": "responsive/ferrari-world-2/0f4d1103ceb1-w768.webp",
+            "width": 768,
+            "bytes": 54004
+          },
+          {
+            "file": "responsive/ferrari-world-2/0f4d1103ceb1-w1200.webp",
+            "width": 1200,
+            "bytes": 104960
+          }
+        ]
+      }
+    },
+    "ferrari-world-3.jpg": {
+      "sha256": "6ad08cb7e7885b469c0de27dcf1dac2d5f8bec3160ab4362cc9aa6a6697b679c",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ferrari-world-3/6ad08cb7e788-w480.avif",
+            "width": 480,
+            "bytes": 10637
+          },
+          {
+            "file": "responsive/ferrari-world-3/6ad08cb7e788-w768.avif",
+            "width": 768,
+            "bytes": 18555
+          },
+          {
+            "file": "responsive/ferrari-world-3/6ad08cb7e788-w1200.avif",
+            "width": 1200,
+            "bytes": 31986
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ferrari-world-3/6ad08cb7e788-w480.webp",
+            "width": 480,
+            "bytes": 18240
+          },
+          {
+            "file": "responsive/ferrari-world-3/6ad08cb7e788-w768.webp",
+            "width": 768,
+            "bytes": 34960
+          },
+          {
+            "file": "responsive/ferrari-world-3/6ad08cb7e788-w1200.webp",
+            "width": 1200,
+            "bytes": 65734
+          }
+        ]
+      }
+    },
     "ferrari-world-formula-rossa-1.jpg": {
       "sha256": "cbddf213d52eeebb1d8cf759b30cfd23b4240e4c61092a0a7e422efc704cf784",
       "original_width": 1200,
@@ -20284,6 +21346,65 @@
             "file": "responsive/ferrari-world-formula-rossa-2/21fd22a3373d-w1200.webp",
             "width": 1200,
             "bytes": 239854
+          }
+        ]
+      }
+    },
+    "ferrari-world-portada.jpg": {
+      "sha256": "d06fe01a5565cea04274da2a77cf7c3017df8207089f0a6e2eed1212ce3912db",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ferrari-world-portada/d06fe01a5565-w480.avif",
+            "width": 480,
+            "bytes": 5380
+          },
+          {
+            "file": "responsive/ferrari-world-portada/d06fe01a5565-w768.avif",
+            "width": 768,
+            "bytes": 11175
+          },
+          {
+            "file": "responsive/ferrari-world-portada/d06fe01a5565-w1200.avif",
+            "width": 1200,
+            "bytes": 22708
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ferrari-world-portada/d06fe01a5565-w480.webp",
+            "width": 480,
+            "bytes": 9528
+          },
+          {
+            "file": "responsive/ferrari-world-portada/d06fe01a5565-w768.webp",
+            "width": 768,
+            "bytes": 21600
+          },
+          {
+            "file": "responsive/ferrari-world-portada/d06fe01a5565-w1200.webp",
+            "width": 1200,
+            "bytes": 47272
           }
         ]
       }
@@ -21700,6 +22821,478 @@
             "file": "responsive/gardaland/5fcd648b98c1-w1200.webp",
             "width": 1200,
             "bytes": 142038
+          }
+        ]
+      }
+    },
+    "gardens-by-the-bay-1.jpg": {
+      "sha256": "232f05838cbc77e9524e2050526c902324ee16ac09ba65c772cd970bfee14f09",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/gardens-by-the-bay-1/232f05838cbc-w480.avif",
+            "width": 480,
+            "bytes": 25218
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-1/232f05838cbc-w768.avif",
+            "width": 768,
+            "bytes": 65416
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-1/232f05838cbc-w1200.avif",
+            "width": 1200,
+            "bytes": 160038
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/gardens-by-the-bay-1/232f05838cbc-w480.webp",
+            "width": 480,
+            "bytes": 37206
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-1/232f05838cbc-w768.webp",
+            "width": 768,
+            "bytes": 96182
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-1/232f05838cbc-w1200.webp",
+            "width": 1200,
+            "bytes": 235976
+          }
+        ]
+      }
+    },
+    "gardens-by-the-bay-2.jpg": {
+      "sha256": "b72990293201e1396da6ff3ad6d1573aa725e4de7cb7ee9cdc49d812f8fbcdc7",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/gardens-by-the-bay-2/b72990293201-w480.avif",
+            "width": 480,
+            "bytes": 23034
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-2/b72990293201-w768.avif",
+            "width": 768,
+            "bytes": 44780
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-2/b72990293201-w1200.avif",
+            "width": 1200,
+            "bytes": 80713
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/gardens-by-the-bay-2/b72990293201-w480.webp",
+            "width": 480,
+            "bytes": 33828
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-2/b72990293201-w768.webp",
+            "width": 768,
+            "bytes": 70626
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-2/b72990293201-w1200.webp",
+            "width": 1200,
+            "bytes": 136350
+          }
+        ]
+      }
+    },
+    "gardens-by-the-bay-3.jpg": {
+      "sha256": "10605ef60b4c95d2b4299ba9693d64fe377cd1dec5dd5e91f329f18483d2b636",
+      "original_width": 1200,
+      "original_height": 661,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/gardens-by-the-bay-3/10605ef60b4c-w480.avif",
+            "width": 480,
+            "bytes": 8022
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-3/10605ef60b4c-w768.avif",
+            "width": 768,
+            "bytes": 18877
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-3/10605ef60b4c-w1200.avif",
+            "width": 1200,
+            "bytes": 46625
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/gardens-by-the-bay-3/10605ef60b4c-w480.webp",
+            "width": 480,
+            "bytes": 14572
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-3/10605ef60b4c-w768.webp",
+            "width": 768,
+            "bytes": 35464
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-3/10605ef60b4c-w1200.webp",
+            "width": 1200,
+            "bytes": 81674
+          }
+        ]
+      }
+    },
+    "gardens-by-the-bay-portada.jpg": {
+      "sha256": "78d03164114120496b49dddb1880b3d7f0d8ba8dc30e240fe6a537001e16852e",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/gardens-by-the-bay-portada/78d031641141-w480.avif",
+            "width": 480,
+            "bytes": 21758
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-portada/78d031641141-w768.avif",
+            "width": 768,
+            "bytes": 48191
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-portada/78d031641141-w1200.avif",
+            "width": 1200,
+            "bytes": 104952
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/gardens-by-the-bay-portada/78d031641141-w480.webp",
+            "width": 480,
+            "bytes": 30170
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-portada/78d031641141-w768.webp",
+            "width": 768,
+            "bytes": 68806
+          },
+          {
+            "file": "responsive/gardens-by-the-bay-portada/78d031641141-w1200.webp",
+            "width": 1200,
+            "bytes": 153424
+          }
+        ]
+      }
+    },
+    "georgia-aquarium-1.jpg": {
+      "sha256": "427432a07d2eb92810cea38c55c0fc837d7ce8bcd812cca4158fe1aa86350d42",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/georgia-aquarium-1/427432a07d2e-w480.avif",
+            "width": 480,
+            "bytes": 5667
+          },
+          {
+            "file": "responsive/georgia-aquarium-1/427432a07d2e-w768.avif",
+            "width": 768,
+            "bytes": 10473
+          },
+          {
+            "file": "responsive/georgia-aquarium-1/427432a07d2e-w1200.avif",
+            "width": 1200,
+            "bytes": 19073
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/georgia-aquarium-1/427432a07d2e-w480.webp",
+            "width": 480,
+            "bytes": 10012
+          },
+          {
+            "file": "responsive/georgia-aquarium-1/427432a07d2e-w768.webp",
+            "width": 768,
+            "bytes": 19906
+          },
+          {
+            "file": "responsive/georgia-aquarium-1/427432a07d2e-w1200.webp",
+            "width": 1200,
+            "bytes": 39514
+          }
+        ]
+      }
+    },
+    "georgia-aquarium-2.jpg": {
+      "sha256": "73d8bc03df05a245188bd13fa61b55581bfc57ce58ed27304fba7c7d1af1bd89",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/georgia-aquarium-2/73d8bc03df05-w480.avif",
+            "width": 480,
+            "bytes": 14424
+          },
+          {
+            "file": "responsive/georgia-aquarium-2/73d8bc03df05-w768.avif",
+            "width": 768,
+            "bytes": 24976
+          },
+          {
+            "file": "responsive/georgia-aquarium-2/73d8bc03df05-w1200.avif",
+            "width": 1200,
+            "bytes": 42417
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/georgia-aquarium-2/73d8bc03df05-w480.webp",
+            "width": 480,
+            "bytes": 24446
+          },
+          {
+            "file": "responsive/georgia-aquarium-2/73d8bc03df05-w768.webp",
+            "width": 768,
+            "bytes": 45614
+          },
+          {
+            "file": "responsive/georgia-aquarium-2/73d8bc03df05-w1200.webp",
+            "width": 1200,
+            "bytes": 85170
+          }
+        ]
+      }
+    },
+    "georgia-aquarium-3.jpg": {
+      "sha256": "ce5aa67a816ce6a55d4cf15057454589fa5b50f7e2ef8d8ebf253d46d2f13dae",
+      "original_width": 1200,
+      "original_height": 741,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/georgia-aquarium-3/ce5aa67a816c-w480.avif",
+            "width": 480,
+            "bytes": 12159
+          },
+          {
+            "file": "responsive/georgia-aquarium-3/ce5aa67a816c-w768.avif",
+            "width": 768,
+            "bytes": 23981
+          },
+          {
+            "file": "responsive/georgia-aquarium-3/ce5aa67a816c-w1200.avif",
+            "width": 1200,
+            "bytes": 48750
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/georgia-aquarium-3/ce5aa67a816c-w480.webp",
+            "width": 480,
+            "bytes": 20308
+          },
+          {
+            "file": "responsive/georgia-aquarium-3/ce5aa67a816c-w768.webp",
+            "width": 768,
+            "bytes": 42294
+          },
+          {
+            "file": "responsive/georgia-aquarium-3/ce5aa67a816c-w1200.webp",
+            "width": 1200,
+            "bytes": 87206
+          }
+        ]
+      }
+    },
+    "georgia-aquarium-portada.jpg": {
+      "sha256": "f9619f73a54e7460ce13486ea85ddea6fbb5e9298c61df30b53482535bab9d4a",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/georgia-aquarium-portada/f9619f73a54e-w480.avif",
+            "width": 480,
+            "bytes": 9648
+          },
+          {
+            "file": "responsive/georgia-aquarium-portada/f9619f73a54e-w768.avif",
+            "width": 768,
+            "bytes": 17358
+          },
+          {
+            "file": "responsive/georgia-aquarium-portada/f9619f73a54e-w1200.avif",
+            "width": 1200,
+            "bytes": 29489
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/georgia-aquarium-portada/f9619f73a54e-w480.webp",
+            "width": 480,
+            "bytes": 16902
+          },
+          {
+            "file": "responsive/georgia-aquarium-portada/f9619f73a54e-w768.webp",
+            "width": 768,
+            "bytes": 32588
+          },
+          {
+            "file": "responsive/georgia-aquarium-portada/f9619f73a54e-w1200.webp",
+            "width": 1200,
+            "bytes": 60076
           }
         ]
       }
@@ -29492,6 +31085,242 @@
         ]
       }
     },
+    "legoland-california-1.jpg": {
+      "sha256": "a4a1eed10367e09c3dd6fea70ef92d12bea8d52f4c6b7ea6290c0db13768a8e4",
+      "original_width": 1200,
+      "original_height": 896,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-california-1/a4a1eed10367-w480.avif",
+            "width": 480,
+            "bytes": 33330
+          },
+          {
+            "file": "responsive/legoland-california-1/a4a1eed10367-w768.avif",
+            "width": 768,
+            "bytes": 77180
+          },
+          {
+            "file": "responsive/legoland-california-1/a4a1eed10367-w1200.avif",
+            "width": 1200,
+            "bytes": 176601
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-california-1/a4a1eed10367-w480.webp",
+            "width": 480,
+            "bytes": 50612
+          },
+          {
+            "file": "responsive/legoland-california-1/a4a1eed10367-w768.webp",
+            "width": 768,
+            "bytes": 118514
+          },
+          {
+            "file": "responsive/legoland-california-1/a4a1eed10367-w1200.webp",
+            "width": 1200,
+            "bytes": 273100
+          }
+        ]
+      }
+    },
+    "legoland-california-2.jpg": {
+      "sha256": "1a8c106616f524a55f04629fa53761084294eeb7f9fd660c8ab2a1275c3a9a8e",
+      "original_width": 1200,
+      "original_height": 896,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-california-2/1a8c106616f5-w480.avif",
+            "width": 480,
+            "bytes": 24429
+          },
+          {
+            "file": "responsive/legoland-california-2/1a8c106616f5-w768.avif",
+            "width": 768,
+            "bytes": 55875
+          },
+          {
+            "file": "responsive/legoland-california-2/1a8c106616f5-w1200.avif",
+            "width": 1200,
+            "bytes": 134222
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-california-2/1a8c106616f5-w480.webp",
+            "width": 480,
+            "bytes": 38904
+          },
+          {
+            "file": "responsive/legoland-california-2/1a8c106616f5-w768.webp",
+            "width": 768,
+            "bytes": 94414
+          },
+          {
+            "file": "responsive/legoland-california-2/1a8c106616f5-w1200.webp",
+            "width": 1200,
+            "bytes": 218554
+          }
+        ]
+      }
+    },
+    "legoland-california-3.jpg": {
+      "sha256": "e971c3fbefa3a75f19c3033c1c7d7bc6eb38d86ddf9864e1762f4eed6f3fa0d4",
+      "original_width": 1200,
+      "original_height": 896,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-california-3/e971c3fbefa3-w480.avif",
+            "width": 480,
+            "bytes": 24247
+          },
+          {
+            "file": "responsive/legoland-california-3/e971c3fbefa3-w768.avif",
+            "width": 768,
+            "bytes": 51714
+          },
+          {
+            "file": "responsive/legoland-california-3/e971c3fbefa3-w1200.avif",
+            "width": 1200,
+            "bytes": 107656
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-california-3/e971c3fbefa3-w480.webp",
+            "width": 480,
+            "bytes": 38302
+          },
+          {
+            "file": "responsive/legoland-california-3/e971c3fbefa3-w768.webp",
+            "width": 768,
+            "bytes": 87578
+          },
+          {
+            "file": "responsive/legoland-california-3/e971c3fbefa3-w1200.webp",
+            "width": 1200,
+            "bytes": 175494
+          }
+        ]
+      }
+    },
+    "legoland-california-portada.jpg": {
+      "sha256": "8dc8024d026db9ac54379ad36f70168e1c213e0ab2ecde94be416fb84239305a",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-california-portada/8dc8024d026d-w480.avif",
+            "width": 480,
+            "bytes": 20772
+          },
+          {
+            "file": "responsive/legoland-california-portada/8dc8024d026d-w768.avif",
+            "width": 768,
+            "bytes": 45436
+          },
+          {
+            "file": "responsive/legoland-california-portada/8dc8024d026d-w1200.avif",
+            "width": 1200,
+            "bytes": 91413
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-california-portada/8dc8024d026d-w480.webp",
+            "width": 480,
+            "bytes": 31712
+          },
+          {
+            "file": "responsive/legoland-california-portada/8dc8024d026d-w768.webp",
+            "width": 768,
+            "bytes": 74280
+          },
+          {
+            "file": "responsive/legoland-california-portada/8dc8024d026d-w1200.webp",
+            "width": 1200,
+            "bytes": 154542
+          }
+        ]
+      }
+    },
     "legoland-deutschland-1.jpg": {
       "sha256": "3b5cbeb7a5234857059727c4d4ed9a8aa759743a3c932c593bf2892d95165d02",
       "original_width": 1200,
@@ -29724,6 +31553,242 @@
             "file": "responsive/legoland-deutschland-portada/e8c0732ffb47-w1200.webp",
             "width": 1200,
             "bytes": 240506
+          }
+        ]
+      }
+    },
+    "legoland-florida-1.jpg": {
+      "sha256": "d24896a57a1fef1f22c4252898d379f4b9c462935adeda783f46813f394e2d36",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-florida-1/d24896a57a1f-w480.avif",
+            "width": 480,
+            "bytes": 25354
+          },
+          {
+            "file": "responsive/legoland-florida-1/d24896a57a1f-w768.avif",
+            "width": 768,
+            "bytes": 60191
+          },
+          {
+            "file": "responsive/legoland-florida-1/d24896a57a1f-w1200.avif",
+            "width": 1200,
+            "bytes": 142902
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-florida-1/d24896a57a1f-w480.webp",
+            "width": 480,
+            "bytes": 39854
+          },
+          {
+            "file": "responsive/legoland-florida-1/d24896a57a1f-w768.webp",
+            "width": 768,
+            "bytes": 94752
+          },
+          {
+            "file": "responsive/legoland-florida-1/d24896a57a1f-w1200.webp",
+            "width": 1200,
+            "bytes": 219270
+          }
+        ]
+      }
+    },
+    "legoland-florida-2.jpg": {
+      "sha256": "6c2cf0a6239a0c6202dc0f12761a12423fde33c3fc982303734e61e45f06d65e",
+      "original_width": 1200,
+      "original_height": 798,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-florida-2/6c2cf0a6239a-w480.avif",
+            "width": 480,
+            "bytes": 28395
+          },
+          {
+            "file": "responsive/legoland-florida-2/6c2cf0a6239a-w768.avif",
+            "width": 768,
+            "bytes": 60088
+          },
+          {
+            "file": "responsive/legoland-florida-2/6c2cf0a6239a-w1200.avif",
+            "width": 1200,
+            "bytes": 127560
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-florida-2/6c2cf0a6239a-w480.webp",
+            "width": 480,
+            "bytes": 41076
+          },
+          {
+            "file": "responsive/legoland-florida-2/6c2cf0a6239a-w768.webp",
+            "width": 768,
+            "bytes": 91484
+          },
+          {
+            "file": "responsive/legoland-florida-2/6c2cf0a6239a-w1200.webp",
+            "width": 1200,
+            "bytes": 199538
+          }
+        ]
+      }
+    },
+    "legoland-florida-3.jpg": {
+      "sha256": "d2f36b104f60f0e0b9ddb123e7ba8a874d6b01059d27fd2f644314f4fa833bb7",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-florida-3/d2f36b104f60-w480.avif",
+            "width": 480,
+            "bytes": 28334
+          },
+          {
+            "file": "responsive/legoland-florida-3/d2f36b104f60-w768.avif",
+            "width": 768,
+            "bytes": 69646
+          },
+          {
+            "file": "responsive/legoland-florida-3/d2f36b104f60-w1200.avif",
+            "width": 1200,
+            "bytes": 160285
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-florida-3/d2f36b104f60-w480.webp",
+            "width": 480,
+            "bytes": 41932
+          },
+          {
+            "file": "responsive/legoland-florida-3/d2f36b104f60-w768.webp",
+            "width": 768,
+            "bytes": 103912
+          },
+          {
+            "file": "responsive/legoland-florida-3/d2f36b104f60-w1200.webp",
+            "width": 1200,
+            "bytes": 237226
+          }
+        ]
+      }
+    },
+    "legoland-florida-portada.jpg": {
+      "sha256": "c54fba34fc58cd407c30e22cf8fc5a9e91c623cdc209db17f8f68e69f1a475b3",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/legoland-florida-portada/c54fba34fc58-w480.avif",
+            "width": 480,
+            "bytes": 21516
+          },
+          {
+            "file": "responsive/legoland-florida-portada/c54fba34fc58-w768.avif",
+            "width": 768,
+            "bytes": 44309
+          },
+          {
+            "file": "responsive/legoland-florida-portada/c54fba34fc58-w1200.avif",
+            "width": 1200,
+            "bytes": 88896
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/legoland-florida-portada/c54fba34fc58-w480.webp",
+            "width": 480,
+            "bytes": 31474
+          },
+          {
+            "file": "responsive/legoland-florida-portada/c54fba34fc58-w768.webp",
+            "width": 768,
+            "bytes": 68538
+          },
+          {
+            "file": "responsive/legoland-florida-portada/c54fba34fc58-w1200.webp",
+            "width": 1200,
+            "bytes": 142924
           }
         ]
       }
@@ -33135,6 +35200,183 @@
             "file": "responsive/montanas-rusas-terrorificas/51d213504f07-w1200.webp",
             "width": 1200,
             "bytes": 115582
+          }
+        ]
+      }
+    },
+    "monterey-bay-aquarium-1.jpg": {
+      "sha256": "aa23c2eb4ed32598727a0cffb4864f60c8096f23898a8c0eec9c55c616098a42",
+      "original_width": 1200,
+      "original_height": 738,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/monterey-bay-aquarium-1/aa23c2eb4ed3-w480.avif",
+            "width": 480,
+            "bytes": 17539
+          },
+          {
+            "file": "responsive/monterey-bay-aquarium-1/aa23c2eb4ed3-w768.avif",
+            "width": 768,
+            "bytes": 38073
+          },
+          {
+            "file": "responsive/monterey-bay-aquarium-1/aa23c2eb4ed3-w1200.avif",
+            "width": 1200,
+            "bytes": 81497
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/monterey-bay-aquarium-1/aa23c2eb4ed3-w480.webp",
+            "width": 480,
+            "bytes": 25588
+          },
+          {
+            "file": "responsive/monterey-bay-aquarium-1/aa23c2eb4ed3-w768.webp",
+            "width": 768,
+            "bytes": 58410
+          },
+          {
+            "file": "responsive/monterey-bay-aquarium-1/aa23c2eb4ed3-w1200.webp",
+            "width": 1200,
+            "bytes": 123104
+          }
+        ]
+      }
+    },
+    "monterey-bay-aquarium-2.jpg": {
+      "sha256": "727fd857636d515d4ce80a1a9bcad18119b15010e9680a2177142b6e515d05e2",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/monterey-bay-aquarium-2/727fd857636d-w480.avif",
+            "width": 480,
+            "bytes": 18243
+          },
+          {
+            "file": "responsive/monterey-bay-aquarium-2/727fd857636d-w768.avif",
+            "width": 768,
+            "bytes": 35250
+          },
+          {
+            "file": "responsive/monterey-bay-aquarium-2/727fd857636d-w1200.avif",
+            "width": 1200,
+            "bytes": 68445
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/monterey-bay-aquarium-2/727fd857636d-w480.webp",
+            "width": 480,
+            "bytes": 27720
+          },
+          {
+            "file": "responsive/monterey-bay-aquarium-2/727fd857636d-w768.webp",
+            "width": 768,
+            "bytes": 59136
+          },
+          {
+            "file": "responsive/monterey-bay-aquarium-2/727fd857636d-w1200.webp",
+            "width": 1200,
+            "bytes": 116002
+          }
+        ]
+      }
+    },
+    "monterey-bay-aquarium-portada.jpg": {
+      "sha256": "ee2d558dd6ad9f778d5e3bf1bb923668e9d6dab58006a845ffb7cce7d6386279",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/monterey-bay-aquarium-portada/ee2d558dd6ad-w480.avif",
+            "width": 480,
+            "bytes": 13551
+          },
+          {
+            "file": "responsive/monterey-bay-aquarium-portada/ee2d558dd6ad-w768.avif",
+            "width": 768,
+            "bytes": 29571
+          },
+          {
+            "file": "responsive/monterey-bay-aquarium-portada/ee2d558dd6ad-w1200.avif",
+            "width": 1200,
+            "bytes": 62853
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/monterey-bay-aquarium-portada/ee2d558dd6ad-w480.webp",
+            "width": 480,
+            "bytes": 21664
+          },
+          {
+            "file": "responsive/monterey-bay-aquarium-portada/ee2d558dd6ad-w768.webp",
+            "width": 768,
+            "bytes": 49788
+          },
+          {
+            "file": "responsive/monterey-bay-aquarium-portada/ee2d558dd6ad-w1200.webp",
+            "width": 1200,
+            "bytes": 109480
           }
         ]
       }
@@ -44585,6 +46827,242 @@
         ]
       }
     },
+    "san-diego-zoo-1.jpg": {
+      "sha256": "fc494581082744a9168aa593c1605e76c44b75301f882439235d85e072b4469b",
+      "original_width": 1200,
+      "original_height": 797,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/san-diego-zoo-1/fc4945810827-w480.avif",
+            "width": 480,
+            "bytes": 14732
+          },
+          {
+            "file": "responsive/san-diego-zoo-1/fc4945810827-w768.avif",
+            "width": 768,
+            "bytes": 36584
+          },
+          {
+            "file": "responsive/san-diego-zoo-1/fc4945810827-w1200.avif",
+            "width": 1200,
+            "bytes": 90937
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/san-diego-zoo-1/fc4945810827-w480.webp",
+            "width": 480,
+            "bytes": 23602
+          },
+          {
+            "file": "responsive/san-diego-zoo-1/fc4945810827-w768.webp",
+            "width": 768,
+            "bytes": 57540
+          },
+          {
+            "file": "responsive/san-diego-zoo-1/fc4945810827-w1200.webp",
+            "width": 1200,
+            "bytes": 135574
+          }
+        ]
+      }
+    },
+    "san-diego-zoo-2.jpg": {
+      "sha256": "1410f00ed3feb672d8e83902b42c8744ffcee89d1fc8de53e2abc18522dde5e0",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/san-diego-zoo-2/1410f00ed3fe-w480.avif",
+            "width": 480,
+            "bytes": 12932
+          },
+          {
+            "file": "responsive/san-diego-zoo-2/1410f00ed3fe-w768.avif",
+            "width": 768,
+            "bytes": 25399
+          },
+          {
+            "file": "responsive/san-diego-zoo-2/1410f00ed3fe-w1200.avif",
+            "width": 1200,
+            "bytes": 69738
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/san-diego-zoo-2/1410f00ed3fe-w480.webp",
+            "width": 480,
+            "bytes": 24462
+          },
+          {
+            "file": "responsive/san-diego-zoo-2/1410f00ed3fe-w768.webp",
+            "width": 768,
+            "bytes": 59382
+          },
+          {
+            "file": "responsive/san-diego-zoo-2/1410f00ed3fe-w1200.webp",
+            "width": 1200,
+            "bytes": 132780
+          }
+        ]
+      }
+    },
+    "san-diego-zoo-3.jpg": {
+      "sha256": "94bd2098caf76d82d39045d520906153deb8d93cb9267464a890f7e4328cae64",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/san-diego-zoo-3/94bd2098caf7-w480.avif",
+            "width": 480,
+            "bytes": 19870
+          },
+          {
+            "file": "responsive/san-diego-zoo-3/94bd2098caf7-w768.avif",
+            "width": 768,
+            "bytes": 49746
+          },
+          {
+            "file": "responsive/san-diego-zoo-3/94bd2098caf7-w1200.avif",
+            "width": 1200,
+            "bytes": 117128
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/san-diego-zoo-3/94bd2098caf7-w480.webp",
+            "width": 480,
+            "bytes": 31114
+          },
+          {
+            "file": "responsive/san-diego-zoo-3/94bd2098caf7-w768.webp",
+            "width": 768,
+            "bytes": 78080
+          },
+          {
+            "file": "responsive/san-diego-zoo-3/94bd2098caf7-w1200.webp",
+            "width": 1200,
+            "bytes": 182172
+          }
+        ]
+      }
+    },
+    "san-diego-zoo-portada.jpg": {
+      "sha256": "98cf56f6bf50f389486f19dd3e9822253594f588d30fe246a35651cbeeefc132",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/san-diego-zoo-portada/98cf56f6bf50-w480.avif",
+            "width": 480,
+            "bytes": 15882
+          },
+          {
+            "file": "responsive/san-diego-zoo-portada/98cf56f6bf50-w768.avif",
+            "width": 768,
+            "bytes": 41116
+          },
+          {
+            "file": "responsive/san-diego-zoo-portada/98cf56f6bf50-w1200.avif",
+            "width": 1200,
+            "bytes": 102385
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/san-diego-zoo-portada/98cf56f6bf50-w480.webp",
+            "width": 480,
+            "bytes": 22860
+          },
+          {
+            "file": "responsive/san-diego-zoo-portada/98cf56f6bf50-w768.webp",
+            "width": 768,
+            "bytes": 57538
+          },
+          {
+            "file": "responsive/san-diego-zoo-portada/98cf56f6bf50-w1200.webp",
+            "width": 1200,
+            "bytes": 141172
+          }
+        ]
+      }
+    },
     "sanrio-puroland-1.jpg": {
       "sha256": "83d0ef5afbf1405275f01488aef1449405b0f3531ac07f6ecfd68d812d16755d",
       "original_width": 1200,
@@ -44821,6 +47299,242 @@
         ]
       }
     },
+    "sea-aquarium-singapore-1.jpg": {
+      "sha256": "34fa27697181aacc009539184e7aff85bc5148208f44b861dca238dbdfdc1d9e",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sea-aquarium-singapore-1/34fa27697181-w480.avif",
+            "width": 480,
+            "bytes": 19695
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-1/34fa27697181-w768.avif",
+            "width": 768,
+            "bytes": 48049
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-1/34fa27697181-w1200.avif",
+            "width": 1200,
+            "bytes": 102960
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sea-aquarium-singapore-1/34fa27697181-w480.webp",
+            "width": 480,
+            "bytes": 29102
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-1/34fa27697181-w768.webp",
+            "width": 768,
+            "bytes": 73070
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-1/34fa27697181-w1200.webp",
+            "width": 1200,
+            "bytes": 155080
+          }
+        ]
+      }
+    },
+    "sea-aquarium-singapore-2.jpg": {
+      "sha256": "98ef5cac9070093cdcbbfc1edbe2dbf07b2e5a4c9f91c6f62c4ce182efa1b8b1",
+      "original_width": 1200,
+      "original_height": 801,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sea-aquarium-singapore-2/98ef5cac9070-w480.avif",
+            "width": 480,
+            "bytes": 4769
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-2/98ef5cac9070-w768.avif",
+            "width": 768,
+            "bytes": 9373
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-2/98ef5cac9070-w1200.avif",
+            "width": 1200,
+            "bytes": 19213
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sea-aquarium-singapore-2/98ef5cac9070-w480.webp",
+            "width": 480,
+            "bytes": 11024
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-2/98ef5cac9070-w768.webp",
+            "width": 768,
+            "bytes": 23160
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-2/98ef5cac9070-w1200.webp",
+            "width": 1200,
+            "bytes": 46408
+          }
+        ]
+      }
+    },
+    "sea-aquarium-singapore-3.jpg": {
+      "sha256": "b70c77ba6f0f7e4ab29f628e76375766c2dcdf776d27ceceb98fad1695eedd5e",
+      "original_width": 1200,
+      "original_height": 801,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sea-aquarium-singapore-3/b70c77ba6f0f-w480.avif",
+            "width": 480,
+            "bytes": 1989
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-3/b70c77ba6f0f-w768.avif",
+            "width": 768,
+            "bytes": 4071
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-3/b70c77ba6f0f-w1200.avif",
+            "width": 1200,
+            "bytes": 7648
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sea-aquarium-singapore-3/b70c77ba6f0f-w480.webp",
+            "width": 480,
+            "bytes": 5526
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-3/b70c77ba6f0f-w768.webp",
+            "width": 768,
+            "bytes": 11978
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-3/b70c77ba6f0f-w1200.webp",
+            "width": 1200,
+            "bytes": 24380
+          }
+        ]
+      }
+    },
+    "sea-aquarium-singapore-portada.jpg": {
+      "sha256": "fb26bf95c57c1ea8877e7e34ee14a6bd1c26d9e9b8db4b0cd71a3cccef8674cc",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sea-aquarium-singapore-portada/fb26bf95c57c-w480.avif",
+            "width": 480,
+            "bytes": 6749
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-portada/fb26bf95c57c-w768.avif",
+            "width": 768,
+            "bytes": 14011
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-portada/fb26bf95c57c-w1200.avif",
+            "width": 1200,
+            "bytes": 27909
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sea-aquarium-singapore-portada/fb26bf95c57c-w480.webp",
+            "width": 480,
+            "bytes": 12110
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-portada/fb26bf95c57c-w768.webp",
+            "width": 768,
+            "bytes": 25806
+          },
+          {
+            "file": "responsive/sea-aquarium-singapore-portada/fb26bf95c57c-w1200.webp",
+            "width": 1200,
+            "bytes": 53774
+          }
+        ]
+      }
+    },
     "seaworld-orlando-1.jpg": {
       "sha256": "0cd9e0db0c06c1fd864038435e33ffdb697d763158abde87074cc40c04687e92",
       "original_width": 1200,
@@ -45053,6 +47767,183 @@
             "file": "responsive/seaworld-orlando-portada/7421c14a49a3-w1200.webp",
             "width": 1200,
             "bytes": 170808
+          }
+        ]
+      }
+    },
+    "seaworld-san-diego-1.jpg": {
+      "sha256": "f52070afa331f82419a780e103638c2ea1f92ee0069a6c2219864ae93254f8c7",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/seaworld-san-diego-1/f52070afa331-w480.avif",
+            "width": 480,
+            "bytes": 19503
+          },
+          {
+            "file": "responsive/seaworld-san-diego-1/f52070afa331-w768.avif",
+            "width": 768,
+            "bytes": 39406
+          },
+          {
+            "file": "responsive/seaworld-san-diego-1/f52070afa331-w1200.avif",
+            "width": 1200,
+            "bytes": 81630
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/seaworld-san-diego-1/f52070afa331-w480.webp",
+            "width": 480,
+            "bytes": 30254
+          },
+          {
+            "file": "responsive/seaworld-san-diego-1/f52070afa331-w768.webp",
+            "width": 768,
+            "bytes": 65172
+          },
+          {
+            "file": "responsive/seaworld-san-diego-1/f52070afa331-w1200.webp",
+            "width": 1200,
+            "bytes": 134018
+          }
+        ]
+      }
+    },
+    "seaworld-san-diego-2.jpg": {
+      "sha256": "909934b9a784f091ce6ec391b96f68fd8a06e1ab5be527e506e20a6e02595377",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/seaworld-san-diego-2/909934b9a784-w480.avif",
+            "width": 480,
+            "bytes": 15520
+          },
+          {
+            "file": "responsive/seaworld-san-diego-2/909934b9a784-w768.avif",
+            "width": 768,
+            "bytes": 32019
+          },
+          {
+            "file": "responsive/seaworld-san-diego-2/909934b9a784-w1200.avif",
+            "width": 1200,
+            "bytes": 70688
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/seaworld-san-diego-2/909934b9a784-w480.webp",
+            "width": 480,
+            "bytes": 22286
+          },
+          {
+            "file": "responsive/seaworld-san-diego-2/909934b9a784-w768.webp",
+            "width": 768,
+            "bytes": 48548
+          },
+          {
+            "file": "responsive/seaworld-san-diego-2/909934b9a784-w1200.webp",
+            "width": 1200,
+            "bytes": 107510
+          }
+        ]
+      }
+    },
+    "seaworld-san-diego-portada.jpg": {
+      "sha256": "34cd87eebd4746d973cd33e9b72887f63c7b3dec48db50a436527ada34fed4bf",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/seaworld-san-diego-portada/34cd87eebd47-w480.avif",
+            "width": 480,
+            "bytes": 29198
+          },
+          {
+            "file": "responsive/seaworld-san-diego-portada/34cd87eebd47-w768.avif",
+            "width": 768,
+            "bytes": 67271
+          },
+          {
+            "file": "responsive/seaworld-san-diego-portada/34cd87eebd47-w1200.avif",
+            "width": 1200,
+            "bytes": 150699
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/seaworld-san-diego-portada/34cd87eebd47-w480.webp",
+            "width": 480,
+            "bytes": 39800
+          },
+          {
+            "file": "responsive/seaworld-san-diego-portada/34cd87eebd47-w768.webp",
+            "width": 768,
+            "bytes": 93380
+          },
+          {
+            "file": "responsive/seaworld-san-diego-portada/34cd87eebd47-w1200.webp",
+            "width": 1200,
+            "bytes": 207538
           }
         ]
       }
@@ -47472,6 +50363,242 @@
             "file": "responsive/siam-park-vista-general/ce07c29d555c-w1200.webp",
             "width": 1200,
             "bytes": 194588
+          }
+        ]
+      }
+    },
+    "singapore-zoo-1.jpg": {
+      "sha256": "bf3ca6ab86eafb0e9915dbe977ee60be23ee1d5d3b5142012d385a0bfce19292",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/singapore-zoo-1/bf3ca6ab86ea-w480.avif",
+            "width": 480,
+            "bytes": 13368
+          },
+          {
+            "file": "responsive/singapore-zoo-1/bf3ca6ab86ea-w768.avif",
+            "width": 768,
+            "bytes": 29094
+          },
+          {
+            "file": "responsive/singapore-zoo-1/bf3ca6ab86ea-w1200.avif",
+            "width": 1200,
+            "bytes": 67126
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/singapore-zoo-1/bf3ca6ab86ea-w480.webp",
+            "width": 480,
+            "bytes": 21752
+          },
+          {
+            "file": "responsive/singapore-zoo-1/bf3ca6ab86ea-w768.webp",
+            "width": 768,
+            "bytes": 49892
+          },
+          {
+            "file": "responsive/singapore-zoo-1/bf3ca6ab86ea-w1200.webp",
+            "width": 1200,
+            "bytes": 110184
+          }
+        ]
+      }
+    },
+    "singapore-zoo-2.jpg": {
+      "sha256": "2f9d84667b6ace271960ef25964b142c288c49592ad785ff57d702a8a38f1635",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/singapore-zoo-2/2f9d84667b6a-w480.avif",
+            "width": 480,
+            "bytes": 21883
+          },
+          {
+            "file": "responsive/singapore-zoo-2/2f9d84667b6a-w768.avif",
+            "width": 768,
+            "bytes": 39470
+          },
+          {
+            "file": "responsive/singapore-zoo-2/2f9d84667b6a-w1200.avif",
+            "width": 1200,
+            "bytes": 69120
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/singapore-zoo-2/2f9d84667b6a-w480.webp",
+            "width": 480,
+            "bytes": 35012
+          },
+          {
+            "file": "responsive/singapore-zoo-2/2f9d84667b6a-w768.webp",
+            "width": 768,
+            "bytes": 67618
+          },
+          {
+            "file": "responsive/singapore-zoo-2/2f9d84667b6a-w1200.webp",
+            "width": 1200,
+            "bytes": 126272
+          }
+        ]
+      }
+    },
+    "singapore-zoo-3.jpg": {
+      "sha256": "cec3bead2873201460d851191b26ba0bbbeeeac392cc8115dfd5ccfa96b3bd42",
+      "original_width": 1200,
+      "original_height": 801,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/singapore-zoo-3/cec3bead2873-w480.avif",
+            "width": 480,
+            "bytes": 22581
+          },
+          {
+            "file": "responsive/singapore-zoo-3/cec3bead2873-w768.avif",
+            "width": 768,
+            "bytes": 56726
+          },
+          {
+            "file": "responsive/singapore-zoo-3/cec3bead2873-w1200.avif",
+            "width": 1200,
+            "bytes": 140122
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/singapore-zoo-3/cec3bead2873-w480.webp",
+            "width": 480,
+            "bytes": 35358
+          },
+          {
+            "file": "responsive/singapore-zoo-3/cec3bead2873-w768.webp",
+            "width": 768,
+            "bytes": 88678
+          },
+          {
+            "file": "responsive/singapore-zoo-3/cec3bead2873-w1200.webp",
+            "width": 1200,
+            "bytes": 213888
+          }
+        ]
+      }
+    },
+    "singapore-zoo-portada.jpg": {
+      "sha256": "f7ba53a0f5723350f26f71d7d6a5ec900ed831a8dc54bfb12455f330f0ad3df1",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/singapore-zoo-portada/f7ba53a0f572-w480.avif",
+            "width": 480,
+            "bytes": 27402
+          },
+          {
+            "file": "responsive/singapore-zoo-portada/f7ba53a0f572-w768.avif",
+            "width": 768,
+            "bytes": 60542
+          },
+          {
+            "file": "responsive/singapore-zoo-portada/f7ba53a0f572-w1200.avif",
+            "width": 1200,
+            "bytes": 121707
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/singapore-zoo-portada/f7ba53a0f572-w480.webp",
+            "width": 480,
+            "bytes": 37844
+          },
+          {
+            "file": "responsive/singapore-zoo-portada/f7ba53a0f572-w768.webp",
+            "width": 768,
+            "bytes": 85740
+          },
+          {
+            "file": "responsive/singapore-zoo-portada/f7ba53a0f572-w1200.webp",
+            "width": 1200,
+            "bytes": 178922
           }
         ]
       }

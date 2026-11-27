@@ -10895,5 +10895,429 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "original_date": "2015-09-10",
     "changes": "redimensionada a 1200 px, JPG"
+  },
+  "san-diego-zoo-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:San_Diego_Zoo_View_From_Skyfari_2_2016-06-05.jpg",
+    "author": "FASTILY",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2016-06-05",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "san-diego-zoo-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:San_Diego_Zoo_View_From_Skyfari_8_2016-06-05.jpg",
+    "author": "FASTILY",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2016-06-05",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "san-diego-zoo-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ailuropoda_melanoleuca_in_San_Diego_Zoo_-_22.jpg",
+    "author": "Jason \"Textfiles\" Scott",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2008-07-28",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "san-diego-zoo-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_rhinoceros_in_San_Diego_Zoo.jpg",
+    "author": "Bernard Gagnon",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2013-03-22",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "seaworld-san-diego-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Manta_(SeaWorld_San_Diego)_1.jpg",
+    "author": "cultivar413",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2021-05-07",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "seaworld-san-diego-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:SeaWorld_San_Diego_%22Sea_Lion_%26_Otter_Amphitheater%22_Exhibit.jpg",
+    "author": "DestinationFearFan",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2019-12-27",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "seaworld-san-diego-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:MantaEntranceSanDiego.jpg",
+    "author": "Coldbolt",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2015-07-28",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "legoland-california-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Legoland_California_(5477859193).jpg",
+    "author": "wiredforlego from Portland, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2011-02-19",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "legoland-california-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Legoland_California_(5477826341).jpg",
+    "author": "wiredforlego from Portland, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2011-02-19",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "legoland-california-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Legoland_California_(5478451830).jpg",
+    "author": "wiredforlego from Portland, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2011-02-19",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "legoland-california-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Legoland_California_(5477815147).jpg",
+    "author": "wiredforlego from Portland, USA",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2011-02-19",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "aquarium-of-the-pacific-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aquarium_of_the_Pacific_2024_February.jpg",
+    "author": "Jengod",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2024-02-02",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "aquarium-of-the-pacific-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aquarium_of_the_Pacific.jpg",
+    "author": "Jakesoriano23",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2019-06-01",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "aquarium-of-the-pacific-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Sea_Jellies_at_the_Aquarium_of_the_Pacific_in_Long_Beach,_California_(1).jpg",
+    "author": "Srishti Sethi",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-12-27",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "aquarium-of-the-pacific-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Neotrygon_kuhlii_Aquarium_of_the_Pacific.jpg",
+    "author": "Coughdrop12",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2020-10-16",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "bronx-zoo-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Bronx_Zoo_Asia_Gate_entrance_August_2026.jpg",
+    "author": "SnowFire",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2026-08-14",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "bronx-zoo-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Chilean_flamingos_(Phoenicopterus_chilensis)_at_Bronx_Zoo_August_2026.jpg",
+    "author": "SnowFire",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2026-08-14",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "bronx-zoo-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Rothschild's_giraffes_(Giraffa_camelopardalis_rothschildi)_at_Bronx_Zoo_browsing_August_2026.jpg",
+    "author": "SnowFire",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2026-08-14",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "bronx-zoo-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Bronx_Zoo_Little_Blue_Penguin_Habitat.jpg",
+    "author": "BronxZooWorldOfBirdsFan",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0",
+    "original_date": "2023-12-31",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "georgia-aquarium-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Male_whale_shark_at_Georgia_Aquarium.jpg",
+    "author": "Zac Wolf",
+    "license": "CC BY-SA 2.5",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.5",
+    "original_date": "2006-05-06",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "georgia-aquarium-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Georgia_Aquarium_in_Atlanta_-_HCP_-_September_17,_2022_-_007.jpg",
+    "author": "Vulturesong",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0",
+    "original_date": "2022-09-17",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "georgia-aquarium-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Georgia_Aquarium_in_Atlanta_-_HCP_-_September_17,_2022_-_088.jpg",
+    "author": "Vulturesong",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0",
+    "original_date": "2022-09-17",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "georgia-aquarium-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Georgia_Aquarium_-_Ocean_Voyager_Tunnel_Jan_2006.jpg",
+    "author": "Diliff",
+    "license": "CC BY 2.5",
+    "license_url": "https://creativecommons.org/licenses/by/2.5",
+    "original_date": "2006-01-25",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "monterey-bay-aquarium-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:MontereyBayAquariumBackview.jpg",
+    "author": "Meij.kobayashi",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0",
+    "original_date": "2008-06-24",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "monterey-bay-aquarium-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:School_of_sardines_at_the_Monterey_Bay_Aquarium_(12056).jpg",
+    "author": "Rhododendrites",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2017",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "monterey-bay-aquarium-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Jellyfish_at_the_Monterey_Bay_Aquarium.jpg",
+    "author": "Changku88",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2017-05-17",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "legoland-florida-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:LEGOLAND®_Florida_(8132540205).jpg",
+    "author": "VisitCentralFL",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2012-10-09",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "legoland-florida-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Miniland,_Legoland,_Florida._(6497802865).jpg",
+    "author": "Kathryn Greenhill",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2011-12-12",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "legoland-florida-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aquazone_Wave_Racers_Legoland_Florida.jpg",
+    "author": "hyku",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2011",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "legoland-florida-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Legoland_Florida_2.jpg",
+    "author": "NathanF",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2012-02-04",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "singapore-zoo-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Singapore_Zoo_entrance-15Feb2010.jpg",
+    "author": "Drew",
+    "license": "CC BY 3.0",
+    "license_url": "https://creativecommons.org/licenses/by/3.0",
+    "original_date": "2010-02-19",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "singapore-zoo-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Two_white_tigers_playing_in_the_water_at_Singapore_Zoo.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-06-09",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "singapore-zoo-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Orangutan_Singapore_zoo_01.jpg",
+    "author": "Emcc83",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2015-04-10",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "singapore-zoo-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Elephas_maximus_in_Singapore_Zoo,_20240206_0857_6202.jpg",
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2024-02-06",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "gardens-by-the-bay-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Cloud_Forest_-_Gardens_by_the_Bay_-_at_night_seen_from_the_sky_observation_deck_of_Marina_Bay_Sands_Singapore.jpg",
+    "author": "Basile Morin",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-06-10",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "gardens-by-the-bay-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Supertree_Grove,_Gardens_by_the_Bay,_Singapore1.jpg",
+    "author": "Mustang Joe",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0",
+    "original_date": "2024",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "gardens-by-the-bay-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:At_Singapore_2023_125_-_At_Supertree_Grove.jpg",
+    "author": "Mike Peel",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2023-08-19",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "gardens-by-the-bay-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Singapore_Gardens_by_the_Bay_Cloud_Forest_&_Flower_Dome_1.jpg",
+    "author": "Zairon",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2015-11-04",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "sea-aquarium-singapore-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Singapore_Oceanarium_Entrance_02.jpg",
+    "author": "BenTanXiaoMing",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2026-07-09",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "sea-aquarium-singapore-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Singapore_Oceanarium.jpg",
+    "author": "Choo Yut Shing",
+    "license": "Public domain",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0",
+    "original_date": "2025-10-10",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "sea-aquarium-singapore-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:S.E.A._Aquarium,_Singapore,_20240206_1354_6519.jpg",
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2024-02-06",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "sea-aquarium-singapore-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Shark_Seas,_S.E.A._Aquarium,_Singapore,_20240206_1408_6551.jpg",
+    "author": "Jakub Hałun",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0",
+    "original_date": "2024-02-06",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "dubai-aquarium-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dubai_Aquarium_and_underwater_Zoo_(Ank_Kumar,_Infosys)_04.jpg",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2013-03-21",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "dubai-aquarium-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dubai_Aquarium_and_underwater_Zoo_(Ank_Kumar,_Infosys)_07.jpg",
+    "author": "Ank Kumar",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2013-03-21",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "dubai-aquarium-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dubai_Aquarium_(4129351332).jpg",
+    "author": "Leandro Neumann Ciuffo",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2009-11-13",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "dubai-aquarium-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dubai_Aquarium2.jpg",
+    "author": "Maxim Gavrilyuk",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2013-09-13",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "ferrari-world-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Formula_Rossa_Ferrari_World.JPG",
+    "author": "Steven Lek",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2013-04-11",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "ferrari-world-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Formula_Rossa_Roller_Coaster_(1).JPG",
+    "author": "Stdragon04",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2011-12-27",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "ferrari-world-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_world-abu_dhabi-2011.JPG",
+    "author": "Alberto-g-rovi",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2013",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "ferrari-world-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ferrari_World_Abu_Dhabi_(39958231840).jpg",
+    "author": "Jeremy Thompson from Los Angeles, California",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2018-04-23",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "atlantis-aquaventure-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Atlantis_Aquapark.JPG",
+    "author": "Rokaszil",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2010-03-16",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "atlantis-aquaventure-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aquaventure_2022-11-6.jpg",
+    "author": "دانية دروبي",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0",
+    "original_date": "2022-11-06",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "atlantis-aquaventure-2.jpg": {
+    "source": "https://www.flickr.com/photos/63503049@N03/8973483064",
+    "author": "travelourplanet.com (Flickr)",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2013",
+    "changes": "redimensionada a 1200 px, JPG"
   }
 }

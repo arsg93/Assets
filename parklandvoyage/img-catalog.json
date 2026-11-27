@@ -15665,6 +15665,695 @@
    "uses": [
     "guia"
    ]
+  },
+  "san-diego-zoo-portada.jpg": {
+   "park": "san-diego-zoo",
+   "ride": null,
+   "shows": "Vista aérea del San Diego Zoo con la torre del California Building de Balboa Park y el viaducto al fondo, desde la telecabina Skyfari, 2016",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "san-diego-zoo-1.jpg": {
+   "park": "san-diego-zoo",
+   "ride": null,
+   "shows": "Telecabina Skyfari sobre el arbolado y las zonas de descanso del San Diego Zoo, 2016",
+   "width": 1200,
+   "height": 797,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "san-diego-zoo-2.jpg": {
+   "park": "san-diego-zoo",
+   "ride": null,
+   "shows": "Oso panda gigante comiendo bambú en una hamaca en el San Diego Zoo, 2008",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "san-diego-zoo-3.jpg": {
+   "park": "san-diego-zoo",
+   "ride": null,
+   "shows": "Rinoceronte indio descansando en el San Diego Zoo, 2013",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "seaworld-san-diego-portada.jpg": {
+   "park": "seaworld-san-diego",
+   "ride": null,
+   "shows": "Montaña rusa Manta serpenteando entre jardines de SeaWorld San Diego, 2021",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "seaworld-san-diego-1.jpg": {
+   "park": "seaworld-san-diego",
+   "ride": null,
+   "shows": "Escenario del anfiteatro de leones marinos y nutrias de SeaWorld San Diego, 2019",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "seaworld-san-diego-2.jpg": {
+   "park": "seaworld-san-diego",
+   "ride": null,
+   "shows": "Entrada de la montaña rusa Manta con la escultura de la manta raya, SeaWorld San Diego, 2015",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-california-portada.jpg": {
+   "park": "legoland-california",
+   "ride": null,
+   "shows": "Maqueta de Lego del Capitolio de EE. UU. en Miniland USA, Legoland California, 2011",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-california-1.jpg": {
+   "park": "legoland-california",
+   "ride": null,
+   "shows": "Maqueta de Lego de Las Vegas en Miniland USA, Legoland California, 2011",
+   "width": 1200,
+   "height": 896,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-california-2.jpg": {
+   "park": "legoland-california",
+   "ride": null,
+   "shows": "Maqueta de Lego del Teatro Chino de Hollywood en Miniland USA, Legoland California, 2011",
+   "width": 1200,
+   "height": 896,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-california-3.jpg": {
+   "park": "legoland-california",
+   "ride": null,
+   "shows": "Maqueta de Lego de una costa con puerto y puente en Miniland USA, Legoland California, 2011",
+   "width": 1200,
+   "height": 896,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquarium-of-the-pacific-portada.jpg": {
+   "park": "aquarium-of-the-pacific",
+   "ride": null,
+   "shows": "Edificio azul del Aquarium of the Pacific en Long Beach desde el paseo exterior, febrero de 2024",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquarium-of-the-pacific-1.jpg": {
+   "park": "aquarium-of-the-pacific",
+   "ride": null,
+   "shows": "Exterior del Aquarium of the Pacific en Long Beach, 2019",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquarium-of-the-pacific-2.jpg": {
+   "park": "aquarium-of-the-pacific",
+   "ride": null,
+   "shows": "Medusas en un tanque del Aquarium of the Pacific, 2018",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquarium-of-the-pacific-3.jpg": {
+   "park": "aquarium-of-the-pacific",
+   "ride": null,
+   "shows": "Raya de manchas azules en un tanque del Aquarium of the Pacific, 2020",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bronx-zoo-portada.jpg": {
+   "park": "bronx-zoo",
+   "ride": null,
+   "shows": "Puerta de entrada Asia Gate del Bronx Zoo, agosto de 2026",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bronx-zoo-1.jpg": {
+   "park": "bronx-zoo",
+   "ride": null,
+   "shows": "Flamencos chilenos en su estanque del Bronx Zoo, agosto de 2026",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bronx-zoo-2.jpg": {
+   "park": "bronx-zoo",
+   "ride": null,
+   "shows": "Jirafas de Rothschild en el Bronx Zoo, agosto de 2026",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bronx-zoo-3.jpg": {
+   "park": "bronx-zoo",
+   "ride": null,
+   "shows": "Hábitat de aves costeras con pingüinos azules en la Aquatic Bird House del Bronx Zoo, 2023",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "georgia-aquarium-portada.jpg": {
+   "park": "georgia-aquarium",
+   "ride": null,
+   "shows": "Tiburón ballena en el tanque Ocean Voyager del Georgia Aquarium, 2006",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "georgia-aquarium-1.jpg": {
+   "park": "georgia-aquarium",
+   "ride": null,
+   "shows": "Tiburones y bancos de peces en un gran tanque del Georgia Aquarium, 2022",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "georgia-aquarium-2.jpg": {
+   "park": "georgia-aquarium",
+   "ride": null,
+   "shows": "Dragón de mar en un tanque del Georgia Aquarium, 2022",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "georgia-aquarium-3.jpg": {
+   "park": "georgia-aquarium",
+   "ride": null,
+   "shows": "Túnel acrílico del tanque Ocean Voyager del Georgia Aquarium, 2006",
+   "width": 1200,
+   "height": 741,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "monterey-bay-aquarium-portada.jpg": {
+   "park": "monterey-bay-aquarium",
+   "ride": null,
+   "shows": "Fachada trasera del Monterey Bay Aquarium sobre la bahía de Monterey, 2008",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "monterey-bay-aquarium-1.jpg": {
+   "park": "monterey-bay-aquarium",
+   "ride": null,
+   "shows": "Visitantes ante un banco de sardinas en la sala Open Ocean del Monterey Bay Aquarium, 2017",
+   "width": 1200,
+   "height": 738,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "monterey-bay-aquarium-2.jpg": {
+   "park": "monterey-bay-aquarium",
+   "ride": null,
+   "shows": "Medusas ortiga del Pacífico en el Monterey Bay Aquarium, 2017",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-florida-portada.jpg": {
+   "park": "legoland-florida",
+   "ride": null,
+   "shows": "Arco de entrada de Legoland Florida con el minifigura y la tarta de cumpleaños, 2012",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-florida-1.jpg": {
+   "park": "legoland-florida",
+   "ride": null,
+   "shows": "Maqueta de Lego de una ciudad junto a un lago en Miniland, Legoland Florida, 2011",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-florida-2.jpg": {
+   "park": "legoland-florida",
+   "ride": null,
+   "shows": "Atracción acuática Aquazone Wave Racers en Legoland Florida, 2011",
+   "width": 1200,
+   "height": 798,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-florida-3.jpg": {
+   "park": "legoland-florida",
+   "ride": null,
+   "shows": "Vista elevada de Legoland Florida entre el arbolado de Winter Haven, 2012",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "singapore-zoo-portada.jpg": {
+   "park": "singapore-zoo",
+   "ride": null,
+   "shows": "Entrada principal del Singapore Zoo, 2010",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "singapore-zoo-1.jpg": {
+   "park": "singapore-zoo",
+   "ride": null,
+   "shows": "Dos tigres blancos jugando en el agua en el Singapore Zoo, 2018",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "singapore-zoo-2.jpg": {
+   "park": "singapore-zoo",
+   "ride": null,
+   "shows": "Orangután en su plataforma en el Singapore Zoo, 2015",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "singapore-zoo-3.jpg": {
+   "park": "singapore-zoo",
+   "ride": null,
+   "shows": "Elefante asiático en el Singapore Zoo, 2024",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "gardens-by-the-bay-portada.jpg": {
+   "park": "gardens-by-the-bay",
+   "ride": null,
+   "shows": "Vista nocturna de Gardens by the Bay con el Cloud Forest, el Flower Dome y los Supertrees iluminados desde Marina Bay Sands, 2018",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "gardens-by-the-bay-1.jpg": {
+   "park": "gardens-by-the-bay",
+   "ride": null,
+   "shows": "Supertree Grove visto desde la plataforma del hotel Marina Bay Sands, 2024",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "gardens-by-the-bay-2.jpg": {
+   "park": "gardens-by-the-bay",
+   "ride": null,
+   "shows": "Copa de un Supertree en Gardens by the Bay, 2023",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "gardens-by-the-bay-3.jpg": {
+   "park": "gardens-by-the-bay",
+   "ride": null,
+   "shows": "Cloud Forest y Flower Dome vistos desde la bahía, 2015",
+   "width": 1200,
+   "height": 661,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-aquarium-singapore-portada.jpg": {
+   "park": "sea-aquarium-singapore",
+   "ride": null,
+   "shows": "Entrada del Singapore Oceanarium (antes S.E.A. Aquarium) en Resorts World Sentosa, 2026",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-aquarium-singapore-1.jpg": {
+   "park": "sea-aquarium-singapore",
+   "ride": null,
+   "shows": "Singapore Oceanarium visto desde VivoCity, 2025",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-aquarium-singapore-2.jpg": {
+   "park": "sea-aquarium-singapore",
+   "ride": null,
+   "shows": "Raya y otros peces en el gran tanque del antiguo S.E.A. Aquarium, 2024 (ahora Singapore Oceanarium)",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-aquarium-singapore-3.jpg": {
+   "park": "sea-aquarium-singapore",
+   "ride": null,
+   "shows": "Tiburón en la zona Shark Seas del antiguo S.E.A. Aquarium, 2024 (ahora Singapore Oceanarium)",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dubai-aquarium-portada.jpg": {
+   "park": "dubai-aquarium",
+   "ride": null,
+   "shows": "Gran panel acrílico del Dubai Aquarium en el Dubai Mall visto desde la planta superior, 2013",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dubai-aquarium-1.jpg": {
+   "park": "dubai-aquarium",
+   "ride": null,
+   "shows": "Peces en el gran tanque del Dubai Aquarium, 2013",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dubai-aquarium-2.jpg": {
+   "park": "dubai-aquarium",
+   "ride": null,
+   "shows": "Túnel del Dubai Aquarium con un tiburón sobre los visitantes, 2009",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dubai-aquarium-3.jpg": {
+   "park": "dubai-aquarium",
+   "ride": null,
+   "shows": "Túnel acrílico del Dubai Aquarium, 2013",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ferrari-world-portada.jpg": {
+   "park": "ferrari-world",
+   "ride": null,
+   "shows": "Montaña rusa Formula Rossa y el exterior de Ferrari World Abu Dhabi, 2013",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ferrari-world-1.jpg": {
+   "park": "ferrari-world",
+   "ride": null,
+   "shows": "Montaña rusa Formula Rossa en Ferrari World Abu Dhabi, 2011",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ferrari-world-2.jpg": {
+   "park": "ferrari-world",
+   "ride": null,
+   "shows": "Coche Ferrari clásico azul en la exposición de Ferrari World Abu Dhabi, 2013",
+   "width": 1200,
+   "height": 802,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ferrari-world-3.jpg": {
+   "park": "ferrari-world",
+   "ride": null,
+   "shows": "Ferrari rojo en la Galleria Ferrari de Ferrari World Abu Dhabi, 2018",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "atlantis-aquaventure-portada.jpg": {
+   "park": "atlantis-aquaventure",
+   "ride": null,
+   "shows": "Torre en forma de zigurat y toboganes de Aquaventure en Atlantis The Palm, 2010",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "atlantis-aquaventure-1.jpg": {
+   "park": "atlantis-aquaventure",
+   "ride": null,
+   "shows": "Aquaventure y sus toboganes vistos desde el mar frente a la Palm Jumeirah, 2022",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "atlantis-aquaventure-2.jpg": {
+   "park": "atlantis-aquaventure",
+   "ride": null,
+   "shows": "Vista elevada de Aquaventure con el zigurat al fondo y las zonas de baño, 2013",
+   "width": 1024,
+   "height": 721,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "flickr",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }
