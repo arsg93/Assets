@@ -15054,6 +15054,617 @@
    "uses": [
     "guia"
    ]
+  },
+  "warner-bros-studio-tour-hollywood-portada.jpg": {
+   "park": "warner-bros-studio-tour-hollywood",
+   "ride": null,
+   "shows": "Calle del backlot de Warner Bros. Studios en Burbank con la torre de agua del estudio al fondo, 2020",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-studio-tour-hollywood-1.jpg": {
+   "park": "warner-bros-studio-tour-hollywood",
+   "ride": null,
+   "shows": "Acceso al edificio del Warner Bros. Studio Tour con las esculturas de bronce de Bugs Bunny y Lola Bunny, 2018",
+   "width": 1200,
+   "height": 799,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-studio-tour-hollywood-2.jpg": {
+   "park": "warner-bros-studio-tour-hollywood",
+   "ride": null,
+   "shows": "Exposición de Batman en el Warner Bros. Studio Tour: el Tumbler de la trilogía de Nolan bajo la Batseñal, 2014",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-studio-tour-hollywood-3.jpg": {
+   "park": "warner-bros-studio-tour-hollywood",
+   "ride": null,
+   "shows": "Pasillo del almacén de utilería y mobiliario de época del estudio durante el tour VIP, 2014",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-studio-tour-tokyo-portada.jpg": {
+   "park": "warner-bros-studio-tour-tokyo",
+   "ride": null,
+   "shows": "Locomotora del Hogwarts Express bajo la cubierta de cristal de la estación de Hogsmeade en el Warner Bros. Studio Tour Tokyo, 2023",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-studio-tour-tokyo-1.jpg": {
+   "park": "warner-bros-studio-tour-tokyo",
+   "ride": null,
+   "shows": "Paseo arbolado de acceso al edificio de entrada del Warner Bros. Studio Tour Tokyo, en Nerima, 2023",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-studio-tour-tokyo-2.jpg": {
+   "park": "warner-bros-studio-tour-tokyo",
+   "ride": null,
+   "shows": "Detalle de la locomotora roja del Hogwarts Express (5972) en el tour de Tokio, 2023",
+   "width": 1200,
+   "height": 904,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "warner-bros-studio-tour-tokyo-3.jpg": {
+   "park": "warner-bros-studio-tour-tokyo",
+   "ride": null,
+   "shows": "Cartel de la estación de Toshimaen, la parada junto al Studio Tour Tokyo, con una locomotora de vapor, 2023",
+   "width": 1200,
+   "height": 904,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "teamlab-planets-portada.jpg": {
+   "park": "teamlab-planets",
+   "ride": null,
+   "shows": "Sala de suelo con proyecciones de agua y luz de colores en teamLab Planets Tokyo (Toyosu), 2020",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "teamlab-planets-1.jpg": {
+   "park": "teamlab-planets",
+   "ride": null,
+   "shows": "Techo cubierto de flores vivas de la obra de jardín flotante en teamLab Planets Tokyo, 2024",
+   "width": 1200,
+   "height": 799,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "teamlab-planets-2.jpg": {
+   "park": "teamlab-planets",
+   "ride": null,
+   "shows": "Haces de luz puntuales en una sala oscura de teamLab Planets Tokyo, 2024",
+   "width": 1200,
+   "height": 799,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "teamlab-planets-3.jpg": {
+   "park": "teamlab-planets",
+   "ride": null,
+   "shows": "Fachada exterior del edificio de teamLab Planets Tokyo en Toyosu, 2026",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "teamlab-borderless-portada.jpg": {
+   "park": "teamlab-borderless",
+   "ride": null,
+   "shows": "Sala de espejos con haces de luz de teamLab Borderless en Azabudai Hills, 2024",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "teamlab-borderless-1.jpg": {
+   "park": "teamlab-borderless",
+   "ride": null,
+   "shows": "Garden Plaza A y B de Azabudai Hills, diseño de Heatherwick Studio, el complejo que alberga teamLab Borderless, 2024",
+   "width": 1200,
+   "height": 858,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "teamlab-borderless-2.jpg": {
+   "park": "teamlab-borderless",
+   "ride": null,
+   "shows": "Vestíbulo de la planta B1 de Garden Plaza B en Azabudai Hills, la planta donde se encuentra teamLab Borderless, 2024",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ghibli-museum-portada.jpg": {
+   "park": "ghibli-museum",
+   "ride": null,
+   "shows": "Fachada exterior del Museo Ghibli de Mitaka cubierta de hiedra, con la entrada principal, 2014",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ghibli-museum-1.jpg": {
+   "park": "ghibli-museum",
+   "ride": null,
+   "shows": "Robot Soldier de El castillo en el cielo, la estatua de la azotea del Museo Ghibli, 2008",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ghibli-museum-2.jpg": {
+   "park": "ghibli-museum",
+   "ride": null,
+   "shows": "Fachada multicolor del Museo Ghibli al atardecer vista desde el jardín, hacia 2023",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ghibli-museum-3.jpg": {
+   "park": "ghibli-museum",
+   "ride": null,
+   "shows": "Edificio del Museo Ghibli y su azotea ajardinada vistos desde lo alto, 2008",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "lego-house-portada.jpg": {
+   "park": "lego-house",
+   "ride": null,
+   "shows": "Exterior de LEGO House en Billund con sus bloques gigantes y la escalinata, 2022",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "lego-house-1.jpg": {
+   "park": "lego-house",
+   "ride": null,
+   "shows": "Vista exterior de LEGO House con los ladrillos gigantes rojos y azules en la plaza, 2022",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "lego-house-2.jpg": {
+   "park": "lego-house",
+   "ride": null,
+   "shows": "Maqueta de LEGO de una estación de tren iluminada, expuesta en LEGO House, 2022",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "lego-house-3.jpg": {
+   "park": "lego-house",
+   "ride": null,
+   "shows": "Escalera interior de LEGO House con pared de ladrillos de colores, 2019",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "madame-tussauds-london-portada.jpg": {
+   "park": "madame-tussauds-london",
+   "ride": null,
+   "shows": "Cúpula verde de Madame Tussauds London, en Marylebone Road, 2017",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "madame-tussauds-london-1.jpg": {
+   "park": "madame-tussauds-london",
+   "ride": null,
+   "shows": "Cúpula de Madame Tussauds London desde Marylebone Road, 2018",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "madame-tussauds-london-2.jpg": {
+   "park": "madame-tussauds-london",
+   "ride": null,
+   "shows": "Cúpula verde y entrada de Madame Tussauds London desde la calle, 2009",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "madame-tussauds-london-3.jpg": {
+   "park": "madame-tussauds-london",
+   "ride": null,
+   "shows": "Detalle de la cúpula de cobre verde de Madame Tussauds London, 2009",
+   "width": 1200,
+   "height": 893,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kennedy-space-center-portada.jpg": {
+   "park": "kennedy-space-center",
+   "ride": null,
+   "shows": "Rocket Garden del Kennedy Space Center Visitor Complex con cohetes históricos, 2026",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kennedy-space-center-1.jpg": {
+   "park": "kennedy-space-center",
+   "ride": null,
+   "shows": "Transbordador espacial Atlantis expuesto en el Kennedy Space Center Visitor Complex, 2016",
+   "width": 1200,
+   "height": 739,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kennedy-space-center-2.jpg": {
+   "park": "kennedy-space-center",
+   "ride": null,
+   "shows": "Recreación de la sala de control de la misión Mercury en el Kennedy Space Center Visitor Complex, 2022",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kennedy-space-center-3.jpg": {
+   "park": "kennedy-space-center",
+   "ride": null,
+   "shows": "Cohete expuesto en el Rocket Garden del Kennedy Space Center Visitor Complex, 2022",
+   "width": 1200,
+   "height": 540,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "acuario-zaragoza-portada.jpg": {
+   "park": "acuario-zaragoza",
+   "ride": null,
+   "shows": "Exterior del Acuario Fluvial de Zaragoza en el Recinto Expo, 2022",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "acuario-zaragoza-1.jpg": {
+   "park": "acuario-zaragoza",
+   "ride": null,
+   "shows": "Entrada del edificio del Acuario de Zaragoza con su mural de peces, 2016",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "acuario-zaragoza-2.jpg": {
+   "park": "acuario-zaragoza",
+   "ride": null,
+   "shows": "Pez aguja nadando en un tanque del Acuario Fluvial de Zaragoza, 2017",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "acuario-zaragoza-3.jpg": {
+   "park": "acuario-zaragoza",
+   "ride": null,
+   "shows": "Banco de peces de aletas anaranjadas en el Acuario Fluvial de Zaragoza, 2017",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "oceanario-lisboa-portada.jpg": {
+   "park": "oceanario-lisboa",
+   "ride": null,
+   "shows": "Edificio del Oceanário de Lisboa sobre el agua en el Parque das Nações, 2024",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "oceanario-lisboa-1.jpg": {
+   "park": "oceanario-lisboa",
+   "ride": null,
+   "shows": "Pez luna (Mola mola) en el tanque central del Oceanário de Lisboa, 2019",
+   "width": 1200,
+   "height": 802,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "oceanario-lisboa-2.jpg": {
+   "park": "oceanario-lisboa",
+   "ride": null,
+   "shows": "Raya nadando entre rocas y corales en el Oceanário de Lisboa, 2019",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "oceanario-lisboa-3.jpg": {
+   "park": "oceanario-lisboa",
+   "ride": null,
+   "shows": "Tiburones entre rocas rojas en un acuario del Oceanário de Lisboa, 2019",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoomarine-algarve-portada.jpg": {
+   "park": "zoomarine-algarve",
+   "ride": null,
+   "shows": "Espectáculo de delfines en el estadio de Zoomarine Algarve, 2013",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoomarine-algarve-1.jpg": {
+   "park": "zoomarine-algarve",
+   "ride": null,
+   "shows": "Delfín saltando durante el espectáculo de Zoomarine Algarve, 2013",
+   "width": 1200,
+   "height": 797,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoomarine-algarve-2.jpg": {
+   "park": "zoomarine-algarve",
+   "ride": null,
+   "shows": "Tiburón toro nadando en el acuario de Zoomarine Algarve, 2013",
+   "width": 1200,
+   "height": 797,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoomarine-algarve-3.jpg": {
+   "park": "zoomarine-algarve",
+   "ride": null,
+   "shows": "Delfines erguidos junto a la valla de la piscina en el espectáculo de Zoomarine Algarve, 2013",
+   "width": 1200,
+   "height": 797,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "slide-and-splash-portada.jpg": {
+   "park": "slide-and-splash",
+   "ride": null,
+   "shows": "Zona infantil de Slide & Splash con un arco de serpiente y toboganes al fondo, Lagoa, 2015",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "slide-and-splash-1.jpg": {
+   "park": "slide-and-splash",
+   "ride": null,
+   "shows": "Toboganes de carrera de Slide & Splash en Lagoa, 2016",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "slide-and-splash-2.jpg": {
+   "park": "slide-and-splash",
+   "ride": null,
+   "shows": "Zona de juegos acuáticos infantil de Slide & Splash con estructura temática, 2016",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "slide-and-splash-3.jpg": {
+   "park": "slide-and-splash",
+   "ride": null,
+   "shows": "Estructura de juegos de agua con cubos y chorros en Slide & Splash, Lagoa, 2015",
+   "width": 1200,
+   "height": 744,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }

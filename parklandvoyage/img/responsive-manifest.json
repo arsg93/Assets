@@ -309,6 +309,242 @@
         ]
       }
     },
+    "acuario-zaragoza-1.jpg": {
+      "sha256": "77377172f77ff12e6093accc8e165b413bde7d14fecaedcc58d51e5535c6107e",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/acuario-zaragoza-1/77377172f77f-w480.avif",
+            "width": 480,
+            "bytes": 6367
+          },
+          {
+            "file": "responsive/acuario-zaragoza-1/77377172f77f-w768.avif",
+            "width": 768,
+            "bytes": 12596
+          },
+          {
+            "file": "responsive/acuario-zaragoza-1/77377172f77f-w1200.avif",
+            "width": 1200,
+            "bytes": 27754
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/acuario-zaragoza-1/77377172f77f-w480.webp",
+            "width": 480,
+            "bytes": 13118
+          },
+          {
+            "file": "responsive/acuario-zaragoza-1/77377172f77f-w768.webp",
+            "width": 768,
+            "bytes": 27684
+          },
+          {
+            "file": "responsive/acuario-zaragoza-1/77377172f77f-w1200.webp",
+            "width": 1200,
+            "bytes": 62796
+          }
+        ]
+      }
+    },
+    "acuario-zaragoza-2.jpg": {
+      "sha256": "f95ff88dc0e7c40608d0aab637c5118beae0c35dc1d245b2669939ff1147fa06",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/acuario-zaragoza-2/f95ff88dc0e7-w480.avif",
+            "width": 480,
+            "bytes": 11779
+          },
+          {
+            "file": "responsive/acuario-zaragoza-2/f95ff88dc0e7-w768.avif",
+            "width": 768,
+            "bytes": 27506
+          },
+          {
+            "file": "responsive/acuario-zaragoza-2/f95ff88dc0e7-w1200.avif",
+            "width": 1200,
+            "bytes": 82427
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/acuario-zaragoza-2/f95ff88dc0e7-w480.webp",
+            "width": 480,
+            "bytes": 24198
+          },
+          {
+            "file": "responsive/acuario-zaragoza-2/f95ff88dc0e7-w768.webp",
+            "width": 768,
+            "bytes": 64078
+          },
+          {
+            "file": "responsive/acuario-zaragoza-2/f95ff88dc0e7-w1200.webp",
+            "width": 1200,
+            "bytes": 150468
+          }
+        ]
+      }
+    },
+    "acuario-zaragoza-3.jpg": {
+      "sha256": "176577e934e50f9fb637f5ec8620a2952167555d389bfff933911902646a93c5",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/acuario-zaragoza-3/176577e934e5-w480.avif",
+            "width": 480,
+            "bytes": 20647
+          },
+          {
+            "file": "responsive/acuario-zaragoza-3/176577e934e5-w768.avif",
+            "width": 768,
+            "bytes": 41950
+          },
+          {
+            "file": "responsive/acuario-zaragoza-3/176577e934e5-w1200.avif",
+            "width": 1200,
+            "bytes": 92101
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/acuario-zaragoza-3/176577e934e5-w480.webp",
+            "width": 480,
+            "bytes": 35918
+          },
+          {
+            "file": "responsive/acuario-zaragoza-3/176577e934e5-w768.webp",
+            "width": 768,
+            "bytes": 80526
+          },
+          {
+            "file": "responsive/acuario-zaragoza-3/176577e934e5-w1200.webp",
+            "width": 1200,
+            "bytes": 165196
+          }
+        ]
+      }
+    },
+    "acuario-zaragoza-portada.jpg": {
+      "sha256": "112c94b3322f8db355ec07c1229db7637f1b6462409f27fc844c5d818e63adb3",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/acuario-zaragoza-portada/112c94b3322f-w480.avif",
+            "width": 480,
+            "bytes": 7197
+          },
+          {
+            "file": "responsive/acuario-zaragoza-portada/112c94b3322f-w768.avif",
+            "width": 768,
+            "bytes": 15673
+          },
+          {
+            "file": "responsive/acuario-zaragoza-portada/112c94b3322f-w1200.avif",
+            "width": 1200,
+            "bytes": 33799
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/acuario-zaragoza-portada/112c94b3322f-w480.webp",
+            "width": 480,
+            "bytes": 13200
+          },
+          {
+            "file": "responsive/acuario-zaragoza-portada/112c94b3322f-w768.webp",
+            "width": 768,
+            "bytes": 29424
+          },
+          {
+            "file": "responsive/acuario-zaragoza-portada/112c94b3322f-w1200.webp",
+            "width": 1200,
+            "bytes": 64968
+          }
+        ]
+      }
+    },
     "africam-safari-1.jpg": {
       "sha256": "e5c6ac6730ed4b5d1660b24b7bfd574724c6008ddf0a60c8255cd0f81c170c2f",
       "original_width": 1200,
@@ -21468,6 +21704,242 @@
         ]
       }
     },
+    "ghibli-museum-1.jpg": {
+      "sha256": "64ab125274e17818c5596731dc74c5093fbe75f303bff98fca1cbb4ba1cb7ae2",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ghibli-museum-1/64ab125274e1-w480.avif",
+            "width": 480,
+            "bytes": 22192
+          },
+          {
+            "file": "responsive/ghibli-museum-1/64ab125274e1-w768.avif",
+            "width": 768,
+            "bytes": 53241
+          },
+          {
+            "file": "responsive/ghibli-museum-1/64ab125274e1-w1200.avif",
+            "width": 1200,
+            "bytes": 122626
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ghibli-museum-1/64ab125274e1-w480.webp",
+            "width": 480,
+            "bytes": 32020
+          },
+          {
+            "file": "responsive/ghibli-museum-1/64ab125274e1-w768.webp",
+            "width": 768,
+            "bytes": 79150
+          },
+          {
+            "file": "responsive/ghibli-museum-1/64ab125274e1-w1200.webp",
+            "width": 1200,
+            "bytes": 182860
+          }
+        ]
+      }
+    },
+    "ghibli-museum-2.jpg": {
+      "sha256": "1b363bad46cb14599fef64afe92861502005d6c520a603cc50c59ea010378e76",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ghibli-museum-2/1b363bad46cb-w480.avif",
+            "width": 480,
+            "bytes": 14205
+          },
+          {
+            "file": "responsive/ghibli-museum-2/1b363bad46cb-w768.avif",
+            "width": 768,
+            "bytes": 35729
+          },
+          {
+            "file": "responsive/ghibli-museum-2/1b363bad46cb-w1200.avif",
+            "width": 1200,
+            "bytes": 91989
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ghibli-museum-2/1b363bad46cb-w480.webp",
+            "width": 480,
+            "bytes": 26364
+          },
+          {
+            "file": "responsive/ghibli-museum-2/1b363bad46cb-w768.webp",
+            "width": 768,
+            "bytes": 65148
+          },
+          {
+            "file": "responsive/ghibli-museum-2/1b363bad46cb-w1200.webp",
+            "width": 1200,
+            "bytes": 156882
+          }
+        ]
+      }
+    },
+    "ghibli-museum-3.jpg": {
+      "sha256": "fd2db4e212940ce6d08ca96fd833c43922628697fbc8827f08d9d96cc33677fd",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ghibli-museum-3/fd2db4e21294-w480.avif",
+            "width": 480,
+            "bytes": 25967
+          },
+          {
+            "file": "responsive/ghibli-museum-3/fd2db4e21294-w768.avif",
+            "width": 768,
+            "bytes": 68016
+          },
+          {
+            "file": "responsive/ghibli-museum-3/fd2db4e21294-w1200.avif",
+            "width": 1200,
+            "bytes": 165625
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ghibli-museum-3/fd2db4e21294-w480.webp",
+            "width": 480,
+            "bytes": 39834
+          },
+          {
+            "file": "responsive/ghibli-museum-3/fd2db4e21294-w768.webp",
+            "width": 768,
+            "bytes": 101390
+          },
+          {
+            "file": "responsive/ghibli-museum-3/fd2db4e21294-w1200.webp",
+            "width": 1200,
+            "bytes": 250280
+          }
+        ]
+      }
+    },
+    "ghibli-museum-portada.jpg": {
+      "sha256": "3aac7ff7dfc781c67ec030cc7d1a7bfd4b90f962acf1e648e794edf5a313d041",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ghibli-museum-portada/3aac7ff7dfc7-w480.avif",
+            "width": 480,
+            "bytes": 34091
+          },
+          {
+            "file": "responsive/ghibli-museum-portada/3aac7ff7dfc7-w768.avif",
+            "width": 768,
+            "bytes": 93358
+          },
+          {
+            "file": "responsive/ghibli-museum-portada/3aac7ff7dfc7-w1200.avif",
+            "width": 1200,
+            "bytes": 246775
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ghibli-museum-portada/3aac7ff7dfc7-w480.webp",
+            "width": 480,
+            "bytes": 46350
+          },
+          {
+            "file": "responsive/ghibli-museum-portada/3aac7ff7dfc7-w768.webp",
+            "width": 768,
+            "bytes": 124090
+          },
+          {
+            "file": "responsive/ghibli-museum-portada/3aac7ff7dfc7-w1200.webp",
+            "width": 1200,
+            "bytes": 322544
+          }
+        ]
+      }
+    },
     "ghibli-park-1.jpg": {
       "sha256": "ffb44c03cd05f38a8dc31069655f0db6c16f674f25f878a0b34f1dfa0e553a0b",
       "original_width": 1200,
@@ -26955,6 +27427,242 @@
         ]
       }
     },
+    "kennedy-space-center-1.jpg": {
+      "sha256": "58b9d0b8566572c805fe356ccfd80731a1bc4e8321fc6856ee5e7c4d5b003d30",
+      "original_width": 1200,
+      "original_height": 739,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kennedy-space-center-1/58b9d0b85665-w480.avif",
+            "width": 480,
+            "bytes": 8786
+          },
+          {
+            "file": "responsive/kennedy-space-center-1/58b9d0b85665-w768.avif",
+            "width": 768,
+            "bytes": 17618
+          },
+          {
+            "file": "responsive/kennedy-space-center-1/58b9d0b85665-w1200.avif",
+            "width": 1200,
+            "bytes": 37704
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kennedy-space-center-1/58b9d0b85665-w480.webp",
+            "width": 480,
+            "bytes": 15684
+          },
+          {
+            "file": "responsive/kennedy-space-center-1/58b9d0b85665-w768.webp",
+            "width": 768,
+            "bytes": 33032
+          },
+          {
+            "file": "responsive/kennedy-space-center-1/58b9d0b85665-w1200.webp",
+            "width": 1200,
+            "bytes": 71012
+          }
+        ]
+      }
+    },
+    "kennedy-space-center-2.jpg": {
+      "sha256": "8ef0857fdbc5f9e8e0b3fdc7c9d825f4b76d2acde7e84ba6c0a307ebe803f8fe",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kennedy-space-center-2/8ef0857fdbc5-w480.avif",
+            "width": 480,
+            "bytes": 11727
+          },
+          {
+            "file": "responsive/kennedy-space-center-2/8ef0857fdbc5-w768.avif",
+            "width": 768,
+            "bytes": 23185
+          },
+          {
+            "file": "responsive/kennedy-space-center-2/8ef0857fdbc5-w1200.avif",
+            "width": 1200,
+            "bytes": 45771
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kennedy-space-center-2/8ef0857fdbc5-w480.webp",
+            "width": 480,
+            "bytes": 20136
+          },
+          {
+            "file": "responsive/kennedy-space-center-2/8ef0857fdbc5-w768.webp",
+            "width": 768,
+            "bytes": 41362
+          },
+          {
+            "file": "responsive/kennedy-space-center-2/8ef0857fdbc5-w1200.webp",
+            "width": 1200,
+            "bytes": 86654
+          }
+        ]
+      }
+    },
+    "kennedy-space-center-3.jpg": {
+      "sha256": "d48ce2c57fee48977d9081234f6a9968740a9c72325629446ab1c0da92a66d34",
+      "original_width": 1200,
+      "original_height": 540,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kennedy-space-center-3/d48ce2c57fee-w480.avif",
+            "width": 480,
+            "bytes": 10104
+          },
+          {
+            "file": "responsive/kennedy-space-center-3/d48ce2c57fee-w768.avif",
+            "width": 768,
+            "bytes": 21364
+          },
+          {
+            "file": "responsive/kennedy-space-center-3/d48ce2c57fee-w1200.avif",
+            "width": 1200,
+            "bytes": 46794
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kennedy-space-center-3/d48ce2c57fee-w480.webp",
+            "width": 480,
+            "bytes": 16558
+          },
+          {
+            "file": "responsive/kennedy-space-center-3/d48ce2c57fee-w768.webp",
+            "width": 768,
+            "bytes": 36458
+          },
+          {
+            "file": "responsive/kennedy-space-center-3/d48ce2c57fee-w1200.webp",
+            "width": 1200,
+            "bytes": 78524
+          }
+        ]
+      }
+    },
+    "kennedy-space-center-portada.jpg": {
+      "sha256": "177aac203a7a4c135e192faa0ca64b753696b267732e72376079869ef148c78b",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kennedy-space-center-portada/177aac203a7a-w480.avif",
+            "width": 480,
+            "bytes": 7285
+          },
+          {
+            "file": "responsive/kennedy-space-center-portada/177aac203a7a-w768.avif",
+            "width": 768,
+            "bytes": 15345
+          },
+          {
+            "file": "responsive/kennedy-space-center-portada/177aac203a7a-w1200.avif",
+            "width": 1200,
+            "bytes": 34867
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kennedy-space-center-portada/177aac203a7a-w480.webp",
+            "width": 480,
+            "bytes": 12268
+          },
+          {
+            "file": "responsive/kennedy-space-center-portada/177aac203a7a-w768.webp",
+            "width": 768,
+            "bytes": 26350
+          },
+          {
+            "file": "responsive/kennedy-space-center-portada/177aac203a7a-w1200.webp",
+            "width": 1200,
+            "bytes": 61658
+          }
+        ]
+      }
+    },
     "kidzania-cuicuilco.jpg": {
       "sha256": "97b933ba844c57f40124b87906c0d5e71813c5bb1d582d2d160cd8bb7c5f8dcd",
       "original_width": 1200,
@@ -28308,6 +29016,242 @@
             "file": "responsive/la-mer-de-sable-portada/81e1599eab06-w1200.webp",
             "width": 1200,
             "bytes": 119308
+          }
+        ]
+      }
+    },
+    "lego-house-1.jpg": {
+      "sha256": "d21a3f4ba37ccbef152c9461672e7a5f1d1f127d426c7de6cfce90276e098015",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/lego-house-1/d21a3f4ba37c-w480.avif",
+            "width": 480,
+            "bytes": 6677
+          },
+          {
+            "file": "responsive/lego-house-1/d21a3f4ba37c-w768.avif",
+            "width": 768,
+            "bytes": 14491
+          },
+          {
+            "file": "responsive/lego-house-1/d21a3f4ba37c-w1200.avif",
+            "width": 1200,
+            "bytes": 36624
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/lego-house-1/d21a3f4ba37c-w480.webp",
+            "width": 480,
+            "bytes": 13592
+          },
+          {
+            "file": "responsive/lego-house-1/d21a3f4ba37c-w768.webp",
+            "width": 768,
+            "bytes": 32126
+          },
+          {
+            "file": "responsive/lego-house-1/d21a3f4ba37c-w1200.webp",
+            "width": 1200,
+            "bytes": 82264
+          }
+        ]
+      }
+    },
+    "lego-house-2.jpg": {
+      "sha256": "fd2bad16c2bbc77ce398350c4f1840513c417bc6ec0a789c27b7aec5ee793100",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/lego-house-2/fd2bad16c2bb-w480.avif",
+            "width": 480,
+            "bytes": 29344
+          },
+          {
+            "file": "responsive/lego-house-2/fd2bad16c2bb-w768.avif",
+            "width": 768,
+            "bytes": 59555
+          },
+          {
+            "file": "responsive/lego-house-2/fd2bad16c2bb-w1200.avif",
+            "width": 1200,
+            "bytes": 122023
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/lego-house-2/fd2bad16c2bb-w480.webp",
+            "width": 480,
+            "bytes": 45234
+          },
+          {
+            "file": "responsive/lego-house-2/fd2bad16c2bb-w768.webp",
+            "width": 768,
+            "bytes": 94764
+          },
+          {
+            "file": "responsive/lego-house-2/fd2bad16c2bb-w1200.webp",
+            "width": 1200,
+            "bytes": 196864
+          }
+        ]
+      }
+    },
+    "lego-house-3.jpg": {
+      "sha256": "de19aae1813c26077a804baaab372496004e0e53633741fad350e32cd0933f90",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/lego-house-3/de19aae1813c-w480.avif",
+            "width": 480,
+            "bytes": 16682
+          },
+          {
+            "file": "responsive/lego-house-3/de19aae1813c-w768.avif",
+            "width": 768,
+            "bytes": 30302
+          },
+          {
+            "file": "responsive/lego-house-3/de19aae1813c-w1200.avif",
+            "width": 1200,
+            "bytes": 61274
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/lego-house-3/de19aae1813c-w480.webp",
+            "width": 480,
+            "bytes": 30296
+          },
+          {
+            "file": "responsive/lego-house-3/de19aae1813c-w768.webp",
+            "width": 768,
+            "bytes": 61510
+          },
+          {
+            "file": "responsive/lego-house-3/de19aae1813c-w1200.webp",
+            "width": 1200,
+            "bytes": 128666
+          }
+        ]
+      }
+    },
+    "lego-house-portada.jpg": {
+      "sha256": "6ef516bc42e92e3a01c00ae74d5c733bd43c37778892c321b937920b9bf1e2eb",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/lego-house-portada/6ef516bc42e9-w480.avif",
+            "width": 480,
+            "bytes": 6552
+          },
+          {
+            "file": "responsive/lego-house-portada/6ef516bc42e9-w768.avif",
+            "width": 768,
+            "bytes": 13504
+          },
+          {
+            "file": "responsive/lego-house-portada/6ef516bc42e9-w1200.avif",
+            "width": 1200,
+            "bytes": 29710
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/lego-house-portada/6ef516bc42e9-w480.webp",
+            "width": 480,
+            "bytes": 11406
+          },
+          {
+            "file": "responsive/lego-house-portada/6ef516bc42e9-w768.webp",
+            "width": 768,
+            "bytes": 26410
+          },
+          {
+            "file": "responsive/lego-house-portada/6ef516bc42e9-w1200.webp",
+            "width": 1200,
+            "bytes": 66916
           }
         ]
       }
@@ -30303,6 +31247,242 @@
             "file": "responsive/lotte-world-portada/2afaf02c5c26-w1200.webp",
             "width": 1200,
             "bytes": 212412
+          }
+        ]
+      }
+    },
+    "madame-tussauds-london-1.jpg": {
+      "sha256": "7076ca7ba55dab4087b815af15948b9a584f553dacd36395ea4d3c7eb39af480",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/madame-tussauds-london-1/7076ca7ba55d-w480.avif",
+            "width": 480,
+            "bytes": 12813
+          },
+          {
+            "file": "responsive/madame-tussauds-london-1/7076ca7ba55d-w768.avif",
+            "width": 768,
+            "bytes": 27829
+          },
+          {
+            "file": "responsive/madame-tussauds-london-1/7076ca7ba55d-w1200.avif",
+            "width": 1200,
+            "bytes": 66103
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/madame-tussauds-london-1/7076ca7ba55d-w480.webp",
+            "width": 480,
+            "bytes": 24140
+          },
+          {
+            "file": "responsive/madame-tussauds-london-1/7076ca7ba55d-w768.webp",
+            "width": 768,
+            "bytes": 52286
+          },
+          {
+            "file": "responsive/madame-tussauds-london-1/7076ca7ba55d-w1200.webp",
+            "width": 1200,
+            "bytes": 121272
+          }
+        ]
+      }
+    },
+    "madame-tussauds-london-2.jpg": {
+      "sha256": "e219f7a79f3de9e7a30d9ae096d1b64153a42a21f50636040a8f16a1f30399da",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/madame-tussauds-london-2/e219f7a79f3d-w480.avif",
+            "width": 480,
+            "bytes": 6622
+          },
+          {
+            "file": "responsive/madame-tussauds-london-2/e219f7a79f3d-w768.avif",
+            "width": 768,
+            "bytes": 13346
+          },
+          {
+            "file": "responsive/madame-tussauds-london-2/e219f7a79f3d-w1200.avif",
+            "width": 1200,
+            "bytes": 29058
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/madame-tussauds-london-2/e219f7a79f3d-w480.webp",
+            "width": 480,
+            "bytes": 13436
+          },
+          {
+            "file": "responsive/madame-tussauds-london-2/e219f7a79f3d-w768.webp",
+            "width": 768,
+            "bytes": 27982
+          },
+          {
+            "file": "responsive/madame-tussauds-london-2/e219f7a79f3d-w1200.webp",
+            "width": 1200,
+            "bytes": 59586
+          }
+        ]
+      }
+    },
+    "madame-tussauds-london-3.jpg": {
+      "sha256": "93e4a5616b8538c959232bb5372e5e5de3e2ed89e9e5b6ee0bf9ac4bcbb0c796",
+      "original_width": 1200,
+      "original_height": 893,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/madame-tussauds-london-3/93e4a5616b85-w480.avif",
+            "width": 480,
+            "bytes": 5897
+          },
+          {
+            "file": "responsive/madame-tussauds-london-3/93e4a5616b85-w768.avif",
+            "width": 768,
+            "bytes": 13089
+          },
+          {
+            "file": "responsive/madame-tussauds-london-3/93e4a5616b85-w1200.avif",
+            "width": 1200,
+            "bytes": 29592
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/madame-tussauds-london-3/93e4a5616b85-w480.webp",
+            "width": 480,
+            "bytes": 13150
+          },
+          {
+            "file": "responsive/madame-tussauds-london-3/93e4a5616b85-w768.webp",
+            "width": 768,
+            "bytes": 29312
+          },
+          {
+            "file": "responsive/madame-tussauds-london-3/93e4a5616b85-w1200.webp",
+            "width": 1200,
+            "bytes": 67020
+          }
+        ]
+      }
+    },
+    "madame-tussauds-london-portada.jpg": {
+      "sha256": "39d83c20523fd474787476cba24a97753e517f4e9037dcdb5b7edbb9296077d5",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/madame-tussauds-london-portada/39d83c20523f-w480.avif",
+            "width": 480,
+            "bytes": 11583
+          },
+          {
+            "file": "responsive/madame-tussauds-london-portada/39d83c20523f-w768.avif",
+            "width": 768,
+            "bytes": 26688
+          },
+          {
+            "file": "responsive/madame-tussauds-london-portada/39d83c20523f-w1200.avif",
+            "width": 1200,
+            "bytes": 64283
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/madame-tussauds-london-portada/39d83c20523f-w480.webp",
+            "width": 480,
+            "bytes": 18912
+          },
+          {
+            "file": "responsive/madame-tussauds-london-portada/39d83c20523f-w768.webp",
+            "width": 768,
+            "bytes": 45438
+          },
+          {
+            "file": "responsive/madame-tussauds-london-portada/39d83c20523f-w1200.webp",
+            "width": 1200,
+            "bytes": 109380
           }
         ]
       }
@@ -34256,6 +35436,242 @@
             "file": "responsive/ocean-park-the-summit-vista/410d94a26a7b-w1200.webp",
             "width": 1200,
             "bytes": 164784
+          }
+        ]
+      }
+    },
+    "oceanario-lisboa-1.jpg": {
+      "sha256": "f0b4f52d5b5927da08a8bacf0a4b656d23880c97b2e6d78a1a38646a6f1bc0c1",
+      "original_width": 1200,
+      "original_height": 802,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/oceanario-lisboa-1/f0b4f52d5b59-w480.avif",
+            "width": 480,
+            "bytes": 7418
+          },
+          {
+            "file": "responsive/oceanario-lisboa-1/f0b4f52d5b59-w768.avif",
+            "width": 768,
+            "bytes": 13660
+          },
+          {
+            "file": "responsive/oceanario-lisboa-1/f0b4f52d5b59-w1200.avif",
+            "width": 1200,
+            "bytes": 24936
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/oceanario-lisboa-1/f0b4f52d5b59-w480.webp",
+            "width": 480,
+            "bytes": 15324
+          },
+          {
+            "file": "responsive/oceanario-lisboa-1/f0b4f52d5b59-w768.webp",
+            "width": 768,
+            "bytes": 29770
+          },
+          {
+            "file": "responsive/oceanario-lisboa-1/f0b4f52d5b59-w1200.webp",
+            "width": 1200,
+            "bytes": 56250
+          }
+        ]
+      }
+    },
+    "oceanario-lisboa-2.jpg": {
+      "sha256": "8319d2a0005ae55294921555ba20cf233aa511e361ad934a20040b8eac8cda77",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/oceanario-lisboa-2/8319d2a0005a-w480.avif",
+            "width": 480,
+            "bytes": 7606
+          },
+          {
+            "file": "responsive/oceanario-lisboa-2/8319d2a0005a-w768.avif",
+            "width": 768,
+            "bytes": 15968
+          },
+          {
+            "file": "responsive/oceanario-lisboa-2/8319d2a0005a-w1200.avif",
+            "width": 1200,
+            "bytes": 36934
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/oceanario-lisboa-2/8319d2a0005a-w480.webp",
+            "width": 480,
+            "bytes": 14784
+          },
+          {
+            "file": "responsive/oceanario-lisboa-2/8319d2a0005a-w768.webp",
+            "width": 768,
+            "bytes": 32758
+          },
+          {
+            "file": "responsive/oceanario-lisboa-2/8319d2a0005a-w1200.webp",
+            "width": 1200,
+            "bytes": 69072
+          }
+        ]
+      }
+    },
+    "oceanario-lisboa-3.jpg": {
+      "sha256": "94ccebca97f791b0c85bb53fe5786127317cd38ea53b0164533cca04b6cf9034",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/oceanario-lisboa-3/94ccebca97f7-w480.avif",
+            "width": 480,
+            "bytes": 14794
+          },
+          {
+            "file": "responsive/oceanario-lisboa-3/94ccebca97f7-w768.avif",
+            "width": 768,
+            "bytes": 33425
+          },
+          {
+            "file": "responsive/oceanario-lisboa-3/94ccebca97f7-w1200.avif",
+            "width": 1200,
+            "bytes": 71354
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/oceanario-lisboa-3/94ccebca97f7-w480.webp",
+            "width": 480,
+            "bytes": 24012
+          },
+          {
+            "file": "responsive/oceanario-lisboa-3/94ccebca97f7-w768.webp",
+            "width": 768,
+            "bytes": 54998
+          },
+          {
+            "file": "responsive/oceanario-lisboa-3/94ccebca97f7-w1200.webp",
+            "width": 1200,
+            "bytes": 116226
+          }
+        ]
+      }
+    },
+    "oceanario-lisboa-portada.jpg": {
+      "sha256": "7d4b50328e13e14774553312c84400d79c8a49f790fc55aec243f24ac9ae01fa",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/oceanario-lisboa-portada/7d4b50328e13-w480.avif",
+            "width": 480,
+            "bytes": 12957
+          },
+          {
+            "file": "responsive/oceanario-lisboa-portada/7d4b50328e13-w768.avif",
+            "width": 768,
+            "bytes": 34145
+          },
+          {
+            "file": "responsive/oceanario-lisboa-portada/7d4b50328e13-w1200.avif",
+            "width": 1200,
+            "bytes": 87071
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/oceanario-lisboa-portada/7d4b50328e13-w480.webp",
+            "width": 480,
+            "bytes": 22436
+          },
+          {
+            "file": "responsive/oceanario-lisboa-portada/7d4b50328e13-w768.webp",
+            "width": 768,
+            "bytes": 58420
+          },
+          {
+            "file": "responsive/oceanario-lisboa-portada/7d4b50328e13-w1200.webp",
+            "width": 1200,
+            "bytes": 145440
           }
         ]
       }
@@ -47771,6 +49187,242 @@
         ]
       }
     },
+    "slide-and-splash-1.jpg": {
+      "sha256": "2d62f0356d9dc2b9b9948be58a8e2cf965d9b7c0da5d9b95be3a6c96682de7a8",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/slide-and-splash-1/2d62f0356d9d-w480.avif",
+            "width": 480,
+            "bytes": 13898
+          },
+          {
+            "file": "responsive/slide-and-splash-1/2d62f0356d9d-w768.avif",
+            "width": 768,
+            "bytes": 31986
+          },
+          {
+            "file": "responsive/slide-and-splash-1/2d62f0356d9d-w1200.avif",
+            "width": 1200,
+            "bytes": 77711
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/slide-and-splash-1/2d62f0356d9d-w480.webp",
+            "width": 480,
+            "bytes": 24292
+          },
+          {
+            "file": "responsive/slide-and-splash-1/2d62f0356d9d-w768.webp",
+            "width": 768,
+            "bytes": 54938
+          },
+          {
+            "file": "responsive/slide-and-splash-1/2d62f0356d9d-w1200.webp",
+            "width": 1200,
+            "bytes": 129368
+          }
+        ]
+      }
+    },
+    "slide-and-splash-2.jpg": {
+      "sha256": "861486ae66078e6049c01379947928ee2ea0144566bf8315fb06afb230299f80",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/slide-and-splash-2/861486ae6607-w480.avif",
+            "width": 480,
+            "bytes": 22630
+          },
+          {
+            "file": "responsive/slide-and-splash-2/861486ae6607-w768.avif",
+            "width": 768,
+            "bytes": 52399
+          },
+          {
+            "file": "responsive/slide-and-splash-2/861486ae6607-w1200.avif",
+            "width": 1200,
+            "bytes": 126601
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/slide-and-splash-2/861486ae6607-w480.webp",
+            "width": 480,
+            "bytes": 32600
+          },
+          {
+            "file": "responsive/slide-and-splash-2/861486ae6607-w768.webp",
+            "width": 768,
+            "bytes": 76978
+          },
+          {
+            "file": "responsive/slide-and-splash-2/861486ae6607-w1200.webp",
+            "width": 1200,
+            "bytes": 182090
+          }
+        ]
+      }
+    },
+    "slide-and-splash-3.jpg": {
+      "sha256": "11a5dc39b0e05484cd97627eccc2b2861d8f2f1dbc7a215daf544c91442cbbdd",
+      "original_width": 1200,
+      "original_height": 744,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/slide-and-splash-3/11a5dc39b0e0-w480.avif",
+            "width": 480,
+            "bytes": 39286
+          },
+          {
+            "file": "responsive/slide-and-splash-3/11a5dc39b0e0-w768.avif",
+            "width": 768,
+            "bytes": 87708
+          },
+          {
+            "file": "responsive/slide-and-splash-3/11a5dc39b0e0-w1200.avif",
+            "width": 1200,
+            "bytes": 193510
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/slide-and-splash-3/11a5dc39b0e0-w480.webp",
+            "width": 480,
+            "bytes": 52012
+          },
+          {
+            "file": "responsive/slide-and-splash-3/11a5dc39b0e0-w768.webp",
+            "width": 768,
+            "bytes": 119402
+          },
+          {
+            "file": "responsive/slide-and-splash-3/11a5dc39b0e0-w1200.webp",
+            "width": 1200,
+            "bytes": 269542
+          }
+        ]
+      }
+    },
+    "slide-and-splash-portada.jpg": {
+      "sha256": "7b0e5b6af83f9deaeb5dd28ffa83e9c254821041aadd511373c994574b2fac80",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/slide-and-splash-portada/7b0e5b6af83f-w480.avif",
+            "width": 480,
+            "bytes": 18023
+          },
+          {
+            "file": "responsive/slide-and-splash-portada/7b0e5b6af83f-w768.avif",
+            "width": 768,
+            "bytes": 46521
+          },
+          {
+            "file": "responsive/slide-and-splash-portada/7b0e5b6af83f-w1200.avif",
+            "width": 1200,
+            "bytes": 117732
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/slide-and-splash-portada/7b0e5b6af83f-w480.webp",
+            "width": 480,
+            "bytes": 27084
+          },
+          {
+            "file": "responsive/slide-and-splash-portada/7b0e5b6af83f-w768.webp",
+            "width": 768,
+            "bytes": 68608
+          },
+          {
+            "file": "responsive/slide-and-splash-portada/7b0e5b6af83f-w1200.webp",
+            "width": 1200,
+            "bytes": 172102
+          }
+        ]
+      }
+    },
     "sobrevalorado-dca.jpg": {
       "sha256": "9615442c321d74c27511ff1da5f212dcd59006a276a3fe45199596f17f228f14",
       "original_width": 1024,
@@ -53195,6 +54847,419 @@
             "file": "responsive/tdr-venetian-gondolas/718d6754cd5b-w800.webp",
             "width": 800,
             "bytes": 55286
+          }
+        ]
+      }
+    },
+    "teamlab-borderless-1.jpg": {
+      "sha256": "046f4b9ef0bafdcf8fc99f7189dbd1a0d8f9d0f3c2ae7efbcc501fff974ab77e",
+      "original_width": 1200,
+      "original_height": 858,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/teamlab-borderless-1/046f4b9ef0ba-w480.avif",
+            "width": 480,
+            "bytes": 17155
+          },
+          {
+            "file": "responsive/teamlab-borderless-1/046f4b9ef0ba-w768.avif",
+            "width": 768,
+            "bytes": 42576
+          },
+          {
+            "file": "responsive/teamlab-borderless-1/046f4b9ef0ba-w1200.avif",
+            "width": 1200,
+            "bytes": 104473
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/teamlab-borderless-1/046f4b9ef0ba-w480.webp",
+            "width": 480,
+            "bytes": 27920
+          },
+          {
+            "file": "responsive/teamlab-borderless-1/046f4b9ef0ba-w768.webp",
+            "width": 768,
+            "bytes": 68466
+          },
+          {
+            "file": "responsive/teamlab-borderless-1/046f4b9ef0ba-w1200.webp",
+            "width": 1200,
+            "bytes": 164236
+          }
+        ]
+      }
+    },
+    "teamlab-borderless-2.jpg": {
+      "sha256": "cf7edd97296d926b24a5ea55c1b8fa7023ad10a49ef29e0096241f4b4256c4a1",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/teamlab-borderless-2/cf7edd97296d-w480.avif",
+            "width": 480,
+            "bytes": 15545
+          },
+          {
+            "file": "responsive/teamlab-borderless-2/cf7edd97296d-w768.avif",
+            "width": 768,
+            "bytes": 43033
+          },
+          {
+            "file": "responsive/teamlab-borderless-2/cf7edd97296d-w1200.avif",
+            "width": 1200,
+            "bytes": 116977
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/teamlab-borderless-2/cf7edd97296d-w480.webp",
+            "width": 480,
+            "bytes": 27154
+          },
+          {
+            "file": "responsive/teamlab-borderless-2/cf7edd97296d-w768.webp",
+            "width": 768,
+            "bytes": 72972
+          },
+          {
+            "file": "responsive/teamlab-borderless-2/cf7edd97296d-w1200.webp",
+            "width": 1200,
+            "bytes": 194222
+          }
+        ]
+      }
+    },
+    "teamlab-borderless-portada.jpg": {
+      "sha256": "34d7428a23d5847c4b93e3aacb60b96892f2ae1102d19efd6dde2b4ced08f018",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/teamlab-borderless-portada/34d7428a23d5-w480.avif",
+            "width": 480,
+            "bytes": 23851
+          },
+          {
+            "file": "responsive/teamlab-borderless-portada/34d7428a23d5-w768.avif",
+            "width": 768,
+            "bytes": 47974
+          },
+          {
+            "file": "responsive/teamlab-borderless-portada/34d7428a23d5-w1200.avif",
+            "width": 1200,
+            "bytes": 98571
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/teamlab-borderless-portada/34d7428a23d5-w480.webp",
+            "width": 480,
+            "bytes": 35362
+          },
+          {
+            "file": "responsive/teamlab-borderless-portada/34d7428a23d5-w768.webp",
+            "width": 768,
+            "bytes": 73770
+          },
+          {
+            "file": "responsive/teamlab-borderless-portada/34d7428a23d5-w1200.webp",
+            "width": 1200,
+            "bytes": 163828
+          }
+        ]
+      }
+    },
+    "teamlab-planets-1.jpg": {
+      "sha256": "78120b605bdc30486741d11ed18151d37d284b671fc02c4caa4bf6b50bb07dce",
+      "original_width": 1200,
+      "original_height": 799,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/teamlab-planets-1/78120b605bdc-w480.avif",
+            "width": 480,
+            "bytes": 48910
+          },
+          {
+            "file": "responsive/teamlab-planets-1/78120b605bdc-w768.avif",
+            "width": 768,
+            "bytes": 112500
+          },
+          {
+            "file": "responsive/teamlab-planets-1/78120b605bdc-w1200.avif",
+            "width": 1200,
+            "bytes": 238823
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/teamlab-planets-1/78120b605bdc-w480.webp",
+            "width": 480,
+            "bytes": 63504
+          },
+          {
+            "file": "responsive/teamlab-planets-1/78120b605bdc-w768.webp",
+            "width": 768,
+            "bytes": 147314
+          },
+          {
+            "file": "responsive/teamlab-planets-1/78120b605bdc-w1200.webp",
+            "width": 1200,
+            "bytes": 325428
+          }
+        ]
+      }
+    },
+    "teamlab-planets-2.jpg": {
+      "sha256": "018601f6b223c784df9cf0ecdb674b7d442cf72e1ea8b34a2d845a819f4d420a",
+      "original_width": 1200,
+      "original_height": 799,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/teamlab-planets-2/018601f6b223-w480.avif",
+            "width": 480,
+            "bytes": 18056
+          },
+          {
+            "file": "responsive/teamlab-planets-2/018601f6b223-w768.avif",
+            "width": 768,
+            "bytes": 39499
+          },
+          {
+            "file": "responsive/teamlab-planets-2/018601f6b223-w1200.avif",
+            "width": 1200,
+            "bytes": 87299
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/teamlab-planets-2/018601f6b223-w480.webp",
+            "width": 480,
+            "bytes": 31232
+          },
+          {
+            "file": "responsive/teamlab-planets-2/018601f6b223-w768.webp",
+            "width": 768,
+            "bytes": 70056
+          },
+          {
+            "file": "responsive/teamlab-planets-2/018601f6b223-w1200.webp",
+            "width": 1200,
+            "bytes": 148320
+          }
+        ]
+      }
+    },
+    "teamlab-planets-3.jpg": {
+      "sha256": "15cc5e8b491cf4d66447afb9ccd0ab8d9030348af2ce8bb636dd0738b92d2990",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/teamlab-planets-3/15cc5e8b491c-w480.avif",
+            "width": 480,
+            "bytes": 12181
+          },
+          {
+            "file": "responsive/teamlab-planets-3/15cc5e8b491c-w768.avif",
+            "width": 768,
+            "bytes": 31015
+          },
+          {
+            "file": "responsive/teamlab-planets-3/15cc5e8b491c-w1200.avif",
+            "width": 1200,
+            "bytes": 81277
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/teamlab-planets-3/15cc5e8b491c-w480.webp",
+            "width": 480,
+            "bytes": 20286
+          },
+          {
+            "file": "responsive/teamlab-planets-3/15cc5e8b491c-w768.webp",
+            "width": 768,
+            "bytes": 51902
+          },
+          {
+            "file": "responsive/teamlab-planets-3/15cc5e8b491c-w1200.webp",
+            "width": 1200,
+            "bytes": 129024
+          }
+        ]
+      }
+    },
+    "teamlab-planets-portada.jpg": {
+      "sha256": "0d10d32bf4f812dfda738cdd4d456b8bf936499536f5cf866c6ceb25070bb982",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/teamlab-planets-portada/0d10d32bf4f8-w480.avif",
+            "width": 480,
+            "bytes": 8130
+          },
+          {
+            "file": "responsive/teamlab-planets-portada/0d10d32bf4f8-w768.avif",
+            "width": 768,
+            "bytes": 16701
+          },
+          {
+            "file": "responsive/teamlab-planets-portada/0d10d32bf4f8-w1200.avif",
+            "width": 1200,
+            "bytes": 32517
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/teamlab-planets-portada/0d10d32bf4f8-w480.webp",
+            "width": 480,
+            "bytes": 16182
+          },
+          {
+            "file": "responsive/teamlab-planets-portada/0d10d32bf4f8-w768.webp",
+            "width": 768,
+            "bytes": 34220
+          },
+          {
+            "file": "responsive/teamlab-planets-portada/0d10d32bf4f8-w1200.webp",
+            "width": 1200,
+            "bytes": 72464
           }
         ]
       }
@@ -61105,6 +63170,242 @@
         ]
       }
     },
+    "warner-bros-studio-tour-hollywood-1.jpg": {
+      "sha256": "2c1b38c71bc7f668f8740f8aaf5ff925c643f9e7d1dff57112f14598e502f453",
+      "original_width": 1200,
+      "original_height": 799,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-1/2c1b38c71bc7-w480.avif",
+            "width": 480,
+            "bytes": 18467
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-1/2c1b38c71bc7-w768.avif",
+            "width": 768,
+            "bytes": 43418
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-1/2c1b38c71bc7-w1200.avif",
+            "width": 1200,
+            "bytes": 105887
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-1/2c1b38c71bc7-w480.webp",
+            "width": 480,
+            "bytes": 30620
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-1/2c1b38c71bc7-w768.webp",
+            "width": 768,
+            "bytes": 72508
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-1/2c1b38c71bc7-w1200.webp",
+            "width": 1200,
+            "bytes": 173972
+          }
+        ]
+      }
+    },
+    "warner-bros-studio-tour-hollywood-2.jpg": {
+      "sha256": "20bcc2e22731948c13e65d1ab5c3ef516eaeef946849e7e415a30db7dfb1c851",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-2/20bcc2e22731-w480.avif",
+            "width": 480,
+            "bytes": 13419
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-2/20bcc2e22731-w768.avif",
+            "width": 768,
+            "bytes": 27270
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-2/20bcc2e22731-w1200.avif",
+            "width": 1200,
+            "bytes": 84556
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-2/20bcc2e22731-w480.webp",
+            "width": 480,
+            "bytes": 23140
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-2/20bcc2e22731-w768.webp",
+            "width": 768,
+            "bytes": 55734
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-2/20bcc2e22731-w1200.webp",
+            "width": 1200,
+            "bytes": 157752
+          }
+        ]
+      }
+    },
+    "warner-bros-studio-tour-hollywood-3.jpg": {
+      "sha256": "5cab00838d55a64f433759491aa5a8ef592214621c1ef5b1b8f0fdef28996e93",
+      "original_width": 1200,
+      "original_height": 801,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-3/5cab00838d55-w480.avif",
+            "width": 480,
+            "bytes": 15414
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-3/5cab00838d55-w768.avif",
+            "width": 768,
+            "bytes": 29999
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-3/5cab00838d55-w1200.avif",
+            "width": 1200,
+            "bytes": 57488
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-3/5cab00838d55-w480.webp",
+            "width": 480,
+            "bytes": 25992
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-3/5cab00838d55-w768.webp",
+            "width": 768,
+            "bytes": 53478
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-3/5cab00838d55-w1200.webp",
+            "width": 1200,
+            "bytes": 106350
+          }
+        ]
+      }
+    },
+    "warner-bros-studio-tour-hollywood-portada.jpg": {
+      "sha256": "202c7fd549a1ceb6e21769f692c66f81b1f96a44922e7bf79517251625a37e80",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-portada/202c7fd549a1-w480.avif",
+            "width": 480,
+            "bytes": 15259
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-portada/202c7fd549a1-w768.avif",
+            "width": 768,
+            "bytes": 32968
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-portada/202c7fd549a1-w1200.avif",
+            "width": 1200,
+            "bytes": 73761
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-portada/202c7fd549a1-w480.webp",
+            "width": 480,
+            "bytes": 24952
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-portada/202c7fd549a1-w768.webp",
+            "width": 768,
+            "bytes": 55840
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-hollywood-portada/202c7fd549a1-w1200.webp",
+            "width": 1200,
+            "bytes": 126790
+          }
+        ]
+      }
+    },
     "warner-bros-studio-tour-london-1.jpg": {
       "sha256": "8c7b3838f6d7aacf7c29e773dc277a6b2f8ff8e9ab29a5814ca11daa84cd3675",
       "original_width": 1200,
@@ -61337,6 +63638,242 @@
             "file": "responsive/warner-bros-studio-tour-london-portada/91fff1fa97b1-w1200.webp",
             "width": 1200,
             "bytes": 87434
+          }
+        ]
+      }
+    },
+    "warner-bros-studio-tour-tokyo-1.jpg": {
+      "sha256": "f4df2337ac80ca365204429f2bde5431d8d563773928daf8cbfd94207d97dcd5",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-1/f4df2337ac80-w480.avif",
+            "width": 480,
+            "bytes": 31865
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-1/f4df2337ac80-w768.avif",
+            "width": 768,
+            "bytes": 86828
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-1/f4df2337ac80-w1200.avif",
+            "width": 1200,
+            "bytes": 226186
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-1/f4df2337ac80-w480.webp",
+            "width": 480,
+            "bytes": 46862
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-1/f4df2337ac80-w768.webp",
+            "width": 768,
+            "bytes": 124636
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-1/f4df2337ac80-w1200.webp",
+            "width": 1200,
+            "bytes": 320618
+          }
+        ]
+      }
+    },
+    "warner-bros-studio-tour-tokyo-2.jpg": {
+      "sha256": "b419248314fbe6ea9f538607e3bbb63d5fd6d8436cce67f64fd212dfb5968fab",
+      "original_width": 1200,
+      "original_height": 904,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-2/b419248314fb-w480.avif",
+            "width": 480,
+            "bytes": 24148
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-2/b419248314fb-w768.avif",
+            "width": 768,
+            "bytes": 54501
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-2/b419248314fb-w1200.avif",
+            "width": 1200,
+            "bytes": 129748
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-2/b419248314fb-w480.webp",
+            "width": 480,
+            "bytes": 39750
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-2/b419248314fb-w768.webp",
+            "width": 768,
+            "bytes": 92498
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-2/b419248314fb-w1200.webp",
+            "width": 1200,
+            "bytes": 212500
+          }
+        ]
+      }
+    },
+    "warner-bros-studio-tour-tokyo-3.jpg": {
+      "sha256": "12990b99f3a8915783638423324c6d20c4f4bd73510f946fc14c7fd9d236c35a",
+      "original_width": 1200,
+      "original_height": 904,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-3/12990b99f3a8-w480.avif",
+            "width": 480,
+            "bytes": 21277
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-3/12990b99f3a8-w768.avif",
+            "width": 768,
+            "bytes": 53744
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-3/12990b99f3a8-w1200.avif",
+            "width": 1200,
+            "bytes": 137458
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-3/12990b99f3a8-w480.webp",
+            "width": 480,
+            "bytes": 33250
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-3/12990b99f3a8-w768.webp",
+            "width": 768,
+            "bytes": 84804
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-3/12990b99f3a8-w1200.webp",
+            "width": 1200,
+            "bytes": 210196
+          }
+        ]
+      }
+    },
+    "warner-bros-studio-tour-tokyo-portada.jpg": {
+      "sha256": "1cf27785ae388070417b8a713f32241befa4e201c4a0e4704f92d6268173c5df",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-portada/1cf27785ae38-w480.avif",
+            "width": 480,
+            "bytes": 22818
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-portada/1cf27785ae38-w768.avif",
+            "width": 768,
+            "bytes": 57155
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-portada/1cf27785ae38-w1200.avif",
+            "width": 1200,
+            "bytes": 135722
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-portada/1cf27785ae38-w480.webp",
+            "width": 480,
+            "bytes": 34562
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-portada/1cf27785ae38-w768.webp",
+            "width": 768,
+            "bytes": 86838
+          },
+          {
+            "file": "responsive/warner-bros-studio-tour-tokyo-portada/1cf27785ae38-w1200.webp",
+            "width": 1200,
+            "bytes": 209754
           }
         ]
       }
@@ -63981,6 +66518,242 @@
             "file": "responsive/zoo-leipzig-portada/0a8e6ec61ae8-w1200.webp",
             "width": 1200,
             "bytes": 251970
+          }
+        ]
+      }
+    },
+    "zoomarine-algarve-1.jpg": {
+      "sha256": "ba3a69c99e1015badc9605a3a9edd55e11cbf7395432c6a0d713414f6a7fe4db",
+      "original_width": 1200,
+      "original_height": 797,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoomarine-algarve-1/ba3a69c99e10-w480.avif",
+            "width": 480,
+            "bytes": 13544
+          },
+          {
+            "file": "responsive/zoomarine-algarve-1/ba3a69c99e10-w768.avif",
+            "width": 768,
+            "bytes": 31103
+          },
+          {
+            "file": "responsive/zoomarine-algarve-1/ba3a69c99e10-w1200.avif",
+            "width": 1200,
+            "bytes": 75071
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoomarine-algarve-1/ba3a69c99e10-w480.webp",
+            "width": 480,
+            "bytes": 25298
+          },
+          {
+            "file": "responsive/zoomarine-algarve-1/ba3a69c99e10-w768.webp",
+            "width": 768,
+            "bytes": 58430
+          },
+          {
+            "file": "responsive/zoomarine-algarve-1/ba3a69c99e10-w1200.webp",
+            "width": 1200,
+            "bytes": 133728
+          }
+        ]
+      }
+    },
+    "zoomarine-algarve-2.jpg": {
+      "sha256": "2d67585d87c50ad9da193ffbc9a3468a31e8856a6f34bd258957463c9c248523",
+      "original_width": 1200,
+      "original_height": 797,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoomarine-algarve-2/2d67585d87c5-w480.avif",
+            "width": 480,
+            "bytes": 5075
+          },
+          {
+            "file": "responsive/zoomarine-algarve-2/2d67585d87c5-w768.avif",
+            "width": 768,
+            "bytes": 9223
+          },
+          {
+            "file": "responsive/zoomarine-algarve-2/2d67585d87c5-w1200.avif",
+            "width": 1200,
+            "bytes": 16925
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoomarine-algarve-2/2d67585d87c5-w480.webp",
+            "width": 480,
+            "bytes": 11542
+          },
+          {
+            "file": "responsive/zoomarine-algarve-2/2d67585d87c5-w768.webp",
+            "width": 768,
+            "bytes": 23360
+          },
+          {
+            "file": "responsive/zoomarine-algarve-2/2d67585d87c5-w1200.webp",
+            "width": 1200,
+            "bytes": 51744
+          }
+        ]
+      }
+    },
+    "zoomarine-algarve-3.jpg": {
+      "sha256": "6c773645ea81e285c0086a2bc224ed34a8d8dc6ca798851411833e2622ebdfe3",
+      "original_width": 1200,
+      "original_height": 797,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoomarine-algarve-3/6c773645ea81-w480.avif",
+            "width": 480,
+            "bytes": 12078
+          },
+          {
+            "file": "responsive/zoomarine-algarve-3/6c773645ea81-w768.avif",
+            "width": 768,
+            "bytes": 27993
+          },
+          {
+            "file": "responsive/zoomarine-algarve-3/6c773645ea81-w1200.avif",
+            "width": 1200,
+            "bytes": 75778
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoomarine-algarve-3/6c773645ea81-w480.webp",
+            "width": 480,
+            "bytes": 22534
+          },
+          {
+            "file": "responsive/zoomarine-algarve-3/6c773645ea81-w768.webp",
+            "width": 768,
+            "bytes": 53000
+          },
+          {
+            "file": "responsive/zoomarine-algarve-3/6c773645ea81-w1200.webp",
+            "width": 1200,
+            "bytes": 132516
+          }
+        ]
+      }
+    },
+    "zoomarine-algarve-portada.jpg": {
+      "sha256": "bac4570ab3796c2e827213b513c48096608c79cbef68d407096611b971e0134e",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/zoomarine-algarve-portada/bac4570ab379-w480.avif",
+            "width": 480,
+            "bytes": 11903
+          },
+          {
+            "file": "responsive/zoomarine-algarve-portada/bac4570ab379-w768.avif",
+            "width": 768,
+            "bytes": 27612
+          },
+          {
+            "file": "responsive/zoomarine-algarve-portada/bac4570ab379-w1200.avif",
+            "width": 1200,
+            "bytes": 69098
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/zoomarine-algarve-portada/bac4570ab379-w480.webp",
+            "width": 480,
+            "bytes": 19544
+          },
+          {
+            "file": "responsive/zoomarine-algarve-portada/bac4570ab379-w768.webp",
+            "width": 768,
+            "bytes": 46518
+          },
+          {
+            "file": "responsive/zoomarine-algarve-portada/bac4570ab379-w1200.webp",
+            "width": 1200,
+            "bytes": 115382
           }
         ]
       }
