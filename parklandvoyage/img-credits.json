@@ -11591,5 +11591,389 @@
     "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
     "original_date": "2019-06-13",
     "changes": "redimensionada a 1200 px, JPG"
+  },
+  "img-worlds-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Velociraptor_(IMG_Worlds_of_Adventure)_1.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2018-05-18",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "img-worlds-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Predator_(IMG_Worlds_of_Adventure)_1.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2018-05-18",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "img-worlds-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Velociraptor_(IMG_Worlds_of_Adventure)_2.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2018-05-18",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "img-worlds-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:IMG_Worlds_of_Adventure.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2018-05-18",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "legoland-dubai-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Legoland_Dubai,_Entrance.jpg",
+    "author": "Sarion",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2023-02-28",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "legoland-dubai-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Legoland_Dubai.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2018-04-20",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "legoland-dubai-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Legoland_Dubai_-_41589159212.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2018-04-20",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "legoland-dubai-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Legoland_Dubai_-_40734963405.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2018-04-20",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "motiongate-dubai-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Motiongate_Dubai_-_41724296992.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2018-04-21",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "motiongate-dubai-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Blackbeautygreenhornetmotiongatedubai.jpg",
+    "author": "Milst1",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-03-18",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "motiongate-dubai-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Motiongate_Dubai_-_26897128517.jpg",
+    "author": "Jeremy Thompson",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2018-04-21",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "ski-dubai-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Mall_of_the_Emirates_-_Ski_Dubai.jpg",
+    "author": "Davide Mauro",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2020-02-01",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "ski-dubai-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ski_Dubai_Slope.jpg",
+    "author": "Filipe Fortes",
+    "license": "CC BY-SA 2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+    "original_date": "2008-01-12",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "ski-dubai-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ski_Dubai_05.jpg",
+    "author": "Davide Mauro",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2020-02-01",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "ski-dubai-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ski_Dubai_01.jpg",
+    "author": "Davide Mauro",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2020-02-01",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "madame-tussauds-amsterdam-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Madame_Tussaud_Amsterdam_2025.jpg",
+    "author": "Hnapel",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0",
+    "original_date": "2025-03-05",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "madame-tussauds-amsterdam-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Madame_Tussauds_at_Dam_Square_in_Amsterdam.jpg",
+    "author": "Beerson",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2010-05-19",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "madame-tussauds-amsterdam-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Scenerama_Madame_Tussauds_-_Amsterdam_(NL32)_-_2024-11-25_-_2.jpg",
+    "author": "Chabe01",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2024-11-25",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "madame-tussauds-new-york-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Madame_Tussauds_New_York_(51494328416).jpg",
+    "author": "ajay_suresh",
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "original_date": "2021-09-19",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "madame-tussauds-new-york-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:42nd_St_7th_8th_Avs_Mid_td_(2018-05-18)_07_-_Madame_Tussauds.jpg",
+    "author": "Tdorante10",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-05-18",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "madame-tussauds-new-york-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:42nd_St_7th_8th_Avs_Mid_td_(2018-05-18)_09_-_Madame_Tussauds_Kong_Skull_Island.jpg",
+    "author": "Tdorante10",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-05-18",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "sea-life-bangkok-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:SEA_LIFE_Bangkok_Ocean_World_in_2018_(205).jpg",
+    "author": "กสิณธร ราชโอรส",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-08-17",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "sea-life-bangkok-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:SEA_LIFE_Bangkok_Ocean_World_in_2018_(113).jpg",
+    "author": "กสิณธร ราชโอรส",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-08-17",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "sea-life-bangkok-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:SEA_LIFE_Bangkok_Ocean_World_in_2018_(215).jpg",
+    "author": "กสิณธร ราชโอรส",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-08-17",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "sea-life-bangkok-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:SEA_LIFE_Bangkok_Ocean_World_in_2018_(175).jpg",
+    "author": "กสิณธร ราชโอรส",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2018-08-17",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "bird-paradise-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Wings_of_the_World_show,_Sky_Amphitheatre,_Bird_Paradise,_Singapore_-_01.jpg",
+    "author": "Sgconlaw",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2024-08-28",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "bird-paradise-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Bird_Paradise_entrance.jpg",
+    "author": "Justanothersgwikieditor",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2023-06-17",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "bird-paradise-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Flamingos_at_Bird_Paradise.jpg",
+    "author": "TravellerMya",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0",
+    "original_date": "2024-10-12",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "bird-paradise-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Scarlet_Ibis_at_Bird_Paradise_Singapore_2023.jpg",
+    "author": "N Lindsay",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2023-08-24",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "chimelong-safari-park-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Asian_Elephant_at_Chimelong_Safari_Park,_Guangzhou.jpg",
+    "author": "Haiqal08",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2017-02-19",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "chimelong-safari-park-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Chimelong_Safari_Park.JPG",
+    "author": "Dltl2010",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2013-10-07",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "chimelong-safari-park-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Chimelong_Safari_Park_(Safari_on_wheels_01).JPG",
+    "author": "Dltl2010",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2013-10-07",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "chimelong-safari-park-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Giant_panda_enrichment_at_Chimelong_Safari_Park,_Guangzhou.jpg",
+    "author": "Coconutchickenyy",
+    "license": "CC0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0",
+    "original_date": "2024-07-20",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "parque-de-la-costa-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:J34_893_%C2%BBParque_de_la_Costa%C2%AB.jpg",
+    "author": "Falk2",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2019-02-18",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "parque-de-la-costa-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Monta%C3%B1as_rusas_en_el_Parque_de_la_Costa.jpg",
+    "author": "Dario Alpern",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2009-10-04",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "parque-de-la-costa-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:G%C3%B3ndola_de_la_Vuelta_al_Mundo_del_Parque_de_la_Costa.jpg",
+    "author": "Dario Alpern",
+    "license": "CC BY-SA 3.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+    "original_date": "2012-07-14",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "prague-zoo-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_Zoo_-_elephants.jpg",
+    "author": "Tiia Monto",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2014-07-30",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "prague-zoo-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_zoo_08.jpg",
+    "author": "Erko",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2017-06-23",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "prague-zoo-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_Zoo_4.jpg",
+    "author": "Tiia Monto",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2014-07-30",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "prague-zoo-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Prague_Zoo_15.jpg",
+    "author": "Tiia Monto",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2014-07-30",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "suntago-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Suntago_pools_1.jpg",
+    "author": "Radosław Botev",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2020-02-18",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "suntago-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Suntago_water_slides.jpg",
+    "author": "Radosław Botev",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2020-02-18",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "suntago-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Suntago_surfing.jpg",
+    "author": "Radosław Botev",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2020-02-18",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "suntago-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Suntago_palm_trees_1.jpg",
+    "author": "Radosław Botev",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2020-02-18",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "cite-de-l-espace-portada.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_de_l'espace_Toulouse_2.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-05-26",
+    "changes": "recortada a 16:9 y redimensionada a 1600 px, JPG"
+  },
+  "cite-de-l-espace-1.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_de_l'espace_Toulouse_1.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-05-26",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "cite-de-l-espace-2.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Cit%C3%A9_de_l'espace_Toulouse_4.jpg",
+    "author": "kallerna",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2022-05-26",
+    "changes": "redimensionada a 1200 px, JPG"
+  },
+  "cite-de-l-espace-3.jpg": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ariane_5_at_Cite_de_l'Espace_11.jpg",
+    "author": "Mike Peel",
+    "license": "CC BY-SA 4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+    "original_date": "2007-09-09",
+    "changes": "redimensionada a 1200 px, JPG"
   }
 }

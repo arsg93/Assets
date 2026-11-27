@@ -16796,6 +16796,630 @@
    "uses": [
     "guia"
    ]
+  },
+  "img-worlds-portada.jpg": {
+   "park": "img-worlds",
+   "ride": null,
+   "shows": "Recorrido de la montaña rusa The Velociraptor, con sus loopings rojos y soportes amarillos, visto desde el exterior del parque (2018)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "img-worlds-1.jpg": {
+   "park": "img-worlds",
+   "ride": null,
+   "shows": "Zona de espectadores de la montaña rusa Predator, con su estructura bajo la cúpula del parque cubierto (2018)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "img-worlds-2.jpg": {
+   "park": "img-worlds",
+   "ride": null,
+   "shows": "Entrada de la atracción The Velociraptor, con el rótulo luminoso y el acceso a la tienda Raptor Outpost, de noche (2018)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "img-worlds-3.jpg": {
+   "park": "img-worlds",
+   "ride": null,
+   "shows": "Escenario de The Amazing Ride of Gumball, atracción de la zona Cartoon Network, con la casa iluminada y un vehículo de la atracción (2018)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-dubai-portada.jpg": {
+   "park": "legoland-dubai",
+   "ride": null,
+   "shows": "Entrada principal de LEGOLAND Dubai, con el letrero de ladrillos LEGO y el sol amarillo, y algunos visitantes al fondo (2023)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-dubai-1.jpg": {
+   "park": "legoland-dubai",
+   "ride": null,
+   "shows": "Montaña rusa The Dragon con un tren verde sobre la pista, junto a una caseta con tejado (2018)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-dubai-2.jpg": {
+   "park": "legoland-dubai",
+   "ride": null,
+   "shows": "Tren verde con forma de dragón de la montaña rusa infantil Dragon's Apprentice (2018)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "legoland-dubai-3.jpg": {
+   "park": "legoland-dubai",
+   "ride": null,
+   "shows": "Estructura de acero verde y tren de la montaña rusa The Dragon sobre cielo azul (2018)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "motiongate-dubai-portada.jpg": {
+   "park": "motiongate-dubai",
+   "ride": null,
+   "shows": "Zona Smurfs' Village con casas-seta, figuras de los Pitufos y la montaña rusa Smurfs Village Express al fondo (2018)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "motiongate-dubai-1.jpg": {
+   "park": "motiongate-dubai",
+   "ride": null,
+   "shows": "Réplica del coche Black Beauty de la película The Green Hornet, expuesta en la cola de la montaña rusa Green Hornet (2018)",
+   "width": 1200,
+   "height": 984,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "motiongate-dubai-2.jpg": {
+   "park": "motiongate-dubai",
+   "ride": null,
+   "shows": "Pasillo de la cola de Madagascar Mad Pursuit!, decorado como carpa de circo con cuadros enmarcados de los personajes (2018)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ski-dubai-portada.jpg": {
+   "park": "ski-dubai",
+   "ride": null,
+   "shows": "Edificio de Ski Dubai con su cubierta inclinada sobresaliendo del centro comercial Mall of the Emirates (2020)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ski-dubai-1.jpg": {
+   "park": "ski-dubai",
+   "ride": null,
+   "shows": "Panorámica de la pista nevada interior con el telesilla y un esquiador a lo lejos (2008)",
+   "width": 1200,
+   "height": 400,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ski-dubai-2.jpg": {
+   "park": "ski-dubai",
+   "ride": null,
+   "shows": "Interior de Ski Dubai con abetos, una cabaña de madera y nieve bajo el techo de la nave (2020)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ski-dubai-3.jpg": {
+   "park": "ski-dubai",
+   "ride": null,
+   "shows": "Ladera nevada de Ski Dubai con el telesilla, una cabaña de madera y una red de seguridad roja (2020)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "madame-tussauds-amsterdam-portada.jpg": {
+   "park": "madame-tussauds-amsterdam",
+   "ride": null,
+   "shows": "Fachada del edificio de Madame Tussauds en la plaza Dam de Ámsterdam, en un día nublado (2025)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "madame-tussauds-amsterdam-1.jpg": {
+   "park": "madame-tussauds-amsterdam",
+   "ride": null,
+   "shows": "Edificio de Madame Tussauds visto desde la plaza Dam, con viandantes (2010)",
+   "width": 1200,
+   "height": 902,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "madame-tussauds-amsterdam-2.jpg": {
+   "park": "madame-tussauds-amsterdam",
+   "ride": null,
+   "shows": "Detalle de la fachada de Madame Tussauds Ámsterdam con el rótulo amarillo y dos figuras sobre la fachada (noviembre de 2024)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "madame-tussauds-new-york-portada.jpg": {
+   "park": "madame-tussauds-new-york",
+   "ride": null,
+   "shows": "Entrada de Madame Tussauds Nueva York, en la calle 42, con la marquesina plateada y la mano gigante, y visitantes en la acera (2021)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "madame-tussauds-new-york-1.jpg": {
+   "park": "madame-tussauds-new-york",
+   "ride": null,
+   "shows": "Fachada de Madame Tussauds Nueva York en la calle 42, mirando hacia el sur, en Midtown Manhattan (2018)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "madame-tussauds-new-york-2.jpg": {
+   "park": "madame-tussauds-new-york",
+   "ride": null,
+   "shows": "Sección Kong Skull Island de la fachada de Madame Tussauds Nueva York, junto a la entrada principal (2018)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-bangkok-portada.jpg": {
+   "park": "sea-life-bangkok",
+   "ride": null,
+   "shows": "Túnel acrílico del acuario con visitantes de espaldas y peces alrededor (2018)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-bangkok-1.jpg": {
+   "park": "sea-life-bangkok",
+   "ride": null,
+   "shows": "Pecera con un barco hundido de decoración y un pez ballesta payaso (2018)",
+   "width": 1200,
+   "height": 901,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-bangkok-2.jpg": {
+   "park": "sea-life-bangkok",
+   "ride": null,
+   "shows": "Tiburón nadando en un tanque del acuario (2018)",
+   "width": 1200,
+   "height": 901,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-bangkok-3.jpg": {
+   "park": "sea-life-bangkok",
+   "ride": null,
+   "shows": "Pingüino africano nadando en la zona de pingüinos (2018)",
+   "width": 1200,
+   "height": 901,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bird-paradise-portada.jpg": {
+   "park": "bird-paradise",
+   "ride": null,
+   "shows": "Escenario del Sky Amphitheatre, donde se celebra el espectáculo Wings of the World, con roca artificial, estanque y grada, sin aves a la vista (2024)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bird-paradise-1.jpg": {
+   "park": "bird-paradise",
+   "ride": null,
+   "shows": "Entrada de Bird Paradise con el logotipo del parque y visitantes al fondo (2023)",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bird-paradise-2.jpg": {
+   "park": "bird-paradise",
+   "ride": null,
+   "shows": "Grupo de flamencos en un estanque del parque (2024)",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bird-paradise-3.jpg": {
+   "park": "bird-paradise",
+   "ride": null,
+   "shows": "Ibis escarlata en primer plano junto al agua (2023)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chimelong-safari-park-portada.jpg": {
+   "park": "chimelong-safari-park",
+   "ride": null,
+   "shows": "Elefantes asiáticos en su recinto, uno con la trompa levantada bajo una cubierta de paja (2017)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chimelong-safari-park-1.jpg": {
+   "park": "chimelong-safari-park",
+   "ride": null,
+   "shows": "Entrada del parque con el rótulo y algunos visitantes entre palmeras (2013)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chimelong-safari-park-2.jpg": {
+   "park": "chimelong-safari-park",
+   "ride": null,
+   "shows": "Dos camellos bactrianos en el recorrido Safari on Wheels (2013)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chimelong-safari-park-3.jpg": {
+   "park": "chimelong-safari-park",
+   "ride": null,
+   "shows": "Panda gigante tumbado sobre una plataforma de enriquecimiento (2024)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parque-de-la-costa-portada.jpg": {
+   "park": "parque-de-la-costa",
+   "ride": null,
+   "shows": "Vista del parque desde el río Luján, con la noria y otras atracciones y una lancha en el agua (2019)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parque-de-la-costa-1.jpg": {
+   "park": "parque-de-la-costa",
+   "ride": null,
+   "shows": "Montañas rusas del parque, una de raíles verdes y otra roja con looping (2009)",
+   "width": 1200,
+   "height": 899,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parque-de-la-costa-2.jpg": {
+   "park": "parque-de-la-costa",
+   "ride": null,
+   "shows": "Góndola de la noria Vuelta al Mundo con el río Luján al fondo (2012)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "prague-zoo-portada.jpg": {
+   "park": "prague-zoo",
+   "ride": null,
+   "shows": "Elefantes asiáticos en el recinto exterior con rocas y césped (2014)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "prague-zoo-1.jpg": {
+   "park": "prague-zoo",
+   "ride": null,
+   "shows": "Tigre tumbado sobre un tronco en su recinto (2017)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "prague-zoo-2.jpg": {
+   "park": "prague-zoo",
+   "ride": null,
+   "shows": "Pabellón tropical con raíces aéreas, cascada y estanque (2014)",
+   "width": 1200,
+   "height": 676,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "prague-zoo-3.jpg": {
+   "park": "prague-zoo",
+   "ride": null,
+   "shows": "Sendero de paseo junto a una ladera rocosa del zoo (2014)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "suntago-portada.jpg": {
+   "park": "suntago",
+   "ride": null,
+   "shows": "Piscina bajo la cúpula acristalada con palmeras (2020)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "suntago-1.jpg": {
+   "park": "suntago",
+   "ride": null,
+   "shows": "Toboganes de agua de varios carriles de colores (2020)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "suntago-2.jpg": {
+   "park": "suntago",
+   "ride": null,
+   "shows": "Zona de surf de olas artificiales con surfistas (2020)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "suntago-3.jpg": {
+   "park": "suntago",
+   "ride": null,
+   "shows": "Palmeras junto a las piscinas bajo la cúpula de cristal (2020)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cite-de-l-espace-portada.jpg": {
+   "park": "cite-de-l-espace",
+   "ride": null,
+   "shows": "Réplica del cohete Ariane 5 en el parque exterior, con el módulo lunar al fondo (2022)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cite-de-l-espace-1.jpg": {
+   "park": "cite-de-l-espace",
+   "ride": null,
+   "shows": "Réplica del cohete Ariane 5 y módulo lunar en primer plano, bajo un cielo nublado (2022)",
+   "width": 1200,
+   "height": 810,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cite-de-l-espace-2.jpg": {
+   "park": "cite-de-l-espace",
+   "ride": null,
+   "shows": "Réplica del Ariane 5 junto a una torre, cúpulas blancas y vehículos rover de la zona Marte (2022)",
+   "width": 1200,
+   "height": 809,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "cite-de-l-espace-3.jpg": {
+   "park": "cite-de-l-espace",
+   "ride": null,
+   "shows": "Réplica del cohete Ariane 5 junto a una torre, sobre cielo azul (2007)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }
