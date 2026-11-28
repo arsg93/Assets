@@ -4299,6 +4299,242 @@
         ]
       }
     },
+    "ba-na-hills-1.jpg": {
+      "sha256": "766dac71b3913d2b39375054c33314d307cd0c76ca4d79ada96e8a685edf7441",
+      "original_width": 1200,
+      "original_height": 776,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ba-na-hills-1/766dac71b391-w480.avif",
+            "width": 480,
+            "bytes": 28924
+          },
+          {
+            "file": "responsive/ba-na-hills-1/766dac71b391-w768.avif",
+            "width": 768,
+            "bytes": 79123
+          },
+          {
+            "file": "responsive/ba-na-hills-1/766dac71b391-w1200.avif",
+            "width": 1200,
+            "bytes": 203233
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ba-na-hills-1/766dac71b391-w480.webp",
+            "width": 480,
+            "bytes": 37788
+          },
+          {
+            "file": "responsive/ba-na-hills-1/766dac71b391-w768.webp",
+            "width": 768,
+            "bytes": 100690
+          },
+          {
+            "file": "responsive/ba-na-hills-1/766dac71b391-w1200.webp",
+            "width": 1200,
+            "bytes": 260252
+          }
+        ]
+      }
+    },
+    "ba-na-hills-2.jpg": {
+      "sha256": "555e7a05b6d05213de147cae26c81b615a807a2c191f22d249cc0dfa9db0d551",
+      "original_width": 1200,
+      "original_height": 899,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ba-na-hills-2/555e7a05b6d0-w480.avif",
+            "width": 480,
+            "bytes": 22290
+          },
+          {
+            "file": "responsive/ba-na-hills-2/555e7a05b6d0-w768.avif",
+            "width": 768,
+            "bytes": 56163
+          },
+          {
+            "file": "responsive/ba-na-hills-2/555e7a05b6d0-w1200.avif",
+            "width": 1200,
+            "bytes": 138958
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ba-na-hills-2/555e7a05b6d0-w480.webp",
+            "width": 480,
+            "bytes": 35274
+          },
+          {
+            "file": "responsive/ba-na-hills-2/555e7a05b6d0-w768.webp",
+            "width": 768,
+            "bytes": 86256
+          },
+          {
+            "file": "responsive/ba-na-hills-2/555e7a05b6d0-w1200.webp",
+            "width": 1200,
+            "bytes": 205788
+          }
+        ]
+      }
+    },
+    "ba-na-hills-3.jpg": {
+      "sha256": "04307d40bfaeace2a14d803f56149b1471cdd6b1f8eecf48c5c8d20ee104ca84",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ba-na-hills-3/04307d40bfae-w480.avif",
+            "width": 480,
+            "bytes": 6993
+          },
+          {
+            "file": "responsive/ba-na-hills-3/04307d40bfae-w768.avif",
+            "width": 768,
+            "bytes": 14135
+          },
+          {
+            "file": "responsive/ba-na-hills-3/04307d40bfae-w1200.avif",
+            "width": 1200,
+            "bytes": 29476
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ba-na-hills-3/04307d40bfae-w480.webp",
+            "width": 480,
+            "bytes": 13534
+          },
+          {
+            "file": "responsive/ba-na-hills-3/04307d40bfae-w768.webp",
+            "width": 768,
+            "bytes": 29066
+          },
+          {
+            "file": "responsive/ba-na-hills-3/04307d40bfae-w1200.webp",
+            "width": 1200,
+            "bytes": 63374
+          }
+        ]
+      }
+    },
+    "ba-na-hills-portada.jpg": {
+      "sha256": "7375c182062b2d89b9347029da915292045a5b0c5020cbee32bd2cdd9d1bb6a2",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ba-na-hills-portada/7375c182062b-w480.avif",
+            "width": 480,
+            "bytes": 22742
+          },
+          {
+            "file": "responsive/ba-na-hills-portada/7375c182062b-w768.avif",
+            "width": 768,
+            "bytes": 57543
+          },
+          {
+            "file": "responsive/ba-na-hills-portada/7375c182062b-w1200.avif",
+            "width": 1200,
+            "bytes": 139860
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ba-na-hills-portada/7375c182062b-w480.webp",
+            "width": 480,
+            "bytes": 32800
+          },
+          {
+            "file": "responsive/ba-na-hills-portada/7375c182062b-w768.webp",
+            "width": 768,
+            "bytes": 80476
+          },
+          {
+            "file": "responsive/ba-na-hills-portada/7375c182062b-w1200.webp",
+            "width": 1200,
+            "bytes": 194778
+          }
+        ]
+      }
+    },
     "bcw-fire-whip.jpg": {
       "sha256": "4eeabb3e222dfdd5b8d5e96f581caa7851cbe867f357fc5c0aa0a7c814136ba8",
       "original_width": 800,
@@ -10313,6 +10549,242 @@
             "file": "responsive/cedar-point/574ab561425e-w1200.webp",
             "width": 1200,
             "bytes": 140948
+          }
+        ]
+      }
+    },
+    "central-park-zoo-1.jpg": {
+      "sha256": "5d20a9732cad884019147132f97caaaf854ab8cb231e4704f4c2072dbb446c20",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/central-park-zoo-1/5d20a9732cad-w480.avif",
+            "width": 480,
+            "bytes": 35771
+          },
+          {
+            "file": "responsive/central-park-zoo-1/5d20a9732cad-w768.avif",
+            "width": 768,
+            "bytes": 78628
+          },
+          {
+            "file": "responsive/central-park-zoo-1/5d20a9732cad-w1200.avif",
+            "width": 1200,
+            "bytes": 164225
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/central-park-zoo-1/5d20a9732cad-w480.webp",
+            "width": 480,
+            "bytes": 52520
+          },
+          {
+            "file": "responsive/central-park-zoo-1/5d20a9732cad-w768.webp",
+            "width": 768,
+            "bytes": 117438
+          },
+          {
+            "file": "responsive/central-park-zoo-1/5d20a9732cad-w1200.webp",
+            "width": 1200,
+            "bytes": 248884
+          }
+        ]
+      }
+    },
+    "central-park-zoo-2.jpg": {
+      "sha256": "ac0e0c130acbac32ca37bdcd734ffd41634cf71f7301bb9b4254e1ef1ae2d196",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/central-park-zoo-2/ac0e0c130acb-w480.avif",
+            "width": 480,
+            "bytes": 36087
+          },
+          {
+            "file": "responsive/central-park-zoo-2/ac0e0c130acb-w768.avif",
+            "width": 768,
+            "bytes": 99531
+          },
+          {
+            "file": "responsive/central-park-zoo-2/ac0e0c130acb-w1200.avif",
+            "width": 1200,
+            "bytes": 259407
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/central-park-zoo-2/ac0e0c130acb-w480.webp",
+            "width": 480,
+            "bytes": 47952
+          },
+          {
+            "file": "responsive/central-park-zoo-2/ac0e0c130acb-w768.webp",
+            "width": 768,
+            "bytes": 127282
+          },
+          {
+            "file": "responsive/central-park-zoo-2/ac0e0c130acb-w1200.webp",
+            "width": 1200,
+            "bytes": 325562
+          }
+        ]
+      }
+    },
+    "central-park-zoo-3.jpg": {
+      "sha256": "fe12614099cdaa909f39c98f4bef9ce91e4521216484bee4f6e28ce7bc1eef08",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/central-park-zoo-3/fe12614099cd-w480.avif",
+            "width": 480,
+            "bytes": 11855
+          },
+          {
+            "file": "responsive/central-park-zoo-3/fe12614099cd-w768.avif",
+            "width": 768,
+            "bytes": 26877
+          },
+          {
+            "file": "responsive/central-park-zoo-3/fe12614099cd-w1200.avif",
+            "width": 1200,
+            "bytes": 62696
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/central-park-zoo-3/fe12614099cd-w480.webp",
+            "width": 480,
+            "bytes": 20818
+          },
+          {
+            "file": "responsive/central-park-zoo-3/fe12614099cd-w768.webp",
+            "width": 768,
+            "bytes": 47790
+          },
+          {
+            "file": "responsive/central-park-zoo-3/fe12614099cd-w1200.webp",
+            "width": 1200,
+            "bytes": 110404
+          }
+        ]
+      }
+    },
+    "central-park-zoo-portada.jpg": {
+      "sha256": "9982a1fbf02fcf4c6a2059b383f7a4ec58b8d459c81a0ceb81172b153f6b3b7b",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/central-park-zoo-portada/9982a1fbf02f-w480.avif",
+            "width": 480,
+            "bytes": 21784
+          },
+          {
+            "file": "responsive/central-park-zoo-portada/9982a1fbf02f-w768.avif",
+            "width": 768,
+            "bytes": 55898
+          },
+          {
+            "file": "responsive/central-park-zoo-portada/9982a1fbf02f-w1200.avif",
+            "width": 1200,
+            "bytes": 136471
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/central-park-zoo-portada/9982a1fbf02f-w480.webp",
+            "width": 480,
+            "bytes": 32406
+          },
+          {
+            "file": "responsive/central-park-zoo-portada/9982a1fbf02f-w768.webp",
+            "width": 768,
+            "bytes": 83444
+          },
+          {
+            "file": "responsive/central-park-zoo-portada/9982a1fbf02f-w1200.webp",
+            "width": 1200,
+            "bytes": 205320
           }
         ]
       }
@@ -18341,6 +18813,596 @@
         ]
       }
     },
+    "dubai-miracle-garden-1.jpg": {
+      "sha256": "fb0e789ea2d6fbf7217b0d88d960cb117b4a49383a05dfa1e1794024dd9d9224",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dubai-miracle-garden-1/fb0e789ea2d6-w480.avif",
+            "width": 480,
+            "bytes": 39353
+          },
+          {
+            "file": "responsive/dubai-miracle-garden-1/fb0e789ea2d6-w768.avif",
+            "width": 768,
+            "bytes": 86117
+          },
+          {
+            "file": "responsive/dubai-miracle-garden-1/fb0e789ea2d6-w1200.avif",
+            "width": 1200,
+            "bytes": 186973
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dubai-miracle-garden-1/fb0e789ea2d6-w480.webp",
+            "width": 480,
+            "bytes": 52270
+          },
+          {
+            "file": "responsive/dubai-miracle-garden-1/fb0e789ea2d6-w768.webp",
+            "width": 768,
+            "bytes": 117616
+          },
+          {
+            "file": "responsive/dubai-miracle-garden-1/fb0e789ea2d6-w1200.webp",
+            "width": 1200,
+            "bytes": 270788
+          }
+        ]
+      }
+    },
+    "dubai-miracle-garden-2.jpg": {
+      "sha256": "14dc2f63714c7d81abf2e6e2e142ac94ab2412066ceae4a945de5e5e81008e51",
+      "original_width": 1200,
+      "original_height": 795,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dubai-miracle-garden-2/14dc2f63714c-w480.avif",
+            "width": 480,
+            "bytes": 12269
+          },
+          {
+            "file": "responsive/dubai-miracle-garden-2/14dc2f63714c-w768.avif",
+            "width": 768,
+            "bytes": 26997
+          },
+          {
+            "file": "responsive/dubai-miracle-garden-2/14dc2f63714c-w1200.avif",
+            "width": 1200,
+            "bytes": 65113
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dubai-miracle-garden-2/14dc2f63714c-w480.webp",
+            "width": 480,
+            "bytes": 20882
+          },
+          {
+            "file": "responsive/dubai-miracle-garden-2/14dc2f63714c-w768.webp",
+            "width": 768,
+            "bytes": 48240
+          },
+          {
+            "file": "responsive/dubai-miracle-garden-2/14dc2f63714c-w1200.webp",
+            "width": 1200,
+            "bytes": 111942
+          }
+        ]
+      }
+    },
+    "dubai-miracle-garden-portada.jpg": {
+      "sha256": "2b17cdb5476c2a6425a7ee04ced4b68c59008e96d37c4c33f2fc4ddd1e6bf933",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dubai-miracle-garden-portada/2b17cdb5476c-w480.avif",
+            "width": 480,
+            "bytes": 21448
+          },
+          {
+            "file": "responsive/dubai-miracle-garden-portada/2b17cdb5476c-w768.avif",
+            "width": 768,
+            "bytes": 56073
+          },
+          {
+            "file": "responsive/dubai-miracle-garden-portada/2b17cdb5476c-w1200.avif",
+            "width": 1200,
+            "bytes": 143686
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dubai-miracle-garden-portada/2b17cdb5476c-w480.webp",
+            "width": 480,
+            "bytes": 29724
+          },
+          {
+            "file": "responsive/dubai-miracle-garden-portada/2b17cdb5476c-w768.webp",
+            "width": 768,
+            "bytes": 75290
+          },
+          {
+            "file": "responsive/dubai-miracle-garden-portada/2b17cdb5476c-w1200.webp",
+            "width": 1200,
+            "bytes": 192150
+          }
+        ]
+      }
+    },
+    "dubai-safari-park-1.jpg": {
+      "sha256": "4a5e156f0a1a903ca240aeb2718b842e2c89b06410d3ea3dd4ba4ce936694425",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dubai-safari-park-1/4a5e156f0a1a-w480.avif",
+            "width": 480,
+            "bytes": 14609
+          },
+          {
+            "file": "responsive/dubai-safari-park-1/4a5e156f0a1a-w768.avif",
+            "width": 768,
+            "bytes": 36172
+          },
+          {
+            "file": "responsive/dubai-safari-park-1/4a5e156f0a1a-w1200.avif",
+            "width": 1200,
+            "bytes": 93661
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dubai-safari-park-1/4a5e156f0a1a-w480.webp",
+            "width": 480,
+            "bytes": 25806
+          },
+          {
+            "file": "responsive/dubai-safari-park-1/4a5e156f0a1a-w768.webp",
+            "width": 768,
+            "bytes": 63710
+          },
+          {
+            "file": "responsive/dubai-safari-park-1/4a5e156f0a1a-w1200.webp",
+            "width": 1200,
+            "bytes": 156810
+          }
+        ]
+      }
+    },
+    "dubai-safari-park-2.jpg": {
+      "sha256": "a6b46d30e15015874fe197e03034623f7fab6978e2f22d9fcd94a960a9008e0e",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dubai-safari-park-2/a6b46d30e150-w480.avif",
+            "width": 480,
+            "bytes": 34877
+          },
+          {
+            "file": "responsive/dubai-safari-park-2/a6b46d30e150-w768.avif",
+            "width": 768,
+            "bytes": 96628
+          },
+          {
+            "file": "responsive/dubai-safari-park-2/a6b46d30e150-w1200.avif",
+            "width": 1200,
+            "bytes": 245912
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dubai-safari-park-2/a6b46d30e150-w480.webp",
+            "width": 480,
+            "bytes": 48504
+          },
+          {
+            "file": "responsive/dubai-safari-park-2/a6b46d30e150-w768.webp",
+            "width": 768,
+            "bytes": 129850
+          },
+          {
+            "file": "responsive/dubai-safari-park-2/a6b46d30e150-w1200.webp",
+            "width": 1200,
+            "bytes": 334764
+          }
+        ]
+      }
+    },
+    "dubai-safari-park-portada.jpg": {
+      "sha256": "f05cf6861882c5f1e65a2dc55ab1c737f2dc1ac95767631af46aa4e18df85bec",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dubai-safari-park-portada/f05cf6861882-w480.avif",
+            "width": 480,
+            "bytes": 31401
+          },
+          {
+            "file": "responsive/dubai-safari-park-portada/f05cf6861882-w768.avif",
+            "width": 768,
+            "bytes": 94234
+          },
+          {
+            "file": "responsive/dubai-safari-park-portada/f05cf6861882-w1200.avif",
+            "width": 1200,
+            "bytes": 254251
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dubai-safari-park-portada/f05cf6861882-w480.webp",
+            "width": 480,
+            "bytes": 43292
+          },
+          {
+            "file": "responsive/dubai-safari-park-portada/f05cf6861882-w768.webp",
+            "width": 768,
+            "bytes": 123712
+          },
+          {
+            "file": "responsive/dubai-safari-park-portada/f05cf6861882-w1200.webp",
+            "width": 1200,
+            "bytes": 329954
+          }
+        ]
+      }
+    },
+    "edinburgh-zoo-1.jpg": {
+      "sha256": "2943fd119b54f35a10f6b5bd029a60bc644a39348d80bf85e04dd9f716e8afca",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/edinburgh-zoo-1/2943fd119b54-w480.avif",
+            "width": 480,
+            "bytes": 9412
+          },
+          {
+            "file": "responsive/edinburgh-zoo-1/2943fd119b54-w768.avif",
+            "width": 768,
+            "bytes": 24382
+          },
+          {
+            "file": "responsive/edinburgh-zoo-1/2943fd119b54-w1200.avif",
+            "width": 1200,
+            "bytes": 62439
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/edinburgh-zoo-1/2943fd119b54-w480.webp",
+            "width": 480,
+            "bytes": 19284
+          },
+          {
+            "file": "responsive/edinburgh-zoo-1/2943fd119b54-w768.webp",
+            "width": 768,
+            "bytes": 47472
+          },
+          {
+            "file": "responsive/edinburgh-zoo-1/2943fd119b54-w1200.webp",
+            "width": 1200,
+            "bytes": 111986
+          }
+        ]
+      }
+    },
+    "edinburgh-zoo-2.jpg": {
+      "sha256": "73a6aa5f7ed58bc6567907d6ea1e9c611a39b2d570680f6c7dfa88e3b8104243",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/edinburgh-zoo-2/73a6aa5f7ed5-w480.avif",
+            "width": 480,
+            "bytes": 8552
+          },
+          {
+            "file": "responsive/edinburgh-zoo-2/73a6aa5f7ed5-w768.avif",
+            "width": 768,
+            "bytes": 16365
+          },
+          {
+            "file": "responsive/edinburgh-zoo-2/73a6aa5f7ed5-w1200.avif",
+            "width": 1200,
+            "bytes": 30892
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/edinburgh-zoo-2/73a6aa5f7ed5-w480.webp",
+            "width": 480,
+            "bytes": 16750
+          },
+          {
+            "file": "responsive/edinburgh-zoo-2/73a6aa5f7ed5-w768.webp",
+            "width": 768,
+            "bytes": 34486
+          },
+          {
+            "file": "responsive/edinburgh-zoo-2/73a6aa5f7ed5-w1200.webp",
+            "width": 1200,
+            "bytes": 67480
+          }
+        ]
+      }
+    },
+    "edinburgh-zoo-3.jpg": {
+      "sha256": "77de19b214a7bd7d485d96d7984c26d1cfc84d827a924943c937c168f26f4fbd",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/edinburgh-zoo-3/77de19b214a7-w480.avif",
+            "width": 480,
+            "bytes": 12788
+          },
+          {
+            "file": "responsive/edinburgh-zoo-3/77de19b214a7-w768.avif",
+            "width": 768,
+            "bytes": 28005
+          },
+          {
+            "file": "responsive/edinburgh-zoo-3/77de19b214a7-w1200.avif",
+            "width": 1200,
+            "bytes": 62167
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/edinburgh-zoo-3/77de19b214a7-w480.webp",
+            "width": 480,
+            "bytes": 21862
+          },
+          {
+            "file": "responsive/edinburgh-zoo-3/77de19b214a7-w768.webp",
+            "width": 768,
+            "bytes": 49678
+          },
+          {
+            "file": "responsive/edinburgh-zoo-3/77de19b214a7-w1200.webp",
+            "width": 1200,
+            "bytes": 110684
+          }
+        ]
+      }
+    },
+    "edinburgh-zoo-portada.jpg": {
+      "sha256": "476bd04c5bcd37497c96fea16be92ab0dd6469a54b9f45eae037839d61f5132c",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/edinburgh-zoo-portada/476bd04c5bcd-w480.avif",
+            "width": 480,
+            "bytes": 17547
+          },
+          {
+            "file": "responsive/edinburgh-zoo-portada/476bd04c5bcd-w768.avif",
+            "width": 768,
+            "bytes": 46445
+          },
+          {
+            "file": "responsive/edinburgh-zoo-portada/476bd04c5bcd-w1200.avif",
+            "width": 1200,
+            "bytes": 125814
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/edinburgh-zoo-portada/476bd04c5bcd-w480.webp",
+            "width": 480,
+            "bytes": 26968
+          },
+          {
+            "file": "responsive/edinburgh-zoo-portada/476bd04c5bcd-w768.webp",
+            "width": 768,
+            "bytes": 69008
+          },
+          {
+            "file": "responsive/edinburgh-zoo-portada/476bd04c5bcd-w1200.webp",
+            "width": 1200,
+            "bytes": 178134
+          }
+        ]
+      }
+    },
     "eft-python.jpg": {
       "sha256": "e3c0c25f9e58cf6fbdeb059b78cedff933c6c4386857d2f2e8f800c7cdcecd3f",
       "original_width": 800,
@@ -25358,6 +26420,124 @@
             "file": "responsive/gl-shaman/7c1060b4b3ef-w800.webp",
             "width": 800,
             "bytes": 109772
+          }
+        ]
+      }
+    },
+    "global-village-dubai-1.jpg": {
+      "sha256": "5653c1cba95206214206ed0136632f571362e2324438fb77186b1e0e3b352e64",
+      "original_width": 1200,
+      "original_height": 716,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/global-village-dubai-1/5653c1cba952-w480.avif",
+            "width": 480,
+            "bytes": 4792
+          },
+          {
+            "file": "responsive/global-village-dubai-1/5653c1cba952-w768.avif",
+            "width": 768,
+            "bytes": 10110
+          },
+          {
+            "file": "responsive/global-village-dubai-1/5653c1cba952-w1200.avif",
+            "width": 1200,
+            "bytes": 22640
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/global-village-dubai-1/5653c1cba952-w480.webp",
+            "width": 480,
+            "bytes": 8326
+          },
+          {
+            "file": "responsive/global-village-dubai-1/5653c1cba952-w768.webp",
+            "width": 768,
+            "bytes": 18480
+          },
+          {
+            "file": "responsive/global-village-dubai-1/5653c1cba952-w1200.webp",
+            "width": 1200,
+            "bytes": 41092
+          }
+        ]
+      }
+    },
+    "global-village-dubai-portada.jpg": {
+      "sha256": "a54c7ffcf596ef077d9bbb6d3a5fab96aa3d75b751fba5b770f9fc42d17186af",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/global-village-dubai-portada/a54c7ffcf596-w480.avif",
+            "width": 480,
+            "bytes": 17688
+          },
+          {
+            "file": "responsive/global-village-dubai-portada/a54c7ffcf596-w768.avif",
+            "width": 768,
+            "bytes": 42055
+          },
+          {
+            "file": "responsive/global-village-dubai-portada/a54c7ffcf596-w1200.avif",
+            "width": 1200,
+            "bytes": 99486
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/global-village-dubai-portada/a54c7ffcf596-w480.webp",
+            "width": 480,
+            "bytes": 25276
+          },
+          {
+            "file": "responsive/global-village-dubai-portada/a54c7ffcf596-w768.webp",
+            "width": 768,
+            "bytes": 61050
+          },
+          {
+            "file": "responsive/global-village-dubai-portada/a54c7ffcf596-w1200.webp",
+            "width": 1200,
+            "bytes": 146634
           }
         ]
       }
@@ -32792,6 +33972,183 @@
             "file": "responsive/la-mer-de-sable-portada/81e1599eab06-w1200.webp",
             "width": 1200,
             "bytes": 119308
+          }
+        ]
+      }
+    },
+    "land-of-legends-1.jpg": {
+      "sha256": "533ebb16eedb91f2af9ba01da553d9a58b55000595349e475bb8736a0c1b2062",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/land-of-legends-1/533ebb16eedb-w480.avif",
+            "width": 480,
+            "bytes": 13427
+          },
+          {
+            "file": "responsive/land-of-legends-1/533ebb16eedb-w768.avif",
+            "width": 768,
+            "bytes": 30014
+          },
+          {
+            "file": "responsive/land-of-legends-1/533ebb16eedb-w1200.avif",
+            "width": 1200,
+            "bytes": 69625
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/land-of-legends-1/533ebb16eedb-w480.webp",
+            "width": 480,
+            "bytes": 21524
+          },
+          {
+            "file": "responsive/land-of-legends-1/533ebb16eedb-w768.webp",
+            "width": 768,
+            "bytes": 48248
+          },
+          {
+            "file": "responsive/land-of-legends-1/533ebb16eedb-w1200.webp",
+            "width": 1200,
+            "bytes": 109698
+          }
+        ]
+      }
+    },
+    "land-of-legends-2.jpg": {
+      "sha256": "c3ab9467424319788a3b1ee7c4f9ac2eb8bef7657fc0aa391054433c5f9b686d",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/land-of-legends-2/c3ab94674243-w480.avif",
+            "width": 480,
+            "bytes": 16759
+          },
+          {
+            "file": "responsive/land-of-legends-2/c3ab94674243-w768.avif",
+            "width": 768,
+            "bytes": 34483
+          },
+          {
+            "file": "responsive/land-of-legends-2/c3ab94674243-w1200.avif",
+            "width": 1200,
+            "bytes": 63193
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/land-of-legends-2/c3ab94674243-w480.webp",
+            "width": 480,
+            "bytes": 27984
+          },
+          {
+            "file": "responsive/land-of-legends-2/c3ab94674243-w768.webp",
+            "width": 768,
+            "bytes": 57998
+          },
+          {
+            "file": "responsive/land-of-legends-2/c3ab94674243-w1200.webp",
+            "width": 1200,
+            "bytes": 111638
+          }
+        ]
+      }
+    },
+    "land-of-legends-portada.jpg": {
+      "sha256": "e9a01caaff51243af8dd83d9e77d7da2bc2f2710a87d4d99dd27af5ab70a5ee2",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/land-of-legends-portada/e9a01caaff51-w480.avif",
+            "width": 480,
+            "bytes": 12951
+          },
+          {
+            "file": "responsive/land-of-legends-portada/e9a01caaff51-w768.avif",
+            "width": 768,
+            "bytes": 23324
+          },
+          {
+            "file": "responsive/land-of-legends-portada/e9a01caaff51-w1200.avif",
+            "width": 1200,
+            "bytes": 39211
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/land-of-legends-portada/e9a01caaff51-w480.webp",
+            "width": 480,
+            "bytes": 21122
+          },
+          {
+            "file": "responsive/land-of-legends-portada/e9a01caaff51-w768.webp",
+            "width": 768,
+            "bytes": 41070
+          },
+          {
+            "file": "responsive/land-of-legends-portada/e9a01caaff51-w1200.webp",
+            "width": 1200,
+            "bytes": 74460
           }
         ]
       }
@@ -40274,6 +41631,183 @@
             "file": "responsive/navidad-hersheypark/12400ff37150-w1200.webp",
             "width": 1200,
             "bytes": 131044
+          }
+        ]
+      }
+    },
+    "night-safari-1.jpg": {
+      "sha256": "98e0ecf5f8df10ec67ac34976ad71d9a8cb45450e9fc63f106ecce512afabc69",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/night-safari-1/98e0ecf5f8df-w480.avif",
+            "width": 480,
+            "bytes": 5386
+          },
+          {
+            "file": "responsive/night-safari-1/98e0ecf5f8df-w768.avif",
+            "width": 768,
+            "bytes": 9618
+          },
+          {
+            "file": "responsive/night-safari-1/98e0ecf5f8df-w1200.avif",
+            "width": 1200,
+            "bytes": 18020
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/night-safari-1/98e0ecf5f8df-w480.webp",
+            "width": 480,
+            "bytes": 10466
+          },
+          {
+            "file": "responsive/night-safari-1/98e0ecf5f8df-w768.webp",
+            "width": 768,
+            "bytes": 20966
+          },
+          {
+            "file": "responsive/night-safari-1/98e0ecf5f8df-w1200.webp",
+            "width": 1200,
+            "bytes": 41858
+          }
+        ]
+      }
+    },
+    "night-safari-2.jpg": {
+      "sha256": "59d4dd66709335344a09d1c54333cd32251a71fbaae619fbef0bfe4b2e2eea80",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/night-safari-2/59d4dd667093-w480.avif",
+            "width": 480,
+            "bytes": 18364
+          },
+          {
+            "file": "responsive/night-safari-2/59d4dd667093-w768.avif",
+            "width": 768,
+            "bytes": 33547
+          },
+          {
+            "file": "responsive/night-safari-2/59d4dd667093-w1200.avif",
+            "width": 1200,
+            "bytes": 60224
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/night-safari-2/59d4dd667093-w480.webp",
+            "width": 480,
+            "bytes": 28518
+          },
+          {
+            "file": "responsive/night-safari-2/59d4dd667093-w768.webp",
+            "width": 768,
+            "bytes": 55962
+          },
+          {
+            "file": "responsive/night-safari-2/59d4dd667093-w1200.webp",
+            "width": 1200,
+            "bytes": 107720
+          }
+        ]
+      }
+    },
+    "night-safari-portada.jpg": {
+      "sha256": "83469b11abe2dc2ad6a5665da4a1a13abcd962e1f9579e3cc0bec597ad8e3d2e",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/night-safari-portada/83469b11abe2-w480.avif",
+            "width": 480,
+            "bytes": 9514
+          },
+          {
+            "file": "responsive/night-safari-portada/83469b11abe2-w768.avif",
+            "width": 768,
+            "bytes": 18171
+          },
+          {
+            "file": "responsive/night-safari-portada/83469b11abe2-w1200.avif",
+            "width": 1200,
+            "bytes": 33742
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/night-safari-portada/83469b11abe2-w480.webp",
+            "width": 480,
+            "bytes": 16426
+          },
+          {
+            "file": "responsive/night-safari-portada/83469b11abe2-w768.webp",
+            "width": 768,
+            "bytes": 33332
+          },
+          {
+            "file": "responsive/night-safari-portada/83469b11abe2-w1200.webp",
+            "width": 1200,
+            "bytes": 66144
           }
         ]
       }
@@ -63524,6 +65058,242 @@
         ]
       }
     },
+    "taronga-zoo-1.jpg": {
+      "sha256": "5afe346b4738d72b7e853a0c659faa26dfd6e9d1893c3286962477bf0d5d1193",
+      "original_width": 1200,
+      "original_height": 888,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/taronga-zoo-1/5afe346b4738-w480.avif",
+            "width": 480,
+            "bytes": 13976
+          },
+          {
+            "file": "responsive/taronga-zoo-1/5afe346b4738-w768.avif",
+            "width": 768,
+            "bytes": 33778
+          },
+          {
+            "file": "responsive/taronga-zoo-1/5afe346b4738-w1200.avif",
+            "width": 1200,
+            "bytes": 87984
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/taronga-zoo-1/5afe346b4738-w480.webp",
+            "width": 480,
+            "bytes": 24430
+          },
+          {
+            "file": "responsive/taronga-zoo-1/5afe346b4738-w768.webp",
+            "width": 768,
+            "bytes": 60840
+          },
+          {
+            "file": "responsive/taronga-zoo-1/5afe346b4738-w1200.webp",
+            "width": 1200,
+            "bytes": 142660
+          }
+        ]
+      }
+    },
+    "taronga-zoo-2.jpg": {
+      "sha256": "748095b916ced58819596fe30552a5d348529e474cfc175bdc440aa93205b45a",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/taronga-zoo-2/748095b916ce-w480.avif",
+            "width": 480,
+            "bytes": 43479
+          },
+          {
+            "file": "responsive/taronga-zoo-2/748095b916ce-w768.avif",
+            "width": 768,
+            "bytes": 104982
+          },
+          {
+            "file": "responsive/taronga-zoo-2/748095b916ce-w1200.avif",
+            "width": 1200,
+            "bytes": 228015
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/taronga-zoo-2/748095b916ce-w480.webp",
+            "width": 480,
+            "bytes": 60486
+          },
+          {
+            "file": "responsive/taronga-zoo-2/748095b916ce-w768.webp",
+            "width": 768,
+            "bytes": 148772
+          },
+          {
+            "file": "responsive/taronga-zoo-2/748095b916ce-w1200.webp",
+            "width": 1200,
+            "bytes": 326630
+          }
+        ]
+      }
+    },
+    "taronga-zoo-3.jpg": {
+      "sha256": "63a85b8b56ba5d2ea37cb8a8c80374f7a4582be9d991808818cd90e29a218aa3",
+      "original_width": 1200,
+      "original_height": 994,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/taronga-zoo-3/63a85b8b56ba-w480.avif",
+            "width": 480,
+            "bytes": 22529
+          },
+          {
+            "file": "responsive/taronga-zoo-3/63a85b8b56ba-w768.avif",
+            "width": 768,
+            "bytes": 45015
+          },
+          {
+            "file": "responsive/taronga-zoo-3/63a85b8b56ba-w1200.avif",
+            "width": 1200,
+            "bytes": 86954
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/taronga-zoo-3/63a85b8b56ba-w480.webp",
+            "width": 480,
+            "bytes": 37822
+          },
+          {
+            "file": "responsive/taronga-zoo-3/63a85b8b56ba-w768.webp",
+            "width": 768,
+            "bytes": 79676
+          },
+          {
+            "file": "responsive/taronga-zoo-3/63a85b8b56ba-w1200.webp",
+            "width": 1200,
+            "bytes": 156174
+          }
+        ]
+      }
+    },
+    "taronga-zoo-portada.jpg": {
+      "sha256": "93072d8c434b9c4612845577aaab9a479f557eac93fd65d040f66c7a88b382d7",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/taronga-zoo-portada/93072d8c434b-w480.avif",
+            "width": 480,
+            "bytes": 29043
+          },
+          {
+            "file": "responsive/taronga-zoo-portada/93072d8c434b-w768.avif",
+            "width": 768,
+            "bytes": 80279
+          },
+          {
+            "file": "responsive/taronga-zoo-portada/93072d8c434b-w1200.avif",
+            "width": 1200,
+            "bytes": 211015
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/taronga-zoo-portada/93072d8c434b-w480.webp",
+            "width": 480,
+            "bytes": 40580
+          },
+          {
+            "file": "responsive/taronga-zoo-portada/93072d8c434b-w768.webp",
+            "width": 768,
+            "bytes": 109622
+          },
+          {
+            "file": "responsive/taronga-zoo-portada/93072d8c434b-w1200.webp",
+            "width": 1200,
+            "bytes": 285726
+          }
+        ]
+      }
+    },
     "tb-avio.jpg": {
       "sha256": "3156587e7e0bf502246fe3c8f91cb7ca067df27c5236a8fd55932e18ab8efdfe",
       "original_width": 800,
@@ -73613,6 +75383,183 @@
         ]
       }
     },
+    "waterbom-bali-1.jpg": {
+      "sha256": "05c223ecff5dcb686f6171cce5ae8df991ff5b7f4e3dfe891178e316e0f19c67",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/waterbom-bali-1/05c223ecff5d-w480.avif",
+            "width": 480,
+            "bytes": 16494
+          },
+          {
+            "file": "responsive/waterbom-bali-1/05c223ecff5d-w768.avif",
+            "width": 768,
+            "bytes": 37966
+          },
+          {
+            "file": "responsive/waterbom-bali-1/05c223ecff5d-w1200.avif",
+            "width": 1200,
+            "bytes": 88928
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/waterbom-bali-1/05c223ecff5d-w480.webp",
+            "width": 480,
+            "bytes": 28208
+          },
+          {
+            "file": "responsive/waterbom-bali-1/05c223ecff5d-w768.webp",
+            "width": 768,
+            "bytes": 64610
+          },
+          {
+            "file": "responsive/waterbom-bali-1/05c223ecff5d-w1200.webp",
+            "width": 1200,
+            "bytes": 148378
+          }
+        ]
+      }
+    },
+    "waterbom-bali-2.jpg": {
+      "sha256": "f35a5de38cfd05d2f32e36909943640b17c35f9c2bdb771c2c96dbd42e5d0fe1",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/waterbom-bali-2/f35a5de38cfd-w480.avif",
+            "width": 480,
+            "bytes": 15294
+          },
+          {
+            "file": "responsive/waterbom-bali-2/f35a5de38cfd-w768.avif",
+            "width": 768,
+            "bytes": 32437
+          },
+          {
+            "file": "responsive/waterbom-bali-2/f35a5de38cfd-w1200.avif",
+            "width": 1200,
+            "bytes": 67189
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/waterbom-bali-2/f35a5de38cfd-w480.webp",
+            "width": 480,
+            "bytes": 25606
+          },
+          {
+            "file": "responsive/waterbom-bali-2/f35a5de38cfd-w768.webp",
+            "width": 768,
+            "bytes": 56176
+          },
+          {
+            "file": "responsive/waterbom-bali-2/f35a5de38cfd-w1200.webp",
+            "width": 1200,
+            "bytes": 118840
+          }
+        ]
+      }
+    },
+    "waterbom-bali-portada.jpg": {
+      "sha256": "f63c9b65e4debbc635e459cfca4c6a03984d9820b99c883e44c29375579e0694",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/waterbom-bali-portada/f63c9b65e4de-w480.avif",
+            "width": 480,
+            "bytes": 20194
+          },
+          {
+            "file": "responsive/waterbom-bali-portada/f63c9b65e4de-w768.avif",
+            "width": 768,
+            "bytes": 46697
+          },
+          {
+            "file": "responsive/waterbom-bali-portada/f63c9b65e4de-w1200.avif",
+            "width": 1200,
+            "bytes": 98198
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/waterbom-bali-portada/f63c9b65e4de-w480.webp",
+            "width": 480,
+            "bytes": 30474
+          },
+          {
+            "file": "responsive/waterbom-bali-portada/f63c9b65e4de-w768.webp",
+            "width": 768,
+            "bytes": 71948
+          },
+          {
+            "file": "responsive/waterbom-bali-portada/f63c9b65e4de-w1200.webp",
+            "width": 1200,
+            "bytes": 159916
+          }
+        ]
+      }
+    },
     "wdw-cinderella-castle-1.jpg": {
       "sha256": "dbd1389d44c2a6d7cc920c07b07baa8f2aa5f5d9d0ca044c70ea7ec26a053852",
       "original_width": 1600,
@@ -74365,6 +76312,183 @@
             "file": "responsive/western-water-park-portada/d448e2d2687b-w1200.webp",
             "width": 1200,
             "bytes": 185436
+          }
+        ]
+      }
+    },
+    "wild-wadi-1.jpg": {
+      "sha256": "a78d445d3afbda6e28c0b257aa56d24d832bc7877ceb9f8a6e8920a011f4af39",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/wild-wadi-1/a78d445d3afb-w480.avif",
+            "width": 480,
+            "bytes": 19972
+          },
+          {
+            "file": "responsive/wild-wadi-1/a78d445d3afb-w768.avif",
+            "width": 768,
+            "bytes": 41492
+          },
+          {
+            "file": "responsive/wild-wadi-1/a78d445d3afb-w1200.avif",
+            "width": 1200,
+            "bytes": 88247
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/wild-wadi-1/a78d445d3afb-w480.webp",
+            "width": 480,
+            "bytes": 32130
+          },
+          {
+            "file": "responsive/wild-wadi-1/a78d445d3afb-w768.webp",
+            "width": 768,
+            "bytes": 69712
+          },
+          {
+            "file": "responsive/wild-wadi-1/a78d445d3afb-w1200.webp",
+            "width": 1200,
+            "bytes": 153982
+          }
+        ]
+      }
+    },
+    "wild-wadi-2.jpg": {
+      "sha256": "e673d1d6b379a8c29bcfe6a7d9cabba6063aee356d8d06a31ae69f3907f66285",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/wild-wadi-2/e673d1d6b379-w480.avif",
+            "width": 480,
+            "bytes": 11654
+          },
+          {
+            "file": "responsive/wild-wadi-2/e673d1d6b379-w768.avif",
+            "width": 768,
+            "bytes": 22944
+          },
+          {
+            "file": "responsive/wild-wadi-2/e673d1d6b379-w1200.avif",
+            "width": 1200,
+            "bytes": 43774
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/wild-wadi-2/e673d1d6b379-w480.webp",
+            "width": 480,
+            "bytes": 20702
+          },
+          {
+            "file": "responsive/wild-wadi-2/e673d1d6b379-w768.webp",
+            "width": 768,
+            "bytes": 42416
+          },
+          {
+            "file": "responsive/wild-wadi-2/e673d1d6b379-w1200.webp",
+            "width": 1200,
+            "bytes": 83470
+          }
+        ]
+      }
+    },
+    "wild-wadi-portada.jpg": {
+      "sha256": "78af55455ecd87b485f8a22894bc8f5fde3f6342a00e197e41f6acbf65729709",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/wild-wadi-portada/78af55455ecd-w480.avif",
+            "width": 480,
+            "bytes": 11484
+          },
+          {
+            "file": "responsive/wild-wadi-portada/78af55455ecd-w768.avif",
+            "width": 768,
+            "bytes": 19181
+          },
+          {
+            "file": "responsive/wild-wadi-portada/78af55455ecd-w1200.avif",
+            "width": 1200,
+            "bytes": 30975
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/wild-wadi-portada/78af55455ecd-w480.webp",
+            "width": 480,
+            "bytes": 19244
+          },
+          {
+            "file": "responsive/wild-wadi-portada/78af55455ecd-w768.webp",
+            "width": 768,
+            "bytes": 35560
+          },
+          {
+            "file": "responsive/wild-wadi-portada/78af55455ecd-w1200.webp",
+            "width": 1200,
+            "bytes": 74106
           }
         ]
       }
