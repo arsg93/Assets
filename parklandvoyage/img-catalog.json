@@ -18239,6 +18239,890 @@
    "uses": [
     "guia"
    ]
+  },
+  "zoo-berlin-portada.jpg": {
+   "park": "zoo-berlin",
+   "ride": null,
+   "shows": "Puerta de los Elefantes, entrada principal del Zoo de Berlín, con sus elefantes de piedra y los pabellones de estilo chino (2011)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-berlin-1.jpg": {
+   "park": "zoo-berlin",
+   "ride": null,
+   "shows": "Paseo de acceso al zoo con parterre de flores y, al fondo, la Puerta de los Elefantes (2012)",
+   "width": 1200,
+   "height": 797,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-berlin-2.jpg": {
+   "park": "zoo-berlin",
+   "ride": null,
+   "shows": "Entrada del Panda Garden del Zoo de Berlín, con su pabellón de estilo chino (2019)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-berlin-3.jpg": {
+   "park": "zoo-berlin",
+   "ride": null,
+   "shows": "Panda gigante comiendo bambú en el Zoo de Berlín (octubre de 2026)",
+   "width": 1200,
+   "height": 780,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "artis-portada.jpg": {
+   "park": "artis",
+   "ride": null,
+   "shows": "Entrada de ARTIS en Plantage Kerklaan, con las dos casetas y la verja de pilares con águilas doradas (2012)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "artis-1.jpg": {
+   "park": "artis",
+   "ride": null,
+   "shows": "Estanque de flamencos de ARTIS con sus reflejos en el agua (2021)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "artis-2.jpg": {
+   "park": "artis",
+   "ride": null,
+   "shows": "Primer plano de la cabeza de un elefante joven en ARTIS (2013)",
+   "width": 1200,
+   "height": 876,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "artis-3.jpg": {
+   "park": "artis",
+   "ride": null,
+   "shows": "Carpas koi nadando en un acuario de ARTIS (2016)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bioparco-roma-portada.jpg": {
+   "park": "bioparco-roma",
+   "ride": null,
+   "shows": "Entrada monumental de estilo barroco del Bioparco di Roma, en Villa Borghese (2007)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bioparco-roma-1.jpg": {
+   "park": "bioparco-roma",
+   "ride": null,
+   "shows": "Flamencos junto al lago del Bioparco (enero de 2024)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bioparco-roma-2.jpg": {
+   "park": "bioparco-roma",
+   "ride": null,
+   "shows": "Camello bactriano delante de su refugio en el Bioparco (enero de 2024)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "bioparco-roma-3.jpg": {
+   "park": "bioparco-roma",
+   "ride": null,
+   "shows": "Dos focas en su estanque del Bioparco (marzo de 2025)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-london-portada.jpg": {
+   "park": "sea-life-london",
+   "ride": null,
+   "shows": "Túnel submarino de acrílico del SEA LIFE London Aquarium (junio de 2018)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-london-1.jpg": {
+   "park": "sea-life-london",
+   "ride": null,
+   "shows": "Un tiburón y una tortuga marina nadando en el gran tanque del acuario (2013)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-london-2.jpg": {
+   "park": "sea-life-london",
+   "ride": null,
+   "shows": "Tanque de agua dulce con plantas, troncos y peces en el SEA LIFE London Aquarium (2013)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-london-3.jpg": {
+   "park": "sea-life-london",
+   "ride": null,
+   "shows": "Vista del edificio County Hall con el London Eye; el acuario ocupa la planta baja (2011)",
+   "width": 1200,
+   "height": 445,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "london-dungeon-portada.jpg": {
+   "park": "london-dungeon",
+   "ride": null,
+   "shows": "Fachada del Riverside Building de County Hall con el cartel del London Dungeon en la entrada (2014)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "london-dungeon-1.jpg": {
+   "park": "london-dungeon",
+   "ride": null,
+   "shows": "Escalera de acceso y entrada del London Dungeon en County Hall, con visitantes en la cola",
+   "width": 1200,
+   "height": 871,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tiergarten-schonbrunn-portada.jpg": {
+   "park": "tiergarten-schonbrunn",
+   "ride": null,
+   "shows": "Pabellón imperial (Kaiserpavillon) del Tiergarten Schönbrunn, en el centro del zoo, con su terraza (junio de 2022)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tiergarten-schonbrunn-1.jpg": {
+   "park": "tiergarten-schonbrunn",
+   "ride": null,
+   "shows": "Avenida arbolada que lleva al pabellón imperial del zoo de Schönbrunn (noviembre de 2014)",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tiergarten-schonbrunn-2.jpg": {
+   "park": "tiergarten-schonbrunn",
+   "ride": null,
+   "shows": "Fuente de las focas con nenúfares y, al fondo, un edificio amarillo del Tiergarten Schönbrunn (2012)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tiergarten-schonbrunn-3.jpg": {
+   "park": "tiergarten-schonbrunn",
+   "ride": null,
+   "shows": "Primer plano de un guepardo en el zoo de Viena (abril de 2016)",
+   "width": 1200,
+   "height": 799,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "copenhagen-zoo-portada.jpg": {
+   "park": "copenhagen-zoo",
+   "ride": null,
+   "shows": "Vista aérea del Zoo de Copenhague con la torre de observación y el arbolado (agosto de 2022)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "copenhagen-zoo-1.jpg": {
+   "park": "copenhagen-zoo",
+   "ride": null,
+   "shows": "Parte alta de la torre del zoo con el letrero ZOO y bandada de aves (2007)",
+   "width": 1200,
+   "height": 886,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "copenhagen-zoo-2.jpg": {
+   "park": "copenhagen-zoo",
+   "ride": null,
+   "shows": "Jirafas en su recinto del Zoo de Copenhague (mayo de 2012)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "copenhagen-zoo-3.jpg": {
+   "park": "copenhagen-zoo",
+   "ride": null,
+   "shows": "Oso polar sobre las rocas de su recinto en el Zoo de Copenhague (2008)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ripleys-aquarium-toronto-portada.jpg": {
+   "park": "ripleys-aquarium-toronto",
+   "ride": null,
+   "shows": "Fachada del Ripley's Aquarium of Canada con los rascacielos de Toronto detrás (agosto de 2025)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ripleys-aquarium-toronto-1.jpg": {
+   "park": "ripleys-aquarium-toronto",
+   "ride": null,
+   "shows": "Fachada iluminada del Ripley's Aquarium of Canada de noche (junio de 2026)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ripleys-aquarium-toronto-2.jpg": {
+   "park": "ripleys-aquarium-toronto",
+   "ride": null,
+   "shows": "Pez cirujano amarillo en el arrecife Rainbow Reef (2013)",
+   "width": 1200,
+   "height": 795,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-miami-portada.jpg": {
+   "park": "zoo-miami",
+   "ride": null,
+   "shows": "Flamencos americanos en su estanque de Zoo Miami (2017)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-miami-1.jpg": {
+   "park": "zoo-miami",
+   "ride": null,
+   "shows": "Entrada cubierta de la zona Florida: Mission Everglades de Zoo Miami (2017)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-miami-2.jpg": {
+   "park": "zoo-miami",
+   "ride": null,
+   "shows": "Arco de entrada de la zona Amazon & Beyond de Zoo Miami (2017)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-miami-3.jpg": {
+   "park": "zoo-miami",
+   "ride": null,
+   "shows": "Tigre de Sumatra paseando por la hierba en Zoo Miami (2015)",
+   "width": 1200,
+   "height": 869,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-orlando-portada.jpg": {
+   "park": "sea-life-orlando",
+   "ride": null,
+   "shows": "Edificio del acuario SEA LIFE Orlando con su mural marino y la noria del ICON Park detrás (febrero de 2022)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-orlando-1.jpg": {
+   "park": "sea-life-orlando",
+   "ride": null,
+   "shows": "Raya americana (Hypanus americanus) sobre la arena del fondo del acuario (2021)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-orlando-2.jpg": {
+   "park": "sea-life-orlando",
+   "ride": null,
+   "shows": "Raya amarilla bajo luz roja y violeta en el acuario (2016)",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-orlando-3.jpg": {
+   "park": "sea-life-orlando",
+   "ride": null,
+   "shows": "Fachada con mural marino del acuario SEA LIFE Orlando y la noria del ICON Park (febrero de 2022)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "river-wonders-portada.jpg": {
+   "park": "river-wonders",
+   "ride": null,
+   "shows": "Siluro gigante del Mekong nadando en el acuario de River Wonders, Singapur (2025)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "river-wonders-1.jpg": {
+   "park": "river-wonders",
+   "ride": null,
+   "shows": "Panda gigante comiendo bambú en su recinto de River Wonders, Singapur",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "river-wonders-2.jpg": {
+   "park": "river-wonders",
+   "ride": null,
+   "shows": "Gran gurami junto a troncos sumergidos en un acuario de River Wonders, Singapur",
+   "width": 1200,
+   "height": 731,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "river-wonders-3.jpg": {
+   "park": "river-wonders",
+   "ride": null,
+   "shows": "Esturión kaluga en el acuario de River Wonders, Singapur (2025)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chimelong-ocean-kingdom-portada.jpg": {
+   "park": "chimelong-ocean-kingdom",
+   "ride": null,
+   "shows": "Ocean Avenue, la calle principal de Chimelong Ocean Kingdom, con la cúpula de colores y visitantes al fondo",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chimelong-ocean-kingdom-1.jpg": {
+   "park": "chimelong-ocean-kingdom",
+   "ride": null,
+   "shows": "Gran estatua del tiburón ballena junto al Whale Shark Aquarium de Chimelong Ocean Kingdom, con visitantes alrededor",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chimelong-ocean-kingdom-2.jpg": {
+   "park": "chimelong-ocean-kingdom",
+   "ride": null,
+   "shows": "Galeón pirata amarrado en el lago de Chimelong Ocean Kingdom",
+   "width": 1200,
+   "height": 882,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chimelong-ocean-kingdom-3.jpg": {
+   "park": "chimelong-ocean-kingdom",
+   "ride": null,
+   "shows": "Fachada del Beluga Theatre de Chimelong Ocean Kingdom, decorada con copos de nieve (2015)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tokyo-joypolis-portada.jpg": {
+   "park": "tokyo-joypolis",
+   "ride": null,
+   "shows": "Fachada nocturna del centro comercial DECKS Tokyo Beach, en Odaiba, donde está Tokyo Joypolis (diciembre de 2023)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tokyo-joypolis-1.jpg": {
+   "park": "tokyo-joypolis",
+   "ride": null,
+   "shows": "Zona de entrada de Tokyo Joypolis con el rótulo luminoso Joypolis y la taquilla (2010)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-world-gold-coast-portada.jpg": {
+   "park": "sea-world-gold-coast",
+   "ride": null,
+   "shows": "Laguna del estadio de espectáculos de Sea World en Gold Coast, con público de espaldas y un ave en vuelo (2012)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-world-gold-coast-1.jpg": {
+   "park": "sea-world-gold-coast",
+   "ride": null,
+   "shows": "Estructura de madera de la montaña rusa Leviathan en construcción en Sea World, Gold Coast (julio de 2022)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-world-gold-coast-2.jpg": {
+   "park": "sea-world-gold-coast",
+   "ride": null,
+   "shows": "Monorraíl de Sea World en movimiento sobre su viga elevada (2018)",
+   "width": 1200,
+   "height": 418,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "siam-amazing-park-portada.jpg": {
+   "park": "siam-amazing-park",
+   "ride": null,
+   "shows": "Piscina de olas del parque acuático, con el cartel World's Largest Wave Pool y un faro rojo y blanco al fondo (2016)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "siam-amazing-park-1.jpg": {
+   "park": "siam-amazing-park",
+   "ride": null,
+   "shows": "Torres de caída de las atracciones y zona de ocio vistas desde la pasarela del lago (2016)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "siam-amazing-park-2.jpg": {
+   "park": "siam-amazing-park",
+   "ride": null,
+   "shows": "Tobogán acuático entre palmeras y vegetación tropical (2016)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "siam-amazing-park-3.jpg": {
+   "park": "siam-amazing-park",
+   "ride": null,
+   "shows": "Vista aérea de Vortex, la montaña rusa suspendida con loopings (2013)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "leofoo-village-portada.jpg": {
+   "park": "leofoo-village",
+   "ride": null,
+   "shows": "Edificios de la zona Arab Palace con cúpulas doradas bajo un cielo nublado (2016)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "leofoo-village-1.jpg": {
+   "park": "leofoo-village",
+   "ride": null,
+   "shows": "Pórtico de la entrada principal del parque con banderines (foto de 2007)",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "leofoo-village-2.jpg": {
+   "park": "leofoo-village",
+   "ride": null,
+   "shows": "Rinocerontes y otros animales en un recinto de la zona de safari (2018)",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "leofoo-village-3.jpg": {
+   "park": "leofoo-village",
+   "ride": null,
+   "shows": "Looping de la atracción Ring of Fire junto a los edificios de estilo árabe (2011)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vinwonders-nha-trang-portada.jpg": {
+   "park": "vinwonders-nha-trang",
+   "ride": null,
+   "shows": "Vista de la bahía de Nha Trang con las cabinas del teleférico y el parque VinWonders en la isla Hon Tre, desde la Sky Wheel (2025)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vinwonders-nha-trang-1.jpg": {
+   "park": "vinwonders-nha-trang",
+   "ride": null,
+   "shows": "Castillo y casas de colores del parque VinWonders vistos entre la vegetación con la bahía al fondo, día nublado (2020)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vinwonders-nha-trang-2.jpg": {
+   "park": "vinwonders-nha-trang",
+   "ride": null,
+   "shows": "Vista del parque con su castillo, los toldos blancos y la bahía de Nha Trang al fondo (2020)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vinwonders-phu-quoc-portada.jpg": {
+   "park": "vinwonders-phu-quoc",
+   "ride": null,
+   "shows": "Vista aérea del parque VinWonders Phu Quoc desde la noria, con el castillo y las piscinas, con gotas de lluvia en la lente (2022)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vinwonders-phu-quoc-1.jpg": {
+   "park": "vinwonders-phu-quoc",
+   "ride": null,
+   "shows": "Gran estructura de madera de la Casa de la Fuente Musical de VinWonders Phu Quoc (2022)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vinwonders-phu-quoc-2.jpg": {
+   "park": "vinwonders-phu-quoc",
+   "ride": null,
+   "shows": "Noria de VinWonders Phu Quoc tras una montaña rocosa temática (2022)",
+   "width": 1200,
+   "height": 1042,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "seaworld-abu-dhabi-portada.jpg": {
+   "park": "seaworld-abu-dhabi",
+   "ride": null,
+   "shows": "Flamencos en el recinto de laguna con vegetación del interior de SeaWorld Yas Island, Abu Dabi (2024)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "seaworld-abu-dhabi-1.jpg": {
+   "park": "seaworld-abu-dhabi",
+   "ride": null,
+   "shows": "Pingüinos entre formaciones de hielo en la zona polar de SeaWorld Abu Dhabi (2023)",
+   "width": 1200,
+   "height": 674,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "seaworld-abu-dhabi-2.jpg": {
+   "park": "seaworld-abu-dhabi",
+   "ride": null,
+   "shows": "Pingüino sobre un bloque de hielo junto a una cueva helada en la zona Antártida de SeaWorld Abu Dhabi (2023)",
+   "width": 1200,
+   "height": 674,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "seaworld-abu-dhabi-3.jpg": {
+   "park": "seaworld-abu-dhabi",
+   "ride": null,
+   "shows": "Ave tropical (arasarí) posada en un recinto del área tropical de SeaWorld Abu Dhabi (2023)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }
