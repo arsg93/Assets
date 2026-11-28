@@ -19773,6 +19773,552 @@
    "uses": [
     "guia"
    ]
+  },
+  "sumida-aquarium-portada.jpg": {
+   "park": "sumida-aquarium",
+   "ride": null,
+   "shows": "Recinto de los pingüinos de Magallanes en el Sumida Aquarium, con rocas y agua bajo luz azul (2021)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sumida-aquarium-1.jpg": {
+   "park": "sumida-aquarium",
+   "ride": null,
+   "shows": "Medusas luna flotando en el tanque de medusas del Sumida Aquarium (2018)",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sumida-aquarium-2.jpg": {
+   "park": "sumida-aquarium",
+   "ride": null,
+   "shows": "Gran tanque central con un tiburón y peces entre rocas, con siluetas de visitantes al pie (2024)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sunshine-aquarium-portada.jpg": {
+   "park": "sunshine-aquarium",
+   "ride": null,
+   "shows": "Gran tanque de arrecife del Sunshine Aquarium con bancos de peces tropicales y corales (2020)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sunshine-aquarium-1.jpg": {
+   "park": "sunshine-aquarium",
+   "ride": null,
+   "shows": "Tanque de arrecife con corales y peces naranjas en el Sunshine Aquarium (2020)",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sunshine-aquarium-2.jpg": {
+   "park": "sunshine-aquarium",
+   "ride": null,
+   "shows": "Marine Garden, la zona exterior del Sunshine Aquarium en la azotea entre palmeras y rascacielos (2011)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sunshine-aquarium-3.jpg": {
+   "park": "sunshine-aquarium",
+   "ride": null,
+   "shows": "León marino nadando bajo el agua en la piscina Marine Garden del Sunshine Aquarium (2013)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tokyo-dome-city-portada.jpg": {
+   "park": "tokyo-dome-city",
+   "ride": null,
+   "shows": "Noria Big-O y raíles de la montaña rusa Thunder Dolphin contra un cielo azul, en Tokyo Dome City Attractions (2022)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tokyo-dome-city-1.jpg": {
+   "park": "tokyo-dome-city",
+   "ride": null,
+   "shows": "Noria Big-O iluminada de noche junto a los raíles de la montaña rusa en Tokyo Dome City (2014)",
+   "width": 1200,
+   "height": 769,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tokyo-dome-city-2.jpg": {
+   "park": "tokyo-dome-city",
+   "ride": null,
+   "shows": "Vista del parque con la atracción Viking, la noria Big-O y la montaña rusa Thunder Dolphin (2014)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "tokyo-dome-city-3.jpg": {
+   "park": "tokyo-dome-city",
+   "ride": null,
+   "shows": "Plaza del parque con la atracción Viking y el estadio Tokyo Dome al fondo (2021)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "toei-kyoto-studio-park-portada.jpg": {
+   "park": "toei-kyoto-studio-park",
+   "ride": null,
+   "shows": "Vista desde lo alto de las calles del periodo Edo del set de Toei Kyoto Studio Park, con las colinas al fondo (2016)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "toei-kyoto-studio-park-1.jpg": {
+   "park": "toei-kyoto-studio-park",
+   "ride": null,
+   "shows": "Calle del set de Edo enmarcada por dos faroles de papel, con fachadas rojas al fondo (2013)",
+   "width": 1200,
+   "height": 798,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "toei-kyoto-studio-park-2.jpg": {
+   "park": "toei-kyoto-studio-park",
+   "ride": null,
+   "shows": "Calle del set de época Edo con casas de madera y tejados de teja (2014)",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "toei-kyoto-studio-park-3.jpg": {
+   "park": "toei-kyoto-studio-park",
+   "ride": null,
+   "shows": "Fachada del Café Ninja en el set de Toei Kyoto Studio Park (2013)",
+   "width": 1200,
+   "height": 798,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "xpark-taiwan-portada.jpg": {
+   "park": "xpark-taiwan",
+   "ride": null,
+   "shows": "Gran tanque central de Xpark visto desde la zona de observación, con agua azul turquesa (2024)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "xpark-taiwan-1.jpg": {
+   "park": "xpark-taiwan",
+   "ride": null,
+   "shows": "Rocas cubiertas de algas y corales verdes en un tanque de Xpark con luz tenue (2024)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "xpark-taiwan-2.jpg": {
+   "park": "xpark-taiwan",
+   "ride": null,
+   "shows": "Arrecife de coral visto desde abajo en un tanque de Xpark (2024)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wild-wild-wet-portada.jpg": {
+   "park": "wild-wild-wet",
+   "ride": null,
+   "shows": "Zona de chorros de agua con el letrero de Wild Wild Wet y toboganes de colores al fondo (2017)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wild-life-sydney-zoo-portada.jpg": {
+   "park": "wild-life-sydney-zoo",
+   "ride": null,
+   "shows": "Dos canguros grises sobre troncos en su recinto del WILD LIFE Sydney Zoo, 2016",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wild-life-sydney-zoo-2.jpg": {
+   "park": "wild-life-sydney-zoo",
+   "ride": null,
+   "shows": "Canguros en su recinto del WILD LIFE Sydney Zoo, Darling Harbour, 2013",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wild-life-sydney-zoo-3.jpg": {
+   "park": "wild-life-sydney-zoo",
+   "ride": null,
+   "shows": "Dragón de red central (lagarto australiano) sobre un tronco en el terrario del WILD LIFE Sydney Zoo, 2024",
+   "width": 1200,
+   "height": 778,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kelly-tarltons-portada.jpg": {
+   "park": "kelly-tarltons",
+   "ride": null,
+   "shows": "Túnel transparente del oceanario de SEA LIFE Kelly Tarlton's, Auckland, 2022",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kelly-tarltons-1.jpg": {
+   "park": "kelly-tarltons",
+   "ride": null,
+   "shows": "Colonia de pingüinos rey sobre nieve en la zona Antártida de Kelly Tarlton's, 2012",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kelly-tarltons-2.jpg": {
+   "park": "kelly-tarltons",
+   "ride": null,
+   "shows": "Primer plano de pingüinos rey en la exposición Antártida de Kelly Tarlton's, 2022",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kelly-tarltons-3.jpg": {
+   "park": "kelly-tarltons",
+   "ride": null,
+   "shows": "Interior de la réplica de la cabaña de Scott con luz azul, en Kelly Tarlton's, 2011",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parc-zoologique-de-paris-portada.jpg": {
+   "park": "parc-zoologique-de-paris",
+   "ride": null,
+   "shows": "Vista aérea del Parc zoologique de Paris con recintos y el gran invernadero, tomada desde el Grand Rocher, 2026",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parc-zoologique-de-paris-1.jpg": {
+   "park": "parc-zoologique-de-paris",
+   "ride": null,
+   "shows": "Recinto de la biozona Sahel-Sudán con el Grand Rocher al fondo, 2015",
+   "width": 1200,
+   "height": 709,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parc-zoologique-de-paris-2.jpg": {
+   "park": "parc-zoologique-de-paris",
+   "ride": null,
+   "shows": "Cebras de Grevy pastando en la biozona de África, 2015",
+   "width": 1200,
+   "height": 799,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "parc-zoologique-de-paris-3.jpg": {
+   "park": "parc-zoologique-de-paris",
+   "ride": null,
+   "shows": "Recinto de rocas artificiales y agua de la biozona Patagonia, 2016",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "the-green-planet-dubai-portada.jpg": {
+   "park": "the-green-planet-dubai",
+   "ride": null,
+   "shows": "Árbol central y cascada dentro del biodomo de The Green Planet, Dubái, 2022",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "the-green-planet-dubai-1.jpg": {
+   "park": "the-green-planet-dubai",
+   "ride": null,
+   "shows": "Tucán de pico grande entre vegetación en The Green Planet, Dubái, 2017",
+   "width": 1200,
+   "height": 759,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "the-green-planet-dubai-2.jpg": {
+   "park": "the-green-planet-dubai",
+   "ride": null,
+   "shows": "Pitón arborícola verde enroscado en una rama en The Green Planet, Dubái, 2017",
+   "width": 1200,
+   "height": 907,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "the-green-planet-dubai-3.jpg": {
+   "park": "the-green-planet-dubai",
+   "ride": null,
+   "shows": "Árbol central con pasarela y escalera de caracol en el biodomo de The Green Planet, Dubái, 2022",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wet-n-wild-gold-coast-portada.jpg": {
+   "park": "wet-n-wild-gold-coast",
+   "ride": null,
+   "shows": "Piscina de olas con toboganes al fondo en Wet'n'Wild Gold Coast, 2012",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wet-n-wild-gold-coast-1.jpg": {
+   "park": "wet-n-wild-gold-coast",
+   "ride": null,
+   "shows": "Zona infantil Buccaneer Bay, con barco pirata y piscina poco profunda, 2012",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wet-n-wild-gold-coast-2.jpg": {
+   "park": "wet-n-wild-gold-coast",
+   "ride": null,
+   "shows": "Embudo del tobogán Tornado con su torre de acceso, 2007",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wet-n-wild-gold-coast-3.jpg": {
+   "park": "wet-n-wild-gold-coast",
+   "ride": null,
+   "shows": "Torre de toboganes Zoom Zone casi terminada, 2025",
+   "width": 1024,
+   "height": 768,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "currumbin-portada.jpg": {
+   "park": "currumbin",
+   "ride": null,
+   "shows": "Edificio de entrada del Currumbin Wildlife Sanctuary, 2015",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "currumbin-1.jpg": {
+   "park": "currumbin",
+   "ride": null,
+   "shows": "Dos koalas abrazados a una rama de eucalipto en Currumbin Wildlife Sanctuary, 2017",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "currumbin-2.jpg": {
+   "park": "currumbin",
+   "ride": null,
+   "shows": "Canguro rojo dormitando en el suelo en Currumbin Wildlife Sanctuary, 2017",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "currumbin-3.jpg": {
+   "park": "currumbin",
+   "ride": null,
+   "shows": "Bosque de eucaliptos con el circuito de cuerdas del Tree Top Challenge, 2017",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }
