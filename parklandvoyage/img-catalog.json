@@ -19123,6 +19123,656 @@
    "uses": [
     "guia"
    ]
+  },
+  "dublin-zoo-portada.jpg": {
+   "park": "dublin-zoo",
+   "ride": null,
+   "shows": "Jirafas en la zona African Plains del Dublin Zoo, 2018",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dublin-zoo-1.jpg": {
+   "park": "dublin-zoo",
+   "ride": null,
+   "shows": "Dos leonas aseándose en el Dublin Zoo, 2017",
+   "width": 1200,
+   "height": 795,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dublin-zoo-2.jpg": {
+   "park": "dublin-zoo",
+   "ride": null,
+   "shows": "Edificio de entrada del Dublin Zoo junto a la calzada de acceso, 2018",
+   "width": 1200,
+   "height": 1051,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "blijdorp-portada.jpg": {
+   "park": "blijdorp",
+   "ride": null,
+   "shows": "Túnel acrílico del Oceanium de Diergaarde Blijdorp con visitantes, 2012",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "blijdorp-1.jpg": {
+   "park": "blijdorp",
+   "ride": null,
+   "shows": "Columnata de la Casa de las Jirafas y el salón de té de Diergaarde Blijdorp, 2024",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "blijdorp-2.jpg": {
+   "park": "blijdorp",
+   "ride": null,
+   "shows": "Rivièrahal de Diergaarde Blijdorp iluminada al anochecer, 2023",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "blijdorp-3.jpg": {
+   "park": "blijdorp",
+   "ride": null,
+   "shows": "Estanque central de Diergaarde Blijdorp, 2023",
+   "width": 1200,
+   "height": 674,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "jardin-d-acclimatation-portada.jpg": {
+   "park": "jardin-d-acclimatation",
+   "ride": null,
+   "shows": "Carrusel de techo de lona del Jardin d'Acclimatation y una cabaña de paja, 2019",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "jardin-d-acclimatation-1.jpg": {
+   "park": "jardin-d-acclimatation",
+   "ride": null,
+   "shows": "Carrusel de dos pisos del Jardin d'Acclimatation, 2020",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "jardin-d-acclimatation-2.jpg": {
+   "park": "jardin-d-acclimatation",
+   "ride": null,
+   "shows": "Templete de música del Jardin d'Acclimatation entre árboles, 2019",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "jardin-d-acclimatation-3.jpg": {
+   "park": "jardin-d-acclimatation",
+   "ride": null,
+   "shows": "Arroyo con islote entre árboles en el Jardin d'Acclimatation, junto a la Rivière Enchantée, 2014",
+   "width": 1200,
+   "height": 798,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "california-academy-of-sciences-portada.jpg": {
+   "park": "california-academy-of-sciences",
+   "ride": null,
+   "shows": "Vista aérea del tejado vivo de la California Academy of Sciences, 2021",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "california-academy-of-sciences-1.jpg": {
+   "park": "california-academy-of-sciences",
+   "ride": null,
+   "shows": "Entrada principal de la California Academy of Sciences al anochecer, diciembre de 2016",
+   "width": 1200,
+   "height": 857,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "california-academy-of-sciences-2.jpg": {
+   "park": "california-academy-of-sciences",
+   "ride": null,
+   "shows": "Vestíbulo de la California Academy of Sciences con un esqueleto de T. rex, 2024",
+   "width": 1200,
+   "height": 676,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "california-academy-of-sciences-3.jpg": {
+   "park": "california-academy-of-sciences",
+   "ride": null,
+   "shows": "Interior de la esfera de la selva tropical, 2024",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "new-england-aquarium-portada.jpg": {
+   "park": "new-england-aquarium",
+   "ride": null,
+   "shows": "Fachada acristalada del New England Aquarium en Central Wharf con el puerto de Boston, 2016",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "new-england-aquarium-1.jpg": {
+   "park": "new-england-aquarium",
+   "ride": null,
+   "shows": "Myrtle, tortuga verde, nadando en el Giant Ocean Tank, octubre de 2024",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "new-england-aquarium-2.jpg": {
+   "park": "new-england-aquarium",
+   "ride": null,
+   "shows": "Zona de pingüinos del New England Aquarium vista desde arriba, octubre de 2024",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "new-england-aquarium-3.jpg": {
+   "park": "new-england-aquarium",
+   "ride": null,
+   "shows": "Colonia de pingüinos sobre las rocas del New England Aquarium, 2012",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "melbourne-zoo-portada.jpg": {
+   "park": "melbourne-zoo",
+   "ride": null,
+   "shows": "Edificio art déco de la entrada del Melbourne Zoo, 2012",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "melbourne-zoo-1.jpg": {
+   "park": "melbourne-zoo",
+   "ride": null,
+   "shows": "Carrusel de caballos de madera del Melbourne Zoo, 2012",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "melbourne-zoo-2.jpg": {
+   "park": "melbourne-zoo",
+   "ride": null,
+   "shows": "Interior del gran aviario del Melbourne Zoo, 2012",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-melbourne-portada.jpg": {
+   "park": "sea-life-melbourne",
+   "ride": null,
+   "shows": "Fachada del SEA LIFE Melbourne Aquarium junto al río Yarra, vista desde Southbank, 2023",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-melbourne-1.jpg": {
+   "park": "sea-life-melbourne",
+   "ride": null,
+   "shows": "Edificio del SEA LIFE Melbourne Aquarium visto desde el río Yarra, 2018",
+   "width": 1200,
+   "height": 911,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-melbourne-2.jpg": {
+   "park": "sea-life-melbourne",
+   "ride": null,
+   "shows": "Tanque de anémonas con peces payaso y peces cirujano amarillos en el SEA LIFE Melbourne Aquarium, 2026",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "genting-skyworlds-1.jpg": {
+   "park": "genting-skyworlds",
+   "ride": null,
+   "shows": "Montaña rusa entre rocas y cascada nevada en la zona Ice Age del parque, 2024",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "genting-skyworlds-3.jpg": {
+   "park": "genting-skyworlds",
+   "ride": null,
+   "shows": "Calle con fachadas de colores de la zona Liberty Lane (estilo Nueva York), 2024",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "enchanted-kingdom-portada.jpg": {
+   "park": "enchanted-kingdom",
+   "ride": null,
+   "shows": "Vista aérea del parque desde la noria Wheel of Fate: montañas rusas, lago de barcas y zona de entrada, 2019",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "enchanted-kingdom-1.jpg": {
+   "park": "enchanted-kingdom",
+   "ride": null,
+   "shows": "Montañas rusas con loopings y el cohete de Space Shuttle al atardecer, 2010",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "enchanted-kingdom-2.jpg": {
+   "park": "enchanted-kingdom",
+   "ride": null,
+   "shows": "Estructura de la montaña rusa Space Shuttle contra el cielo, 2015",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquaria-klcc-portada.jpg": {
+   "park": "aquaria-klcc",
+   "ride": null,
+   "shows": "Tiburón toro nadando en el gran tanque del túnel de Aquaria KLCC, 2007",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquaria-klcc-1.jpg": {
+   "park": "aquaria-klcc",
+   "ride": null,
+   "shows": "Tiburón toro visto desde abajo en el túnel submarino de Aquaria KLCC, 2007",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquaria-klcc-2.jpg": {
+   "park": "aquaria-klcc",
+   "ride": null,
+   "shows": "Hora de alimentación en el gran tanque de Aquaria KLCC con bancos de peces y buceador, 2010",
+   "width": 1200,
+   "height": 797,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chengdu-panda-base-portada.jpg": {
+   "park": "chengdu-panda-base",
+   "ride": null,
+   "shows": "Entrada de la Base de Investigación y Cría del Panda Gigante de Chengdu, con su arco blanco, 2015",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chengdu-panda-base-1.jpg": {
+   "park": "chengdu-panda-base",
+   "ride": null,
+   "shows": "Dos pandas gigantes descansando sobre una plataforma de troncos, 2019",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chengdu-panda-base-2.jpg": {
+   "park": "chengdu-panda-base",
+   "ride": null,
+   "shows": "Panda rojo sobre una estructura de troncos en su recinto, 2019",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "chengdu-panda-base-3.jpg": {
+   "park": "chengdu-panda-base",
+   "ride": null,
+   "shows": "Panda gigante caminando junto a cañas de bambú en su recinto, 2009",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ngong-ping-360-portada.jpg": {
+   "park": "ngong-ping-360",
+   "ride": null,
+   "shows": "Cabina del teleférico Ngong Ping 360 sobre el aeropuerto de Hong Kong y la costa de Lantau, 2021",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ngong-ping-360-1.jpg": {
+   "park": "ngong-ping-360",
+   "ride": null,
+   "shows": "Cabina y torre del teleférico Ngong Ping 360 con las montañas y la bahía de Lantau al fondo, 2023",
+   "width": 1200,
+   "height": 715,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ngong-ping-360-2.jpg": {
+   "park": "ngong-ping-360",
+   "ride": null,
+   "shows": "Plaza de entrada de Ngong Ping Village con la colina de Lantau al fondo, 2023",
+   "width": 1200,
+   "height": 801,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nong-nooch-portada.jpg": {
+   "park": "nong-nooch",
+   "ride": null,
+   "shows": "Jardín francés de Nong Nooch con setos recortados, estupas blancas y dorados al fondo, 2014",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nong-nooch-1.jpg": {
+   "park": "nong-nooch",
+   "ride": null,
+   "shows": "Camino entre topiarios, esculturas de elefantes y vasijas en el jardín de Nong Nooch, 2014",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nong-nooch-2.jpg": {
+   "park": "nong-nooch",
+   "ride": null,
+   "shows": "Jardín con setos, palmeras y piedras volcánicas visto desde lo alto, Nong Nooch, 2014",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "nong-nooch-3.jpg": {
+   "park": "nong-nooch",
+   "ride": null,
+   "shows": "Vista desde un mirador del lago y los jardines de Nong Nooch, 2014",
+   "width": 1200,
+   "height": 797,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kyoto-aquarium-portada.jpg": {
+   "park": "kyoto-aquarium",
+   "ride": null,
+   "shows": "Fachada del Kyoto Aquarium en el parque Umekoji, 2012",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kyoto-aquarium-1.jpg": {
+   "park": "kyoto-aquarium",
+   "ride": null,
+   "shows": "Banco de sardinas en el gran tanque del Kyoto Aquarium, 2019",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kyoto-aquarium-2.jpg": {
+   "park": "kyoto-aquarium",
+   "ride": null,
+   "shows": "Delfín mular asomando la cabeza en el estadio de delfines del Kyoto Aquarium, 2019",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "kyoto-aquarium-3.jpg": {
+   "park": "kyoto-aquarium",
+   "ride": null,
+   "shows": "Delfín mular junto a la plataforma del estadio de delfines del Kyoto Aquarium, 2019",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "genting-skyworlds-2.jpg": {
+   "park": "genting-skyworlds",
+   "ride": null,
+   "shows": "Arco de entrada de la zona Eagle Mountain, con su cartel de bienvenida, 2022",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "genting-skyworlds-portada.jpg": {
+   "park": "genting-skyworlds",
+   "ride": null,
+   "shows": "Montaña rusa naranja junto al edificio gris de la zona Andromeda Base, 2024",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }

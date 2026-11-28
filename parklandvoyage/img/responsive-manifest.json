@@ -2529,6 +2529,183 @@
         ]
       }
     },
+    "aquaria-klcc-1.jpg": {
+      "sha256": "2c0a48be0086c8ccbefaa60c01394cca47cb24d0309b1f740581240230559574",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquaria-klcc-1/2c0a48be0086-w480.avif",
+            "width": 480,
+            "bytes": 3734
+          },
+          {
+            "file": "responsive/aquaria-klcc-1/2c0a48be0086-w768.avif",
+            "width": 768,
+            "bytes": 7273
+          },
+          {
+            "file": "responsive/aquaria-klcc-1/2c0a48be0086-w1200.avif",
+            "width": 1200,
+            "bytes": 14336
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquaria-klcc-1/2c0a48be0086-w480.webp",
+            "width": 480,
+            "bytes": 8868
+          },
+          {
+            "file": "responsive/aquaria-klcc-1/2c0a48be0086-w768.webp",
+            "width": 768,
+            "bytes": 18274
+          },
+          {
+            "file": "responsive/aquaria-klcc-1/2c0a48be0086-w1200.webp",
+            "width": 1200,
+            "bytes": 39024
+          }
+        ]
+      }
+    },
+    "aquaria-klcc-2.jpg": {
+      "sha256": "30793a2915366eb036ef53a1aea606dfd7e62945e163dabe707fcccf6bb2f064",
+      "original_width": 1200,
+      "original_height": 797,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquaria-klcc-2/30793a291536-w480.avif",
+            "width": 480,
+            "bytes": 17920
+          },
+          {
+            "file": "responsive/aquaria-klcc-2/30793a291536-w768.avif",
+            "width": 768,
+            "bytes": 31677
+          },
+          {
+            "file": "responsive/aquaria-klcc-2/30793a291536-w1200.avif",
+            "width": 1200,
+            "bytes": 54920
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquaria-klcc-2/30793a291536-w480.webp",
+            "width": 480,
+            "bytes": 28550
+          },
+          {
+            "file": "responsive/aquaria-klcc-2/30793a291536-w768.webp",
+            "width": 768,
+            "bytes": 56508
+          },
+          {
+            "file": "responsive/aquaria-klcc-2/30793a291536-w1200.webp",
+            "width": 1200,
+            "bytes": 102000
+          }
+        ]
+      }
+    },
+    "aquaria-klcc-portada.jpg": {
+      "sha256": "725c4fe03eaa0982613eea256242afcf1fb59f1dc5cfdb1775b9c878c2936fa2",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/aquaria-klcc-portada/725c4fe03eaa-w480.avif",
+            "width": 480,
+            "bytes": 4271
+          },
+          {
+            "file": "responsive/aquaria-klcc-portada/725c4fe03eaa-w768.avif",
+            "width": 768,
+            "bytes": 8224
+          },
+          {
+            "file": "responsive/aquaria-klcc-portada/725c4fe03eaa-w1200.avif",
+            "width": 1200,
+            "bytes": 17045
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/aquaria-klcc-portada/725c4fe03eaa-w480.webp",
+            "width": 480,
+            "bytes": 8300
+          },
+          {
+            "file": "responsive/aquaria-klcc-portada/725c4fe03eaa-w768.webp",
+            "width": 768,
+            "bytes": 18286
+          },
+          {
+            "file": "responsive/aquaria-klcc-portada/725c4fe03eaa-w1200.webp",
+            "width": 1200,
+            "bytes": 40188
+          }
+        ]
+      }
+    },
     "aquarium-barcelona-1.jpg": {
       "sha256": "22dccde6bb443f39792f790b28934c363c548a9811af8c03fb04a3ed81625aa8",
       "original_width": 1200,
@@ -7190,6 +7367,242 @@
         ]
       }
     },
+    "blijdorp-1.jpg": {
+      "sha256": "cee759906f468f30947844283d53827b3339a21341f7b9c581173892a800267a",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/blijdorp-1/cee759906f46-w480.avif",
+            "width": 480,
+            "bytes": 10090
+          },
+          {
+            "file": "responsive/blijdorp-1/cee759906f46-w768.avif",
+            "width": 768,
+            "bytes": 23436
+          },
+          {
+            "file": "responsive/blijdorp-1/cee759906f46-w1200.avif",
+            "width": 1200,
+            "bytes": 60840
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/blijdorp-1/cee759906f46-w480.webp",
+            "width": 480,
+            "bytes": 17454
+          },
+          {
+            "file": "responsive/blijdorp-1/cee759906f46-w768.webp",
+            "width": 768,
+            "bytes": 41980
+          },
+          {
+            "file": "responsive/blijdorp-1/cee759906f46-w1200.webp",
+            "width": 1200,
+            "bytes": 105806
+          }
+        ]
+      }
+    },
+    "blijdorp-2.jpg": {
+      "sha256": "95f423de1486778b67497d7f0e7e7e89a289154dd6d1e2d50ef99ca26fa88425",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/blijdorp-2/95f423de1486-w480.avif",
+            "width": 480,
+            "bytes": 31137
+          },
+          {
+            "file": "responsive/blijdorp-2/95f423de1486-w768.avif",
+            "width": 768,
+            "bytes": 74537
+          },
+          {
+            "file": "responsive/blijdorp-2/95f423de1486-w1200.avif",
+            "width": 1200,
+            "bytes": 168297
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/blijdorp-2/95f423de1486-w480.webp",
+            "width": 480,
+            "bytes": 45308
+          },
+          {
+            "file": "responsive/blijdorp-2/95f423de1486-w768.webp",
+            "width": 768,
+            "bytes": 107912
+          },
+          {
+            "file": "responsive/blijdorp-2/95f423de1486-w1200.webp",
+            "width": 1200,
+            "bytes": 245502
+          }
+        ]
+      }
+    },
+    "blijdorp-3.jpg": {
+      "sha256": "1a9db803480dc2bf8522edcb3f69e4bada80fbfa3977b99ee27e2adff898c80a",
+      "original_width": 1200,
+      "original_height": 674,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/blijdorp-3/1a9db803480d-w480.avif",
+            "width": 480,
+            "bytes": 16373
+          },
+          {
+            "file": "responsive/blijdorp-3/1a9db803480d-w768.avif",
+            "width": 768,
+            "bytes": 44323
+          },
+          {
+            "file": "responsive/blijdorp-3/1a9db803480d-w1200.avif",
+            "width": 1200,
+            "bytes": 116437
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/blijdorp-3/1a9db803480d-w480.webp",
+            "width": 480,
+            "bytes": 25604
+          },
+          {
+            "file": "responsive/blijdorp-3/1a9db803480d-w768.webp",
+            "width": 768,
+            "bytes": 68364
+          },
+          {
+            "file": "responsive/blijdorp-3/1a9db803480d-w1200.webp",
+            "width": 1200,
+            "bytes": 172796
+          }
+        ]
+      }
+    },
+    "blijdorp-portada.jpg": {
+      "sha256": "ee683e21fd51aa420ef52e95e1907650822f829e1d965a931e41ec298abf3367",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/blijdorp-portada/ee683e21fd51-w480.avif",
+            "width": 480,
+            "bytes": 11270
+          },
+          {
+            "file": "responsive/blijdorp-portada/ee683e21fd51-w768.avif",
+            "width": 768,
+            "bytes": 22242
+          },
+          {
+            "file": "responsive/blijdorp-portada/ee683e21fd51-w1200.avif",
+            "width": 1200,
+            "bytes": 42457
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/blijdorp-portada/ee683e21fd51-w480.webp",
+            "width": 480,
+            "bytes": 19834
+          },
+          {
+            "file": "responsive/blijdorp-portada/ee683e21fd51-w768.webp",
+            "width": 768,
+            "bytes": 42380
+          },
+          {
+            "file": "responsive/blijdorp-portada/ee683e21fd51-w1200.webp",
+            "width": 1200,
+            "bytes": 87930
+          }
+        ]
+      }
+    },
     "blizzard-beach-1.jpg": {
       "sha256": "8765e5656fa34927b5d8dff5d03f9f6f7ba163c8dc7bbe0aee2f273270b18d11",
       "original_width": 1200,
@@ -9609,6 +10022,242 @@
         ]
       }
     },
+    "california-academy-of-sciences-1.jpg": {
+      "sha256": "25c0028af49bc8c5245a312ea9fa5b2ea32876a28ec1957697b3886f46b5e1a9",
+      "original_width": 1200,
+      "original_height": 857,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/california-academy-of-sciences-1/25c0028af49b-w480.avif",
+            "width": 480,
+            "bytes": 16966
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-1/25c0028af49b-w768.avif",
+            "width": 768,
+            "bytes": 43271
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-1/25c0028af49b-w1200.avif",
+            "width": 1200,
+            "bytes": 110734
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/california-academy-of-sciences-1/25c0028af49b-w480.webp",
+            "width": 480,
+            "bytes": 29516
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-1/25c0028af49b-w768.webp",
+            "width": 768,
+            "bytes": 72668
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-1/25c0028af49b-w1200.webp",
+            "width": 1200,
+            "bytes": 182198
+          }
+        ]
+      }
+    },
+    "california-academy-of-sciences-2.jpg": {
+      "sha256": "76587254df8c2b1a0ec777230bcb19dc3a1b1e138763939a548c4f76e29cd319",
+      "original_width": 1200,
+      "original_height": 676,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/california-academy-of-sciences-2/76587254df8c-w480.avif",
+            "width": 480,
+            "bytes": 21095
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-2/76587254df8c-w768.avif",
+            "width": 768,
+            "bytes": 47282
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-2/76587254df8c-w1200.avif",
+            "width": 1200,
+            "bytes": 111139
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/california-academy-of-sciences-2/76587254df8c-w480.webp",
+            "width": 480,
+            "bytes": 31610
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-2/76587254df8c-w768.webp",
+            "width": 768,
+            "bytes": 74484
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-2/76587254df8c-w1200.webp",
+            "width": 1200,
+            "bytes": 175136
+          }
+        ]
+      }
+    },
+    "california-academy-of-sciences-3.jpg": {
+      "sha256": "469ec7e30a405137c8ae64fd61652377967c62818ba3294ff060702b7f3f4c9c",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/california-academy-of-sciences-3/469ec7e30a40-w480.avif",
+            "width": 480,
+            "bytes": 58725
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-3/469ec7e30a40-w768.avif",
+            "width": 768,
+            "bytes": 150325
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-3/469ec7e30a40-w1200.avif",
+            "width": 1200,
+            "bytes": 348231
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/california-academy-of-sciences-3/469ec7e30a40-w480.webp",
+            "width": 480,
+            "bytes": 74204
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-3/469ec7e30a40-w768.webp",
+            "width": 768,
+            "bytes": 188212
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-3/469ec7e30a40-w1200.webp",
+            "width": 1200,
+            "bytes": 452802
+          }
+        ]
+      }
+    },
+    "california-academy-of-sciences-portada.jpg": {
+      "sha256": "2911876e822034984d9cdec2f1e2a43eaa0dfc256bd842468accec431403975d",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/california-academy-of-sciences-portada/2911876e8220-w480.avif",
+            "width": 480,
+            "bytes": 15838
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-portada/2911876e8220-w768.avif",
+            "width": 768,
+            "bytes": 43510
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-portada/2911876e8220-w1200.avif",
+            "width": 1200,
+            "bytes": 117300
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/california-academy-of-sciences-portada/2911876e8220-w480.webp",
+            "width": 480,
+            "bytes": 24666
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-portada/2911876e8220-w768.webp",
+            "width": 768,
+            "bytes": 65058
+          },
+          {
+            "file": "responsive/california-academy-of-sciences-portada/2911876e8220-w1200.webp",
+            "width": 1200,
+            "bytes": 169548
+          }
+        ]
+      }
+    },
     "canadas-wonderland-coaster-v2.jpg": {
       "sha256": "b978d19fda7ea9895eaae9f1c1db926bd90cdb116b337ea50735d79166b00608",
       "original_width": 1376,
@@ -11493,6 +12142,242 @@
             "file": "responsive/cerrada-warning/733db3652943-w1200.webp",
             "width": 1200,
             "bytes": 218314
+          }
+        ]
+      }
+    },
+    "chengdu-panda-base-1.jpg": {
+      "sha256": "4843896719cc3dad152c3ad2bda5bbd35733066dd7cdeea0650d403bb0a4ab7b",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/chengdu-panda-base-1/4843896719cc-w480.avif",
+            "width": 480,
+            "bytes": 23242
+          },
+          {
+            "file": "responsive/chengdu-panda-base-1/4843896719cc-w768.avif",
+            "width": 768,
+            "bytes": 38068
+          },
+          {
+            "file": "responsive/chengdu-panda-base-1/4843896719cc-w1200.avif",
+            "width": 1200,
+            "bytes": 60753
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/chengdu-panda-base-1/4843896719cc-w480.webp",
+            "width": 480,
+            "bytes": 37540
+          },
+          {
+            "file": "responsive/chengdu-panda-base-1/4843896719cc-w768.webp",
+            "width": 768,
+            "bytes": 66694
+          },
+          {
+            "file": "responsive/chengdu-panda-base-1/4843896719cc-w1200.webp",
+            "width": 1200,
+            "bytes": 114294
+          }
+        ]
+      }
+    },
+    "chengdu-panda-base-2.jpg": {
+      "sha256": "3cd1b4a7aa580648c65e8cb79404090a08c35287763c0e4226736b9a051e6ef0",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/chengdu-panda-base-2/3cd1b4a7aa58-w480.avif",
+            "width": 480,
+            "bytes": 43082
+          },
+          {
+            "file": "responsive/chengdu-panda-base-2/3cd1b4a7aa58-w768.avif",
+            "width": 768,
+            "bytes": 84597
+          },
+          {
+            "file": "responsive/chengdu-panda-base-2/3cd1b4a7aa58-w1200.avif",
+            "width": 1200,
+            "bytes": 157240
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/chengdu-panda-base-2/3cd1b4a7aa58-w480.webp",
+            "width": 480,
+            "bytes": 60598
+          },
+          {
+            "file": "responsive/chengdu-panda-base-2/3cd1b4a7aa58-w768.webp",
+            "width": 768,
+            "bytes": 128220
+          },
+          {
+            "file": "responsive/chengdu-panda-base-2/3cd1b4a7aa58-w1200.webp",
+            "width": 1200,
+            "bytes": 235526
+          }
+        ]
+      }
+    },
+    "chengdu-panda-base-3.jpg": {
+      "sha256": "bf2aeb5eb40771e0563002f383c2fc26d4e80d9da603996111bc56f6a455db7b",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/chengdu-panda-base-3/bf2aeb5eb407-w480.avif",
+            "width": 480,
+            "bytes": 19002
+          },
+          {
+            "file": "responsive/chengdu-panda-base-3/bf2aeb5eb407-w768.avif",
+            "width": 768,
+            "bytes": 45033
+          },
+          {
+            "file": "responsive/chengdu-panda-base-3/bf2aeb5eb407-w1200.avif",
+            "width": 1200,
+            "bytes": 105285
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/chengdu-panda-base-3/bf2aeb5eb407-w480.webp",
+            "width": 480,
+            "bytes": 30102
+          },
+          {
+            "file": "responsive/chengdu-panda-base-3/bf2aeb5eb407-w768.webp",
+            "width": 768,
+            "bytes": 72688
+          },
+          {
+            "file": "responsive/chengdu-panda-base-3/bf2aeb5eb407-w1200.webp",
+            "width": 1200,
+            "bytes": 168768
+          }
+        ]
+      }
+    },
+    "chengdu-panda-base-portada.jpg": {
+      "sha256": "376c1f06c49e720df624215554c6a7254373a6b8bf14c66dab4591a667f50866",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/chengdu-panda-base-portada/376c1f06c49e-w480.avif",
+            "width": 480,
+            "bytes": 13576
+          },
+          {
+            "file": "responsive/chengdu-panda-base-portada/376c1f06c49e-w768.avif",
+            "width": 768,
+            "bytes": 29200
+          },
+          {
+            "file": "responsive/chengdu-panda-base-portada/376c1f06c49e-w1200.avif",
+            "width": 1200,
+            "bytes": 59144
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/chengdu-panda-base-portada/376c1f06c49e-w480.webp",
+            "width": 480,
+            "bytes": 21764
+          },
+          {
+            "file": "responsive/chengdu-panda-base-portada/376c1f06c49e-w768.webp",
+            "width": 768,
+            "bytes": 48830
+          },
+          {
+            "file": "responsive/chengdu-panda-base-portada/376c1f06c49e-w1200.webp",
+            "width": 1200,
+            "bytes": 108144
           }
         ]
       }
@@ -20111,6 +20996,183 @@
         ]
       }
     },
+    "dublin-zoo-1.jpg": {
+      "sha256": "1c04b9f5ccb138912a700c6edf2a248fe49dbec6eaabf81a5c6e34207758cf2d",
+      "original_width": 1200,
+      "original_height": 795,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dublin-zoo-1/1c04b9f5ccb1-w480.avif",
+            "width": 480,
+            "bytes": 15195
+          },
+          {
+            "file": "responsive/dublin-zoo-1/1c04b9f5ccb1-w768.avif",
+            "width": 768,
+            "bytes": 35226
+          },
+          {
+            "file": "responsive/dublin-zoo-1/1c04b9f5ccb1-w1200.avif",
+            "width": 1200,
+            "bytes": 85604
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dublin-zoo-1/1c04b9f5ccb1-w480.webp",
+            "width": 480,
+            "bytes": 26536
+          },
+          {
+            "file": "responsive/dublin-zoo-1/1c04b9f5ccb1-w768.webp",
+            "width": 768,
+            "bytes": 62864
+          },
+          {
+            "file": "responsive/dublin-zoo-1/1c04b9f5ccb1-w1200.webp",
+            "width": 1200,
+            "bytes": 140724
+          }
+        ]
+      }
+    },
+    "dublin-zoo-2.jpg": {
+      "sha256": "d12a610a4f2d48623d680bbfd3e4537a5a6f9072c776aaff45acd759cd9473a9",
+      "original_width": 1200,
+      "original_height": 1051,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dublin-zoo-2/d12a610a4f2d-w480.avif",
+            "width": 480,
+            "bytes": 25223
+          },
+          {
+            "file": "responsive/dublin-zoo-2/d12a610a4f2d-w768.avif",
+            "width": 768,
+            "bytes": 60141
+          },
+          {
+            "file": "responsive/dublin-zoo-2/d12a610a4f2d-w1200.avif",
+            "width": 1200,
+            "bytes": 137067
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dublin-zoo-2/d12a610a4f2d-w480.webp",
+            "width": 480,
+            "bytes": 40914
+          },
+          {
+            "file": "responsive/dublin-zoo-2/d12a610a4f2d-w768.webp",
+            "width": 768,
+            "bytes": 97274
+          },
+          {
+            "file": "responsive/dublin-zoo-2/d12a610a4f2d-w1200.webp",
+            "width": 1200,
+            "bytes": 220996
+          }
+        ]
+      }
+    },
+    "dublin-zoo-portada.jpg": {
+      "sha256": "cb728f807d6cd1a86a87310a0d05b93f7e53a125cdb253e42107435b7431cf45",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/dublin-zoo-portada/cb728f807d6c-w480.avif",
+            "width": 480,
+            "bytes": 16948
+          },
+          {
+            "file": "responsive/dublin-zoo-portada/cb728f807d6c-w768.avif",
+            "width": 768,
+            "bytes": 44140
+          },
+          {
+            "file": "responsive/dublin-zoo-portada/cb728f807d6c-w1200.avif",
+            "width": 1200,
+            "bytes": 109825
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/dublin-zoo-portada/cb728f807d6c-w480.webp",
+            "width": 480,
+            "bytes": 26266
+          },
+          {
+            "file": "responsive/dublin-zoo-portada/cb728f807d6c-w768.webp",
+            "width": 768,
+            "bytes": 65790
+          },
+          {
+            "file": "responsive/dublin-zoo-portada/cb728f807d6c-w1200.webp",
+            "width": 1200,
+            "bytes": 160698
+          }
+        ]
+      }
+    },
     "edinburgh-zoo-1.jpg": {
       "sha256": "2943fd119b54f35a10f6b5bd029a60bc644a39348d80bf85e04dd9f716e8afca",
       "original_width": 1200,
@@ -20756,6 +21818,183 @@
             "file": "responsive/efteling/5ad6a5f5842f-w1200.webp",
             "width": 1200,
             "bytes": 99240
+          }
+        ]
+      }
+    },
+    "enchanted-kingdom-1.jpg": {
+      "sha256": "532b6aa255fb4dfe682a66b8913fef7f25bcaa077bdb47de47cc22103c37447f",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/enchanted-kingdom-1/532b6aa255fb-w480.avif",
+            "width": 480,
+            "bytes": 12924
+          },
+          {
+            "file": "responsive/enchanted-kingdom-1/532b6aa255fb-w768.avif",
+            "width": 768,
+            "bytes": 25920
+          },
+          {
+            "file": "responsive/enchanted-kingdom-1/532b6aa255fb-w1200.avif",
+            "width": 1200,
+            "bytes": 50937
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/enchanted-kingdom-1/532b6aa255fb-w480.webp",
+            "width": 480,
+            "bytes": 20074
+          },
+          {
+            "file": "responsive/enchanted-kingdom-1/532b6aa255fb-w768.webp",
+            "width": 768,
+            "bytes": 42652
+          },
+          {
+            "file": "responsive/enchanted-kingdom-1/532b6aa255fb-w1200.webp",
+            "width": 1200,
+            "bytes": 91010
+          }
+        ]
+      }
+    },
+    "enchanted-kingdom-2.jpg": {
+      "sha256": "f5285c5783bc0dea67344dd7b26332e3cf336dce2e9255b83b475e34475ea82e",
+      "original_width": 1200,
+      "original_height": 675,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/enchanted-kingdom-2/f5285c5783bc-w480.avif",
+            "width": 480,
+            "bytes": 18265
+          },
+          {
+            "file": "responsive/enchanted-kingdom-2/f5285c5783bc-w768.avif",
+            "width": 768,
+            "bytes": 35645
+          },
+          {
+            "file": "responsive/enchanted-kingdom-2/f5285c5783bc-w1200.avif",
+            "width": 1200,
+            "bytes": 64731
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/enchanted-kingdom-2/f5285c5783bc-w480.webp",
+            "width": 480,
+            "bytes": 27976
+          },
+          {
+            "file": "responsive/enchanted-kingdom-2/f5285c5783bc-w768.webp",
+            "width": 768,
+            "bytes": 57750
+          },
+          {
+            "file": "responsive/enchanted-kingdom-2/f5285c5783bc-w1200.webp",
+            "width": 1200,
+            "bytes": 112038
+          }
+        ]
+      }
+    },
+    "enchanted-kingdom-portada.jpg": {
+      "sha256": "237f3a521712f22e69572ee79f20570b866277cce9d31e5094125ca8471711df",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/enchanted-kingdom-portada/237f3a521712-w480.avif",
+            "width": 480,
+            "bytes": 29318
+          },
+          {
+            "file": "responsive/enchanted-kingdom-portada/237f3a521712-w768.avif",
+            "width": 768,
+            "bytes": 78752
+          },
+          {
+            "file": "responsive/enchanted-kingdom-portada/237f3a521712-w1200.avif",
+            "width": 1200,
+            "bytes": 204638
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/enchanted-kingdom-portada/237f3a521712-w480.webp",
+            "width": 480,
+            "bytes": 41316
+          },
+          {
+            "file": "responsive/enchanted-kingdom-portada/237f3a521712-w768.webp",
+            "width": 768,
+            "bytes": 108298
+          },
+          {
+            "file": "responsive/enchanted-kingdom-portada/237f3a521712-w1200.webp",
+            "width": 1200,
+            "bytes": 277038
           }
         ]
       }
@@ -26542,6 +27781,242 @@
         ]
       }
     },
+    "genting-skyworlds-1.jpg": {
+      "sha256": "380af9f33e3603377b87932c9c0e7a75ee15b5437e60126287192ccc7afdb495",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/genting-skyworlds-1/380af9f33e36-w480.avif",
+            "width": 480,
+            "bytes": 13125
+          },
+          {
+            "file": "responsive/genting-skyworlds-1/380af9f33e36-w768.avif",
+            "width": 768,
+            "bytes": 28021
+          },
+          {
+            "file": "responsive/genting-skyworlds-1/380af9f33e36-w1200.avif",
+            "width": 1200,
+            "bytes": 65956
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/genting-skyworlds-1/380af9f33e36-w480.webp",
+            "width": 480,
+            "bytes": 21620
+          },
+          {
+            "file": "responsive/genting-skyworlds-1/380af9f33e36-w768.webp",
+            "width": 768,
+            "bytes": 47900
+          },
+          {
+            "file": "responsive/genting-skyworlds-1/380af9f33e36-w1200.webp",
+            "width": 1200,
+            "bytes": 109114
+          }
+        ]
+      }
+    },
+    "genting-skyworlds-2.jpg": {
+      "sha256": "62e68c684d4c10d5fcee67731bc874a8665bdb905f9371377cf19245b070743a",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/genting-skyworlds-2/62e68c684d4c-w480.avif",
+            "width": 480,
+            "bytes": 20829
+          },
+          {
+            "file": "responsive/genting-skyworlds-2/62e68c684d4c-w768.avif",
+            "width": 768,
+            "bytes": 48783
+          },
+          {
+            "file": "responsive/genting-skyworlds-2/62e68c684d4c-w1200.avif",
+            "width": 1200,
+            "bytes": 114437
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/genting-skyworlds-2/62e68c684d4c-w480.webp",
+            "width": 480,
+            "bytes": 33370
+          },
+          {
+            "file": "responsive/genting-skyworlds-2/62e68c684d4c-w768.webp",
+            "width": 768,
+            "bytes": 79266
+          },
+          {
+            "file": "responsive/genting-skyworlds-2/62e68c684d4c-w1200.webp",
+            "width": 1200,
+            "bytes": 179034
+          }
+        ]
+      }
+    },
+    "genting-skyworlds-3.jpg": {
+      "sha256": "c52e82af0ec916492182955030d5a1dac9ab227c4a9a4fbb7174677258f867f4",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/genting-skyworlds-3/c52e82af0ec9-w480.avif",
+            "width": 480,
+            "bytes": 17982
+          },
+          {
+            "file": "responsive/genting-skyworlds-3/c52e82af0ec9-w768.avif",
+            "width": 768,
+            "bytes": 37381
+          },
+          {
+            "file": "responsive/genting-skyworlds-3/c52e82af0ec9-w1200.avif",
+            "width": 1200,
+            "bytes": 76305
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/genting-skyworlds-3/c52e82af0ec9-w480.webp",
+            "width": 480,
+            "bytes": 30744
+          },
+          {
+            "file": "responsive/genting-skyworlds-3/c52e82af0ec9-w768.webp",
+            "width": 768,
+            "bytes": 66792
+          },
+          {
+            "file": "responsive/genting-skyworlds-3/c52e82af0ec9-w1200.webp",
+            "width": 1200,
+            "bytes": 136654
+          }
+        ]
+      }
+    },
+    "genting-skyworlds-portada.jpg": {
+      "sha256": "5956338d2b934f3264bf2c8eec0572766f0ce4f8b70ecc39244880d41497092a",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/genting-skyworlds-portada/5956338d2b93-w480.avif",
+            "width": 480,
+            "bytes": 13035
+          },
+          {
+            "file": "responsive/genting-skyworlds-portada/5956338d2b93-w768.avif",
+            "width": 768,
+            "bytes": 25021
+          },
+          {
+            "file": "responsive/genting-skyworlds-portada/5956338d2b93-w1200.avif",
+            "width": 1200,
+            "bytes": 46255
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/genting-skyworlds-portada/5956338d2b93-w480.webp",
+            "width": 480,
+            "bytes": 20892
+          },
+          {
+            "file": "responsive/genting-skyworlds-portada/5956338d2b93-w768.webp",
+            "width": 768,
+            "bytes": 42900
+          },
+          {
+            "file": "responsive/genting-skyworlds-portada/5956338d2b93-w1200.webp",
+            "width": 1200,
+            "bytes": 88416
+          }
+        ]
+      }
+    },
     "georgia-aquarium-1.jpg": {
       "sha256": "427432a07d2eb92810cea38c55c0fc837d7ce8bcd812cca4158fe1aa86350d42",
       "original_width": 1200,
@@ -32029,6 +33504,242 @@
         ]
       }
     },
+    "jardin-d-acclimatation-1.jpg": {
+      "sha256": "ad774f9867e142fb64b4e893b9917c0aa5b59f8e86873b9c4b4a59f63ef35327",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/jardin-d-acclimatation-1/ad774f9867e1-w480.avif",
+            "width": 480,
+            "bytes": 39871
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-1/ad774f9867e1-w768.avif",
+            "width": 768,
+            "bytes": 96604
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-1/ad774f9867e1-w1200.avif",
+            "width": 1200,
+            "bytes": 224513
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/jardin-d-acclimatation-1/ad774f9867e1-w480.webp",
+            "width": 480,
+            "bytes": 56238
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-1/ad774f9867e1-w768.webp",
+            "width": 768,
+            "bytes": 133020
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-1/ad774f9867e1-w1200.webp",
+            "width": 1200,
+            "bytes": 310716
+          }
+        ]
+      }
+    },
+    "jardin-d-acclimatation-2.jpg": {
+      "sha256": "779ac1eef4e11f1cfc8b04dc3fbac94729b43bd16cbf627097a52e6fd2169477",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/jardin-d-acclimatation-2/779ac1eef4e1-w480.avif",
+            "width": 480,
+            "bytes": 27763
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-2/779ac1eef4e1-w768.avif",
+            "width": 768,
+            "bytes": 79095
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-2/779ac1eef4e1-w1200.avif",
+            "width": 1200,
+            "bytes": 213736
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/jardin-d-acclimatation-2/779ac1eef4e1-w480.webp",
+            "width": 480,
+            "bytes": 40494
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-2/779ac1eef4e1-w768.webp",
+            "width": 768,
+            "bytes": 112096
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-2/779ac1eef4e1-w1200.webp",
+            "width": 1200,
+            "bytes": 301484
+          }
+        ]
+      }
+    },
+    "jardin-d-acclimatation-3.jpg": {
+      "sha256": "55735fedc20aec36974b48d58219d6efc9642456290af74e00d673a4c7d67c3d",
+      "original_width": 1200,
+      "original_height": 798,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/jardin-d-acclimatation-3/55735fedc20a-w480.avif",
+            "width": 480,
+            "bytes": 32809
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-3/55735fedc20a-w768.avif",
+            "width": 768,
+            "bytes": 92974
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-3/55735fedc20a-w1200.avif",
+            "width": 1200,
+            "bytes": 241753
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/jardin-d-acclimatation-3/55735fedc20a-w480.webp",
+            "width": 480,
+            "bytes": 45600
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-3/55735fedc20a-w768.webp",
+            "width": 768,
+            "bytes": 126318
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-3/55735fedc20a-w1200.webp",
+            "width": 1200,
+            "bytes": 331176
+          }
+        ]
+      }
+    },
+    "jardin-d-acclimatation-portada.jpg": {
+      "sha256": "5bbd7378dcac268726de74a6f3fdc8109d223a7b082bf238598bed72f3031556",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/jardin-d-acclimatation-portada/5bbd7378dcac-w480.avif",
+            "width": 480,
+            "bytes": 17465
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-portada/5bbd7378dcac-w768.avif",
+            "width": 768,
+            "bytes": 45990
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-portada/5bbd7378dcac-w1200.avif",
+            "width": 1200,
+            "bytes": 124440
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/jardin-d-acclimatation-portada/5bbd7378dcac-w480.webp",
+            "width": 480,
+            "bytes": 26424
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-portada/5bbd7378dcac-w768.webp",
+            "width": 768,
+            "bytes": 67954
+          },
+          {
+            "file": "responsive/jardin-d-acclimatation-portada/5bbd7378dcac-w1200.webp",
+            "width": 1200,
+            "bytes": 176862
+          }
+        ]
+      }
+    },
     "jungle-park-1.jpg": {
       "sha256": "93a25d583602af124b34b67f04ea0276af13e1fad2e26cb45c10377eed7b3327",
       "original_width": 1200,
@@ -34680,6 +36391,242 @@
             "file": "responsive/knotts-sol-spin/0b1fd46e018d-w1200.webp",
             "width": 1200,
             "bytes": 173170
+          }
+        ]
+      }
+    },
+    "kyoto-aquarium-1.jpg": {
+      "sha256": "0727076abac075eb4f16186af4c75a2d0f02344cb55b9770c03b9fa83a00821a",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kyoto-aquarium-1/0727076abac0-w480.avif",
+            "width": 480,
+            "bytes": 14485
+          },
+          {
+            "file": "responsive/kyoto-aquarium-1/0727076abac0-w768.avif",
+            "width": 768,
+            "bytes": 27757
+          },
+          {
+            "file": "responsive/kyoto-aquarium-1/0727076abac0-w1200.avif",
+            "width": 1200,
+            "bytes": 52364
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kyoto-aquarium-1/0727076abac0-w480.webp",
+            "width": 480,
+            "bytes": 25678
+          },
+          {
+            "file": "responsive/kyoto-aquarium-1/0727076abac0-w768.webp",
+            "width": 768,
+            "bytes": 52558
+          },
+          {
+            "file": "responsive/kyoto-aquarium-1/0727076abac0-w1200.webp",
+            "width": 1200,
+            "bytes": 105298
+          }
+        ]
+      }
+    },
+    "kyoto-aquarium-2.jpg": {
+      "sha256": "f3a7b98a72b36863f8e735c44d8e3c4d794ec63cd1e29a227f1f8ccf9b97f913",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kyoto-aquarium-2/f3a7b98a72b3-w480.avif",
+            "width": 480,
+            "bytes": 8541
+          },
+          {
+            "file": "responsive/kyoto-aquarium-2/f3a7b98a72b3-w768.avif",
+            "width": 768,
+            "bytes": 15000
+          },
+          {
+            "file": "responsive/kyoto-aquarium-2/f3a7b98a72b3-w1200.avif",
+            "width": 1200,
+            "bytes": 25901
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kyoto-aquarium-2/f3a7b98a72b3-w480.webp",
+            "width": 480,
+            "bytes": 16166
+          },
+          {
+            "file": "responsive/kyoto-aquarium-2/f3a7b98a72b3-w768.webp",
+            "width": 768,
+            "bytes": 31158
+          },
+          {
+            "file": "responsive/kyoto-aquarium-2/f3a7b98a72b3-w1200.webp",
+            "width": 1200,
+            "bytes": 57940
+          }
+        ]
+      }
+    },
+    "kyoto-aquarium-3.jpg": {
+      "sha256": "ecac5f94bb6d13f35cadcdeffe68f56ce1898b67ae2d1406483301b570b6b445",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kyoto-aquarium-3/ecac5f94bb6d-w480.avif",
+            "width": 480,
+            "bytes": 16735
+          },
+          {
+            "file": "responsive/kyoto-aquarium-3/ecac5f94bb6d-w768.avif",
+            "width": 768,
+            "bytes": 33254
+          },
+          {
+            "file": "responsive/kyoto-aquarium-3/ecac5f94bb6d-w1200.avif",
+            "width": 1200,
+            "bytes": 67890
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kyoto-aquarium-3/ecac5f94bb6d-w480.webp",
+            "width": 480,
+            "bytes": 27910
+          },
+          {
+            "file": "responsive/kyoto-aquarium-3/ecac5f94bb6d-w768.webp",
+            "width": 768,
+            "bytes": 60538
+          },
+          {
+            "file": "responsive/kyoto-aquarium-3/ecac5f94bb6d-w1200.webp",
+            "width": 1200,
+            "bytes": 123906
+          }
+        ]
+      }
+    },
+    "kyoto-aquarium-portada.jpg": {
+      "sha256": "4341b6183e65e3109dd6168a9af2dbd00427f4509f532d1a5d5539fe3cfe8229",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/kyoto-aquarium-portada/4341b6183e65-w480.avif",
+            "width": 480,
+            "bytes": 10467
+          },
+          {
+            "file": "responsive/kyoto-aquarium-portada/4341b6183e65-w768.avif",
+            "width": 768,
+            "bytes": 24201
+          },
+          {
+            "file": "responsive/kyoto-aquarium-portada/4341b6183e65-w1200.avif",
+            "width": 1200,
+            "bytes": 56388
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/kyoto-aquarium-portada/4341b6183e65-w480.webp",
+            "width": 480,
+            "bytes": 18880
+          },
+          {
+            "file": "responsive/kyoto-aquarium-portada/4341b6183e65-w768.webp",
+            "width": 768,
+            "bytes": 44188
+          },
+          {
+            "file": "responsive/kyoto-aquarium-portada/4341b6183e65-w1200.webp",
+            "width": 1200,
+            "bytes": 102238
           }
         ]
       }
@@ -40396,6 +42343,183 @@
         ]
       }
     },
+    "melbourne-zoo-1.jpg": {
+      "sha256": "318b1a42f64a0f563889ddfbd13a4ca15ffccfe06c21b0446cf7588bc9fef322",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/melbourne-zoo-1/318b1a42f64a-w480.avif",
+            "width": 480,
+            "bytes": 34241
+          },
+          {
+            "file": "responsive/melbourne-zoo-1/318b1a42f64a-w768.avif",
+            "width": 768,
+            "bytes": 67010
+          },
+          {
+            "file": "responsive/melbourne-zoo-1/318b1a42f64a-w1200.avif",
+            "width": 1200,
+            "bytes": 125236
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/melbourne-zoo-1/318b1a42f64a-w480.webp",
+            "width": 480,
+            "bytes": 49884
+          },
+          {
+            "file": "responsive/melbourne-zoo-1/318b1a42f64a-w768.webp",
+            "width": 768,
+            "bytes": 104446
+          },
+          {
+            "file": "responsive/melbourne-zoo-1/318b1a42f64a-w1200.webp",
+            "width": 1200,
+            "bytes": 199472
+          }
+        ]
+      }
+    },
+    "melbourne-zoo-2.jpg": {
+      "sha256": "0b6621153e313b37f65c63a0265e9defd4e25b99bda0ccd5bbfd5d2847ffd779",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/melbourne-zoo-2/0b6621153e31-w480.avif",
+            "width": 480,
+            "bytes": 36792
+          },
+          {
+            "file": "responsive/melbourne-zoo-2/0b6621153e31-w768.avif",
+            "width": 768,
+            "bytes": 92760
+          },
+          {
+            "file": "responsive/melbourne-zoo-2/0b6621153e31-w1200.avif",
+            "width": 1200,
+            "bytes": 212909
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/melbourne-zoo-2/0b6621153e31-w480.webp",
+            "width": 480,
+            "bytes": 51908
+          },
+          {
+            "file": "responsive/melbourne-zoo-2/0b6621153e31-w768.webp",
+            "width": 768,
+            "bytes": 128090
+          },
+          {
+            "file": "responsive/melbourne-zoo-2/0b6621153e31-w1200.webp",
+            "width": 1200,
+            "bytes": 300160
+          }
+        ]
+      }
+    },
+    "melbourne-zoo-portada.jpg": {
+      "sha256": "1cad65206f136901765dc39bd3fa43441acccfc3c29268f366fa84e51e85f490",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/melbourne-zoo-portada/1cad65206f13-w480.avif",
+            "width": 480,
+            "bytes": 11727
+          },
+          {
+            "file": "responsive/melbourne-zoo-portada/1cad65206f13-w768.avif",
+            "width": 768,
+            "bytes": 24744
+          },
+          {
+            "file": "responsive/melbourne-zoo-portada/1cad65206f13-w1200.avif",
+            "width": 1200,
+            "bytes": 52919
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/melbourne-zoo-portada/1cad65206f13-w480.webp",
+            "width": 480,
+            "bytes": 18912
+          },
+          {
+            "file": "responsive/melbourne-zoo-portada/1cad65206f13-w768.webp",
+            "width": 768,
+            "bytes": 41958
+          },
+          {
+            "file": "responsive/melbourne-zoo-portada/1cad65206f13-w1200.webp",
+            "width": 1200,
+            "bytes": 93202
+          }
+        ]
+      }
+    },
     "millennium-force-cedar-point.jpg": {
       "sha256": "5cbefaf6f6035a7404d354607bd049bc6187e66ffe37b60b0e6fe24c8d0b42fc",
       "original_width": 2528,
@@ -42933,6 +45057,419 @@
         ]
       }
     },
+    "new-england-aquarium-1.jpg": {
+      "sha256": "2514c1950d3bf77d5d3d57296693e5a24a0ed5f6b81a6f567f120488b91c355d",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/new-england-aquarium-1/2514c1950d3b-w480.avif",
+            "width": 480,
+            "bytes": 11427
+          },
+          {
+            "file": "responsive/new-england-aquarium-1/2514c1950d3b-w768.avif",
+            "width": 768,
+            "bytes": 24008
+          },
+          {
+            "file": "responsive/new-england-aquarium-1/2514c1950d3b-w1200.avif",
+            "width": 1200,
+            "bytes": 49380
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/new-england-aquarium-1/2514c1950d3b-w480.webp",
+            "width": 480,
+            "bytes": 19864
+          },
+          {
+            "file": "responsive/new-england-aquarium-1/2514c1950d3b-w768.webp",
+            "width": 768,
+            "bytes": 42126
+          },
+          {
+            "file": "responsive/new-england-aquarium-1/2514c1950d3b-w1200.webp",
+            "width": 1200,
+            "bytes": 85872
+          }
+        ]
+      }
+    },
+    "new-england-aquarium-2.jpg": {
+      "sha256": "85c93891358aad95804d5f13a825712dcaa0141c57fcf2c39cc4c0a316044252",
+      "original_width": 1200,
+      "original_height": 800,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/new-england-aquarium-2/85c93891358a-w480.avif",
+            "width": 480,
+            "bytes": 13927
+          },
+          {
+            "file": "responsive/new-england-aquarium-2/85c93891358a-w768.avif",
+            "width": 768,
+            "bytes": 32381
+          },
+          {
+            "file": "responsive/new-england-aquarium-2/85c93891358a-w1200.avif",
+            "width": 1200,
+            "bytes": 79000
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/new-england-aquarium-2/85c93891358a-w480.webp",
+            "width": 480,
+            "bytes": 23342
+          },
+          {
+            "file": "responsive/new-england-aquarium-2/85c93891358a-w768.webp",
+            "width": 768,
+            "bytes": 54086
+          },
+          {
+            "file": "responsive/new-england-aquarium-2/85c93891358a-w1200.webp",
+            "width": 1200,
+            "bytes": 126298
+          }
+        ]
+      }
+    },
+    "new-england-aquarium-3.jpg": {
+      "sha256": "596e946e106b8900cbc8f203ef14a736da472c252c9756abdad606da013ba806",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/new-england-aquarium-3/596e946e106b-w480.avif",
+            "width": 480,
+            "bytes": 18721
+          },
+          {
+            "file": "responsive/new-england-aquarium-3/596e946e106b-w768.avif",
+            "width": 768,
+            "bytes": 37912
+          },
+          {
+            "file": "responsive/new-england-aquarium-3/596e946e106b-w1200.avif",
+            "width": 1200,
+            "bytes": 74562
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/new-england-aquarium-3/596e946e106b-w480.webp",
+            "width": 480,
+            "bytes": 29860
+          },
+          {
+            "file": "responsive/new-england-aquarium-3/596e946e106b-w768.webp",
+            "width": 768,
+            "bytes": 64658
+          },
+          {
+            "file": "responsive/new-england-aquarium-3/596e946e106b-w1200.webp",
+            "width": 1200,
+            "bytes": 132650
+          }
+        ]
+      }
+    },
+    "new-england-aquarium-portada.jpg": {
+      "sha256": "ac6d769bada48b25f2a991d6ae8d642f2b5674072c276a444221a39f2a1e07eb",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/new-england-aquarium-portada/ac6d769bada4-w480.avif",
+            "width": 480,
+            "bytes": 12756
+          },
+          {
+            "file": "responsive/new-england-aquarium-portada/ac6d769bada4-w768.avif",
+            "width": 768,
+            "bytes": 26636
+          },
+          {
+            "file": "responsive/new-england-aquarium-portada/ac6d769bada4-w1200.avif",
+            "width": 1200,
+            "bytes": 57811
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/new-england-aquarium-portada/ac6d769bada4-w480.webp",
+            "width": 480,
+            "bytes": 21384
+          },
+          {
+            "file": "responsive/new-england-aquarium-portada/ac6d769bada4-w768.webp",
+            "width": 768,
+            "bytes": 46402
+          },
+          {
+            "file": "responsive/new-england-aquarium-portada/ac6d769bada4-w1200.webp",
+            "width": 1200,
+            "bytes": 103684
+          }
+        ]
+      }
+    },
+    "ngong-ping-360-1.jpg": {
+      "sha256": "37e121d7ba07e07eda73a640840f50d045b26dbd5249f4897e4b40344088cc6a",
+      "original_width": 1200,
+      "original_height": 715,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ngong-ping-360-1/37e121d7ba07-w480.avif",
+            "width": 480,
+            "bytes": 14982
+          },
+          {
+            "file": "responsive/ngong-ping-360-1/37e121d7ba07-w768.avif",
+            "width": 768,
+            "bytes": 38084
+          },
+          {
+            "file": "responsive/ngong-ping-360-1/37e121d7ba07-w1200.avif",
+            "width": 1200,
+            "bytes": 98435
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ngong-ping-360-1/37e121d7ba07-w480.webp",
+            "width": 480,
+            "bytes": 23460
+          },
+          {
+            "file": "responsive/ngong-ping-360-1/37e121d7ba07-w768.webp",
+            "width": 768,
+            "bytes": 59268
+          },
+          {
+            "file": "responsive/ngong-ping-360-1/37e121d7ba07-w1200.webp",
+            "width": 1200,
+            "bytes": 145694
+          }
+        ]
+      }
+    },
+    "ngong-ping-360-2.jpg": {
+      "sha256": "8c4c1a4189cdc4cd0ab4c6924f71579081c20f879b37c7ec5ce186a634db2baa",
+      "original_width": 1200,
+      "original_height": 801,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ngong-ping-360-2/8c4c1a4189cd-w480.avif",
+            "width": 480,
+            "bytes": 23498
+          },
+          {
+            "file": "responsive/ngong-ping-360-2/8c4c1a4189cd-w768.avif",
+            "width": 768,
+            "bytes": 62981
+          },
+          {
+            "file": "responsive/ngong-ping-360-2/8c4c1a4189cd-w1200.avif",
+            "width": 1200,
+            "bytes": 168744
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ngong-ping-360-2/8c4c1a4189cd-w480.webp",
+            "width": 480,
+            "bytes": 36046
+          },
+          {
+            "file": "responsive/ngong-ping-360-2/8c4c1a4189cd-w768.webp",
+            "width": 768,
+            "bytes": 93158
+          },
+          {
+            "file": "responsive/ngong-ping-360-2/8c4c1a4189cd-w1200.webp",
+            "width": 1200,
+            "bytes": 237810
+          }
+        ]
+      }
+    },
+    "ngong-ping-360-portada.jpg": {
+      "sha256": "8cf25b0fb308cf0fe6d79f31d17cbaa2fb458ed412c85ab9263d452eae611f8b",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/ngong-ping-360-portada/8cf25b0fb308-w480.avif",
+            "width": 480,
+            "bytes": 20419
+          },
+          {
+            "file": "responsive/ngong-ping-360-portada/8cf25b0fb308-w768.avif",
+            "width": 768,
+            "bytes": 47557
+          },
+          {
+            "file": "responsive/ngong-ping-360-portada/8cf25b0fb308-w1200.avif",
+            "width": 1200,
+            "bytes": 110323
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/ngong-ping-360-portada/8cf25b0fb308-w480.webp",
+            "width": 480,
+            "bytes": 31602
+          },
+          {
+            "file": "responsive/ngong-ping-360-portada/8cf25b0fb308-w768.webp",
+            "width": 768,
+            "bytes": 73572
+          },
+          {
+            "file": "responsive/ngong-ping-360-portada/8cf25b0fb308-w1200.webp",
+            "width": 1200,
+            "bytes": 172828
+          }
+        ]
+      }
+    },
     "night-safari-1.jpg": {
       "sha256": "98e0ecf5f8df10ec67ac34976ad71d9a8cb45450e9fc63f106ecce512afabc69",
       "original_width": 1200,
@@ -43342,6 +45879,242 @@
             "file": "responsive/nigloland-portada/5a67a928afde-w1200.webp",
             "width": 1200,
             "bytes": 150004
+          }
+        ]
+      }
+    },
+    "nong-nooch-1.jpg": {
+      "sha256": "90be44efc1bf22811045e098b5a6252941695678ab951464204206099e95deb4",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nong-nooch-1/90be44efc1bf-w480.avif",
+            "width": 480,
+            "bytes": 28237
+          },
+          {
+            "file": "responsive/nong-nooch-1/90be44efc1bf-w768.avif",
+            "width": 768,
+            "bytes": 78323
+          },
+          {
+            "file": "responsive/nong-nooch-1/90be44efc1bf-w1200.avif",
+            "width": 1200,
+            "bytes": 205760
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nong-nooch-1/90be44efc1bf-w480.webp",
+            "width": 480,
+            "bytes": 40208
+          },
+          {
+            "file": "responsive/nong-nooch-1/90be44efc1bf-w768.webp",
+            "width": 768,
+            "bytes": 108258
+          },
+          {
+            "file": "responsive/nong-nooch-1/90be44efc1bf-w1200.webp",
+            "width": 1200,
+            "bytes": 276934
+          }
+        ]
+      }
+    },
+    "nong-nooch-2.jpg": {
+      "sha256": "142188bde82827208627d7dbff481e818dd621bb0cfe71d9aac020784d7ed810",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nong-nooch-2/142188bde828-w480.avif",
+            "width": 480,
+            "bytes": 41467
+          },
+          {
+            "file": "responsive/nong-nooch-2/142188bde828-w768.avif",
+            "width": 768,
+            "bytes": 104424
+          },
+          {
+            "file": "responsive/nong-nooch-2/142188bde828-w1200.avif",
+            "width": 1200,
+            "bytes": 253775
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nong-nooch-2/142188bde828-w480.webp",
+            "width": 480,
+            "bytes": 57766
+          },
+          {
+            "file": "responsive/nong-nooch-2/142188bde828-w768.webp",
+            "width": 768,
+            "bytes": 141986
+          },
+          {
+            "file": "responsive/nong-nooch-2/142188bde828-w1200.webp",
+            "width": 1200,
+            "bytes": 353882
+          }
+        ]
+      }
+    },
+    "nong-nooch-3.jpg": {
+      "sha256": "dc63049317d0fe79327df06a50bd848c4cccba19935853b3fbfe933c95073eb8",
+      "original_width": 1200,
+      "original_height": 797,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nong-nooch-3/dc63049317d0-w480.avif",
+            "width": 480,
+            "bytes": 38870
+          },
+          {
+            "file": "responsive/nong-nooch-3/dc63049317d0-w768.avif",
+            "width": 768,
+            "bytes": 98793
+          },
+          {
+            "file": "responsive/nong-nooch-3/dc63049317d0-w1200.avif",
+            "width": 1200,
+            "bytes": 242285
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nong-nooch-3/dc63049317d0-w480.webp",
+            "width": 480,
+            "bytes": 53008
+          },
+          {
+            "file": "responsive/nong-nooch-3/dc63049317d0-w768.webp",
+            "width": 768,
+            "bytes": 133618
+          },
+          {
+            "file": "responsive/nong-nooch-3/dc63049317d0-w1200.webp",
+            "width": 1200,
+            "bytes": 329804
+          }
+        ]
+      }
+    },
+    "nong-nooch-portada.jpg": {
+      "sha256": "25cbf9bf8cf6b934b7b1ef2a0b5dee04abc7c6f808f8990f2cd2f73d8ab95508",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/nong-nooch-portada/25cbf9bf8cf6-w480.avif",
+            "width": 480,
+            "bytes": 30512
+          },
+          {
+            "file": "responsive/nong-nooch-portada/25cbf9bf8cf6-w768.avif",
+            "width": 768,
+            "bytes": 86004
+          },
+          {
+            "file": "responsive/nong-nooch-portada/25cbf9bf8cf6-w1200.avif",
+            "width": 1200,
+            "bytes": 227331
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/nong-nooch-portada/25cbf9bf8cf6-w480.webp",
+            "width": 480,
+            "bytes": 42304
+          },
+          {
+            "file": "responsive/nong-nooch-portada/25cbf9bf8cf6-w768.webp",
+            "width": 768,
+            "bytes": 116726
+          },
+          {
+            "file": "responsive/nong-nooch-portada/25cbf9bf8cf6-w1200.webp",
+            "width": 1200,
+            "bytes": 304140
           }
         ]
       }
@@ -55378,6 +58151,183 @@
             "file": "responsive/sea-life-london-portada/8ffcaa6b060a-w1200.webp",
             "width": 1200,
             "bytes": 51430
+          }
+        ]
+      }
+    },
+    "sea-life-melbourne-1.jpg": {
+      "sha256": "22c5482259736cf1d103ae4db149580b8e9ad6e2e64c3811ec378f7c2a057fd2",
+      "original_width": 1200,
+      "original_height": 911,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sea-life-melbourne-1/22c548225973-w480.avif",
+            "width": 480,
+            "bytes": 10175
+          },
+          {
+            "file": "responsive/sea-life-melbourne-1/22c548225973-w768.avif",
+            "width": 768,
+            "bytes": 25078
+          },
+          {
+            "file": "responsive/sea-life-melbourne-1/22c548225973-w1200.avif",
+            "width": 1200,
+            "bytes": 65352
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sea-life-melbourne-1/22c548225973-w480.webp",
+            "width": 480,
+            "bytes": 19058
+          },
+          {
+            "file": "responsive/sea-life-melbourne-1/22c548225973-w768.webp",
+            "width": 768,
+            "bytes": 49280
+          },
+          {
+            "file": "responsive/sea-life-melbourne-1/22c548225973-w1200.webp",
+            "width": 1200,
+            "bytes": 122490
+          }
+        ]
+      }
+    },
+    "sea-life-melbourne-2.jpg": {
+      "sha256": "0d8614bdead7eadb15e38f76f1a11163499901ccb325e93ab7f9f198cfb72f77",
+      "original_width": 1200,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sea-life-melbourne-2/0d8614bdead7-w480.avif",
+            "width": 480,
+            "bytes": 31153
+          },
+          {
+            "file": "responsive/sea-life-melbourne-2/0d8614bdead7-w768.avif",
+            "width": 768,
+            "bytes": 73187
+          },
+          {
+            "file": "responsive/sea-life-melbourne-2/0d8614bdead7-w1200.avif",
+            "width": 1200,
+            "bytes": 155197
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sea-life-melbourne-2/0d8614bdead7-w480.webp",
+            "width": 480,
+            "bytes": 45726
+          },
+          {
+            "file": "responsive/sea-life-melbourne-2/0d8614bdead7-w768.webp",
+            "width": 768,
+            "bytes": 108414
+          },
+          {
+            "file": "responsive/sea-life-melbourne-2/0d8614bdead7-w1200.webp",
+            "width": 1200,
+            "bytes": 231754
+          }
+        ]
+      }
+    },
+    "sea-life-melbourne-portada.jpg": {
+      "sha256": "aa00664e47065665baf2a044eba07b7258e986e415914c0fd9c29cbed620fdb0",
+      "original_width": 1600,
+      "original_height": 900,
+      "widths": [
+        480,
+        768,
+        1200
+      ],
+      "config": {
+        "widths": [
+          480,
+          768,
+          1200
+        ],
+        "logo_widths": [
+          80,
+          160
+        ],
+        "webp_quality": 78,
+        "avif_quality": 50
+      },
+      "variants": {
+        "avif": [
+          {
+            "file": "responsive/sea-life-melbourne-portada/aa00664e4706-w480.avif",
+            "width": 480,
+            "bytes": 23011
+          },
+          {
+            "file": "responsive/sea-life-melbourne-portada/aa00664e4706-w768.avif",
+            "width": 768,
+            "bytes": 67402
+          },
+          {
+            "file": "responsive/sea-life-melbourne-portada/aa00664e4706-w1200.avif",
+            "width": 1200,
+            "bytes": 178957
+          }
+        ],
+        "webp": [
+          {
+            "file": "responsive/sea-life-melbourne-portada/aa00664e4706-w480.webp",
+            "width": 480,
+            "bytes": 35140
+          },
+          {
+            "file": "responsive/sea-life-melbourne-portada/aa00664e4706-w768.webp",
+            "width": 768,
+            "bytes": 98648
+          },
+          {
+            "file": "responsive/sea-life-melbourne-portada/aa00664e4706-w1200.webp",
+            "width": 1200,
+            "bytes": 255510
           }
         ]
       }
