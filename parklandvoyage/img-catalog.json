@@ -17420,6 +17420,825 @@
    "uses": [
     "guia"
    ]
+  },
+  "dubai-miracle-garden-portada.jpg": {
+   "park": "dubai-miracle-garden",
+   "ride": null,
+   "shows": "Avión Airbus A380 de Emirates recreado con flores, con parterres floridos en primer plano y la ciudad al fondo, en Dubai Miracle Garden (2020)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dubai-miracle-garden-1.jpg": {
+   "park": "dubai-miracle-garden",
+   "ride": null,
+   "shows": "Pasaje de paraguas de colores colgados sobre un paseo cubierto de flores en Dubai Miracle Garden (2015)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dubai-miracle-garden-2.jpg": {
+   "park": "dubai-miracle-garden",
+   "ride": null,
+   "shows": "Puerta de entrada de Dubai Miracle Garden con su arco y torres de piedra, con pocos visitantes al fondo (2020)",
+   "width": 1200,
+   "height": 795,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "global-village-dubai-portada.jpg": {
+   "park": "global-village-dubai",
+   "ride": null,
+   "shows": "Vista nocturna de Global Village con barcas iluminadas en el lago y los pabellones con luces al fondo (2023)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "global-village-dubai-1.jpg": {
+   "park": "global-village-dubai",
+   "ride": null,
+   "shows": "Silueta de la puerta de entrada de Global Village al atardecer (2018)",
+   "width": 1200,
+   "height": 716,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dubai-safari-park-portada.jpg": {
+   "park": "dubai-safari-park",
+   "ride": null,
+   "shows": "Elefantes africanos en su recinto de arena de Dubai Safari Park (2026)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dubai-safari-park-1.jpg": {
+   "park": "dubai-safari-park",
+   "ride": null,
+   "shows": "Dos jirafas en su recinto bajo toldos de sombra en Dubai Safari Park (2026)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "dubai-safari-park-2.jpg": {
+   "park": "dubai-safari-park",
+   "ride": null,
+   "shows": "Primate de pelaje oscuro sobre las rocas y cuerdas de su recinto en Dubai Safari Park (2026)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wild-wadi-portada.jpg": {
+   "park": "wild-wadi",
+   "ride": null,
+   "shows": "Torres y tubos de toboganes de Wild Wadi Waterpark, en Jumeirah (2012)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wild-wadi-1.jpg": {
+   "park": "wild-wadi",
+   "ride": null,
+   "shows": "Tubos de toboganes con tumbonas y sombrillas en primer plano en Wild Wadi (2012)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "wild-wadi-2.jpg": {
+   "park": "wild-wadi",
+   "ride": null,
+   "shows": "Torre temática con un gran cubo de agua que se vuelca en Wild Wadi (2007)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "night-safari-portada.jpg": {
+   "park": "night-safari",
+   "ride": null,
+   "shows": "Entrada iluminada del Night Safari de Singapur al anochecer, con visitantes a lo lejos (2012)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "night-safari-1.jpg": {
+   "park": "night-safari",
+   "ride": null,
+   "shows": "Gato pescador de frente entre la vegetación nocturna del zoo de Singapur (2023)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "night-safari-2.jpg": {
+   "park": "night-safari",
+   "ride": null,
+   "shows": "Pangolín enroscado sobre hojarasca en el Night Safari de Singapur (2023)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "taronga-zoo-portada.jpg": {
+   "park": "taronga-zoo",
+   "ride": null,
+   "shows": "Jirafa en Taronga Zoo con el puerto y el perfil de Sídney, con la Ópera y el puente, al fondo (2022)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "taronga-zoo-1.jpg": {
+   "park": "taronga-zoo",
+   "ride": null,
+   "shows": "Embarcadero del ferry de Taronga Zoo visto desde el agua, con la ladera arbolada detrás (2014)",
+   "width": 1200,
+   "height": 888,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "taronga-zoo-2.jpg": {
+   "park": "taronga-zoo",
+   "ride": null,
+   "shows": "Panda rojo caminando sobre rocas en Taronga Zoo (2017)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "taronga-zoo-3.jpg": {
+   "park": "taronga-zoo",
+   "ride": null,
+   "shows": "Primer plano de un tigre de Sumatra de perfil en Taronga Zoo (2022)",
+   "width": 1200,
+   "height": 994,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "edinburgh-zoo-portada.jpg": {
+   "park": "edinburgh-zoo",
+   "ride": null,
+   "shows": "Dinosaurio animatrónico entre helechos y las colinas al fondo, en la zona de dinosaurios del Zoo de Edimburgo (2015)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "edinburgh-zoo-1.jpg": {
+   "park": "edinburgh-zoo",
+   "ride": null,
+   "shows": "Pingüino rey Nils Olav en el Zoo de Edimburgo (2019)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "edinburgh-zoo-2.jpg": {
+   "park": "edinburgh-zoo",
+   "ride": null,
+   "shows": "Suricata bostezando en el Zoo de Edimburgo (2025)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "edinburgh-zoo-3.jpg": {
+   "park": "edinburgh-zoo",
+   "ride": null,
+   "shows": "Linterna gigante iluminada con forma de zorro de nueve colas en el evento Giant Lanterns del Zoo de Edimburgo (2019)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "central-park-zoo-portada.jpg": {
+   "park": "central-park-zoo",
+   "ride": null,
+   "shows": "Piscina de los leones marinos del Central Park Zoo con el público alrededor y edificios de Manhattan al fondo (2013)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "central-park-zoo-1.jpg": {
+   "park": "central-park-zoo",
+   "ride": null,
+   "shows": "Madre y cría de macaco japonés abrazadas sobre una roca en el Central Park Zoo (2024)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "central-park-zoo-2.jpg": {
+   "park": "central-park-zoo",
+   "ride": null,
+   "shows": "Reloj Delacorte con sus animales musicales sobre el arco de ladrillo del Central Park Zoo (2024)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "central-park-zoo-3.jpg": {
+   "park": "central-park-zoo",
+   "ride": null,
+   "shows": "Pingüinos emperador sobre las rocas de su recinto, vistos a través del cristal, en el Central Park Zoo (2025)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ba-na-hills-portada.jpg": {
+   "park": "ba-na-hills",
+   "ride": null,
+   "shows": "Vista aérea del Golden Bridge, el puente dorado sostenido por dos manos de piedra gigantes, entre montañas de Sun World Ba Na Hills (2026)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ba-na-hills-1.jpg": {
+   "park": "ba-na-hills",
+   "ride": null,
+   "shows": "Golden Bridge con las manos de piedra visto desde el sendero, con visitantes lejanos en el puente (2025)",
+   "width": 1200,
+   "height": 776,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ba-na-hills-2.jpg": {
+   "park": "ba-na-hills",
+   "ride": null,
+   "shows": "Vista aérea al atardecer de Sun World Ba Na Hills con el castillo de Fantasy Park, French Village y la montaña (2026)",
+   "width": 1200,
+   "height": 899,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "ba-na-hills-3.jpg": {
+   "park": "ba-na-hills",
+   "ride": null,
+   "shows": "Cabina roja del teleférico de Sun World Ba Na Hills al atardecer con las luces de Da Nang al fondo (2026)",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "waterbom-bali-portada.jpg": {
+   "park": "waterbom-bali",
+   "ride": null,
+   "shows": "Río lento de Waterbom Bali entre vegetación y cascadas, con visitantes en flotadores amarillos (2006)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "waterbom-bali-1.jpg": {
+   "park": "waterbom-bali",
+   "ride": null,
+   "shows": "Toboganes de velocidad verdes (Smashdown, Race Track y Boogie Ride) rodeados de palmeras en Waterbom Bali (2006)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "waterbom-bali-2.jpg": {
+   "park": "waterbom-bali",
+   "ride": null,
+   "shows": "Tobogán Boomerang de Waterbom Bali con su torre y el pozo de llegada",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "land-of-legends-portada.jpg": {
+   "park": "land-of-legends",
+   "ride": null,
+   "shows": "Edificios blancos iluminados del complejo The Land of Legends al anochecer con estatuas de jinetes dorados en el canal (2021)",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "land-of-legends-1.jpg": {
+   "park": "land-of-legends",
+   "ride": null,
+   "shows": "Montaña rusa Hyper Coaster con su primera caída y el looping vertical, vista desde dentro del parque (2019)",
+   "width": 1200,
+   "height": 675,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "land-of-legends-2.jpg": {
+   "park": "land-of-legends",
+   "ride": null,
+   "shows": "Fachada blanca del complejo The Land of Legends bajo un cielo cruzado por hilos con adornos colgantes (2021)",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-benalmadena-portada.jpg": {
+   "park": "sea-life-benalmadena",
+   "ride": null,
+   "shows": "Exterior del edificio de SEA LIFE Benalmádena en Puerto Marina, con sus banderas y la fachada azul y blanca, 2009",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-benalmadena-1.jpg": {
+   "park": "sea-life-benalmadena",
+   "ride": null,
+   "shows": "Una raya sobre el fondo arenoso de uno de los tanques del acuario, 2008",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-benalmadena-2.jpg": {
+   "park": "sea-life-benalmadena",
+   "ride": null,
+   "shows": "Tanque con rocas, anémonas y peces tropicales en el interior del acuario, 2008",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "sea-life-benalmadena-3.jpg": {
+   "park": "sea-life-benalmadena",
+   "ride": null,
+   "shows": "Exterior de SEA LIFE Benalmádena visto desde la calle de Puerto Marina, 2022",
+   "width": 1200,
+   "height": 736,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-lisboa-portada.jpg": {
+   "park": "zoo-lisboa",
+   "ride": null,
+   "shows": "Jirafas entre grandes plátanos de sombra en el Jardim Zoológico de Lisboa, 2017",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-lisboa-1.jpg": {
+   "park": "zoo-lisboa",
+   "ride": null,
+   "shows": "Un ajolote sobre el fondo de grava de un acuario del zoo de Lisboa, 2017",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-lisboa-2.jpg": {
+   "park": "zoo-lisboa",
+   "ride": null,
+   "shows": "Arcos de piedra de las antiguas ruinas del jardín, entre vegetación, en el zoo de Lisboa, 2024",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "zoo-lisboa-3.jpg": {
+   "park": "zoo-lisboa",
+   "ride": null,
+   "shows": "Edificio de la entrada del zoo de Lisboa, con la calle delante, 2010",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "skansen-portada.jpg": {
+   "park": "skansen",
+   "ride": null,
+   "shows": "Gran casa de madera roja tradicional del museo al aire libre de Skansen, en Estocolmo, 2018",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "skansen-1.jpg": {
+   "park": "skansen",
+   "ride": null,
+   "shows": "Molino de viento de madera en Skansen, entre árboles, 2013",
+   "width": 1200,
+   "height": 857,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "skansen-2.jpg": {
+   "park": "skansen",
+   "ride": null,
+   "shows": "Mansión Skogaholm y casas rojas de Skansen vistas desde el camino de entrada, 2013",
+   "width": 1200,
+   "height": 379,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "skansen-3.jpg": {
+   "park": "skansen",
+   "ride": null,
+   "shows": "Cabaña con tejado de turba y chimenea de piedra entre cereal, en Skansen, 2015",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "haus-des-meeres-portada.jpg": {
+   "park": "haus-des-meeres",
+   "ride": null,
+   "shows": "Torre antiaérea (Flakturm) que alberga el acuario Haus des Meeres en Viena, vista desde la calle, abril 2026",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "haus-des-meeres-1.jpg": {
+   "park": "haus-des-meeres",
+   "ride": null,
+   "shows": "Torre del Haus des Meeres con su fachada moderna añadida y el muro pintado al pie, abril 2026",
+   "width": 1200,
+   "height": 940,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "haus-des-meeres-2.jpg": {
+   "park": "haus-des-meeres",
+   "ride": null,
+   "shows": "Túnel de cristal del Atlántico del Haus des Meeres con visitantes de espaldas, 2017",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "haus-des-meeres-3.jpg": {
+   "park": "haus-des-meeres",
+   "ride": null,
+   "shows": "Panorámica de los tejados de Viena desde la terraza del Haus des Meeres, 2024",
+   "width": 1200,
+   "height": 484,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "space-center-houston-portada.jpg": {
+   "park": "space-center-houston",
+   "ride": null,
+   "shows": "Fachada de entrada de Space Center Houston con el rótulo de NASA, 2025",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "space-center-houston-1.jpg": {
+   "park": "space-center-houston",
+   "ride": null,
+   "shows": "Cohete Saturn V tumbado y expuesto en el Johnson Space Center, Houston, 2011",
+   "width": 1200,
+   "height": 795,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "space-center-houston-2.jpg": {
+   "park": "space-center-houston",
+   "ride": null,
+   "shows": "Gran sala interior del centro de visitantes de Space Center Houston, 2022",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "space-center-houston-3.jpg": {
+   "park": "space-center-houston",
+   "ride": null,
+   "shows": "Edificio de entrada de Space Center Houston visto desde el aparcamiento, 2014",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vancouver-aquarium-portada.jpg": {
+   "park": "vancouver-aquarium",
+   "ride": null,
+   "shows": "Entrada del Vancouver Aquarium en Stanley Park con la estatua de la orca de Bill Reid, 2026",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vancouver-aquarium-1.jpg": {
+   "park": "vancouver-aquarium",
+   "ride": null,
+   "shows": "Edificio del Vancouver Aquarium visto desde el paseo del parque, con jardines delante, 2017",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vancouver-aquarium-2.jpg": {
+   "park": "vancouver-aquarium",
+   "ride": null,
+   "shows": "Medusas luna sobre fondo azul en un tanque del Vancouver Aquarium, 2010",
+   "width": 1200,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "vancouver-aquarium-3.jpg": {
+   "park": "vancouver-aquarium",
+   "ride": null,
+   "shows": "Entrada del Vancouver Aquarium con su marquesina circular y el rótulo, 2013",
+   "width": 1200,
+   "height": 800,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquatica-orlando-portada.jpg": {
+   "park": "aquatica-orlando",
+   "ride": null,
+   "shows": "Torre de salida de los toboganes múltiples de colores de Taumata Racer en Aquatica Orlando, 2009",
+   "width": 1600,
+   "height": 900,
+   "orientation": "horizontal",
+   "hero_ok": true,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquatica-orlando-1.jpg": {
+   "park": "aquatica-orlando",
+   "ride": null,
+   "shows": "Piscina con toboganes azules y torres de madera de Aquatica Orlando, 2008",
+   "width": 1200,
+   "height": 471,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
+  },
+  "aquatica-orlando-2.jpg": {
+   "park": "aquatica-orlando",
+   "ride": null,
+   "shows": "Río de corriente Roa's Rapids rodeado de vegetación tropical en Aquatica Orlando, 2008",
+   "width": 1024,
+   "height": 768,
+   "orientation": "horizontal",
+   "hero_ok": false,
+   "via": "commons",
+   "uses": [
+    "guia"
+   ]
   }
  }
 }
